@@ -15,6 +15,7 @@
   "RunningHubAI/rh-moss-image-bf16-unet",
   "RunningHubAI/rh-moss-image-int8-anima-unet",
   "RunningHubAI/rh-pipi-anima01-unet",
+  "RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
   "Sistafistaz/text-to-video-ms-1.7b",
   "TK3105/UniAVC",
   "Wuli-art/MiniMax-H3-Turbo",

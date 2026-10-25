@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "fb-meta-hit-with-25b-fine-over-privacy-breaches-fca0a7",
+   "platform": "facebook",
+   "title": "Meta hit with $25B fine over privacy breaches",
+   "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp\"/></div></figure><p>A New Mexico judge ordered the company to pay damages after a jury found Meta guilty of exposing user data, per Reuters.</p>",
+   "detected_at": "2026-10-25T11:17:38Z",
+   "announced_at": "2026-10-22T20:56:07Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/meta-hit-with-25b-fine-over-privacy-breaches/833798/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/meta-hit-with-25b-fine-over-privacy-breaches/833798/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "fb-more-than-three-quarters-of-small-business-owner-5629cd",
    "platform": "facebook",
    "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
@@ -818,7 +837,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-25T06:46:21Z",
+ "generated_at": "2026-10-25T11:17:38Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-10-25",
  "version": "1.7.0"

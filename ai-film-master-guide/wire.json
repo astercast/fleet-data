@@ -1,7 +1,17 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-25T06:46:20Z",
+ "generated_at": "2026-10-25T11:17:38Z",
  "items": [
+  {
+   "id": "hf-RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
+   "at": "2026-10-25T09:18:02Z",
+   "model": "RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-10-25",
    "at": "2026-10-25T06:46:13+00:00",
@@ -1487,16 +1497,6 @@
    "at": "2026-10-13",
    "model": "PixVerse V6",
    "title": "Second clean pass claimed (Watchtower 2.12): PixVerse V6's official docs source fetched clean at its baseline signature (95c88c96…, 4,278 chars) inside both completed checker runs of this pass, with all five sources answering, the second-clean-run evidence 2.11 could not claim (its docs source answered only in an inter-run probe that pass). The 2.10 recovery is now backed by two consecutive clean passes. Record unchanged; severity remains watch only on its own baseline pricing diff.",
-   "url": null,
-   "kind": "verification",
-   "label": "Verified",
-   "source": "model-history"
-  },
-  {
-   "id": "history-2026-10-13-pixverse-v6-recovered-2-10",
-   "at": "2026-10-13",
-   "model": "PixVerse V6",
-   "title": "Partial record recovered (Watchtower 2.10): PixVerse's official docs source, the source that truncated through 2.8 and again in 2.9's final run, fetched clean in both of this pass's checker runs at the baseline signature (95c88c96…, 4,278 chars), with all five of the model's sources answering. Per the criterion stated in 2.9 (recovery only on a clean final-run fetch at a verifiable signature), the recovery is claimed now: the record is stable in the published feed, its severity watch only on its own baseline pricing diff, the PixVerse pattern.",
    "url": null,
    "kind": "verification",
    "label": "Verified",
