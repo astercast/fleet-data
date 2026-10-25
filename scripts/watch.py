@@ -1,5 +1,5 @@
-"""Watchdog. For every site: how old is its live data, is each source healthy, and does the live site answer. Writes status.json,
-which the status page reads, and prints the list of problems. Needs no keys."""
+"""Watchdog. For every site: did its collectors actually run, how old is its live data, is each source healthy, and does the live
+site answer. Writes status.json, which the status page reads, and prints the list of problems. Needs no keys."""
 import glob, json, os, re, sys, time, urllib.request
 from datetime import datetime, timezone
 sys.path.insert(0, os.path.dirname(__file__)); from lib import get, now
@@ -10,6 +10,10 @@ for site, c in m["sites"].items():
     p = os.path.join(ROOT, site, "pulse.json"); pulse = json.load(open(p)) if os.path.exists(p) else None
     row = {"site": site, "group": c["group"], "live": c["live"], "checks": []}
     if c["collectors"]:
+        rp = os.path.join(ROOT, site, "runs.json"); runs = json.load(open(rp)) if os.path.exists(rp) else None
+        if runs:                                     # a collector that never started (its file is absent from the site repo) is a failure, not a quiet "waiting"
+            missing = [r["collector"] for r in runs.get("runs", []) if not r["ok"] and r.get("error") == "missing in site repo"]
+            if missing: row["checks"].append(["collectors", "fail", "missing in site repo: " + ", ".join(missing)])
         if not pulse: row["checks"].append(["data", "warn", "waiting for the first run"])
         else:
             a = age_h(pulse["generated_at"]); row["data_age_h"] = a; row["changed_age_h"] = age_h(pulse.get("last_data_change_at"))
