@@ -1,0 +1,23 @@
+{
+ "format": "pulse/2",
+ "generated_at": "2026-10-25T06:49:52Z",
+ "stale_after_h": 30,
+ "healthy": true,
+ "sources_ok": 1,
+ "sources_total": 1,
+ "last_data_change_at": null,
+ "sources": [
+  {
+   "id": "store",
+   "label": "Official USA store product list",
+   "url": "https://sonnyangelusa.com",
+   "ok": true,
+   "items": 18,
+   "checked_at": "2026-10-25T06:49:52Z",
+   "last_ok_at": "2026-10-25T06:49:52Z",
+   "error": null,
+   "fails_in_a_row": 0
+  }
+ ],
+ "changes": []
+}

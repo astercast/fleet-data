@@ -1,0 +1,825 @@
+{
+ "changes": [
+  {
+   "id": "fb-more-than-three-quarters-of-small-business-owner-5629cd",
+   "platform": "facebook",
+   "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+   "summary": "New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. The post More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance appeared first on Meta Newsroom .",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-15T00:50:50Z",
+   "effective_at": null,
+   "source_url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+   "sources": [
+    {
+     "name": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "verified",
+   "affects": []
+  },
+  {
+   "id": "fb-your-algorithm-your-words-new-ways-to-shape-what-4fcc70",
+   "platform": "facebook",
+   "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+   "summary": "We’re introducing new AI-powered tools that help you shape what you see in Feed and Reels by telling us what you’re interested in, in your own words. The post Your Algorithm, Your Words: New Ways to Shape What You See on Facebook appeared first on Meta Newsroom .",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-13T16:00:29Z",
+   "effective_at": null,
+   "source_url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+   "sources": [
+    {
+     "name": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "verified",
+   "affects": []
+  },
+  {
+   "id": "tw-have-you-heard-plaqueboymax-vs-trump-a-cheese-ta-325803",
+   "platform": "twitch",
+   "title": "Have you heard? PlaqueBoyMax vs. Trump, a ‘Cheese Tax’ lawsuit, and a subscriber guessing game.",
+   "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, a Twitch streamer-turned-rapper is taking on the White House, the rules are the rules and the facts are the facts (in court), and subscriber counts become a guessing game. Politics as usual PlaqueBoyMax doesn't want Trump to use his song in a White House social post. The President loves to use pop songs in his posts without getting the art",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-23T23:17:18Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/23/have-you-heard-plaque-boy-max-trump-cheese-tax-puppy-songs/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/23/have-you-heard-plaque-boy-max-trump-cheese-tax-puppy-songs/"
+    }
+   ],
+   "category": "legal",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-consistency-is-key-a-youtube-shorts-bonus-progra-592134",
+   "platform": "youtube",
+   "title": "Consistency is key: A YouTube Shorts bonus program rewards creators who upload at regular intervals",
+   "summary": "YouTube is preparing to raise the entry threshold for its Partner Program, but at the same time, it is testing new ways for creators to make money. The platform quietly announced the launch of a Bonus Program that will deliver additional earnings to select Partner Program enrollees who consistently upload short-form content. As with many new YouTube features, the YouTube Shorts Bonus Program was revealed in a Creator Insider video hosted by Rene Ritchie, YouTube's current Creator Liaison. \"What ",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-23T22:09:34Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/23/youtube-shorts-pilot-program-consistency-bonus-test/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/23/youtube-shorts-pilot-program-consistency-bonus-test/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-youtube-now-gets-twice-as-much-watch-time-on-u-s-e8d184",
+   "platform": "youtube",
+   "title": "YouTube now gets twice as much watch time on U.S. TVs as any other platform",
+   "summary": "Each month, Nielsen breaks down U.S. watch time on TV screens across all major media distributors. That particular measurement is known as The Gauge, and in recent years, it has shown favorable results for YouTube. Google's video platform typically leads rivals like Netflix, Prime Video, and Disney+ by claiming the biggest watch time share of any single distributor. Even with that context in mind, in the August 2026 edition of The Gauge, YouTube had an especially strong showing. It claimed its b",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-22T22:42:34Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/22/nielsen-the-gauge-youtube-record-watch-time-share-us-tv/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/22/nielsen-the-gauge-youtube-record-watch-time-share-us-tv/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "tw-can-a-twitch-hit-work-on-netflix-ibai-will-put-t-3f275b",
+   "platform": "twitch",
+   "title": "Can a Twitch hit work on Netflix? Ibai will put that theory to the test with ‘La Velada del Año’",
+   "summary": "Over the past five years, Ibai Llanos has hosted annual influencer boxing spectacles across his home country of Spain. The event, dubbed La Velada del Año (\"The Night of the Year\") has broken several viewership records on Twitch. The success of La Velada has made Ibai a known name across Latin America, and Netflix is looking to capitalize on the streamer's popularity. It has reached a deal to become the exclusive home of the next three editions of La Velada, which will go live in 2027, 2028, and",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-22T19:42:58Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/22/ibai-llanos-la-velada-del-ano-influencer-boxing-netflix/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/22/ibai-llanos-la-velada-del-ano-influencer-boxing-netflix/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "cw-80-of-the-ad-industry-s-talent-payments-pass-thr-08b5b7",
+   "platform": "other",
+   "title": "80% of the ad industry’s talent payments pass through Extreme Reach’s digital doors. Now it wants to handle logistics for creators and brands.",
+   "summary": "Think of the last major celebrity you saw in an ad. Their compensation for that ad was almost certainly handled by Extreme Reach (XR). Through its platform XR Pay, the company–which describes itself as “the OG of ad ops innovators”–is responsible for around 80% of all talent payments made across the advertising industry. Those payments […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-22T13:00:36Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/22/extreme-reach-xr-pay-for-creators-taxes-union-paperwork/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/22/extreme-reach-xr-pay-for-creators-taxes-union-paperwork/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "fb-meta-says-shopping-is-muse-s-primary-use-case-2b4ad3",
+   "platform": "facebook",
+   "title": "Meta says shopping is Muse’s primary use case",
+   "summary": "<p>In its third-quarter earnings transcript, CEO Mark Zuckerberg touted the artificial intelligence agent&rsquo;s download numbers and outlined its benefits.</p>",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-22T22:36:18Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/meta-says-shopping-is-muses-primary-use-case/833808/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/meta-says-shopping-is-muses-primary-use-case/833808/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "fb-meta-hit-with-25-billion-fine-over-privacy-breac-f662f4",
+   "platform": "facebook",
+   "title": "Meta hit with $25 billion fine over privacy breaches",
+   "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp\"/></div></figure><p>A New Mexico judge ordered the company to pay damages after a jury found Meta guilty of exposing user data, per Reuters.</p>",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-22T20:56:07Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/meta-hit-with-25-billion-fine-over-privacy-breaches/833798/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/meta-hit-with-25-billion-fine-over-privacy-breaches/833798/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "fb-meta-adds-users-and-revenue-as-ai-costs-climb-45f3ae",
+   "platform": "facebook",
+   "title": "Meta adds users and revenue as AI costs climb",
+   "summary": "<p>Revenue rose 26% year over year in the third quarter to nearly $65 billion, but expenses were up 68% due to capital expenditures.</p>",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-21T22:08:33Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/meta-adds-users-and-revenue-as-ai-costs-climb/833671/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/meta-adds-users-and-revenue-as-ai-costs-climb/833671/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "tw-twitch-has-streaming-deals-in-its-new-shopping-c-c1ddcf",
+   "platform": "twitch",
+   "title": "Twitch has streaming deals in its new Shopping category",
+   "summary": "Live streams have become the new QVC programs, and Twitch is hopping onto the bandwagon. The Amazon-owned platform is linking up with its parent company to populate a new Shopping category that showcases streamers who are selling products to their viewers. The new Twitch category has been given prime real estate on the platform's homepage. A labeled button in the upper left-hand corner of the screen leads users to a directory, where they can discover creators who are hawking everything from shoe",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-10-06T21:54:37Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/06/twitch-has-streaming-deals-in-its-new-shopping-category/",
+   "sources": [
+    {
+     "name": "Tubefilter Twitch tag",
+     "url": "https://www.tubefilter.com/2026/10/06/twitch-has-streaming-deals-in-its-new-shopping-category/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "ig-let-s-go-to-the-highlight-reel-twitch-is-helping-604fd2",
+   "platform": "instagram",
+   "title": "Let’s go to the highlight reel: Twitch is helping creators turn their Clips into stream “recaps”",
+   "summary": "Watching Twitch streams can be great fun, but who has the time to devote multiple hours to live content? Many streamers struggle to reach the majority of their fans during their broadcasts, but Twitch is developing a solution to that problem. A planned Recaps Feed will offer short-form highlight reels derived from long-form streams. Twitch CEO Dan Clancy discussed the Recaps Feed during an interview with GamesBeat at the 2026 Tokyo Game Show. Clancy explained that creators will get to choose bet",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-09-29T22:19:09Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/09/29/twitch-clips-recaps-feed-streamer-highlights/",
+   "sources": [
+    {
+     "name": "Tubefilter Twitch tag",
+     "url": "https://www.tubefilter.com/2026/09/29/twitch-clips-recaps-feed-streamer-highlights/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-what-s-next-for-taskmaster-after-getting-big-on-47d33c",
+   "platform": "youtube",
+   "title": "What’s next for ‘Taskmaster’ after getting big on YouTube? A charity stream with creators.",
+   "summary": "Before Taskmaster episodes arrived on YouTube, few Americans were familiar with the British panel show. After producer Avalon started sharing entire Taskmaster seasons online for free, the show's popularity exploded. Now, Taskmaster is capitalizing on the success of its internet-age distribution strategy. To raise money for the Great Ormond Street Hospital (GOSH), the stars of Taskmaster took to Twitch, where they invited some well-known creators to play a special version of their game. In place",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-09-15T20:29:27Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/09/15/taskmaster-charity-fundraising-stream-twitch-creators/",
+   "sources": [
+    {
+     "name": "Tubefilter Twitch tag",
+     "url": "https://www.tubefilter.com/2026/09/15/taskmaster-charity-fundraising-stream-twitch-creators/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "tw-twitch-and-amazon-facing-class-action-lawsuit-ov-c79fce",
+   "platform": "twitch",
+   "title": "Twitch and Amazon facing class-action lawsuit over scraping streamers’ content without their consent",
+   "summary": "A Connecticut-based Twitch streamer has filed a class-action lawsuit against the platform over its recent announcement that creators’ content will automatically be used to train Amazon‘s AI products. In his suit, Warren Pandiscia argues that “[b]ecause Amazon AI products are commercialized, Amazon had an overwhelming incentive to acquire training data on an unprecedented scale. Rather […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-10-25T06:46:21Z",
+   "announced_at": "2026-08-25T04:31:57Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/08/25/twitch-amazon-lawsuit-warren-pandiscia-ai-training/",
+   "sources": [
+    {
+     "name": "Tubefilter Twitch tag",
+     "url": "https://www.tubefilter.com/2026/08/25/twitch-amazon-lawsuit-warren-pandiscia-ai-training/"
+    }
+   ],
+   "category": "legal",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-watch-with-expansion-2026",
+   "platform": "youtube",
+   "title": "YouTube Watch With expands to long-form videos (announced Sept 23): reactors keep the live ad money, originals get credit, not a cut",
+   "summary": "Announced September 23, 2026 at Made on YouTube and in YouTube's own Live post the same day: Watch With, until now piloted on major live broadcasts and tested between creators' livestreams, is expanding to all eligible long-form videos. A creator taps 'React live' on an eligible video and streams their reaction alongside it. The money split is the term that matters: the reacting creator keeps the live ad revenue and any fan funding the reaction stream earns, and the original creator is not paid a share of it. What the original creator gets instead is on-screen attribution, an 'added view credit' in YouTube Studio. YouTube has not said whether that credit ever converts to revenue, and control over which of their videos can be reacted to. YouTube has not published what makes a video eligible, or whether a catalog starts opted in or out. The rollout begins later in 2026 and no start date has been published, so effective_at stays null rather than borrow the announcement day.",
+   "detected_at": "2026-10-13T04:46:00Z",
+   "announced_at": "2026-09-23T00:00:00Z",
+   "effective_at": null,
+   "category": "monetization",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "FoneArena, Made on YouTube 2026: new Live, Music, Studio and AI features announced",
+     "url": "https://www.fonearena.com/blog/493327/made-on-youtube-2026-announcements.html"
+    },
+    {
+     "name": "Evolved Lotus, YouTube will let reactors keep the ad money from your videos",
+     "url": "https://blog.evolvedlotus.com/blog/2026-09-28-youtube-will-let-reactors-keep-the-ad-money-from-your-videos/"
+    }
+   ],
+   "affects": [
+    "p-read-phase2",
+    "p-drill-live"
+   ]
+  },
+  {
+   "id": "kick-kpp-rolling-rate-2026",
+   "platform": "kick",
+   "title": "Kick rewrote Partner Program pay math in September: rolling rate replaces per-stream rate, September errors repaid",
+   "summary": "In September 2026, Kick Partner Program (KPP) creators reported payouts lower than expected and rates swinging sharply between streams. Kick's director Ethan Wright said the shortfall traced to a manual calculation error: Kick corrected the affected calculations and issued backpay to impacted partners through Stripe, the backpay shows in a creator's Stripe dashboard, not in Kick's on-site earnings interface. The rate model changed at the same time: KPP rates were calculated stream by stream, and are now calculated on a rolling basis over a stretch of recent broadcasts including the current one, so a single quiet stream moves the rate less. Kick says the revised method is also meant to make view botting and tab manipulation harder to profit from. The 95/5 subscription split and KICKs tipping are unchanged, and neither report publishes a numeric KPP rate or a calendar day in September for the change, the dates below stay null rather than borrow one.",
+   "detected_at": "2026-10-13T03:55:00Z",
+   "announced_at": null,
+   "effective_at": null,
+   "category": "monetization",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "Streams Charts, Kick revises Partner Program payouts after September errors",
+     "url": "https://streamscharts.com/news/kick-revises-kpp-september-2026-update"
+    },
+    {
+     "name": "WIN.gg, Kick admits KPP payment errors",
+     "url": "https://win.gg/kick-admits-kpp-payment-errors/"
+    }
+   ],
+   "affects": [
+    "c-read-phase5",
+    "c-drill-books"
+   ]
+  },
+  {
+   "id": "x-payouts-x-money-2026",
+   "platform": "x",
+   "title": "X moved U.S. creator payouts from Stripe to X Money on Sept 2, now the only route for U.S. payouts",
+   "summary": "X announced on September 2, 2026 that all U.S. payouts from Original Content Rewards and creator Subscriptions are paid through X Money, its own payments service, instead of Stripe, and confirmed to TechCrunch that the switch is mandatory for U.S. creators, with no other payout option offered. Creators outside the U.S. stay on Stripe. The practical change is timing and custody: a payout is available the moment it is sent, replacing the old Stripe run every two weeks behind a $30 minimum, but the money now lands inside X's own financial product first. X Money is not a bank; its accounts are held at FDIC-insured Cross River Bank. U.S. creators who have not opened X Money need to set it up or their next payout has nowhere to go.",
+   "detected_at": "2026-10-13T03:22:00Z",
+   "announced_at": "2026-09-02T00:00:00Z",
+   "effective_at": "2026-09-02T00:00:00Z",
+   "category": "monetization",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "TechCrunch, X shifts US creator payouts from Stripe to X Money",
+     "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"
+    },
+    {
+     "name": "PYMNTS, X Moves US Creator Payouts From Stripe to X Money",
+     "url": "https://www.pymnts.com/commerce/social-commerce/2026/x-replaces-stripe-united-states-creator-payouts/"
+    }
+   ],
+   "affects": [
+    "c-read-phase5",
+    "c-drill-books"
+   ]
+  },
+  {
+   "id": "fb-link-post-cap-test-2026",
+   "platform": "facebook",
+   "title": "Facebook's two-link-post test expanded in September: more Pages capped unless they pay for Meta One",
+   "summary": "Meta has run this as a test since December 2025, and in September 2026, as Meta One for Business launched (announced September 15), managers at more Pages and professional-mode accounts began hitting the cap: two organic posts with external links per calendar month for free, with anything past that shown as plain text rather than a clickable link. Social Media Today reported the expansion on September 17; Press Gazette reported on October 7 that news-publisher Pages are excluded for now, and priced the tiers that lift the cap: $49.99 a month for 8 link posts, $149.99 for 20, $499.99 for unlimited, while the $14.99 Essential tier adds none. Later reporting says links in comments count toward the allowance too. It is still a test, not a rule for every Page, some accounts are capped and others are not, so check your own Page's notice before planning a month of link posts around it.",
+   "detected_at": "2026-10-13T02:00:00Z",
+   "announced_at": "2026-09-17T00:00:00Z",
+   "effective_at": null,
+   "category": "policy",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "Press Gazette, News publishers excluded from new Meta One limits on links",
+     "url": "https://pressgazette.co.uk/platforms/facebook-cash-for-links-scheme-excludes-publishers-for-now/"
+    },
+    {
+     "name": "Relevant Audience, Facebook charges Pages for link posts (recapping Social Media Today's September 17, 2026 report)",
+     "url": "https://www.relevantaudience.com/meta/facebook-pages-charged-for-link-posts-meta-one/"
+    }
+   ],
+   "affects": [
+    "p-read-phase3",
+    "p-drill-crosspost"
+   ]
+  },
+  {
+   "id": "tt-smart-plus-creative-selection-2026",
+   "platform": "tiktok",
+   "title": "TikTok Smart+ Creative Selection pools creator videos into paid ad campaigns (announced Oct 5)",
+   "summary": "Announced October 5 at Advertising Week New York and reported the same week by Marketing Dive and MediaPost: Smart+ Creative Selection brings three sources of creative, an advertiser's own assets, Symphony AI-generated video, and creator content, into a single approval workflow for performance campaigns. The system surfaces recommended groups of creative matched to the campaign objective, and the advertiser decides what goes live. What TikTok has not published is the creator side of the terms: no pay rate, no revenue share, and no stated opt-in or opt-out for the creators whose videos enter the pool. Until those terms appear, a creator clip used this way is a usage-rights question, what a brand may do with your video in paid media belongs in your contract, not in an assumption from the announcement.",
+   "detected_at": "2026-10-13T02:00:00Z",
+   "announced_at": "2026-10-05T00:00:00Z",
+   "effective_at": null,
+   "category": "monetization",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "Marketing Dive, TikTok broadens agentic AI play, brings global ad network to US",
+     "url": "https://www.marketingdive.com/news/tiktok-broadens-agentic-ai-play-brings-global-ad-network-to-us/832007/"
+    },
+    {
+     "name": "MediaPost, TikTok AI expands search, creative, merchant ad formats",
+     "url": "https://www.mediapost.com/publications/article/418523/tiktok-ai-expands-search-creative-merchant-ad-fo.html"
+    }
+   ],
+   "affects": [
+    "c-drill-ugc",
+    "c-read-phase5"
+   ]
+  },
+  {
+   "id": "kenya-withholding-platform-payouts-2026",
+   "platform": "other",
+   "title": "Kenya's 5% withholding now comes off platform payouts. Meta from January, YouTube from September earnings",
+   "summary": "The 5% is not a new platform fee: it is Kenya's withholding tax on digital-content income (in law since the Finance Act 2023), and 2026 is the year the platforms began deducting it at source. Meta went first, creators were told in November 2025 that 5% would come off Facebook and Instagram payouts from January 1, 2026, shown on the monthly remittance advice. Google followed for YouTube: 5% off finalised AdSense earnings, starting with September 2026 earnings paid in October, with a verified Kenya Revenue Authority PIN due in AdSense by October 1 or payments are held. TikTok asked Kenyan creators for tax information in mid-September, but has published no rate, start date, or consequence, do not assume the 5% figure or the YouTube deadlines are TikTok's. The withheld amount is an advance against your own tax bill, credited through a withholding certificate, not a second tax on the same income.",
+   "detected_at": "2026-10-13T02:00:00Z",
+   "announced_at": null,
+   "effective_at": null,
+   "category": "legal",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "Tech-ish, TikTok is now asking Kenyan creators for their tax information",
+     "url": "https://tech-ish.com/2026/09/16/tiktok-is-now-asking-kenyan-creators-for-their-tax-information/"
+    },
+    {
+     "name": "Dawan Africa, TikTok joins Meta and YouTube as Kenya moves creator taxes into platform payouts",
+     "url": "https://www.dawan.africa/news/tiktok-joins-meta-and-youtube-as-kenya-moves-creator-taxes-into-platform-payouts"
+    }
+   ],
+   "affects": [
+    "c-read-phase7",
+    "c-drill-books"
+   ]
+  },
+  {
+   "id": "meta-bytedance-ad-ban-2026",
+   "platform": "facebook",
+   "title": "Meta banned TikTok and ByteDance ads on Facebook and Instagram in seven countries (Oct 8)",
+   "summary": "From October 8, Meta no longer sells ads or paid marketing messages to ByteDance on Facebook, Instagram, and Threads in the United States, Canada, Egypt, Indonesia, Japan, Thailand, and Vietnam, and the ban reaches third-party advertisers whose campaigns link out to TikTok or other ByteDance properties in those markets. Organic posts and mentions are not covered; this is a paid-promotion rule. Meta's stated reason is that it does not have to run ads for a competitor whose goal is to pull people off its apps. For creators and brands, a paid Meta campaign can no longer be the bridge that sends viewers to a TikTok account in those seven markets, check any cross-platform campaign's destination before it is rejected at review.",
+   "detected_at": "2026-10-12T12:00:00Z",
+   "announced_at": "2026-10-08T00:00:00Z",
+   "effective_at": "2026-10-08T00:00:00Z",
+   "category": "policy",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "Reuters, Meta bans TikTok ads on its apps in the US (via The Los Angeles Post)",
+     "url": "https://www.lapost.com/content/meta-bans-tiktok-from-advertising-on-its-apps-bloomberg-news-reports"
+    },
+    {
+     "name": "Bloomberg, Meta bans ads from TikTok on its apps in escalating feud (via Moneyweb)",
+     "url": "https://www.moneyweb.co.za/news/international/meta-bans-ads-from-tiktok-on-its-apps-in-escalating-feud/"
+    }
+   ],
+   "affects": [
+    "p-read-phase3",
+    "p-drill-crosspost"
+   ]
+  },
+  {
+   "id": "twitch-sponsorships-affiliates-2026",
+   "platform": "twitch",
+   "title": "Twitch opened Creator Sponsorships to Affiliates on Aug 20, 2026",
+   "summary": "Brand campaigns run through Twitch used to be a mostly Partner-only door. From August 20, Affiliates worldwide can be found by brands, invited to campaigns, and paid through the Sponsorship Dashboard in the Creator Dashboard, the same campaign pool Partners use, not a smaller Affiliate pool. The gate is paperwork, not Partner status: accept the Sponsorship Portal terms and finish the Creator Sponsorship Certification on Creator Camp for a Certified Creator badge; each brand still picks against its own criteria, and Twitch publishes no sponsorship rate. Twitch pointed to its Minecraft trial campaigns, where more than half the paid streamers were Affiliates, as the reason the door opened.",
+   "detected_at": "2026-10-12T11:00:00Z",
+   "announced_at": "2026-08-20T00:00:00Z",
+   "effective_at": "2026-08-20T00:00:00Z",
+   "category": "monetization",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "Panstag, Twitch just opened sponsorships to Affiliates",
+     "url": "https://www.panstag.com/2026/08/twitch-creator-sponsorships-affiliates.html"
+    },
+    {
+     "name": "Fakta, Twitch expands brand sponsorship access to global Affiliates",
+     "url": "https://www.fakta.co/twitch-expands-sponsorship-access-affiliates"
+    }
+   ],
+   "affects": [
+    "c-read-sponsor",
+    "g-drill-outreach"
+   ]
+  },
+  {
+   "id": "tt-community-guidelines-2026h2",
+   "platform": "tiktok",
+   "title": "TikTok Community Guidelines 2026H2 (effective Sep 24): bans can reach associated accounts",
+   "summary": "Released August 25 and in force from September 24, the new guidelines leave most content rules where they were and rewrite the enforcement side. The penalty ladder is now spelled out, warning, temporary feature or account restriction, full ban, and account status (Healthy, Fair, Severe, Banned) reflects the last 90 days, with violations expiring after 90 days and no published line between statuses. Two parts are new: optional policy training can lift eligible restrictions for certain first violations (severe violations do not qualify), and a serious violation or an attempt to dodge enforcement can now reach associated accounts, a term TikTok does not define. Undisclosed ads are no longer automatically kept off For You in this text, though other TikTok pages still say they can be pulled.",
+   "detected_at": "2026-10-12T11:00:00Z",
+   "announced_at": "2026-08-25T00:00:00Z",
+   "effective_at": "2026-09-24T00:00:00Z",
+   "category": "policy",
+   "confidence": "single-source",
+   "sources": [
+    {
+     "name": "Evolved Lotus, TikTok just rewrote what gets you banned (line-by-line comparison of TikTok's own 2025 and 2026 guideline text)",
+     "url": "https://blog.evolvedlotus.com/blog/2026-10-08-tiktok-just-rewrote-what-gets-you-banned/"
+    }
+   ],
+   "affects": [
+    "c-read-rules",
+    "p-read-phase3"
+   ]
+  },
+  {
+   "id": "tt-one-pay-plus-2026",
+   "platform": "tiktok",
+   "title": "TikTok One Pay promises campaign pay within 30 days; One Plus adds 15% on Custom Collab deals",
+   "summary": "On September 24 TikTok added two payment rails inside TikTok One. TikTok One Pay promises creators payment within 30 days of posting, with no fees, a direct answer to the long waits that have been the normal cost of brand work. TikTok One Plus is invite-only and pays 15% more on Custom Collab deals at no added cost to the brand. One trade report carries both moves and TikTok has not yet published the full terms in its own help pages, so treat the figures as directional until they appear inside your TikTok One account.",
+   "detected_at": "2026-10-12T11:00:00Z",
+   "announced_at": "2026-09-24T00:00:00Z",
+   "effective_at": null,
+   "category": "monetization",
+   "confidence": "single-source",
+   "sources": [
+    {
+     "name": "Communicate Online, Meta, YouTube and TikTok bet big on creators",
+     "url": "https://communicateonline.me/news/meta-youtube-and-tiktok-bet-big-on-creators/"
+    }
+   ],
+   "affects": [
+    "c-read-phase5",
+    "c-drill-pipeline"
+   ]
+  },
+  {
+   "id": "spotify-partner-program-expansion-2026",
+   "platform": "other",
+   "title": "Spotify Partner Program expands to 37 more markets on Oct 20, 2026",
+   "summary": "Announced September 17: the Spotify Partner Program. Premium video revenue plus a 50% share of ads Spotify sells into episodes, opens in 37 more markets on October 20, including Spain, Italy, Poland, Brazil, and Mexico. The eligibility bar, lowered earlier in 2026, is 3 published episodes, 2,000 consumption hours, and a 1,000 audience count in the last 30 days. Creators keep 100% of sponsorships they sell themselves. Logged here on publication of Spotify's own market list; this closes the watch slot held since October 12, the program is not new, the map is.",
+   "detected_at": "2026-10-12T10:00:00Z",
+   "announced_at": "2026-09-17T00:00:00Z",
+   "effective_at": "2026-10-20T00:00:00Z",
+   "category": "monetization",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "Spotify Support, Spotify Partner Program (platform's own page)",
+     "url": "https://support.spotify.com/us/creators/article/spotify-partner-program/"
+    },
+    {
+     "name": "Evolved Lotus, Spotify will pay video podcasters in 35+ more countries",
+     "url": "https://blog.evolvedlotus.com/blog/2026-10-01-spotify-will-pay-video-podcasters-in-35-more-countries/"
+    }
+   ],
+   "affects": [
+    "c-read-phase5",
+    "p-read-phase3"
+   ]
+  },
+  {
+   "id": "x-original-content-rewards-2026",
+   "platform": "x",
+   "title": "X retired Revenue Sharing on Sept 7; Original Content Rewards pays only for qualified impressions",
+   "summary": "X stopped new Revenue Sharing enrollments on August 7, 2026, retired the program on September 7, and opened applications for Original Content Rewards from September 8. The replacement pays on qualified impressions only: views by Premium subscribers on the Home Timeline with at least half the post visible; paid, promoted, and artificial impressions do not count. Gates: an active Premium, Premium+, or Premium Business subscription, 500 verified followers, and 500,000 verified Home Timeline impressions in the prior 90 days. Payouts run biweekly over a $30 minimum. Copied, aggregated, and lightly edited posts do not qualify, and X has published no per-impression rate, rates quoted from the old program describe a dead program.",
+   "detected_at": "2026-10-12T10:00:00Z",
+   "announced_at": "2026-08-07T00:00:00Z",
+   "effective_at": "2026-09-08T00:00:00Z",
+   "category": "monetization",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "The Eastleigh Voice, X retires creator revenue sharing, launches original content rewards",
+     "url": "https://eastleighvoice.co.ke/technology/388240/x-retires-creator-revenue-sharing-launches-original-content-rewards-with-stricter-rules"
+    },
+    {
+     "name": "Joliba, X Original Content Rewards rollout begins",
+     "url": "https://joliba.com.ng/2026/10/10/x-original-content-rewards-rollout-begins/"
+    }
+   ],
+   "affects": [
+    "c-read-phase5",
+    "g-drill-metrics"
+   ]
+  },
+  {
+   "id": "fb-content-monetization-originality-2026",
+   "platform": "facebook",
+   "title": "Facebook Content Monetization: the March 2026 originality rule can cut reach, then pay",
+   "summary": "Meta ended In-Stream Ads, Ads on Reels, and the Performance Bonus on August 31, 2025 and merged them into one Content Monetization program. In March 2026 it tightened the other side of the deal: content that is duplicative, or that makes only minor edits to someone else's post, borders, captions, speed changes, a logo on a repost, is treated as unoriginal, deprioritized in distribution, and a page that keeps posting mainly unoriginal work can be marked non-recommendable and demonetized. Cross-posting your own Reels is fine. Creator guides report the gate as 10,000 followers, 600,000 eligible minutes viewed in 60 days, and 5+ published videos, and only a share of raw views ever counts as eligible plays, so plan on eligible plays, not views.",
+   "detected_at": "2026-10-12T10:00:00Z",
+   "announced_at": null,
+   "effective_at": null,
+   "category": "policy",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "Publisher in a Box, Facebook Content Monetization approval in 2026",
+     "url": "https://publisherinabox.com/get-approved-for-facebooks-content-monetization-program"
+    },
+    {
+     "name": "FB0T, How to get Facebook Content Monetization in 2026",
+     "url": "https://fb0t.com/securebot/blog/guides/facebook-content-monetization-2026"
+    }
+   ],
+   "affects": [
+    "c-read-rules",
+    "c-read-phase5"
+   ]
+  },
+  {
+   "id": "lifetak-microdrama-premiere-2026",
+   "platform": "other",
+   "title": "India Today Group launches Life Tak microdrama platform (flagship premieres Oct 18)",
+   "summary": "India Today Group unveiled Life Tak, a vertical microdrama platform, at the India Today Conclave in Mumbai on Oct 9, 2026. Flagship series Raghupati Raghav Raja Ram, an AI-aided Ramayan retelling (AI visual engineering + script-generation + world-building), premieres Oct 18. Distribution via Instagram, YouTube, Facebook, and the Aaj Tak app; no standalone app. The first legacy-media incumbent to enter the microdrama lane: a new funded buyer for vertical-drama inventory, not a creator revenue line yet.",
+   "detected_at": "2026-10-12T08:00:00Z",
+   "category": "monetization",
+   "confidence": "verified",
+   "sources": [
+    {
+     "name": "afaqs, India Today Group launches Life Tak",
+     "url": "https://www.afaqs.com/news/media/india-today-group-launches-life-tak-microdrama-platform-12659885"
+    },
+    {
+     "name": "MediaBrief, India Today Group launches Life Tak",
+     "url": "https://mediabrief.com/india-today-group-launches-life-tak/"
+    },
+    {
+     "name": "exchange4media, Life Tak vertical microdrama platform",
+     "url": "https://www.exchange4media.com/industry-briefing-news/india-today-group-launches-life-tak-vertical-microdrama-platform-159025.html"
+    }
+   ],
+   "affects": [
+    "g-read-breakout",
+    "b-read-phase1"
+   ]
+  },
+  {
+   "id": "agentic-commerce-protocol-2026",
+   "platform": "other",
+   "title": "Sierra × Meta Personal Agent Protocol + OpenAI display ads in ChatGPT",
+   "summary": "Sierra and Meta published the Personal Agent Protocol (Oct 6, 2026), an open agent-to-business standard for agentic commerce, with a v0.1 spec and reference implementation expected later in October; payments are a future extension, not part of v0.1. Separately, OpenAI plans visual display ads inside ChatGPT (US, end of October, select advertisers). Early infrastructure: commerce and affiliate creators should watch the standards layer form, not budget against it.",
+   "detected_at": "2026-10-12T08:00:00Z",
+   "category": "monetization",
+   "confidence": "single-source",
+   "sources": [
+    {
+     "name": "FutureWeek, OpenAI visual ads, TikTok agentic advertising, Apple ad-tech block",
+     "url": "https://futureweek.com/week-in-review-openai-launches-visual-ads-tiktok-launches-agentic-advertising-and-apple-blocks-ad-tech/"
+    },
+    {
+     "name": "AgenticPlug, current state of agentic commerce",
+     "url": "https://agenticplug.ai/current-state-of-agentic-commerce"
+    }
+   ],
+   "affects": [
+    "c-read-phase5",
+    "c-read-sponsor"
+   ]
+  },
+  {
+   "category": "monetization",
+   "confidence": "single-source",
+   "detected_at": "2026-10-11T00:00:00Z",
+   "id": "tt-creator-rewards-range-2026",
+   "platform": "tiktok",
+   "sources": [
+    {
+     "name": "AIR Media-Tech, Creator earnings compared (YouTube vs TikTok vs Instagram, 2026)",
+     "url": "https://air.io/en/monetization/creator-earnings-compared-youtube-vs-tiktok-vs-instagram-in-2026"
+    }
+   ],
+   "summary": "Only videos over a minute qualify, and roughly half of raw views end up qualifying per third-party comparison of 2026 rates. TikTok Shop commissions (averaging ~13.1% in the same report) are the bigger TikTok revenue line for many creators. Ranges, never promises.",
+   "title": "TikTok Creator Rewards: $0.40–$1.00 per 1,000 qualified views (creator-reported range)",
+   "affects": [
+    "c-read-phase5",
+    "f-drill-money"
+   ]
+  },
+  {
+   "category": "monetization",
+   "confidence": "verified",
+   "detected_at": "2026-10-11T00:00:00Z",
+   "id": "ig-no-per-view-payout-2026",
+   "platform": "instagram",
+   "sources": [
+    {
+     "name": "AIR Media-Tech, Creator earnings compared (2026)",
+     "url": "https://air.io/en/monetization/creator-earnings-compared-youtube-vs-tiktok-vs-instagram-in-2026"
+    },
+    {
+     "name": "Clippie, Instagram algorithm updates in 2026",
+     "url": "https://clippie.ai/blog/instagram-algorithm-updates-2026-creators-guide"
+    }
+   ],
+   "summary": "No per-view payout program on Reels in 2026. Reported: a limited $5,000 bonus for creators joining Instagram from another platform. Brand deals remain the main way Reels views turn into money, the deal-builder math on this site is built for exactly that.",
+   "title": "Instagram still pays $0 per view; monetization is Gifts, Subscriptions, brand deals, affiliates",
+   "affects": [
+    "f-drill-money",
+    "c-read-phase5"
+   ]
+  },
+  {
+   "category": "algorithm",
+   "confidence": "single-source",
+   "detected_at": "2026-10-09T00:00:00Z",
+   "id": "yt-shorts-originality-2026",
+   "platform": "youtube",
+   "sources": [
+    {
+     "name": "Async, YouTube targets unoriginal content",
+     "url": "https://async.com/blog/youtube-monetization-update/"
+    }
+   ],
+   "summary": "Channels reposting viral clips from TikTok, Instagram, or other creators may see reduced Shorts distribution. Reaction videos and compilations are not automatically penalized, what matters is original contribution: commentary, storytelling, or substantial creative changes beyond captions, crops, or music swaps.",
+   "title": "October 2026 Shorts ranking update targets reposted clips",
+   "affects": [
+    "p-read-phase2",
+    "p-drill-doctor"
+   ]
+  },
+  {
+   "category": "algorithm",
+   "confidence": "single-source",
+   "detected_at": "2026-10-07T00:00:00Z",
+   "id": "ig-oct2026-engagement-shift",
+   "platform": "instagram",
+   "sources": [
+    {
+     "name": "InfluenceFlow, Instagram Reels monetization 2026",
+     "url": "https://influenceflow.io/resources/how-to-optimize-instagram-reels-for-monetization-the-complete-2026-guide/"
+    }
+   ],
+   "summary": "Third-party analysis reports Reels ranking weighing completion rates, replays, and shares over likes, with 45–90 seconds cited as the current sweet spot. Directional, not platform-confirmed, watch completions and shares in your own Insights before reworking a format around it.",
+   "title": "October 2026 adjustments prioritize engagement-driven short-form",
+   "affects": [
+    "p-read-phase3",
+    "p-drill-cadence"
+   ]
+  },
+  {
+   "category": "algorithm",
+   "confidence": "verified",
+   "detected_at": "2026-10-04T00:00:00Z",
+   "id": "ig-ranking-signals-2026",
+   "platform": "instagram",
+   "sources": [
+    {
+     "name": "FINN Partners Boom Scroll, October 2026 social media updates",
+     "url": "https://www.finnpartners.com/news-insights/boom-scroll-october-2026-social-media-updates/"
+    },
+    {
+     "name": "Clippie, Instagram algorithm updates in 2026",
+     "url": "https://clippie.ai/blog/instagram-algorithm-updates-2026-creators-guide"
+    }
+   ],
+   "summary": "In a new video series, Instagram head Adam Mosseri said ranking predicts whether someone will watch a post or share it with a friend, with recency carrying heavy weight. Guidance: optimize engagement rate over total views or likes, use trial Reels to experiment, and don't let feeds fill with whoever posts most.",
+   "title": "Instagram ranking signals restated (Oct 2026): originality, recency, DM shares",
+   "affects": [
+    "p-read-phase3",
+    "g-drill-metrics"
+   ]
+  },
+  {
+   "category": "monetization",
+   "confidence": "single-source",
+   "detected_at": "2026-09-20T00:00:00Z",
+   "id": "yt-shopping-affiliate-2026",
+   "platform": "youtube",
+   "sources": [
+    {
+     "name": "AIR Media-Tech, YouTube algorithm in 2026 (month-by-month)",
+     "url": "https://air.io/en/trending/youtube-algorithm-in-2026-month-by-month-changes-that-affect-your-views"
+    }
+   ],
+   "summary": "Announced at Made on YouTube (Sept 2026). Dynamic brand segments can be added to up to 20 long-form videos at once. For product-review niches this is a second revenue line beyond ads, check eligibility in your country before planning around it.",
+   "title": "YouTube Shopping affiliate program to reach 35 countries by end of 2026",
+   "affects": [
+    "c-read-phase5",
+    "c-read-phase6"
+   ]
+  },
+  {
+   "category": "policy",
+   "confidence": "single-source",
+   "detected_at": "2026-09-03T00:00:00Z",
+   "id": "yt-branded-content-2026",
+   "platform": "youtube",
+   "sources": [
+    {
+     "name": "Gyre, YouTube updates summer 2026",
+     "url": "https://gyre.pro/blog/youtube-updates-key-summer-changes-for-creators"
+    }
+   ],
+   "summary": "From September 3, YouTube auto-adds paid-promotion labels to undisclosed sponsorships, and creators get age and country limits for branded content. Disclose sponsorships up front, the platform now labels them for you if you don't.",
+   "title": "Paid product placements fold into the Branded Content Policy (Sept 2026)",
+   "affects": [
+    "c-read-rules",
+    "c-drill-firstdeal"
+   ]
+  },
+  {
+   "category": "monetization",
+   "confidence": "single-source",
+   "detected_at": "2026-08-24T00:00:00Z",
+   "id": "yt-view-counting-2026",
+   "platform": "youtube",
+   "sources": [
+    {
+     "name": "Gyre, YouTube updates summer 2026",
+     "url": "https://gyre.pro/blog/youtube-updates-key-summer-changes-for-creators"
+    }
+   ],
+   "summary": "Public view counts now tick the moment playback starts across long-form, Shorts, and live, counts went up. Earnings and eligibility did not move with them: Partner revenue still runs on engaged views and engaged watch hours, and eligibility on qualified views/watch hours.",
+   "title": "View counts start at playback start (Aug 24, 2026); Partner earnings math unchanged",
+   "affects": [
+    "g-drill-metrics",
+    "p-read-phase2"
+   ]
+  },
+  {
+   "category": "monetization",
+   "confidence": "single-source",
+   "detected_at": "2026-08-10T00:00:00Z",
+   "id": "yt-ypp-overhaul-2026",
+   "platform": "youtube",
+   "sources": [
+    {
+     "name": "AIR Media-Tech, YouTube algorithm in 2026 (month-by-month)",
+     "url": "https://air.io/en/trending/youtube-algorithm-in-2026-month-by-month-changes-that-affect-your-views"
+    }
+   ],
+   "summary": "New-applicant thresholds double: 8,000 watch hours per 365 days or 20M Shorts views per 90 days. Shorts ad/subscription revenue sharing gets a 10M qualified-Shorts-views-per-90-days floor. Premium Lite revenue joins the pool (55% long-form / 45% Shorts split of the creator share). Current Partners are grandfathered under existing terms until the effective date.",
+   "title": "YouTube Partner Program overhaul announced (effective Feb 1, 2027)",
+   "affects": [
+    "p-drill-ypp",
+    "c-read-phase5"
+   ]
+  }
+ ],
+ "confidence_legend": {
+  "single-source": "Reported by one source; treat as directional until corroborated.",
+  "verified": "Corroborated by 2+ independent sources or the platform itself."
+ },
+ "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
+ "generated_at": "2026-10-25T06:46:21Z",
+ "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
+ "updated": "2026-10-25",
+ "version": "1.7.0"
+}

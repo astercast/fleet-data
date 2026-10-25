@@ -1,10 +1,11 @@
 {
- "at": "2026-10-25T04:47:28Z",
+ "at": "2026-10-25T06:46:23Z",
  "runs": [
   {
    "collector": "scripts/heartbeat/creator.py",
-   "ok": false,
-   "error": "missing in site repo"
+   "ok": true,
+   "seconds": 2.1,
+   "error": null
   }
  ]
 }

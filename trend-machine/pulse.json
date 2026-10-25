@@ -1,0 +1,210 @@
+{
+ "format": "pulse/2",
+ "generated_at": "2026-10-25T06:49:43Z",
+ "stale_after_h": 8,
+ "healthy": false,
+ "sources_ok": 15,
+ "sources_total": 18,
+ "last_data_change_at": null,
+ "sources": [
+  {
+   "id": "board",
+   "label": "Trend board",
+   "url": null,
+   "ok": false,
+   "items": 0,
+   "checked_at": "2026-10-25T06:49:43Z",
+   "last_ok_at": null,
+   "error": "health gate held the board; last good board kept",
+   "fails_in_a_row": 1
+  },
+  {
+   "id": "lane-bluesky",
+   "label": "Trend lane: bluesky",
+   "url": null,
+   "ok": true,
+   "items": 10,
+   "checked_at": "2026-10-25T06:46:52Z",
+   "last_ok_at": "2026-10-25T06:46:52Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-charts",
+   "label": "Trend lane: charts",
+   "url": null,
+   "ok": true,
+   "items": 20,
+   "checked_at": "2026-10-25T06:47:15Z",
+   "last_ok_at": "2026-10-25T06:47:15Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-gtrends",
+   "label": "Trend lane: gtrends",
+   "url": null,
+   "ok": true,
+   "items": 10,
+   "checked_at": "2026-10-25T06:46:24Z",
+   "last_ok_at": "2026-10-25T06:46:24Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-hn",
+   "label": "Trend lane: hn",
+   "url": null,
+   "ok": true,
+   "items": 50,
+   "checked_at": "2026-10-25T06:46:51Z",
+   "last_ok_at": "2026-10-25T06:46:51Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-lemmy",
+   "label": "Trend lane: lemmy",
+   "url": null,
+   "ok": true,
+   "items": 30,
+   "checked_at": "2026-10-25T06:46:53Z",
+   "last_ok_at": "2026-10-25T06:46:53Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-mastodon",
+   "label": "Trend lane: mastodon",
+   "url": null,
+   "ok": true,
+   "items": 20,
+   "checked_at": "2026-10-25T06:46:51Z",
+   "last_ok_at": "2026-10-25T06:46:51Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-netflix",
+   "label": "Trend lane: netflix",
+   "url": null,
+   "ok": true,
+   "items": 0,
+   "checked_at": "2026-10-25T06:47:16Z",
+   "last_ok_at": "2026-10-25T06:47:16Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-news",
+   "label": "Trend lane: news",
+   "url": null,
+   "ok": true,
+   "items": 75,
+   "checked_at": "2026-10-25T06:46:27Z",
+   "last_ok_at": "2026-10-25T06:46:27Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-news_search",
+   "label": "Trend lane: news_search",
+   "url": null,
+   "ok": true,
+   "items": 100,
+   "checked_at": "2026-10-25T06:46:42Z",
+   "last_ok_at": "2026-10-25T06:46:42Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-reddit",
+   "label": "Trend lane: reddit",
+   "url": null,
+   "ok": true,
+   "items": 0,
+   "checked_at": "2026-10-25T06:46:42Z",
+   "last_ok_at": "2026-10-25T06:46:42Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-reddit_rss",
+   "label": "Trend lane: reddit_rss",
+   "url": null,
+   "ok": true,
+   "items": 12,
+   "checked_at": "2026-10-25T06:46:45Z",
+   "last_ok_at": "2026-10-25T06:46:45Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-steam",
+   "label": "Trend lane: steam",
+   "url": null,
+   "ok": true,
+   "items": 25,
+   "checked_at": "2026-10-25T06:49:42Z",
+   "last_ok_at": "2026-10-25T06:49:42Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-streamers",
+   "label": "Trend lane: streamers",
+   "url": null,
+   "ok": true,
+   "items": 32,
+   "checked_at": "2026-10-25T06:49:37Z",
+   "last_ok_at": "2026-10-25T06:49:37Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-tiktok",
+   "label": "Trend lane: tiktok",
+   "url": null,
+   "ok": false,
+   "items": 0,
+   "checked_at": "2026-10-25T06:49:42Z",
+   "last_ok_at": null,
+   "error": "no output this run",
+   "fails_in_a_row": 1
+  },
+  {
+   "id": "lane-wiki",
+   "label": "Trend lane: wiki",
+   "url": null,
+   "ok": true,
+   "items": 15,
+   "checked_at": "2026-10-25T06:47:15Z",
+   "last_ok_at": "2026-10-25T06:47:15Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "lane-x",
+   "label": "Trend lane: x",
+   "url": null,
+   "ok": false,
+   "items": 0,
+   "checked_at": "2026-10-25T06:49:42Z",
+   "last_ok_at": null,
+   "error": "no output this run",
+   "fails_in_a_row": 1
+  },
+  {
+   "id": "lane-youtube_rss",
+   "label": "Trend lane: youtube_rss",
+   "url": null,
+   "ok": true,
+   "items": 72,
+   "checked_at": "2026-10-25T06:49:31Z",
+   "last_ok_at": "2026-10-25T06:49:31Z",
+   "error": null,
+   "fails_in_a_row": 0
+  }
+ ],
+ "changes": []
+}

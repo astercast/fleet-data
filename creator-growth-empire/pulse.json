@@ -1,0 +1,174 @@
+{
+ "format": "pulse/2",
+ "generated_at": "2026-10-25T06:46:23Z",
+ "stale_after_h": 26,
+ "healthy": false,
+ "sources_ok": 6,
+ "sources_total": 7,
+ "last_data_change_at": "2026-10-25T06:46:22Z",
+ "sources": [
+  {
+   "id": "meta-newsroom",
+   "label": "Meta Newsroom",
+   "url": "https://about.fb.com/news/feed/",
+   "ok": true,
+   "items": 10,
+   "checked_at": "2026-10-25T06:46:21Z",
+   "last_ok_at": "2026-10-25T06:46:21Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "socialmediatoday-rss",
+   "label": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/feeds/news/",
+   "ok": true,
+   "items": 10,
+   "checked_at": "2026-10-25T06:46:21Z",
+   "last_ok_at": "2026-10-25T06:46:21Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "tiktok-newsroom",
+   "label": "TikTok Newsroom",
+   "url": "https://newsroom.tiktok.com/en-us/",
+   "ok": true,
+   "items": 1,
+   "checked_at": "2026-10-25T06:46:22Z",
+   "last_ok_at": "2026-10-25T06:46:22Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "tubefilter-rss",
+   "label": "Tubefilter",
+   "url": "https://www.tubefilter.com/feed/",
+   "ok": true,
+   "items": 12,
+   "checked_at": "2026-10-25T06:46:21Z",
+   "last_ok_at": "2026-10-25T06:46:21Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "tubefilter-twitch-rss",
+   "label": "Tubefilter Twitch tag",
+   "url": "https://www.tubefilter.com/tag/twitch/feed/",
+   "ok": true,
+   "items": 12,
+   "checked_at": "2026-10-25T06:46:22Z",
+   "last_ok_at": "2026-10-25T06:46:22Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "youtube-blog",
+   "label": "YouTube Official Blog",
+   "url": "https://blog.youtube/feed/",
+   "ok": false,
+   "items": 0,
+   "checked_at": "2026-10-25T06:46:21Z",
+   "last_ok_at": null,
+   "error": "response was not a feed (HTML?)",
+   "fails_in_a_row": 1
+  },
+  {
+   "id": "ypp-help",
+   "label": "YouTube Partner Program help page",
+   "url": "https://support.google.com/youtube/answer/72851",
+   "ok": true,
+   "items": 1,
+   "checked_at": "2026-10-25T06:46:23Z",
+   "last_ok_at": "2026-10-25T06:46:23Z",
+   "error": null,
+   "fails_in_a_row": 0
+  }
+ ],
+ "changes": [
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+   "ref": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+   "ref": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "Have you heard? PlaqueBoyMax vs. Trump, a ‘Cheese Tax’ lawsuit, and a subscriber guessing game.",
+   "ref": "https://www.tubefilter.com/2026/10/23/have-you-heard-plaque-boy-max-trump-cheese-tax-puppy-songs/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "Consistency is key: A YouTube Shorts bonus program rewards creators who upload at regular intervals",
+   "ref": "https://www.tubefilter.com/2026/10/23/youtube-shorts-pilot-program-consistency-bonus-test/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "YouTube now gets twice as much watch time on U.S. TVs as any other platform",
+   "ref": "https://www.tubefilter.com/2026/10/22/nielsen-the-gauge-youtube-record-watch-time-share-us-tv/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "Can a Twitch hit work on Netflix? Ibai will put that theory to the test with ‘La Velada del Año’",
+   "ref": "https://www.tubefilter.com/2026/10/22/ibai-llanos-la-velada-del-ano-influencer-boxing-netflix/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "80% of the ad industry’s talent payments pass through Extreme Reach’s digital doors. Now it wants to handle logistics for creators and brands.",
+   "ref": "https://www.tubefilter.com/2026/10/22/extreme-reach-xr-pay-for-creators-taxes-union-paperwork/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "Meta says shopping is Muse’s primary use case",
+   "ref": "https://www.socialmediatoday.com/news/meta-says-shopping-is-muses-primary-use-case/833808/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "Meta hit with $25 billion fine over privacy breaches",
+   "ref": "https://www.socialmediatoday.com/news/meta-hit-with-25-billion-fine-over-privacy-breaches/833798/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "Meta adds users and revenue as AI costs climb",
+   "ref": "https://www.socialmediatoday.com/news/meta-adds-users-and-revenue-as-ai-costs-climb/833671/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "Twitch has streaming deals in its new Shopping category",
+   "ref": "https://www.tubefilter.com/2026/10/06/twitch-has-streaming-deals-in-its-new-shopping-category/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "Let’s go to the highlight reel: Twitch is helping creators turn their Clips into stream “recaps”",
+   "ref": "https://www.tubefilter.com/2026/09/29/twitch-clips-recaps-feed-streamer-highlights/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "What’s next for ‘Taskmaster’ after getting big on YouTube? A charity stream with creators.",
+   "ref": "https://www.tubefilter.com/2026/09/15/taskmaster-charity-fundraising-stream-twitch-creators/"
+  },
+  {
+   "at": "2026-10-25T06:46:22Z",
+   "kind": "change",
+   "title": "Twitch and Amazon facing class-action lawsuit over scraping streamers’ content without their consent",
+   "ref": "https://www.tubefilter.com/2026/08/25/twitch-amazon-lawsuit-warren-pandiscia-ai-training/"
+  }
+ ]
+}

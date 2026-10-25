@@ -1,0 +1,77 @@
+{
+ "format": "pulse/2",
+ "generated_at": "2026-10-25T06:49:51Z",
+ "stale_after_h": 26,
+ "healthy": true,
+ "sources_ok": 2,
+ "sources_total": 2,
+ "last_data_change_at": "2026-10-25T06:49:51Z",
+ "sources": [
+  {
+   "id": "bat",
+   "label": "Bring a Trailer results",
+   "url": "https://bringatrailer.com/auctions/results/",
+   "ok": true,
+   "items": 36,
+   "checked_at": "2026-10-25T06:49:48Z",
+   "last_ok_at": "2026-10-25T06:49:48Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "nhtsa-vpic",
+   "label": "NHTSA vPIC make names",
+   "url": "https://vpic.nhtsa.dot.gov/api",
+   "ok": true,
+   "items": 12413,
+   "checked_at": "2026-10-25T06:49:51Z",
+   "last_ok_at": "2026-10-25T06:49:51Z",
+   "error": null,
+   "fails_in_a_row": 0
+  }
+ ],
+ "changes": [
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "sale",
+   "title": "2017 Land Rover Range Rover",
+   "ref": "https://bringatrailer.com/listing/2017-land-rover-range-rover-126/"
+  },
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "sale",
+   "title": "1971 Chevrolet Camaro SS 350 Coupe 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1971-chevrolet-camaro-49/"
+  },
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "sale",
+   "title": "1999 Land Rover Defender 90 Td5 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1999-land-rover-defender-90-51/"
+  },
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "sale",
+   "title": "2000 Porsche 911 Carrera 4 Cabriolet 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2000-porsche-911-carrera-4-cabriolet-46/"
+  },
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "sale",
+   "title": "1990 Porsche 911 Carrera 4 Cabriolet 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1990-porsche-911-carrera-4-cabriolet-28/"
+  },
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "sale",
+   "title": "28k-MIle 2015 Audi R8 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2015-audi-r8-58/"
+  },
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "sale",
+   "title": "2017 Land Rover Range Rover Supercharged",
+   "ref": "https://bringatrailer.com/listing/2017-land-rover-range-rover-125/"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-10-25T04:48:08Z",
+ "generated_at": "2026-10-25T06:49:54Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -8,17 +8,56 @@
    "live": "https://ai-film-master-guide-live.vercel.app",
    "checks": [
     [
-     "data",
-     "warn",
-     "waiting for the first run"
+     "freshness",
+     "ok",
+     "0.1 h old, limit 14 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
     ],
     [
      "site",
      "ok",
-     "181 ms"
+     "159 ms"
     ]
    ],
-   "state": "warn"
+   "data_age_h": 0.1,
+   "changed_age_h": 0.1,
+   "sources": [
+    {
+     "id": "arxiv",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    },
+    {
+     "id": "github",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "hf",
+     "ok": true,
+     "fails": 0,
+     "items": 30
+    },
+    {
+     "id": "hn",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    },
+    {
+     "id": "models",
+     "ok": true,
+     "fails": 0,
+     "items": 44
+    }
+   ],
+   "state": "ok"
   },
   {
    "site": "marvel-legends-chronicle",
@@ -26,6 +65,11 @@
    "live": "https://marvel-legends-chronicle-live.vercel.app",
    "checks": [
     [
+     "collectors",
+     "fail",
+     "missing in site repo: scripts/heartbeat/marvel.py"
+    ],
+    [
      "data",
      "warn",
      "waiting for the first run"
@@ -33,16 +77,21 @@
     [
      "site",
      "ok",
-     "203 ms"
+     "225 ms"
     ]
    ],
-   "state": "warn"
+   "state": "fail"
   },
   {
    "site": "aster-da-master",
    "group": "daily",
    "live": "https://aster-da-master-live.vercel.app",
    "checks": [
+    [
+     "collectors",
+     "fail",
+     "missing in site repo: scripts/heartbeat/aster.py"
+    ],
     [
      "data",
      "warn",
@@ -56,10 +105,10 @@
     [
      "site",
      "ok",
-     "135 ms"
+     "132 ms"
     ]
    ],
-   "state": "warn"
+   "state": "fail"
   },
   {
    "site": "creator-growth-empire",
@@ -67,15 +116,66 @@
    "live": "https://creator-growth-empire-live.vercel.app",
    "checks": [
     [
-     "data",
+     "freshness",
+     "ok",
+     "0.1 h old, limit 14 h"
+    ],
+    [
+     "sources",
      "warn",
-     "waiting for the first run"
+     "down: youtube-blog"
     ],
     [
      "site",
      "ok",
-     "217 ms"
+     "126 ms"
     ]
+   ],
+   "data_age_h": 0.1,
+   "changed_age_h": 0.1,
+   "sources": [
+    {
+     "id": "meta-newsroom",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "socialmediatoday-rss",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "tiktok-newsroom",
+     "ok": true,
+     "fails": 0,
+     "items": 1
+    },
+    {
+     "id": "tubefilter-rss",
+     "ok": true,
+     "fails": 0,
+     "items": 12
+    },
+    {
+     "id": "tubefilter-twitch-rss",
+     "ok": true,
+     "fails": 0,
+     "items": 12
+    },
+    {
+     "id": "youtube-blog",
+     "ok": false,
+     "fails": 1,
+     "items": 0
+    },
+    {
+     "id": "ypp-help",
+     "ok": true,
+     "fails": 0,
+     "items": 1
+    }
    ],
    "state": "warn"
   },
@@ -85,15 +185,132 @@
    "live": "https://trend-machine-live.vercel.app",
    "checks": [
     [
-     "data",
+     "freshness",
+     "ok",
+     "0.0 h old, limit 8 h"
+    ],
+    [
+     "sources",
      "warn",
-     "waiting for the first run"
+     "down: board, lane-tiktok, lane-x"
     ],
     [
      "site",
      "ok",
-     "121 ms"
+     "162 ms"
     ]
+   ],
+   "data_age_h": 0.0,
+   "changed_age_h": null,
+   "sources": [
+    {
+     "id": "board",
+     "ok": false,
+     "fails": 1,
+     "items": 0
+    },
+    {
+     "id": "lane-bluesky",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "lane-charts",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    },
+    {
+     "id": "lane-gtrends",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "lane-hn",
+     "ok": true,
+     "fails": 0,
+     "items": 50
+    },
+    {
+     "id": "lane-lemmy",
+     "ok": true,
+     "fails": 0,
+     "items": 30
+    },
+    {
+     "id": "lane-mastodon",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    },
+    {
+     "id": "lane-netflix",
+     "ok": true,
+     "fails": 0,
+     "items": 0
+    },
+    {
+     "id": "lane-news",
+     "ok": true,
+     "fails": 0,
+     "items": 75
+    },
+    {
+     "id": "lane-news_search",
+     "ok": true,
+     "fails": 0,
+     "items": 100
+    },
+    {
+     "id": "lane-reddit",
+     "ok": true,
+     "fails": 0,
+     "items": 0
+    },
+    {
+     "id": "lane-reddit_rss",
+     "ok": true,
+     "fails": 0,
+     "items": 12
+    },
+    {
+     "id": "lane-steam",
+     "ok": true,
+     "fails": 0,
+     "items": 25
+    },
+    {
+     "id": "lane-streamers",
+     "ok": true,
+     "fails": 0,
+     "items": 32
+    },
+    {
+     "id": "lane-tiktok",
+     "ok": false,
+     "fails": 1,
+     "items": 0
+    },
+    {
+     "id": "lane-wiki",
+     "ok": true,
+     "fails": 0,
+     "items": 15
+    },
+    {
+     "id": "lane-x",
+     "ok": false,
+     "fails": 1,
+     "items": 0
+    },
+    {
+     "id": "lane-youtube_rss",
+     "ok": true,
+     "fails": 0,
+     "items": 72
+    }
    ],
    "state": "warn"
   },
@@ -103,6 +320,11 @@
    "live": "https://activity-vault-live.vercel.app",
    "checks": [
     [
+     "collectors",
+     "fail",
+     "missing in site repo: scripts/heartbeat/vault.py"
+    ],
+    [
      "data",
      "warn",
      "waiting for the first run"
@@ -110,10 +332,10 @@
     [
      "site",
      "ok",
-     "122 ms"
+     "240 ms"
     ]
    ],
-   "state": "warn"
+   "state": "fail"
   },
   {
    "site": "button-mash",
@@ -121,6 +343,11 @@
    "live": "https://button-mash-live.vercel.app",
    "checks": [
     [
+     "collectors",
+     "fail",
+     "missing in site repo: scripts/heartbeat/portplay.py"
+    ],
+    [
      "data",
      "warn",
      "waiting for the first run"
@@ -128,10 +355,10 @@
     [
      "site",
      "ok",
-     "121 ms"
+     "159 ms"
     ]
    ],
-   "state": "warn"
+   "state": "fail"
   },
   {
    "site": "car-atlas",
@@ -139,17 +366,38 @@
    "live": "https://car-atlas-live.vercel.app",
    "checks": [
     [
-     "data",
-     "warn",
-     "waiting for the first run"
+     "freshness",
+     "ok",
+     "0.0 h old, limit 14 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
     ],
     [
      "site",
      "ok",
-     "126 ms"
+     "219 ms"
     ]
    ],
-   "state": "warn"
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
+   "sources": [
+    {
+     "id": "bat",
+     "ok": true,
+     "fails": 0,
+     "items": 36
+    },
+    {
+     "id": "nhtsa-vpic",
+     "ok": true,
+     "fails": 0,
+     "items": 12413
+    }
+   ],
+   "state": "ok"
   },
   {
    "site": "the-9th-website",
@@ -159,7 +407,7 @@
     [
      "site",
      "ok",
-     "138 ms"
+     "140 ms"
     ]
    ],
    "state": "ok"
@@ -170,14 +418,19 @@
    "live": "https://fantasy-rivals-live.vercel.app",
    "checks": [
     [
-     "data",
-     "warn",
-     "waiting for the first run"
+     "freshness",
+     "ok",
+     "0.0 h old, limit 14 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
     ],
     [
      "site",
      "ok",
-     "207 ms"
+     "147 ms"
     ],
     [
      "health",
@@ -185,7 +438,17 @@
      "ok"
     ]
    ],
-   "state": "warn"
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
+   "sources": [
+    {
+     "id": "liquipedia",
+     "ok": true,
+     "fails": 0,
+     "items": 6
+    }
+   ],
+   "state": "ok"
   },
   {
    "site": "sonny-angel-archive",
@@ -193,9 +456,14 @@
    "live": "https://sonny-angel-archive-live.vercel.app",
    "checks": [
     [
-     "data",
-     "warn",
-     "waiting for the first run"
+     "freshness",
+     "ok",
+     "0.0 h old, limit 14 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
     ],
     [
      "law",
@@ -205,10 +473,20 @@
     [
      "site",
      "ok",
-     "117 ms"
+     "129 ms"
     ]
    ],
-   "state": "warn"
+   "data_age_h": 0.0,
+   "changed_age_h": null,
+   "sources": [
+    {
+     "id": "store",
+     "ok": true,
+     "fails": 0,
+     "items": 18
+    }
+   ],
+   "state": "ok"
   }
  ]
 }

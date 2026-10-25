@@ -1,0 +1,54 @@
+{
+ "format": "pulse/2",
+ "generated_at": "2026-10-25T06:49:51Z",
+ "stale_after_h": 30,
+ "healthy": true,
+ "sources_ok": 1,
+ "sources_total": 1,
+ "last_data_change_at": "2026-10-25T06:49:51Z",
+ "sources": [
+  {
+   "id": "liquipedia",
+   "label": "Liquipedia pages",
+   "url": "https://liquipedia.net/marvelrivals/",
+   "ok": true,
+   "items": 6,
+   "checked_at": "2026-10-25T06:49:51Z",
+   "last_ok_at": "2026-10-25T06:49:51Z",
+   "error": null,
+   "fails_in_a_row": 0
+  }
+ ],
+ "changes": [
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "source",
+   "title": "Source page edited: MR Ignite/2026/Stage 2/Americas (check results)",
+   "ref": "MR Ignite/2026/Stage 2/Americas"
+  },
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "source",
+   "title": "Source page edited: MR Ignite/2026/Stage 2/EMEA (check results)",
+   "ref": "MR Ignite/2026/Stage 2/EMEA"
+  },
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "source",
+   "title": "Source page edited: MR Ignite/2026/Stage 2/Pacific (check results)",
+   "ref": "MR Ignite/2026/Stage 2/Pacific"
+  },
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "source",
+   "title": "Source page edited: MR Ignite/2026/Stage 2/Pacific/Oceania (check results)",
+   "ref": "MR Ignite/2026/Stage 2/Pacific/Oceania"
+  },
+  {
+   "at": "2026-10-25T06:49:51Z",
+   "kind": "state",
+   "title": "Season status changed for 2026-10-25",
+   "ref": null
+  }
+ ]
+}

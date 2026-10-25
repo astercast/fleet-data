@@ -1,0 +1,75 @@
+{
+ "format": "stock/1",
+ "generated_at": "2026-10-25T06:49:52Z",
+ "checked_at": "2026-10-25T06:49:52Z",
+ "items": {
+  "makeup-angel": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/sonny-angel-x-shu-uemura-makeup-angel-series"
+  },
+  "flower-gift": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/flower-gift-series"
+  },
+  "hippers-dreaming": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/hippers-dreaming"
+  },
+  "snack": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/snack-series"
+  },
+  "hippers-looking-back": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/hippers-looking-back"
+  },
+  "vegetable": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/minifigure-vegetable-series-2019"
+  },
+  "animal-3": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/animal-series-ver-3"
+  },
+  "marine": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/minifigure-marine-series-2019"
+  },
+  "fruit": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/minifigure-fruit-series-2019"
+  },
+  "hippers-harvest": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/hippers-harvest-series"
+  },
+  "sweets": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/minifigure-sweets-series-2019"
+  },
+  "flower": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/minifigure-flower-series-2019"
+  },
+  "animal-1": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/animal-series-ver-1"
+  },
+  "animal-4": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/animal-series-ver-4"
+  },
+  "birthday-gift-bear": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/birthdaygift2"
+  },
+  "animal-2": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/animal-series-ver-2"
+  },
+  "birthday-gift": {
+   "in_stock": true,
+   "url": "https://sonnyangelusa.com/products/birthdaygift"
+  }
+ }
+}
