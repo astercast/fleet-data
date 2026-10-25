@@ -1,0 +1,610 @@
+{
+ "format": "fleet-status/1",
+ "generated_at": "2026-10-25T04:26:12Z",
+ "sites": [
+  {
+   "site": "ai-film-master-guide",
+   "group": "fast",
+   "live": "https://ai-film-master-guide-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.1 h old, limit 14 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
+    ],
+    [
+     "site",
+     "ok",
+     "2316 ms"
+    ]
+   ],
+   "data_age_h": 0.1,
+   "changed_age_h": 0.1,
+   "sources": [
+    {
+     "id": "arxiv",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    },
+    {
+     "id": "github",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "hf",
+     "ok": true,
+     "fails": 0,
+     "items": 30
+    },
+    {
+     "id": "hn",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    },
+    {
+     "id": "models",
+     "ok": true,
+     "fails": 0,
+     "items": 44
+    }
+   ],
+   "state": "ok"
+  },
+  {
+   "site": "marvel-legends-chronicle",
+   "group": "daily",
+   "live": "https://marvel-legends-chronicle-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.6 h old, limit 50 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
+    ],
+    [
+     "site",
+     "ok",
+     "2239 ms"
+    ]
+   ],
+   "data_age_h": 0.6,
+   "changed_age_h": 0.6,
+   "sources": [
+    {
+     "id": "cmdstore",
+     "ok": true,
+     "fails": 0,
+     "items": 64
+    },
+    {
+     "id": "gnews",
+     "ok": true,
+     "fails": 0,
+     "items": 100
+    },
+    {
+     "id": "preorders",
+     "ok": true,
+     "fails": 0,
+     "items": 28
+    },
+    {
+     "id": "toyarena",
+     "ok": true,
+     "fails": 0,
+     "items": 47
+    }
+   ],
+   "state": "ok"
+  },
+  {
+   "site": "aster-da-master",
+   "group": "daily",
+   "live": "https://aster-da-master-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.6 h old, limit 50 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
+    ],
+    [
+     "law",
+     "ok",
+     "no forbidden fields"
+    ],
+    [
+     "site",
+     "ok",
+     "2174 ms"
+    ]
+   ],
+   "data_age_h": 0.6,
+   "changed_age_h": null,
+   "sources": [
+    {
+     "id": "deezer",
+     "ok": true,
+     "fails": 0,
+     "items": 25
+    },
+    {
+     "id": "soundcloud",
+     "ok": true,
+     "fails": 0,
+     "items": 185
+    },
+    {
+     "id": "soundcloud-rss",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    }
+   ],
+   "state": "ok"
+  },
+  {
+   "site": "creator-growth-empire",
+   "group": "fast",
+   "live": "https://creator-growth-empire-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.2 h old, limit 14 h"
+    ],
+    [
+     "sources",
+     "warn",
+     "down: youtube-blog"
+    ],
+    [
+     "site",
+     "ok",
+     "2763 ms"
+    ]
+   ],
+   "data_age_h": 0.2,
+   "changed_age_h": 0.2,
+   "sources": [
+    {
+     "id": "meta-newsroom",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "socialmediatoday-rss",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "tiktok-newsroom",
+     "ok": true,
+     "fails": 0,
+     "items": 1
+    },
+    {
+     "id": "tubefilter-rss",
+     "ok": true,
+     "fails": 0,
+     "items": 12
+    },
+    {
+     "id": "tubefilter-twitch-rss",
+     "ok": true,
+     "fails": 0,
+     "items": 12
+    },
+    {
+     "id": "youtube-blog",
+     "ok": false,
+     "fails": 1,
+     "items": 0
+    },
+    {
+     "id": "ypp-help",
+     "ok": true,
+     "fails": 0,
+     "items": 1
+    }
+   ],
+   "state": "warn"
+  },
+  {
+   "site": "trend-machine",
+   "group": "fast",
+   "live": "https://trend-machine-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.0 h old, limit 8 h"
+    ],
+    [
+     "sources",
+     "warn",
+     "down: board, lane-tiktok, lane-x, lane-youtube_rss"
+    ],
+    [
+     "site",
+     "ok",
+     "2275 ms"
+    ]
+   ],
+   "data_age_h": 0.0,
+   "changed_age_h": null,
+   "sources": [
+    {
+     "id": "board",
+     "ok": false,
+     "fails": 1,
+     "items": 0
+    },
+    {
+     "id": "lane-bluesky",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "lane-charts",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    },
+    {
+     "id": "lane-gtrends",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "lane-hn",
+     "ok": true,
+     "fails": 0,
+     "items": 25
+    },
+    {
+     "id": "lane-lemmy",
+     "ok": true,
+     "fails": 0,
+     "items": 30
+    },
+    {
+     "id": "lane-mastodon",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    },
+    {
+     "id": "lane-netflix",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    },
+    {
+     "id": "lane-news",
+     "ok": true,
+     "fails": 0,
+     "items": 75
+    },
+    {
+     "id": "lane-news_search",
+     "ok": true,
+     "fails": 0,
+     "items": 100
+    },
+    {
+     "id": "lane-reddit",
+     "ok": true,
+     "fails": 0,
+     "items": 0
+    },
+    {
+     "id": "lane-reddit_rss",
+     "ok": true,
+     "fails": 0,
+     "items": 72
+    },
+    {
+     "id": "lane-steam",
+     "ok": true,
+     "fails": 0,
+     "items": 25
+    },
+    {
+     "id": "lane-streamers",
+     "ok": true,
+     "fails": 0,
+     "items": 32
+    },
+    {
+     "id": "lane-tiktok",
+     "ok": false,
+     "fails": 1,
+     "items": 0
+    },
+    {
+     "id": "lane-wiki",
+     "ok": true,
+     "fails": 0,
+     "items": 15
+    },
+    {
+     "id": "lane-x",
+     "ok": false,
+     "fails": 1,
+     "items": 0
+    },
+    {
+     "id": "lane-youtube_rss",
+     "ok": false,
+     "fails": 1,
+     "items": 0
+    }
+   ],
+   "state": "warn"
+  },
+  {
+   "site": "activity-vault",
+   "group": "daily",
+   "live": "https://activity-vault-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.5 h old, limit 50 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
+    ],
+    [
+     "site",
+     "ok",
+     "1690 ms"
+    ]
+   ],
+   "data_age_h": 0.5,
+   "changed_age_h": 0.5,
+   "sources": [
+    {
+     "id": "commons-photo-scout",
+     "ok": true,
+     "fails": 0,
+     "items": 41
+    },
+    {
+     "id": "feed-buggyandbuddy",
+     "ok": true,
+     "fails": 0,
+     "items": 12
+    },
+    {
+     "id": "feed-handsonaswegrow",
+     "ok": true,
+     "fails": 0,
+     "items": 7
+    },
+    {
+     "id": "feed-kidsactivitiesblog",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "feed-littlebins",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "feed-teachbesideme",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "feed-weareteachers",
+     "ok": true,
+     "fails": 0,
+     "items": 16
+    }
+   ],
+   "state": "ok"
+  },
+  {
+   "site": "button-mash",
+   "group": "daily",
+   "live": "https://button-mash-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.6 h old, limit 50 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
+    ],
+    [
+     "site",
+     "ok",
+     "2504 ms"
+    ]
+   ],
+   "data_age_h": 0.6,
+   "changed_age_h": null,
+   "sources": [
+    {
+     "id": "cdn",
+     "ok": true,
+     "fails": 0,
+     "items": 1
+    },
+    {
+     "id": "pin",
+     "ok": true,
+     "fails": 0,
+     "items": 1
+    },
+    {
+     "id": "vendored",
+     "ok": true,
+     "fails": 0,
+     "items": 1
+    }
+   ],
+   "state": "ok"
+  },
+  {
+   "site": "car-atlas",
+   "group": "fast",
+   "live": "https://car-atlas-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.0 h old, limit 14 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
+    ],
+    [
+     "site",
+     "ok",
+     "2552 ms"
+    ]
+   ],
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
+   "sources": [
+    {
+     "id": "bat",
+     "ok": true,
+     "fails": 0,
+     "items": 36
+    },
+    {
+     "id": "nhtsa-vpic",
+     "ok": true,
+     "fails": 0,
+     "items": 12413
+    }
+   ],
+   "state": "ok"
+  },
+  {
+   "site": "the-9th-website",
+   "group": "none",
+   "live": "https://the-9th-website-live.vercel.app",
+   "checks": [
+    [
+     "site",
+     "ok",
+     "2683 ms"
+    ]
+   ],
+   "state": "ok"
+  },
+  {
+   "site": "fantasy-rivals",
+   "group": "fast",
+   "live": "https://fantasy-rivals-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.0 h old, limit 14 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
+    ],
+    [
+     "site",
+     "ok",
+     "1955 ms"
+    ],
+    [
+     "health",
+     "ok",
+     "ok"
+    ]
+   ],
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
+   "sources": [
+    {
+     "id": "liquipedia",
+     "ok": true,
+     "fails": 0,
+     "items": 6
+    }
+   ],
+   "state": "ok"
+  },
+  {
+   "site": "sonny-angel-archive",
+   "group": "fast",
+   "live": "https://sonny-angel-archive-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.0 h old, limit 14 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
+    ],
+    [
+     "law",
+     "ok",
+     "no forbidden fields"
+    ],
+    [
+     "site",
+     "ok",
+     "3544 ms"
+    ]
+   ],
+   "data_age_h": 0.0,
+   "changed_age_h": null,
+   "sources": [
+    {
+     "id": "store",
+     "ok": true,
+     "fails": 0,
+     "items": 18
+    }
+   ],
+   "state": "ok"
+  }
+ ]
+}

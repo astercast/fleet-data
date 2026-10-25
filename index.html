@@ -1,0 +1,39 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Fleet status</title>
+<style>
+:root{--bg:#f4f2ec;--ink:#17181a;--mute:#6b6e72;--rule:#d9d6cc;--ok:#1f6f4a;--warn:#a86a00;--fail:#b3261e}
+@media(prefers-color-scheme:dark){:root{--bg:#101112;--ink:#ecebe6;--mute:#8d9095;--rule:#2a2c2f;--ok:#58c08f;--warn:#e0a63a;--fail:#ff7b72}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.4 ui-sans-serif,system-ui,sans-serif}
+main{max-width:980px;margin:0 auto;padding:32px 16px 60px}
+h1{font-size:13px;letter-spacing:.14em;text-transform:uppercase;margin:0 0 6px;font-weight:700}
+#sum{font-size:clamp(28px,5vw,46px);font-weight:800;margin:0 0 4px;font-variant-numeric:tabular-nums}
+#when{color:var(--mute);margin:0 0 26px;font-size:13px}
+.row{display:grid;grid-template-columns:minmax(150px,1.3fr) 112px 1.5fr minmax(90px,.8fr);gap:12px;align-items:center;padding:13px 0;border-top:1px solid var(--rule)}
+.row:last-child{border-bottom:1px solid var(--rule)}
+.name{font-weight:650}.name small{display:block;color:var(--mute);font-weight:400;font-size:12px}
+.st{font-weight:800;font-size:12px;letter-spacing:.1em;display:inline-flex;gap:8px;align-items:center}
+.st::before{content:"";width:10px;height:10px;background:currentColor}
+.st.ok{color:var(--ok)}.st.warn{color:var(--warn)}.st.warn::before{border-radius:50%}.st.fail{color:var(--fail)}.st.fail::before{transform:rotate(45deg)}
+.bar{height:6px;background:var(--rule);position:relative}.bar i{position:absolute;inset:0 auto 0 0;background:var(--ink)}
+.bar.over i{background:var(--fail)}
+.age{font-size:12px;color:var(--mute);margin-top:5px;font-variant-numeric:tabular-nums}
+.src{display:flex;gap:4px;flex-wrap:wrap}.src b{width:9px;height:9px;background:var(--ok)}.src b.x{background:var(--fail)}
+.note{color:var(--mute);font-size:12px;text-align:right;font-variant-numeric:tabular-nums}
+@media(max-width:700px){.row{grid-template-columns:1fr auto}.row>:nth-child(3){grid-column:1/3}.note{text-align:left}}
+</style><main><h1>Fleet status</h1><p id="sum">Reading</p><p id="when"></p><div id="rows"></div>
+<script>
+const R=document.getElementById('rows');
+function ago(iso){const m=Math.round((Date.now()-Date.parse(iso))/60000);return m<60?m+' min ago':m<2880?Math.round(m/60)+' h ago':Math.round(m/1440)+' days ago'}
+async function load(){let s;try{s=await (await fetch('status.json?t='+Math.floor(Date.now()/60000),{cache:'no-store'})).json()}catch{document.getElementById('sum').textContent='Status unreachable';return}
+ const bad=s.sites.filter(x=>x.state!=='ok').length;document.getElementById('sum').textContent=bad?`${s.sites.length-bad} of ${s.sites.length} healthy`:`All ${s.sites.length} healthy`;
+ document.getElementById('when').textContent='Checked '+ago(s.generated_at)+'. Refreshes by itself.';
+ R.innerHTML='';for(const x of s.sites){const lim=(x.checks.find(c=>c[0]==='freshness')||[])[2],limit=lim?+lim.match(/limit (\d+)/)[1]:0,age=x.data_age_h;
+  const pct=limit&&age!=null?Math.min(100,age/limit*100):0,site=x.checks.find(c=>c[0]==='site');
+  const row=document.createElement('div');row.className='row';
+  row.innerHTML=`<div class="name"></div><div><span class="st ${x.state}">${x.state==='ok'?'OK':x.state==='warn'?'WATCH':'DOWN'}</span></div><div></div><div class="note"></div>`;
+  row.querySelector('.name').innerHTML=`${x.site}<small>${x.group==='none'?'no live data, computed on the page':'refreshes '+(x.group==='fast'?'every 3 hours':'daily')}</small>`;
+  const mid=row.children[2];
+  if(age!=null){mid.innerHTML=`<div class="bar ${pct>=100?'over':''}"><i style="width:${pct}%"></i></div><div class="age">data ${age} h old, limit ${limit} h</div>`;const d=document.createElement('div');d.className='src';(x.sources||[]).forEach(q=>{const b=document.createElement('b');b.className=q.ok?'':'x';b.title=q.id+(q.ok?' ok':' down');d.append(b)});mid.append(d)}
+  else mid.innerHTML=`<div class="age">${(x.checks.find(c=>c[0]==='data')||[0,0,'nothing to refresh'])[2]}</div>`;
+  row.querySelector('.note').textContent=site?site[2]:'';R.append(row)}}
+load();setInterval(()=>{if(!document.hidden)load()},300000);
+</script></html>

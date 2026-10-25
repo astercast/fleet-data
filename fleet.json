@@ -1,0 +1,94 @@
+{
+  "owner": "astercast",
+  "sites": {
+    "ai-film-master-guide": {
+      "group": "fast",
+      "stale_h": 14,
+      "collectors": [
+        "scripts/heartbeat/film.py"
+      ],
+      "live": "https://ai-film-master-guide-live.vercel.app"
+    },
+    "marvel-legends-chronicle": {
+      "group": "daily",
+      "stale_h": 50,
+      "collectors": [
+        "scripts/heartbeat/marvel.py"
+      ],
+      "live": "https://marvel-legends-chronicle-live.vercel.app"
+    },
+    "aster-da-master": {
+      "group": "daily",
+      "stale_h": 50,
+      "collectors": [
+        "scripts/heartbeat/aster.py"
+      ],
+      "live": "https://aster-da-master-live.vercel.app",
+      "forbid_keys": "^(plays?|play_count|playback_count|streams?|likes?|favoritings_count|followers?|followers_count|reposts?)$"
+    },
+    "creator-growth-empire": {
+      "group": "fast",
+      "stale_h": 14,
+      "collectors": [
+        "scripts/heartbeat/creator.py"
+      ],
+      "live": "https://creator-growth-empire-live.vercel.app"
+    },
+    "trend-machine": {
+      "group": "fast",
+      "stale_h": 8,
+      "collectors": [
+        "scripts/heartbeat/trend.py"
+      ],
+      "live": "https://trend-machine-live.vercel.app"
+    },
+    "activity-vault": {
+      "group": "daily",
+      "stale_h": 50,
+      "collectors": [
+        "scripts/heartbeat/vault.py"
+      ],
+      "live": "https://activity-vault-live.vercel.app"
+    },
+    "button-mash": {
+      "group": "daily",
+      "stale_h": 50,
+      "collectors": [
+        "scripts/heartbeat/portplay.py"
+      ],
+      "live": "https://button-mash-live.vercel.app"
+    },
+    "car-atlas": {
+      "group": "fast",
+      "stale_h": 14,
+      "collectors": [
+        "scripts/heartbeat/atlas.py"
+      ],
+      "live": "https://car-atlas-live.vercel.app"
+    },
+    "the-9th-website": {
+      "group": "none",
+      "stale_h": 0,
+      "collectors": [],
+      "live": "https://the-9th-website-live.vercel.app"
+    },
+    "fantasy-rivals": {
+      "group": "fast",
+      "stale_h": 14,
+      "collectors": [
+        "scripts/heartbeat/watch.py"
+      ],
+      "live": "https://fantasy-rivals-live.vercel.app",
+      "health": "/api/health"
+    },
+    "sonny-angel-archive": {
+      "group": "fast",
+      "stale_h": 14,
+      "collectors": [
+        "scripts/heartbeat/stock.py"
+      ],
+      "live": "https://sonny-angel-archive-live.vercel.app",
+      "forbid_keys": "price"
+    }
+  }
+}

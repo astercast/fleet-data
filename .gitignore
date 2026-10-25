@@ -1,0 +1,4 @@
+src/
+watch.txt
+__pycache__/
+*.pyc
