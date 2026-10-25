@@ -1,7 +1,17 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-25T11:17:38Z",
+ "generated_at": "2026-10-25T16:04:07Z",
  "items": [
+  {
+   "id": "hf-Pexqman/Wan2.2-TI2V-5B-hexpack",
+   "at": "2026-10-25T09:44:03Z",
+   "model": "Pexqman/Wan2.2-TI2V-5B-hexpack",
+   "title": "New text-to-video model listed on Hugging Face: Pexqman/Wan2.2-TI2V-5B-hexpack",
+   "url": "https://huggingface.co/Pexqman/Wan2.2-TI2V-5B-hexpack",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
    "at": "2026-10-25T09:18:02Z",
@@ -1487,16 +1497,6 @@
    "at": "2026-10-13",
    "model": "PixVerse V6",
    "title": "Seventh clean pass (Watchtower 2.17): PixVerse V6's docs source fetched clean at the baseline signature (95c88c96…, 4,278 chars) in the pass's first checker run and in two checker-path probes, all five sources answering (source_status ok in the run's feed), the 2.10 recovery now stands on seven consecutive clean passes, one more than 2.16 claimed. Record unchanged.",
-   "url": null,
-   "kind": "verification",
-   "label": "Verified",
-   "source": "model-history"
-  },
-  {
-   "id": "history-2026-10-13-pixverse-v6-second-clean-pass-2-12",
-   "at": "2026-10-13",
-   "model": "PixVerse V6",
-   "title": "Second clean pass claimed (Watchtower 2.12): PixVerse V6's official docs source fetched clean at its baseline signature (95c88c96…, 4,278 chars) inside both completed checker runs of this pass, with all five sources answering, the second-clean-run evidence 2.11 could not claim (its docs source answered only in an inter-run probe that pass). The 2.10 recovery is now backed by two consecutive clean passes. Record unchanged; severity remains watch only on its own baseline pricing diff.",
    "url": null,
    "kind": "verification",
    "label": "Verified",
