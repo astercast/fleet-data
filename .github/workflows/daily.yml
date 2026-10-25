@@ -1,0 +1,31 @@
+name: daily
+on:
+  schedule: [{cron: "41 4 * * *"}]
+  workflow_dispatch:
+permissions: {contents: write, issues: write}
+concurrency: {group: fleet-data-push, cancel-in-progress: false}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: read the site repos (public, no token)
+        run: |
+          mkdir -p src
+          for s in $(python3 -c "import json;print(' '.join(k for k,v in json.load(open('fleet.json'))['sites'].items() if v['group']=='daily'))"); do
+            git clone --depth 1 -q https://github.com/astercast/$s src/$s || echo "clone failed: $s"
+          done
+      - run: python3 scripts/fleet.py daily
+      - run: python3 scripts/watch.py | tee watch.txt
+      - name: open or close one issue per broken site
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: python3 scripts/issues.py
+      - name: commit only if something changed
+        run: |
+          rm -rf src watch.txt
+          git config user.name "fleet"; git config user.email "fleet@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -qm "fleet data" 
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break || sleep 5; done
