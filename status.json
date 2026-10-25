@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-10-25T06:49:54Z",
+ "generated_at": "2026-10-25T07:00:15Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -10,7 +10,7 @@
     [
      "freshness",
      "ok",
-     "0.1 h old, limit 14 h"
+     "0.2 h old, limit 14 h"
     ],
     [
      "sources",
@@ -20,11 +20,11 @@
     [
      "site",
      "ok",
-     "159 ms"
+     "116 ms"
     ]
    ],
-   "data_age_h": 0.1,
-   "changed_age_h": 0.1,
+   "data_age_h": 0.2,
+   "changed_age_h": 0.2,
    "sources": [
     {
      "id": "arxiv",
@@ -77,7 +77,7 @@
     [
      "site",
      "ok",
-     "225 ms"
+     "42 ms"
     ]
    ],
    "state": "fail"
@@ -88,14 +88,14 @@
    "live": "https://aster-da-master-live.vercel.app",
    "checks": [
     [
-     "collectors",
-     "fail",
-     "missing in site repo: scripts/heartbeat/aster.py"
+     "freshness",
+     "ok",
+     "0.0 h old, limit 50 h"
     ],
     [
-     "data",
-     "warn",
-     "waiting for the first run"
+     "sources",
+     "ok",
+     "all ok"
     ],
     [
      "law",
@@ -105,10 +105,32 @@
     [
      "site",
      "ok",
-     "132 ms"
+     "39 ms"
     ]
    ],
-   "state": "fail"
+   "data_age_h": 0.0,
+   "changed_age_h": null,
+   "sources": [
+    {
+     "id": "deezer",
+     "ok": true,
+     "fails": 0,
+     "items": 25
+    },
+    {
+     "id": "soundcloud",
+     "ok": true,
+     "fails": 0,
+     "items": 185
+    },
+    {
+     "id": "soundcloud-rss",
+     "ok": true,
+     "fails": 0,
+     "items": 20
+    }
+   ],
+   "state": "ok"
   },
   {
    "site": "creator-growth-empire",
@@ -118,7 +140,7 @@
     [
      "freshness",
      "ok",
-     "0.1 h old, limit 14 h"
+     "0.2 h old, limit 14 h"
     ],
     [
      "sources",
@@ -128,11 +150,11 @@
     [
      "site",
      "ok",
-     "126 ms"
+     "98 ms"
     ]
    ],
-   "data_age_h": 0.1,
-   "changed_age_h": 0.1,
+   "data_age_h": 0.2,
+   "changed_age_h": 0.2,
    "sources": [
     {
      "id": "meta-newsroom",
@@ -187,7 +209,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 8 h"
+     "0.2 h old, limit 8 h"
     ],
     [
      "sources",
@@ -197,10 +219,10 @@
     [
      "site",
      "ok",
-     "162 ms"
+     "72 ms"
     ]
    ],
-   "data_age_h": 0.0,
+   "data_age_h": 0.2,
    "changed_age_h": null,
    "sources": [
     {
@@ -320,55 +342,9 @@
    "live": "https://activity-vault-live.vercel.app",
    "checks": [
     [
-     "collectors",
-     "fail",
-     "missing in site repo: scripts/heartbeat/vault.py"
-    ],
-    [
-     "data",
-     "warn",
-     "waiting for the first run"
-    ],
-    [
-     "site",
-     "ok",
-     "240 ms"
-    ]
-   ],
-   "state": "fail"
-  },
-  {
-   "site": "button-mash",
-   "group": "daily",
-   "live": "https://button-mash-live.vercel.app",
-   "checks": [
-    [
-     "collectors",
-     "fail",
-     "missing in site repo: scripts/heartbeat/portplay.py"
-    ],
-    [
-     "data",
-     "warn",
-     "waiting for the first run"
-    ],
-    [
-     "site",
-     "ok",
-     "159 ms"
-    ]
-   ],
-   "state": "fail"
-  },
-  {
-   "site": "car-atlas",
-   "group": "fast",
-   "live": "https://car-atlas-live.vercel.app",
-   "checks": [
-    [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -378,11 +354,125 @@
     [
      "site",
      "ok",
-     "219 ms"
+     "38 ms"
     ]
    ],
    "data_age_h": 0.0,
    "changed_age_h": 0.0,
+   "sources": [
+    {
+     "id": "commons-photo-scout",
+     "ok": true,
+     "fails": 0,
+     "items": 39
+    },
+    {
+     "id": "feed-buggyandbuddy",
+     "ok": true,
+     "fails": 0,
+     "items": 12
+    },
+    {
+     "id": "feed-handsonaswegrow",
+     "ok": true,
+     "fails": 0,
+     "items": 7
+    },
+    {
+     "id": "feed-kidsactivitiesblog",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "feed-littlebins",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "feed-teachbesideme",
+     "ok": true,
+     "fails": 0,
+     "items": 10
+    },
+    {
+     "id": "feed-weareteachers",
+     "ok": true,
+     "fails": 0,
+     "items": 16
+    }
+   ],
+   "state": "ok"
+  },
+  {
+   "site": "button-mash",
+   "group": "daily",
+   "live": "https://button-mash-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.0 h old, limit 50 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
+    ],
+    [
+     "site",
+     "ok",
+     "100 ms"
+    ]
+   ],
+   "data_age_h": 0.0,
+   "changed_age_h": null,
+   "sources": [
+    {
+     "id": "cdn",
+     "ok": true,
+     "fails": 0,
+     "items": 1
+    },
+    {
+     "id": "pin",
+     "ok": true,
+     "fails": 0,
+     "items": 1
+    },
+    {
+     "id": "vendored",
+     "ok": true,
+     "fails": 0,
+     "items": 1
+    }
+   ],
+   "state": "ok"
+  },
+  {
+   "site": "car-atlas",
+   "group": "fast",
+   "live": "https://car-atlas-live.vercel.app",
+   "checks": [
+    [
+     "freshness",
+     "ok",
+     "0.2 h old, limit 14 h"
+    ],
+    [
+     "sources",
+     "ok",
+     "all ok"
+    ],
+    [
+     "site",
+     "ok",
+     "72 ms"
+    ]
+   ],
+   "data_age_h": 0.2,
+   "changed_age_h": 0.2,
    "sources": [
     {
      "id": "bat",
@@ -407,7 +497,7 @@
     [
      "site",
      "ok",
-     "140 ms"
+     "109 ms"
     ]
    ],
    "state": "ok"
@@ -420,7 +510,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "0.2 h old, limit 14 h"
     ],
     [
      "sources",
@@ -430,7 +520,7 @@
     [
      "site",
      "ok",
-     "147 ms"
+     "44 ms"
     ],
     [
      "health",
@@ -438,8 +528,8 @@
      "ok"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 0.2,
+   "changed_age_h": 0.2,
    "sources": [
     {
      "id": "liquipedia",
@@ -458,7 +548,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "0.2 h old, limit 14 h"
     ],
     [
      "sources",
@@ -473,10 +563,10 @@
     [
      "site",
      "ok",
-     "129 ms"
+     "35 ms"
     ]
    ],
-   "data_age_h": 0.0,
+   "data_age_h": 0.2,
    "changed_age_h": null,
    "sources": [
     {

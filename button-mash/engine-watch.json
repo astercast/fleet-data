@@ -1,0 +1,8 @@
+{
+ "format": "engine-watch/1",
+ "checked_at": "2026-10-25T07:00:13Z",
+ "pinned": "4.2.3",
+ "latest": "4.2.3",
+ "update_available": false,
+ "note": "Flag only. The pinned engine never auto-updates; upgrading is re-vendor + config change + fixture tests, by a human."
+}

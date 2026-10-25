@@ -1,0 +1,45 @@
+{
+ "format": "pulse/2",
+ "generated_at": "2026-10-25T06:59:20Z",
+ "stale_after_h": 26,
+ "healthy": true,
+ "sources_ok": 3,
+ "sources_total": 3,
+ "last_data_change_at": null,
+ "sources": [
+  {
+   "id": "deezer",
+   "label": "Deezer artist albums",
+   "url": "https://www.deezer.com/artist/66649262",
+   "ok": true,
+   "items": 25,
+   "checked_at": "2026-10-25T06:59:20Z",
+   "last_ok_at": "2026-10-25T06:59:20Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "soundcloud",
+   "label": "SoundCloud profile",
+   "url": "https://soundcloud.com/asterdamaster",
+   "ok": true,
+   "items": 185,
+   "checked_at": "2026-10-25T06:59:20Z",
+   "last_ok_at": "2026-10-25T06:59:20Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "soundcloud-rss",
+   "label": "SoundCloud RSS",
+   "url": "https://soundcloud.com/asterdamaster",
+   "ok": true,
+   "items": 20,
+   "checked_at": "2026-10-25T06:59:20Z",
+   "last_ok_at": "2026-10-25T06:59:20Z",
+   "error": null,
+   "fails_in_a_row": 0
+  }
+ ],
+ "changes": []
+}

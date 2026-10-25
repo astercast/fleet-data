@@ -1,0 +1,45 @@
+{
+ "format": "pulse/2",
+ "generated_at": "2026-10-25T07:00:13Z",
+ "stale_after_h": 50,
+ "healthy": true,
+ "sources_ok": 3,
+ "sources_total": 3,
+ "last_data_change_at": null,
+ "sources": [
+  {
+   "id": "cdn",
+   "label": "EmulatorJS stable channel",
+   "url": "https://cdn.emulatorjs.org/stable/data/version.json",
+   "ok": true,
+   "items": 1,
+   "checked_at": "2026-10-25T07:00:13Z",
+   "last_ok_at": "2026-10-25T07:00:13Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "pin",
+   "label": "Pinned engine version",
+   "url": "assets/js/config.js",
+   "ok": true,
+   "items": 1,
+   "checked_at": "2026-10-25T07:00:13Z",
+   "last_ok_at": "2026-10-25T07:00:13Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "vendored",
+   "label": "Vendored engine copy",
+   "url": "assets/emulatorjs/data/version.json",
+   "ok": true,
+   "items": 1,
+   "checked_at": "2026-10-25T07:00:13Z",
+   "last_ok_at": "2026-10-25T07:00:13Z",
+   "error": null,
+   "fails_in_a_row": 0
+  }
+ ],
+ "changes": []
+}

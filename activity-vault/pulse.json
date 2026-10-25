@@ -1,0 +1,378 @@
+{
+ "format": "pulse/2",
+ "generated_at": "2026-10-25T07:00:13Z",
+ "stale_after_h": 26,
+ "healthy": true,
+ "sources_ok": 7,
+ "sources_total": 7,
+ "last_data_change_at": "2026-10-25T06:59:21Z",
+ "sources": [
+  {
+   "id": "commons-photo-scout",
+   "label": "Wikimedia Commons photo scout",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "ok": true,
+   "items": 39,
+   "checked_at": "2026-10-25T07:00:13Z",
+   "last_ok_at": "2026-10-25T07:00:13Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "feed-buggyandbuddy",
+   "label": "Buggy and Buddy",
+   "url": "https://buggyandbuddy.com/feed/",
+   "ok": true,
+   "items": 12,
+   "checked_at": "2026-10-25T06:59:23Z",
+   "last_ok_at": "2026-10-25T06:59:23Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "feed-handsonaswegrow",
+   "label": "Hands On As We Grow",
+   "url": "https://handsonaswegrow.com/feed/",
+   "ok": true,
+   "items": 7,
+   "checked_at": "2026-10-25T06:59:22Z",
+   "last_ok_at": "2026-10-25T06:59:22Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "feed-kidsactivitiesblog",
+   "label": "Kids Activities Blog",
+   "url": "https://kidsactivitiesblog.com/feed/",
+   "ok": true,
+   "items": 10,
+   "checked_at": "2026-10-25T06:59:23Z",
+   "last_ok_at": "2026-10-25T06:59:23Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "feed-littlebins",
+   "label": "Little Bins for Little Hands",
+   "url": "https://littlebinsforlittlehands.com/feed/",
+   "ok": true,
+   "items": 10,
+   "checked_at": "2026-10-25T06:59:22Z",
+   "last_ok_at": "2026-10-25T06:59:22Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "feed-teachbesideme",
+   "label": "Teach Beside Me",
+   "url": "https://teachbesideme.com/feed/",
+   "ok": true,
+   "items": 10,
+   "checked_at": "2026-10-25T06:59:22Z",
+   "last_ok_at": "2026-10-25T06:59:22Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "feed-weareteachers",
+   "label": "WeAreTeachers",
+   "url": "https://www.weareteachers.com/feed/",
+   "ok": true,
+   "items": 16,
+   "checked_at": "2026-10-25T06:59:21Z",
+   "last_ok_at": "2026-10-25T06:59:21Z",
+   "error": null,
+   "fails_in_a_row": 0
+  }
+ ],
+ "changes": [
+  {
+   "at": "2026-10-25T06:59:21Z",
+   "kind": "post",
+   "title": "How One Teacher Turned Everyday Art Supplies From School Smart Into Powerful Learning Tools",
+   "ref": "https://www.weareteachers.com/teacher-picks-school-smart/?utm_source=rss&utm_medium=rss&utm_campaign=teacher-picks-school-smart"
+  },
+  {
+   "at": "2026-10-25T06:59:21Z",
+   "kind": "post",
+   "title": "50+ Conclusion Sentence Starters (Plus Free Printable)",
+   "ref": "https://www.weareteachers.com/conclusion-sentence-starters/?utm_source=rss&utm_medium=rss&utm_campaign=conclusion-sentence-starters"
+  },
+  {
+   "at": "2026-10-25T06:59:21Z",
+   "kind": "post",
+   "title": "120+ Winter Words for Writing, Vocab, and More (Free Printable)",
+   "ref": "https://www.weareteachers.com/winter-words/?utm_source=rss&utm_medium=rss&utm_campaign=winter-words"
+  },
+  {
+   "at": "2026-10-25T06:59:21Z",
+   "kind": "post",
+   "title": "200+ Festive Holiday Words for Writing and More (Free Printable)",
+   "ref": "https://www.weareteachers.com/holiday-words/?utm_source=rss&utm_medium=rss&utm_campaign=holiday-words"
+  },
+  {
+   "at": "2026-10-25T06:59:21Z",
+   "kind": "post",
+   "title": "Free Printable Argumentative & Persuasive Essay Graphic Organizers",
+   "ref": "https://www.weareteachers.com/argumentative-persuasive-essay-graphic-organizers/?utm_source=rss&utm_medium=rss&utm_campaign=argumentative-persuasive-essay-graphic-organizers"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "45 Fall Tree Crafts that are Gorgeous for Kids to Make",
+   "ref": "https://handsonaswegrow.com/fall-tree-crafts-art/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Cute Potato Stamping Jack-O-Lanterns for Fall",
+   "ref": "https://handsonaswegrow.com/potato-stamping-jack-o-lantern/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "25 Easy Christmas Crafts for Kids to Make",
+   "ref": "https://handsonaswegrow.com/easy-christmas-crafts-kids/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Listening Activity with Blocks",
+   "ref": "https://handsonaswegrow.com/listening-activity-with-blocks/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Toddler Craft: Wrapping Paper Stocking",
+   "ref": "https://handsonaswegrow.com/toddler-craft-wrapping-paper-stocking/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Halloween Play Dough Mats – Printable Fine Motor Activities",
+   "ref": "https://teachbesideme.com/halloween-play-dough-mats-printable-fine-motor-activities/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Halloween Would You Rather Questions for Kids",
+   "ref": "https://teachbesideme.com/halloween-would-you-rather-questions-for-kids/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Halloween Charades for Kids: Free Printable Game Cards",
+   "ref": "https://teachbesideme.com/halloween-charades-for-kids-free-printable-game-cards/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Michigan State Geography for Kids: Printable Learning Pack",
+   "ref": "https://teachbesideme.com/michigan-state-geography-for-kids-printable-learning-pack/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Halloween Pattern Block Mats: Fun Printable Shape Activities",
+   "ref": "https://teachbesideme.com/halloween-pattern-block-mats-10-fun-printable-shape-activities/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Pumpkin CSI: Hands-on STEM Mystery for Kids",
+   "ref": "https://teachbesideme.com/pumpkin-csi-a-pumpkin-stem-activity-science-mystery/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Addition Games for Kids: Fun Hands-On Math Activities",
+   "ref": "https://teachbesideme.com/addition-games-for-kids/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Spider Life Cycle for Kids + Free Printable Worksheets",
+   "ref": "https://teachbesideme.com/spider-life-cycle-for-kids-free-printable-worksheets/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Free Halloween Printables for Kids",
+   "ref": "https://littlebinsforlittlehands.com/halloween-printables/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Turkey Hide and Seek Art Project for Kids",
+   "ref": "https://littlebinsforlittlehands.com/turkey-hide-and-seek-art-project-for-kids/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Turkey Camouflage Art Project for Kids",
+   "ref": "https://littlebinsforlittlehands.com/turkey-camouflage-art/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Turkey Agamograph Art Project for Kids",
+   "ref": "https://littlebinsforlittlehands.com/turkey-agamograph/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Disguise a Turkey Printable Craft for Kids",
+   "ref": "https://littlebinsforlittlehands.com/turkey-disguise-printable/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Easy Thanksgiving Art Projects for Kids",
+   "ref": "https://littlebinsforlittlehands.com/thanksgiving-crafts-for-kids/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Bubbling Halloween Slime Recipe (Witch’s Brew)",
+   "ref": "https://littlebinsforlittlehands.com/bubbling-halloween-slime/"
+  },
+  {
+   "at": "2026-10-25T06:59:22Z",
+   "kind": "post",
+   "title": "Candy Catapult For Halloween STEM",
+   "ref": "https://littlebinsforlittlehands.com/halloween-popsicle-stick-catapult-stem-activity/"
+  },
+  {
+   "at": "2026-10-25T06:59:23Z",
+   "kind": "post",
+   "title": "Roll A Story: Halloween Edition",
+   "ref": "https://kidsactivitiesblog.com/310882/roll-a-story-halloween-edition/"
+  },
+  {
+   "at": "2026-10-25T06:59:23Z",
+   "kind": "post",
+   "title": "Black Cat Handprint Craft For Preschoolers",
+   "ref": "https://kidsactivitiesblog.com/18891/halloween-crafts-for-kids/"
+  },
+  {
+   "at": "2026-10-25T06:59:23Z",
+   "kind": "post",
+   "title": "Free Printable Cute Spider Template",
+   "ref": "https://kidsactivitiesblog.com/285124/spider-template/"
+  },
+  {
+   "at": "2026-10-25T06:59:23Z",
+   "kind": "post",
+   "title": "Free Printable Puzzle for Kids to Celebrate Day of the Dead",
+   "ref": "https://kidsactivitiesblog.com/151575/get-these-printable-puzzles-to-celebrate-day-of-the-dead/"
+  },
+  {
+   "at": "2026-10-25T06:59:23Z",
+   "kind": "post",
+   "title": "Make an Easy Pumpkin Window Cling Craft for Halloween",
+   "ref": "https://kidsactivitiesblog.com/18519/pumpkin/"
+  },
+  {
+   "at": "2026-10-25T06:59:23Z",
+   "kind": "post",
+   "title": "Video Game Supply Drop Costume",
+   "ref": "https://kidsactivitiesblog.com/130149/video-game-supply-drop-costume/"
+  },
+  {
+   "at": "2026-10-25T06:59:23Z",
+   "kind": "post",
+   "title": "Gingerbread Playdough Recipe with Gingerbread Activities",
+   "ref": "https://kidsactivitiesblog.com/21858/christmas-preschool-craft/"
+  },
+  {
+   "at": "2026-10-25T06:59:23Z",
+   "kind": "post",
+   "title": "Homemade Christmas Ornaments Kids Can Make",
+   "ref": "https://kidsactivitiesblog.com/77922/ornaments-kids-can-make/"
+  },
+  {
+   "at": "2026-10-25T06:59:27Z",
+   "kind": "photo-candidate",
+   "title": "Two Foot Landing Pads",
+   "ref": "https://commons.wikimedia.org/wiki/File:Apollo_11_lunar_surface_panoramic_views_(S69-44463).jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:28Z",
+   "kind": "photo-candidate",
+   "title": "Eight Lights Line Up",
+   "ref": "https://commons.wikimedia.org/wiki/File:Komsomolskaya_(Koltsevaya_Line)_(19341949774).jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:29Z",
+   "kind": "photo-candidate",
+   "title": "Find a Friend Wearing",
+   "ref": "https://commons.wikimedia.org/wiki/File:This_Man_is_Your_Friend_-_He_Fights_for_Freedom_-_Canadian_-_DPLA_-_ca03838fb5f7b874dd7147553651a832.jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:31Z",
+   "kind": "photo-candidate",
+   "title": "Felt Tree, One by One",
+   "ref": "https://commons.wikimedia.org/wiki/File:Blessed_tree_(21033023751).jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:33Z",
+   "kind": "photo-candidate",
+   "title": "Sun Patch, Shade Patch",
+   "ref": "https://commons.wikimedia.org/wiki/File:Lake_on_north_side_of_the_Denali_(54644198983).jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:34Z",
+   "kind": "photo-candidate",
+   "title": "Rain Call: To the Rug",
+   "ref": "https://commons.wikimedia.org/wiki/File:Istanbul_Turkish_and_Islamic_Museum_U%C5%9Fak_with_%C3%A7intamani_and_cloud_motif_16th_century_in_2006_24_034.jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:37Z",
+   "kind": "photo-candidate",
+   "title": "Name Echo, Two Claps",
+   "ref": "https://commons.wikimedia.org/wiki/File:A_magnificent_view_of_the_huge_Gol_Gumbaz_in_Black_and_White,_indicating_the_by_gone_era.The_mausoleum_of_king_Muhammad_Adil_Shah,_Adil_Shah_Dynasty.jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:39Z",
+   "kind": "photo-candidate",
+   "title": "One Shake, Pass It Around",
+   "ref": "https://commons.wikimedia.org/wiki/File:Anak_Gajah_bermain_di_Kolam.jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:40Z",
+   "kind": "photo-candidate",
+   "title": "Sticky Window Big Shapes",
+   "ref": "https://commons.wikimedia.org/wiki/File:Fictional_moon_system_4.png"
+  },
+  {
+   "at": "2026-10-25T06:59:42Z",
+   "kind": "photo-candidate",
+   "title": "Big Heart Hand Delivery",
+   "ref": "https://commons.wikimedia.org/wiki/File:Seasons-switching_1st.jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:44Z",
+   "kind": "photo-candidate",
+   "title": "Big Pot Stir-Together",
+   "ref": "https://commons.wikimedia.org/wiki/File:Odia_Mutton_Curry_(Mansha_Tarkari).jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:47Z",
+   "kind": "photo-candidate",
+   "title": "Long Banner Carry-Together",
+   "ref": "https://commons.wikimedia.org/wiki/File:Blueskin_Bay_banner.jpg"
+  },
+  {
+   "at": "2026-10-25T06:59:49Z",
+   "kind": "photo-candidate",
+   "title": "How I Got Here Moves",
+   "ref": "https://commons.wikimedia.org/wiki/File:Eddie_August_Schneider_(1911-1940)_writing_in_Flying_magazine_on_September_1,_1931_with_Look_Out,_Lindbergh_-_Here_I_Come._This_is_page_25_of_the_magazine._This_is_page_1_of_4.png"
+  },
+  {
+   "at": "2026-10-25T06:59:51Z",
+   "kind": "photo-candidate",
+   "title": "Paint the Big Box House",
+   "ref": "https://commons.wikimedia.org/wiki/File:First_Nations_art_objects_UBC-2009.jpg"
+  }
+ ]
+}
