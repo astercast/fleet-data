@@ -1,0 +1,417 @@
+{
+ "format": "pulse/2",
+ "generated_at": "2026-10-25T13:24:45Z",
+ "stale_after_h": 26,
+ "healthy": true,
+ "sources_ok": 4,
+ "sources_total": 4,
+ "last_data_change_at": "2026-10-25T13:24:38Z",
+ "sources": [
+  {
+   "id": "cmdstore",
+   "label": "CMDStore catalog",
+   "url": "https://cmdstore.com/products.json?limit=250",
+   "ok": true,
+   "items": 64,
+   "checked_at": "2026-10-25T13:24:38Z",
+   "last_ok_at": "2026-10-25T13:24:38Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "gnews",
+   "label": "Google News: Marvel Legends",
+   "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items": 100,
+   "checked_at": "2026-10-25T13:24:45Z",
+   "last_ok_at": "2026-10-25T13:24:45Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "preorders",
+   "label": "Preorder + drop windows",
+   "url": null,
+   "ok": true,
+   "items": 28,
+   "checked_at": "2026-10-25T13:24:45Z",
+   "last_ok_at": "2026-10-25T13:24:45Z",
+   "error": null,
+   "fails_in_a_row": 0
+  },
+  {
+   "id": "toyarena",
+   "label": "ToyArena catalog",
+   "url": "https://toyarena.com/products.json?limit=250",
+   "ok": true,
+   "items": 47,
+   "checked_at": "2026-10-25T13:24:44Z",
+   "last_ok_at": "2026-10-25T13:24:44Z",
+   "error": null,
+   "fails_in_a_row": 0
+  }
+ ],
+ "changes": [
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man Wave 3 - Chasm (Shelf Wear Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-wave-3-chasm-5010994181284dmg"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Gamerverse 6 Inch Action Figure 2-Pack Exclusive - Psylocke vs Thanos (Sub-Standard Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-gamerverse-2-pack-exclusive-psylocke-vs-thanos-5010996313201dmg"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Comics Inspired 6 Inch Action Figure Wave 1 - Daken (Wolverine) (Sub-Standard Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-comics-inspired-wave-1-daken-wolverine-5010996290953dmg"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure Deluxe - MODOK (Shelf Wear Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-deluxe-modok-5010993792528dmg"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends 6 Inch Action Figure Series 6 - Green Phoenix With Comic",
+   "ref": "https://cmdstore.com/products/marvel-legends-action-figures-series-6-green-phoenix-with-comic"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Smythe (Pre-Order Ships Jan. 2027)",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-smythe-5010996472946"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Aunt May (Pre-Order Ships Jan. 2027)",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-aunt-may-5010996472960"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Maximum Carnage (Pre-Order Ships Jan. 2027)",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-maximum-carnage-5010996472922"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Mary Jane Watson (Pre-Order Ships Jan. 2027)",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-mary-jane-watson-5010996472984"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Spider-Man 6 Inch Action Figure Holiday Special - Christmas Spider-Man (Pre-Order Ships Dec. 2026)",
+   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-holiday-special-christmas-spider-man-5010996411495"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Spider-Man 6 Inch Action Figure Exclusive - Spider-Man No Way Home",
+   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-exclusive-spider-man-no-way-home-5010996414939"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure X-Men Exclusive - Cypher",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-x-men-exclusive-cypher-5010996451972"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends X-Men Movie 6 Inch Action Figure - Mystique",
+   "ref": "https://cmdstore.com/products/marvel-legends-x-men-movie-mystique-5010993722204"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends X-Men 97' 7 Inch Action Figure Deluxe - Beast",
+   "ref": "https://cmdstore.com/products/marvel-legends-x-men-97-deluxe-beast-5010996448019"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Gamerverse 6 Inch Action Figure 2-Pack - Wolverine vs Psylocke (Pre-Order Ships Dec. 2026)",
+   "ref": "https://cmdstore.com/products/marvel-legends-gamerverse-2-pack-wolverine-vs-psylocke-5010996411532"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Gamerverse 6 Inch Action Figure 2-Pack - Iron Man vs Spiral",
+   "ref": "https://cmdstore.com/products/marvel-legends-gamerverse-2-pack-iron-man-vs-spiral-5010996352514"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Web Splat Spider-Man (Pre-Order Ships Dec. 2026)",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-web-splat-spider-man-5010994158477"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man Exclusive - Venom (Pre-Order Ships Dec. 2026)",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-exclusive-venom-5010993882762"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Spider-Man 6 Inch Action Figure Maximum Series - Symbiote Spider-Man (Pre-Order Ships Oct. 2026)",
+   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-maximum-series-symbiote-spider-man-5010996411471"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure Magic The Gathering Wave 2 - Malice (Sue Storm)",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-magic-the-gathering-wave-2-malice-sue-storm-5010996411396"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure Magic The Gathering Wave 2 - Captain America (Avengers Twilight)",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-magic-the-gathering-wave-2-captain-america-avengers-twilight-5010996411327"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure Magic The Gathering Wave 2 - Doctor Doom 2099",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-magic-the-gathering-wave-2-doctor-doom-2099-5010996411372"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Fantastic Four 6 Inch Action Figure Multi-Pack - Mole Man & Moloids",
+   "ref": "https://cmdstore.com/products/marvel-legends-fantastic-four-multi-pack-mole-man-moloids-5010996411228"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure 2-Pack - Vision & Scarlet Witch",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-2-pack-vision-scarlet-witch-5010996434753"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Thor",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-thor-5010996355799"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Set of 6",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-set-of-6-g20385l00"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Doctor Doom",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-doctor-doom-5010996355782"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Shang-Chi",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-shang-chi-5010996355843"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Gambit",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-gambit-5010996355812"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Captain America (Falcon)",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-captain-america-falcon-5010996355836"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Cyclops",
+   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-cyclops-5010996355805"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Gamerverse 6 Inch Action Figure 2-Pack - War Machine vs Omega Red",
+   "ref": "https://cmdstore.com/products/marvel-legends-gamerverse-2-pack-war-machine-vs-omega-red-5010996320513"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Deadpool & Wolverine 6 Inch Action Figure - Wolverinepool",
+   "ref": "https://cmdstore.com/products/marvel-legends-deadpool-wolverine-wolverinepool-5010996407443"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Deadpool & Wolverine 6 Inch Action Figure - The Cavillrine",
+   "ref": "https://cmdstore.com/products/marvel-legends-deadpool-wolverine-the-cavillrine-5010996407450"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Thunderbolts 6 Inch Action Figure 2-Pack - Valentina Allegra de Fontaine & The Void",
+   "ref": "https://cmdstore.com/products/marvel-legends-thunderbolts-2-pack-valentina-allegra-de-fontaine-the-void-5010996407276"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Deadpool & Wolverine 6 Inch Action Figure - X-Force Deadpool",
+   "ref": "https://cmdstore.com/products/marvel-legends-deadpool-wolverine-x-force-deadpool-5010996457431"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends 6 Inch Action Figure Apocalypse Series - Wolverine Unmasked Variant",
+   "ref": "https://cmdstore.com/products/marvel-legends-action-figures-series-12-wolverine-variant"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends 6 Inch Action Figure Series 5 - Red Skull",
+   "ref": "https://cmdstore.com/products/marvel-legends-action-figures-series-5-red-skull"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Marvel's Mysterio Immersive Illusions",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-marvel-s-mysterio-5010996323101"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Spider-Man No Way Home 6 Inch Action Figure Deluxe - Green Goblin",
+   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-no-way-home-deluxe-green-goblin-5010996352378"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends The Incredible Hulk 6 Inch Action Figure Deluxe - Doc Samson",
+   "ref": "https://cmdstore.com/products/marvel-legends-the-incredible-hulk-deluxe-doc-samson-5010996411709"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Disney+ 6 Inch Action Figure What If BAF The Watcher - Zombie Captain America (Shelf Wear packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-disney-what-if-baf-the-watcher-zombie-captain-america-5010993797295"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Infinite 6 Inch Action Figure 80 Year Anniversary - War Machine Punisher (Shelf Wear packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-infinite-80-year-anniversary-6-inch-action-figure-war-machine-punisher"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 8 Inch Action Figure X-Men Exclusive - Onslaught",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-x-men-exclusive-onslaught-5010996411419"
+  },
+  {
+   "at": "2026-10-25T13:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends 6 Inch Action Figure MODOK Series - Beta Ray Bill (Sub-Standard Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-action-figures-series-15-beta-ray-bill"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Deadpool & Wolverine Wolverine (Shirtless) Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-deadpool-wolverine-wolverine-shirtless-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Retro Onslaught Exclusive Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-retro-onslaught-exclusive-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Retro Spider-Man Noir Exclusive Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-retro-spider-man-noir-exclusive-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Rivals The Punisher Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-rivals-the-punisher-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Rivals Spider-Man and Luna Snow Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-rivals-spider-man-and-luna-snow-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Fantastic Four Mole Man & Moloids Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-fantastic-four-mole-man-moloids-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Future Foundation Mister Fantastic & Spider-Man 2 Pack Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-future-foundation-mister-fantastic-spider-man-2-pack-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Future Foundation The Thing & Invisible Woman 2 Pack Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-future-foundation-the-thing-invisible-woman-2-pack-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends The Incredible Hulk Doc Samson Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-the-incredible-hulk-doc-samson-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Maximum Series Thor Action Figure",
+   "ref": "https://toyarena.com/products/pre-sale-marvel-legends-maximum-series-thor-action-figure-1"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Rivals Venom and Jeff the Land Shark Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-rivals-venom-and-jeff-the-land-shark-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Rivals Moon Knight Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-rivals-moon-knight-action-figure"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: SDCC 2026 Marvel Legends Series Spider-Man, Marvel's Lizard, & Marvel's Electro Action Figure Exclusive",
+   "ref": "https://toyarena.com/products/sdcc-2026-marvel-legends-series-spider-man-marvels-lizard-marvels-electro-action-figure-exclusive"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: SDCC 2026 Marvel Legends Series X-Men '97 Professor Charles Xavier & Hoverchair Action Figure Exclusive",
+   "ref": "https://toyarena.com/products/sdcc-2026-marvel-legends-series-x-men-97-professor-charles-xavier-hoverchair-action-figure-exclusive"
+  },
+  {
+   "at": "2026-10-25T13:24:44Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends U.S. Agent (Force Works) (BAF Marvel's Box) Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-u-s-agent-force-works-baf-marvels-box-action-figure"
+  }
+ ]
+}

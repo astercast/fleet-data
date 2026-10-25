@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-10-25T11:19:13Z",
+ "generated_at": "2026-10-25T13:25:53Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -10,7 +10,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "2.1 h old, limit 14 h"
     ],
     [
      "sources",
@@ -20,11 +20,11 @@
     [
      "site",
      "ok",
-     "113 ms"
+     "123 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 2.1,
+   "changed_age_h": 2.1,
    "sources": [
     {
      "id": "arxiv",
@@ -65,22 +65,50 @@
    "live": "https://marvel-legends-chronicle-live.vercel.app",
    "checks": [
     [
-     "collectors",
-     "fail",
-     "missing in site repo: scripts/heartbeat/marvel.py"
+     "freshness",
+     "ok",
+     "0.0 h old, limit 50 h"
     ],
     [
-     "data",
-     "warn",
-     "waiting for the first run"
+     "sources",
+     "ok",
+     "all ok"
     ],
     [
      "site",
      "ok",
-     "274 ms"
+     "140 ms"
     ]
    ],
-   "state": "fail"
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
+   "sources": [
+    {
+     "id": "cmdstore",
+     "ok": true,
+     "fails": 0,
+     "items": 64
+    },
+    {
+     "id": "gnews",
+     "ok": true,
+     "fails": 0,
+     "items": 100
+    },
+    {
+     "id": "preorders",
+     "ok": true,
+     "fails": 0,
+     "items": 28
+    },
+    {
+     "id": "toyarena",
+     "ok": true,
+     "fails": 0,
+     "items": 47
+    }
+   ],
+   "state": "ok"
   },
   {
    "site": "aster-da-master",
@@ -90,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "4.3 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -105,10 +133,10 @@
     [
      "site",
      "ok",
-     "216 ms"
+     "102 ms"
     ]
    ],
-   "data_age_h": 4.3,
+   "data_age_h": 0.0,
    "changed_age_h": null,
    "sources": [
     {
@@ -140,7 +168,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "2.1 h old, limit 14 h"
     ],
     [
      "sources",
@@ -150,11 +178,11 @@
     [
      "site",
      "ok",
-     "255 ms"
+     "147 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 2.1,
+   "changed_age_h": 2.1,
    "sources": [
     {
      "id": "meta-newsroom",
@@ -209,7 +237,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 8 h"
+     "2.1 h old, limit 8 h"
     ],
     [
      "sources",
@@ -219,10 +247,10 @@
     [
      "site",
      "ok",
-     "100 ms"
+     "141 ms"
     ]
    ],
-   "data_age_h": 0.0,
+   "data_age_h": 2.1,
    "changed_age_h": null,
    "sources": [
     {
@@ -344,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "4.3 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -354,17 +382,17 @@
     [
      "site",
      "ok",
-     "100 ms"
+     "127 ms"
     ]
    ],
-   "data_age_h": 4.3,
-   "changed_age_h": 4.3,
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "commons-photo-scout",
      "ok": true,
      "fails": 0,
-     "items": 39
+     "items": 47
     },
     {
      "id": "feed-buggyandbuddy",
@@ -413,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "4.3 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -423,10 +451,10 @@
     [
      "site",
      "ok",
-     "101 ms"
+     "211 ms"
     ]
    ],
-   "data_age_h": 4.3,
+   "data_age_h": 0.0,
    "changed_age_h": null,
    "sources": [
     {
@@ -458,7 +486,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "2.1 h old, limit 14 h"
     ],
     [
      "sources",
@@ -468,11 +496,11 @@
     [
      "site",
      "ok",
-     "219 ms"
+     "113 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 4.5,
+   "data_age_h": 2.1,
+   "changed_age_h": 6.6,
    "sources": [
     {
      "id": "bat",
@@ -497,7 +525,7 @@
     [
      "site",
      "ok",
-     "110 ms"
+     "208 ms"
     ]
    ],
    "state": "ok"
@@ -510,7 +538,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "2.1 h old, limit 14 h"
     ],
     [
      "sources",
@@ -520,7 +548,7 @@
     [
      "site",
      "ok",
-     "307 ms"
+     "103 ms"
     ],
     [
      "health",
@@ -528,8 +556,8 @@
      "ok"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 4.5,
+   "data_age_h": 2.1,
+   "changed_age_h": 6.6,
    "sources": [
     {
      "id": "liquipedia",
@@ -548,7 +576,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "2.1 h old, limit 14 h"
     ],
     [
      "sources",
@@ -563,10 +591,10 @@
     [
      "site",
      "ok",
-     "110 ms"
+     "193 ms"
     ]
    ],
-   "data_age_h": 0.0,
+   "data_age_h": 2.1,
    "changed_age_h": null,
    "sources": [
     {
