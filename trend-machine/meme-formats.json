@@ -1,0 +1,459 @@
+{
+ "generated_at": "2026-10-25T08:37:35.661509+00:00",
+ "version": 1,
+ "method": "Hand-curated by a wave-worker from web research (Oct 2026), never by an LLM. verification: 'verified' = 2+ independent sources agree; 'single-source' = one source or creator lore, flagged, not trusted. status: rising/peak/fading for the current cycle; established = long-lived format, not a current surge; evergreen = always-recurring debate template. The pipeline matches topics to families with conservative word-boundary regexes (see pipeline/format_families.py) and re-computes every run, so family links are derived, never stale.",
+ "families": [
+  {
+   "curated": "2026-10-11",
+   "description": "Low-angle stalking walk (legs only, no text, no talking) → zoom-out reveal of the full costume. The slow build is the whole format; the walk IS the video.",
+   "examples": [
+    {
+     "evidence": "430.7K videos (SocialPilot, Sept 25-Oct 5); back from last Halloween per Tlinky",
+     "name": "Ramalama Costume Walk",
+     "sources": [
+      {
+       "name": "SocialPilot",
+       "url": "https://www.socialpilot.co/blog/tiktok-trends"
+      },
+      {
+       "name": "New Engen",
+       "url": "https://newengen.com/insights/october-tiktok-trends/"
+      },
+      {
+       "name": "Virlo",
+       "url": "https://virlo.ai/blog/whats-trending-on-tiktok"
+      }
+     ]
+    },
+    {
+     "evidence": "SocialPilot's #1 caption variant of the cycle (Vadbav, Oct 7, 2026): start ordinary, cut to the full costume on the drum drop, caption 'Did I win this trend?'",
+     "name": "Did I Win This Trend?",
+     "sources": [
+      {
+       "name": "SocialPilot",
+       "url": "https://www.socialpilot.co/blog/tiktok-trends"
+      },
+      {
+       "name": "New Engen",
+       "url": "https://newengen.com/insights/october-tiktok-trends/"
+      }
+     ]
+    },
+    {
+     "evidence": "Single source: SocialBee Oct 7, 2026, one person freezes while the camera circles to show the outfit; nostalgia for 2016",
+     "name": "Mannequin Challenge revival (fit checks)",
+     "sources": [
+      {
+       "name": "SocialBee",
+       "url": "http://socialbee.com/blog/tiktok-trends-you-cant-miss/"
+      }
+     ],
+     "verification": "single-source"
+    }
+   ],
+   "id": "costume-walk",
+   "keywords": [
+    "ramalama",
+    "costume walk",
+    "did i win this trend",
+    "costume reveal",
+    "mannequin challenge"
+   ],
+   "name": "Costume walks",
+   "status": "rising",
+   "status_note": "The first big costume-reveal format of the October 2026 cycle; runs through Halloween (Oct 31).",
+   "verification": "verified",
+   "tracked_topics": [
+    "did-i-win-this-trend",
+    "mannequin-revival",
+    "ramalama-walk",
+    "spooky-season"
+   ]
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "Point-of-view framing that drops the viewer inside a scenario: dating someone/something, preparing for a fake documentary close-up, or starring in your own 2026. The POV line sets the scene; the performance sells it.",
+   "examples": [
+    {
+     "evidence": "Thousands of users on the format per HerCampus (Oct 2026): sit in an empty chair interview-style, look off-camera, allude to something dramatic; viral sound is 'On A Mission' by Duomo",
+     "name": "Netflix documentary parody",
+     "sources": [
+      {
+       "name": "HerCampus",
+       "url": "https://www.hercampus.com/culture/netflix-documentary-tiktok-trend-explainer/"
+      },
+      {
+       "name": "SocialBee",
+       "url": "http://socialbee.com/blog/tiktok-trends-you-cant-miss/"
+      }
+     ]
+    },
+    {
+     "evidence": "Single source: SocialBee Oct 7, 2026, imagine dating anything (a brand, a character, an object), stitch funny exaggerated clips of the quirks",
+     "name": "POV: you're dating…",
+     "sources": [
+      {
+       "name": "SocialBee",
+       "url": "http://socialbee.com/blog/tiktok-trends-you-cant-miss/"
+      }
+     ],
+     "verification": "single-source"
+    }
+   ],
+   "id": "pov-setup",
+   "keywords": [
+    "netflix documentary",
+    "pov you're dating",
+    "you're dating",
+    "pov: 2026"
+   ],
+   "name": "POV setups",
+   "status": "rising",
+   "status_note": "Multiple live POV variants in the Oct 2026 cycle.",
+   "verification": "verified",
+   "tracked_topics": [
+    "netflix-documentary",
+    "pov-dating"
+   ]
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "Lip-sync an authoritative audio to deliver a completely unreasonable take with total sincerity. The joke: the take is both reasonable and unhinged, argued like a TED Talk from bed.",
+   "examples": [
+    {
+     "evidence": "Corbin Mims (Love Island USA Season 8) audio: 'having two fishes does not mean you have to put one back', deadpan defense of takes nobody asked you to defend",
+     "name": "Two Fishes",
+     "sources": [
+      {
+       "name": "New Engen",
+       "url": "https://newengen.com/insights/october-tiktok-trends/"
+      },
+      {
+       "name": "Virlo",
+       "url": "https://virlo.ai/blog/whats-trending-on-tiktok"
+      }
+     ]
+    }
+   ],
+   "id": "deadpan-debate",
+   "keywords": [
+    "two fishes",
+    "corbin mims",
+    "corbingpt"
+   ],
+   "name": "Deadpan debate audio",
+   "status": "rising",
+   "status_note": "New Engen's #1 October 2026 trend; still rising per the Oct 5 re-check.",
+   "verification": "verified",
+   "tracked_topics": [
+    "two-fishes"
+   ]
+  },
+  {
+   "id": "audio-skit",
+   "name": "Audio-driven skits",
+   "description": "Take a culturally loaded audio, gospel, a viral clip, a movie line, and build a comedy skit, lip dub, or edit around it. The audio carries the recognition; your scenario carries the joke.",
+   "status": "rising",
+   "status_note": "Still rising per Know Your Meme's Oct 9, 2026 fresh feed; church-culture audio gone mainstream.",
+   "verification": "single-source",
+   "verification_note": "Single source (Know Your Meme fresh feed, Oct 8 to 9, 2026), confirm live before building on it.",
+   "curated": "2026-10-11",
+   "keywords": [
+    "turn to your neighbor",
+    "marvin sapp"
+   ],
+   "examples": [
+    {
+     "name": "Turn To Your Neighbor (and Say)",
+     "evidence": "Marvin Sapp's gospel song \"Listen\" as the base for comedy skits/lip dubs/video edits on Reels + TikTok through Sept/Oct 2026; sometimes paired with Cash Nasty's exaggerated fake-run clip",
+     "sources": [
+      {
+       "name": "Know Your Meme",
+       "url": "https://knowyourmeme.com/newsfeed/fresh"
+      }
+     ],
+     "verification": "single-source"
+    }
+   ],
+   "tracked_topics": [
+    "turn-to-your-neighbor"
+   ]
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "One prop, zero editing: hold it to the lens so it becomes something else, then let the body below do the acting. Works at golden hour.",
+   "examples": [
+    {
+     "evidence": "Pumpkin held to the lens becomes a fake head; spooky remix of the 'bunch of hocus pocus' line; works at pumpkin patches, porches, fall decorating content",
+     "name": "Pumpkin Head Illusion",
+     "sources": [
+      {
+       "name": "New Engen",
+       "url": "https://newengen.com/insights/october-tiktok-trends/"
+      },
+      {
+       "name": "Virlo",
+       "url": "https://virlo.ai/blog/whats-trending-on-tiktok"
+      }
+     ]
+    }
+   ],
+   "id": "prop-illusion",
+   "keywords": [
+    "pumpkin head",
+    "hocus pocus"
+   ],
+   "name": "Prop illusions",
+   "status": "rising",
+   "status_note": "October 2026 pumpkin-season format; extends to cozy fall reset content.",
+   "verification": "verified",
+   "tracked_topics": [
+    "pumpkin-head"
+   ]
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "Upbeat track under a happy waist-up dance while the on-screen text confesses what's actually going on. The clash is the point, the more specific and slightly embarrassing the caption, the better it performs.",
+   "examples": [
+    {
+     "evidence": "Ingrid Michaelson track over happy-dance-over-chaos captions (New Engen; Later, Oct 2, 2026)",
+     "name": "Be OK / 'I just want to be OK'",
+     "sources": [
+      {
+       "name": "New Engen",
+       "url": "https://newengen.com/insights/october-tiktok-trends/"
+      },
+      {
+       "name": "Later",
+       "url": "https://later.com/blog/tiktok-trends/"
+      }
+     ]
+    }
+   ],
+   "id": "chaos-caption",
+   "keywords": [
+    "ingrid michaelson",
+    "be ok"
+   ],
+   "name": "Chaos-caption dance",
+   "status": "peak",
+   "status_note": "At peak in the Oct 2026 cycle; caption-driven, infinitely re-fillable.",
+   "verification": "verified",
+   "tracked_topics": [
+    "be-ok"
+   ]
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "Photo carousels turning a movie moment into honest answers: wedding-day photos captioned with the regret, the petty, and the real. Carousel-native, the swipe is the format.",
+   "examples": [
+    {
+     "evidence": "Wedding-regret photo carousels to Ashe's audio: 'Stop the wedding, but...', some petty and funny, some real stories (New Engen October trends; GenZNewZ, Oct 2026)",
+     "name": "Stop the Wedding",
+     "sources": [
+      {
+       "name": "New Engen",
+       "url": "https://newengen.com/insights/october-tiktok-trends/"
+      }
+     ]
+    }
+   ],
+   "id": "carousel-story",
+   "keywords": [
+    "stop the wedding",
+    "wedding regret"
+   ],
+   "name": "Carousel story reveals",
+   "status": "rising",
+   "status_note": "Riding the wedding-season long tail, Oct 2026.",
+   "verification": "verified",
+   "tracked_topics": [
+    "stop-the-wedding"
+   ]
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "A bend-and-bounce dance with a shouted hook, spreading from dance clips into fit checks and duo dances. The hook carries it across niches.",
+   "examples": [
+    {
+     "evidence": "Zeddy Will bend-and-bounce dance with shouted 'BOW!' hook, 246K videos (SocialPilot, Sept 25-Oct 5); at peak, saturation-high",
+     "name": "Bow Bow Bow",
+     "sources": [
+      {
+       "name": "SocialPilot",
+       "url": "https://www.socialpilot.co/blog/tiktok-trends"
+      }
+     ]
+    }
+   ],
+   "id": "dance-hook",
+   "keywords": [
+    "bow bow",
+    "zeddy will"
+   ],
+   "name": "Dance hooks",
+   "status": "peak",
+   "status_note": "At peak / saturation-high per the Oct 5, 2026 re-check.",
+   "verification": "verified",
+   "tracked_topics": [
+    "bow-bow-bow"
+   ]
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "Creators call out something they're hiding as if an all-seeing entity is watching. The copy frame does the work, anyone can fill in their own confession.",
+   "examples": [
+    {
+     "evidence": "Pretty Little Liars copy trend, 53.5K videos (MediaNug 10/1/26; Later, Oct 2, 2026): creators call out something they're hiding as if '-A' is watching",
+     "name": "Text From '-A'",
+     "sources": [
+      {
+       "name": "MediaNug",
+       "url": "https://www.medianug.com/tiktok-trending-report"
+      },
+      {
+       "name": "Later",
+       "url": "https://later.com/blog/tiktok-trends/"
+      }
+     ]
+    }
+   ],
+   "id": "callout-copy",
+   "keywords": [
+    "pretty little liars",
+    "text from \"-a\""
+   ],
+   "name": "Call-out copy formats",
+   "status": "peak",
+   "status_note": "Peaking in the Oct 2026 cycle; the confession frame is re-fillable indefinitely.",
+   "verification": "verified",
+   "tracked_topics": [
+    "text-from-a"
+   ]
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "Jazz/piano/ambient instrumentals under romanticized routines, original sounds for unproductive-day confessions, all-purpose beds, and summer-to-fall transitions.",
+   "examples": [
+    {
+     "evidence": "Original sounds: 'My Day Is Good' (unproductive-day confessions), 'Hey Y'all' bed, 'After All Seasons Change' (summer-to-fall transitions) (Virlo, Oct 2026)",
+     "name": "Cozy-fall mood beds",
+     "sources": [
+      {
+       "name": "Virlo",
+       "url": "https://virlo.ai/blog/whats-trending-on-tiktok"
+      }
+     ],
+     "verification": "single-source"
+    }
+   ],
+   "id": "mood-bed",
+   "keywords": [
+    "my day is good",
+    "hey y'all",
+    "after all seasons change",
+    "cozy-fall"
+   ],
+   "name": "Mood beds",
+   "status": "rising",
+   "status_note": "Five of the top 10 sounds in Metricool's Oct 1, 2026 chart are jazz/piano/ambient instrumentals.",
+   "verification": "single-source",
+   "verification_note": "Single source (Virlo reporting Metricool's chart), flag before building on it.",
+   "tracked_topics": [
+    "cozy-fall-jazz"
+   ]
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "Before/after main-character transitions with hand gestures, emerging-fast containers in the Oct 2026 cycle.",
+   "examples": [
+    {
+     "evidence": "Before/after main-character transitions with hand gestures to an original sound (Later, Oct 2, 2026); emerging-fast containers include ceiling-fan wipes (Lightreel, week ending Oct 3)",
+     "name": "Upside down",
+     "sources": [
+      {
+       "name": "Later",
+       "url": "https://later.com/blog/tiktok-trends/"
+      },
+      {
+       "name": "Lightreel",
+       "url": "https://lightreel.ai/blogs/whats-trending-on-tiktok"
+      }
+     ],
+     "verification": "single-source"
+    }
+   ],
+   "id": "transition",
+   "keywords": [
+    "upside down",
+    "ceiling fan wipe",
+    "ceiling-fan wipe"
+   ],
+   "name": "Transition formats",
+   "status": "rising",
+   "status_note": "Emerging-fast per Lightreel, week ending Oct 3, 2026.",
+   "verification": "single-source",
+   "verification_note": "Single source (Lightreel), flag before building on it.",
+   "tracked_topics": [
+    "ceiling-fan-wipe",
+    "upside-down"
+   ]
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "React to a list of traits and label each a red or green flag, the twist: the list describes the person sitting next to you and they don't realize it at first. Highly shareable relationship humor.",
+   "examples": [
+    {
+     "evidence": "Partners label statements red or green flags; filter variant shuffles random 'red flags' over your forehead (older wave, ~Feb-Apr 2026)",
+     "name": "Red flag / green flag couple test",
+     "sources": [
+      {
+       "name": "Social Growth Engineers",
+       "url": "https://www.socialgrowthengineers.com/red-flag-test"
+      },
+      {
+       "name": "lovingyou.me",
+       "url": "https://lovingyou.me/top-10-couple-challenges-trending-on-tiktok/"
+      }
+     ],
+     "verification": "single-source"
+    }
+   ],
+   "id": "flag-format",
+   "keywords": [
+    "red flag",
+    "green flag",
+    "beige flag"
+   ],
+   "name": "Red flag / green flag",
+   "status": "established",
+   "status_note": "Established long-lived format, last surfaced Feb-Apr 2026; NOT a verified Oct 2026 surge. Tracked for completeness, not current momentum.",
+   "verification": "single-source",
+   "verification_note": "Evidence is older (socialgrowthengineers, ~Feb 2026; lovingyou.me, ~Apr 2026). No Oct 2026 surge verified.",
+   "tracked_topics": []
+  },
+  {
+   "curated": "2026-10-11",
+   "description": "Open with a contrarian frame ('Unpopular opinion:', 'Hot take:') and defend a bold claim. Evergreen comment-bait, it lives on comment velocity, not on any single audio.",
+   "examples": [
+    {
+     "evidence": "Creator-lore format (comment-bait contrarian frame); no Oct-2026 surge evidence, included as evergreen template",
+     "name": "Unpopular opinion",
+     "sources": [],
+     "verification": "single-source"
+    }
+   ],
+   "id": "hot-take",
+   "keywords": [
+    "unpopular opinion",
+    "hot take"
+   ],
+   "name": "Hot-take / unpopular opinion",
+   "status": "evergreen",
+   "status_note": "Always-recurring debate template; no specific Oct 2026 surge verified. Tracked because it keeps re-filling, not because it's spiking.",
+   "verification": "single-source",
+   "verification_note": "Creator-lore, no Oct-2026 dated evidence found. Evergreen, not a current surge.",
+   "tracked_topics": []
+  }
+ ]
+}

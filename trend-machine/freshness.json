@@ -1,0 +1,180 @@
+{
+ "generatedAt": "2026-10-25T08:37:36Z",
+ "runStartedAt": "2026-10-25T08:37:36Z",
+ "cadenceHours": 3,
+ "freshUntil": "2026-10-25T12:37:36Z",
+ "staleAfter": "2026-10-25T20:37:36Z",
+ "board": {
+  "topics": 408,
+  "tracked": 300,
+  "confirmed": 30,
+  "singleSource": 270,
+  "newestSighting": "2026-10-25T08:37:35Z"
+ },
+ "laneCounts": {
+  "live": 12,
+  "degraded": 2,
+  "by-design": 2,
+  "retired": 1
+ },
+ "lanes": [
+  {
+   "id": "gtrends",
+   "label": "Google Trends",
+   "state": "live",
+   "hits": 10,
+   "lastGoodAt": "2026-10-25T08:36:41Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "news",
+   "label": "Google News",
+   "state": "live",
+   "hits": 75,
+   "lastGoodAt": "2026-10-25T08:36:43Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "news_search",
+   "label": "Google News searches",
+   "state": "live",
+   "hits": 100,
+   "lastGoodAt": "2026-10-25T08:36:57Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "reddit",
+   "label": "Reddit (JSON)",
+   "state": "degraded",
+   "hits": 0,
+   "lastGoodAt": null,
+   "ageHours": null,
+   "missesInARow": 2
+  },
+  {
+   "id": "reddit_rss",
+   "label": "Reddit (RSS)",
+   "state": "live",
+   "hits": 24,
+   "lastGoodAt": "2026-10-25T08:37:02Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "hn",
+   "label": "Hacker News",
+   "state": "live",
+   "hits": 50,
+   "lastGoodAt": "2026-10-25T08:37:10Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "mastodon",
+   "label": "Mastodon tags",
+   "state": "live",
+   "hits": 20,
+   "lastGoodAt": "2026-10-25T08:37:10Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "bluesky",
+   "label": "Bluesky trending",
+   "state": "live",
+   "hits": 10,
+   "lastGoodAt": "2026-10-25T08:37:11Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "charts",
+   "label": "Apple charts",
+   "state": "live",
+   "hits": 10,
+   "lastGoodAt": "2026-10-25T08:37:12Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "wiki",
+   "label": "Wikipedia most read",
+   "state": "live",
+   "hits": 15,
+   "lastGoodAt": "2026-10-25T08:37:12Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "netflix",
+   "label": "Netflix Top 10",
+   "state": "degraded",
+   "hits": 0,
+   "lastGoodAt": "2026-10-24T13:38:12Z",
+   "ageHours": 19.0,
+   "missesInARow": 1
+  },
+  {
+   "id": "youtube_rss",
+   "label": "YouTube channels",
+   "state": "live",
+   "hits": 80,
+   "lastGoodAt": "2026-10-25T08:37:23Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "streamers",
+   "label": "Streamer news",
+   "state": "live",
+   "hits": 32,
+   "lastGoodAt": "2026-10-25T08:37:29Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "steam",
+   "label": "Steam most played",
+   "state": "live",
+   "hits": 25,
+   "lastGoodAt": "2026-10-25T08:37:35Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
+  },
+  {
+   "id": "tiktok",
+   "label": "TikTok",
+   "state": "by-design",
+   "hits": 0,
+   "lastGoodAt": null,
+   "ageHours": null,
+   "missesInARow": 0
+  },
+  {
+   "id": "x",
+   "label": "X",
+   "state": "by-design",
+   "hits": 0,
+   "lastGoodAt": null,
+   "ageHours": null,
+   "missesInARow": 0
+  },
+  {
+   "id": "youtube",
+   "label": "YouTube popular",
+   "state": "retired",
+   "hits": 0,
+   "lastGoodAt": null,
+   "ageHours": null,
+   "missesInARow": 0
+  }
+ ],
+ "how": "Rebuilt every 3 hours from public sources. A source that returns nothing is shown as degraded or dead and contributes nothing; old hits are never carried forward.",
+ "gate": {
+  "passed": true,
+  "problems": []
+ }
+}

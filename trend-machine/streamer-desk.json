@@ -1,0 +1,1220 @@
+{
+ "generated_at": "2026-10-25T08:37:36.815Z",
+ "curated_at": "2026-10-13",
+ "method": "Hand-curated for the Streamer Desk (wave 29 / rotation 12) from ordinary web search on 2026-10-13. Directory facts carry at least one credible source each; drama-timeline entries carry two or more independent sources per event or are not printed as verified. Rosters are dated claims ('as of'), never eternal facts. No viewership or follower numbers are printed unless a source states them for a dated event. Wave 34 (rotation 13) follow-through: three items carried by the research streamer beat (multi-source-verified in its rounds through 2026-10-13) were added, the Jynxzi tournament and Kyedae return events and the Esports Awards 2026 nominees update; the beat's held single-source items (TwitchCon safety withdrawals, ComplexCon suspensions, a FaZe/100 Thieves event item) were NOT promoted.",
+ "sourcing_standard": {
+  "directory": "1+ credible source per profile/house, named on the record.",
+  "drama": "Timeline format only. An event is 'verified' only when 2+ independent credible sources report it. Single-source or disputed claims are listed under 'unverified' with the allegation labeled as an allegation, or omitted. Neutral tone; no rumor is printed as fact.",
+  "updates": "1+ credible source per dated entry; records and platform moves prefer 2."
+ },
+ "honesty": "Every profile and house carries its sources on the record. A drama event is printed as verified only when two or more independent sources report it; anything weaker is listed under unverified with the reason, or omitted. Rosters are dated 'as of' claims. No follower, viewership or revenue numbers appear except where a named source states them for a dated event. Event status is computed from dates at build time, a past event never poses as upcoming.",
+ "provenance": {
+  "seed": "data/streamer_desk.json (hand-curated, wave 29)",
+  "generator": "scripts/build_streamer_desk.js (refuses to publish a seed that breaks the sourcing standard)",
+  "live_lane": "pipeline/out/streamers.json via pipeline/fetch_streamers.py (the Desk's Live Wire lane, real recorded hits only)"
+ },
+ "counts": {
+  "streamers": 18,
+  "houses": 5,
+  "updates": 7,
+  "drama_verified": 4,
+  "unverified": 2,
+  "drama_source_domains": 8,
+  "events": 9,
+  "events_upcoming": 2,
+  "events_past": 7,
+  "feeds_skip_by_design": 3
+ },
+ "streamers": [
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "Just Chatting",
+    "variety",
+    "IRL",
+    "subathons"
+   ],
+   "crew": "amp",
+   "id": "kai-cenat",
+   "name": "Kai Cenat",
+   "note": "AMP member since 2020; host of the Mafiathon subathon series.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · AMP (streamer collective)",
+     "url": "https://en.wikipedia.org/wiki/AMP_(streamer_collective)"
+    },
+    {
+     "name": "Black Enterprise · Mafiathon 3 record",
+     "url": "https://www.blackenterprise.com/kai-cenat-breaks-streaming-record-update-nigerian-school/"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "Just Chatting",
+    "variety",
+    "roleplay"
+   ],
+   "crew": "amp",
+   "id": "fanum",
+   "name": "Fanum",
+   "note": "AMP member since 2019; won Best Roleplay Streamer at the 2025 Streamer Awards.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · AMP (streamer collective)",
+     "url": "https://en.wikipedia.org/wiki/AMP_(streamer_collective)"
+    },
+    {
+     "name": "esports.gg · Streamer Awards 2025 winners",
+     "url": "https://esports.gg/news/streamers/streamer-awards-2025/"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "Just Chatting",
+    "gaming",
+    "variety"
+   ],
+   "crew": "amp",
+   "id": "agent00",
+   "name": "Agent 00",
+   "note": "AMP member since 2019; won Best Stream Duo (with ExtraEmily) at the 2025 Streamer Awards.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · AMP (streamer collective)",
+     "url": "https://en.wikipedia.org/wiki/AMP_(streamer_collective)"
+    },
+    {
+     "name": "esports.gg · Streamer Awards 2025 winners",
+     "url": "https://esports.gg/news/streamers/streamer-awards-2025/"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "NBA 2K",
+    "gaming",
+    "IRL"
+   ],
+   "crew": "amp",
+   "id": "duke-dennis",
+   "name": "Duke Dennis",
+   "note": "AMP member since 2019; rose through NBA 2K content.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · AMP (streamer collective)",
+     "url": "https://en.wikipedia.org/wiki/AMP_(streamer_collective)"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "IRL",
+    "variety",
+    "gaming"
+   ],
+   "crew": null,
+   "id": "ishowspeed",
+   "name": "IShowSpeed",
+   "note": "Named Streamer of the Year and Best IRL Streamer at the 2025 Streamer Awards (Dec 6, 2025).",
+   "platforms": [
+    "YouTube",
+    "Twitch"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · 2025 Streamer Awards",
+     "url": "https://en.wikipedia.org/wiki/2025_Streamer_Awards"
+    },
+    {
+     "name": "Streams Charts · Streamer Awards 2025",
+     "url": "https://streamscharts.com/news/streamer-awards-2025-winners"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "variety",
+    "reaction",
+    "gaming"
+   ],
+   "crew": null,
+   "id": "xqc",
+   "name": "xQc",
+   "note": "Former Overwatch pro; signed a widely reported two-year, non-exclusive Kick deal in June 2023 while continuing on Twitch.",
+   "platforms": [
+    "Kick",
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Shacknews · xQc Kick deal",
+     "url": "https://www.shacknews.com/article/135983/xqc-kick-streaming-deal"
+    },
+    {
+     "name": "Dot Esports · most lucrative streamer deals",
+     "url": "https://dotesports.com/streaming/news/most-lucrative-streamer-deals-biggest-streaming-contracts"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "variety",
+    "horror games",
+    "gaming"
+   ],
+   "crew": null,
+   "id": "caseoh",
+   "name": "CaseOh",
+   "note": "Named Gamer of the Year and Best Variety Streamer at the 2025 Streamer Awards.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · 2025 Streamer Awards",
+     "url": "https://en.wikipedia.org/wiki/2025_Streamer_Awards"
+    },
+    {
+     "name": "esports.gg · Streamer Awards 2025 winners",
+     "url": "https://esports.gg/news/streamers/streamer-awards-2025/"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "Rainbow Six Siege",
+    "strategy",
+    "gaming"
+   ],
+   "crew": null,
+   "id": "jynxzi",
+   "name": "Jynxzi",
+   "note": "Named Best Strategy Game Streamer at the 2025 Streamer Awards.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "esports.gg · Streamer Awards 2025 winners",
+     "url": "https://esports.gg/news/streamers/streamer-awards-2025/"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "FPS",
+    "VTuber",
+    "gaming"
+   ],
+   "crew": null,
+   "id": "theburntpeanut",
+   "name": "TheBurntPeanut",
+   "note": "Named Best FPS Streamer and Best VTuber at the 2025 Streamer Awards.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "esports.gg · Streamer Awards 2025 winners",
+     "url": "https://esports.gg/news/streamers/streamer-awards-2025/"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "VTuber",
+    "variety",
+    "charity subathons"
+   ],
+   "crew": null,
+   "id": "ironmouse",
+   "name": "Ironmouse",
+   "note": "Independent since leaving VShojo on July 21, 2025 (see the Drama Tracker timeline). Held Twitch's all-time subscription record from Sept 30, 2024 until Nov 2024.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · Ironmouse",
+     "url": "https://en.wikipedia.org/wiki/Ironmouse"
+    },
+    {
+     "name": "Wikipedia · VShojo",
+     "url": "https://en.wikipedia.org/wiki/VShojo"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "MMORPG",
+    "reaction",
+    "commentary"
+   ],
+   "crew": "otk",
+   "id": "asmongold",
+   "name": "Asmongold",
+   "note": "OTK co-founder (2020). Stepped back from OTK/Starforge leadership roles in 2024 to 2025 (see the Drama Tracker timeline); listed by Wikipedia as a current OTK owner and a former OTK content creator.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · One True King",
+     "url": "https://en.wikipedia.org/wiki/One_True_King"
+    },
+    {
+     "name": "Wikipedia · Asmongold",
+     "url": "https://en.wikipedia.org/wiki/Asmongold"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "Just Chatting",
+    "variety",
+    "IRL"
+   ],
+   "crew": null,
+   "id": "mizkif",
+   "name": "Mizkif",
+   "note": "OTK co-founder (2020); Wikipedia lists him as a former OTK owner (2020 to 2025) and former content creator (2020 to 2024). Now independent of OTK.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · One True King",
+     "url": "https://en.wikipedia.org/wiki/One_True_King"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "cosplay",
+    "League of Legends",
+    "variety"
+   ],
+   "crew": "otk",
+   "id": "emiru",
+   "name": "Emiru",
+   "note": "Joined OTK as a creator in Jan 2022 and became an owner in 2023 per Wikipedia; won Best Creative Arts Streamer at the 2025 Streamer Awards. Wikipedia's creator list ends her creator tenure in 2025 while the owner list runs to present, the Desk prints both facts as recorded.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · One True King",
+     "url": "https://en.wikipedia.org/wiki/One_True_King"
+    },
+    {
+     "name": "Dot Esports · Emiru joins OTK",
+     "url": "https://vip-develop.dotesports.com/streaming/news/emiru-joins-otk-as-a-content-creator"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "variety",
+    "gaming",
+    "Just Chatting"
+   ],
+   "crew": null,
+   "id": "pokimane",
+   "name": "Pokimane",
+   "note": "Co-founded OfflineTV in 2017; OTV announced her graduation from the group in 2023, and she remains part of the wider OTV-and-friends circle.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · OfflineTV",
+     "url": "https://en.wikipedia.org/wiki/OfflineTV"
+    },
+    {
+     "name": "Dot Esports · all past and present OfflineTV streamers",
+     "url": "https://dotesports.com/streaming/news/all-past-and-present-offlinetv-streamers"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "League of Legends",
+    "variety"
+   ],
+   "crew": "offlinetv",
+   "id": "scarra",
+   "name": "Scarra",
+   "note": "Co-founded OfflineTV in 2017 and remains listed as co-founder/talent.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · OfflineTV",
+     "url": "https://en.wikipedia.org/wiki/OfflineTV"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "variety",
+    "strategy games",
+    "Among Us-era collabs"
+   ],
+   "crew": "offlinetv",
+   "id": "disguised-toast",
+   "name": "Disguised Toast",
+   "note": "OfflineTV member since the group's first season (2017).",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · OfflineTV",
+     "url": "https://en.wikipedia.org/wiki/OfflineTV"
+    },
+    {
+     "name": "Dot Esports · all past and present OfflineTV streamers",
+     "url": "https://dotesports.com/streaming/news/all-past-and-present-offlinetv-streamers"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "music",
+    "art",
+    "variety"
+   ],
+   "crew": "offlinetv",
+   "id": "lilypichu",
+   "name": "LilyPichu",
+   "note": "OfflineTV talent; also won Best Fighting Game Streamer at the 2025 Streamer Awards.",
+   "platforms": [
+    "Twitch",
+    "YouTube"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · OfflineTV",
+     "url": "https://en.wikipedia.org/wiki/OfflineTV"
+    },
+    {
+     "name": "esports.gg · Streamer Awards 2025 winners",
+     "url": "https://esports.gg/news/streamers/streamer-awards-2025/"
+    }
+   ]
+  },
+  {
+   "as_of": "2026-10-13",
+   "categories": [
+    "engineering builds",
+    "comedy tech"
+   ],
+   "crew": "offlinetv",
+   "id": "michael-reeves",
+   "name": "Michael Reeves",
+   "note": "Joined OfflineTV in 2019 per Wikipedia (Dot Esports dates the join to 2020, the Desk prints Wikipedia's member table).",
+   "platforms": [
+    "YouTube",
+    "Twitch"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia · OfflineTV",
+     "url": "https://en.wikipedia.org/wiki/OfflineTV"
+    }
+   ]
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-10-01",
+   "id": "upd-esports-awards-2026-nominees",
+   "kind": "award nominations",
+   "sources": [
+    {
+     "name": "TalkEsport · Esports Awards 2026 nominees (full list)",
+     "url": "https://www.talkesport.com/news/esports-awards-2026-nominees-full-list/"
+    },
+    {
+     "name": "Insider Gaming · Esports Awards 2026 nominees",
+     "url": "https://insider-gaming.com/esports-awards-2026-nominees/"
+    }
+   ],
+   "streamer_ids": [
+    "kai-cenat",
+    "jynxzi"
+   ],
+   "summary": "The Esports Awards 2026 nominee lists (published around Oct 1, 2026) place tracked-set names across the Streamer of the Year, Esports Personality of the Year, Esports Team of the Year, Content Group of the Year and Organisation of the Year categories, Kai Cenat and Jynxzi among the individuals, FaZe Clan and 100 Thieves among the groups and organisations, per TalkEsport's full list and Insider Gaming's announcement. Nominations only, no winners are claimed.",
+   "title": "Esports Awards 2026 nominee lists name Kai Cenat, Jynxzi, FaZe Clan and 100 Thieves"
+  },
+  {
+   "date": "2025-12-06",
+   "id": "upd-streamer-university-award",
+   "kind": "event",
+   "sources": [
+    {
+     "name": "esports.gg · Streamer Awards 2025 winners",
+     "url": "https://esports.gg/news/streamers/streamer-awards-2025/"
+    },
+    {
+     "name": "Wikipedia · 2025 Streamer Awards",
+     "url": "https://en.wikipedia.org/wiki/2025_Streamer_Awards"
+    }
+   ],
+   "streamer_ids": [
+    "kai-cenat"
+   ],
+   "summary": "At the 2025 Streamer Awards (Dec 6, 2025, Wiltern Theatre, Los Angeles), Cenat's Streamer University won Best Streamed Event and Mafiathon 3 won Best Marathon Stream; Cenat took four awards in total, the most of the night.",
+   "title": "Kai Cenat's Streamer University wins Best Streamed Event"
+  },
+  {
+   "date": "2025-12-06",
+   "id": "upd-faze-awards",
+   "kind": "event",
+   "sources": [
+    {
+     "name": "esports.gg · Streamer Awards 2025 winners",
+     "url": "https://esports.gg/news/streamers/streamer-awards-2025/"
+    },
+    {
+     "name": "Streams Charts",
+     "url": "https://streamscharts.com/news/streamer-awards-2025-winners"
+    }
+   ],
+   "streamer_ids": [],
+   "summary": "FaZe Clan won Best Content Organisation at the Dec 6, 2025 ceremony, weeks before the Dec 25 creator departures recorded in the Drama Tracker.",
+   "title": "FaZe Clan named Best Content Organisation at the 2025 Streamer Awards"
+  },
+  {
+   "date": "2025-09-28",
+   "id": "upd-mafiathon3-record",
+   "kind": "record",
+   "sources": [
+    {
+     "name": "Black Enterprise",
+     "url": "https://www.blackenterprise.com/kai-cenat-breaks-streaming-record-update-nigerian-school/"
+    },
+    {
+     "name": "Influencer Marketing Hub",
+     "url": "https://influencermarketinghub.com/kai-cenat-twitch-subscribers/"
+    },
+    {
+     "name": "Creator Handbook",
+     "url": "https://www.creatorhandbook.net/kai-cenat-becomes-first-twitch-streamer-to-hit-1-million-active-subscribers-during-mafiathon-3/"
+    }
+   ],
+   "streamer_ids": [
+    "kai-cenat"
+   ],
+   "summary": "On day 27 of the month-long Mafiathon 3 subathon (begun Sept 1, 2025), Cenat became the first Twitch streamer reported to pass one million active subscribers; Twitch publicly acknowledged the milestone. Fifteen percent of Mafiathon 3 revenue was pledged to a school project in Lagos, Nigeria, per Black Enterprise's reporting.",
+   "title": "Kai Cenat passes 1,000,000 active Twitch subscribers during Mafiathon 3"
+  },
+  {
+   "date": "2025-07-31",
+   "id": "upd-amp-san-antonio",
+   "kind": "event",
+   "sources": [
+    {
+     "name": "The Shade Room",
+     "url": "https://theshaderoom.com/social-media-reacts-footage-shows-duke-dennis-detained-san-antonio-mall-video/"
+    }
+   ],
+   "streamer_ids": [
+    "kai-cenat",
+    "fanum",
+    "agent00",
+    "duke-dennis"
+   ],
+   "summary": "The six-member AMP crew spent July 2025 streaming from a 53-acre San Antonio mansion owned by retired NBA player Tony Parker, per The Shade Room's reporting on the run's wrap.",
+   "title": "AMP wraps a month-long streaming run from San Antonio"
+  },
+  {
+   "date": "2024-09-30",
+   "id": "upd-ironmouse-record",
+   "kind": "record",
+   "sources": [
+    {
+     "name": "Wikipedia · Ironmouse",
+     "url": "https://en.wikipedia.org/wiki/Ironmouse"
+    }
+   ],
+   "streamer_ids": [
+    "ironmouse"
+   ],
+   "summary": "During her Sept 2024 charity subathon, Ironmouse passed Kai Cenat to set a new all-time Twitch subscription record on Sept 30, 2024; Cenat retook the record in Nov 2024. The same month she passed the previous record for a female streamer for the third consecutive year.",
+   "title": "Ironmouse holds Twitch's all-time subscription record"
+  },
+  {
+   "date": "2023-06-16",
+   "id": "upd-xqc-kick",
+   "kind": "platform-move",
+   "sources": [
+    {
+     "name": "Shacknews",
+     "url": "https://www.shacknews.com/article/135983/xqc-kick-streaming-deal"
+    },
+    {
+     "name": "Dot Esports",
+     "url": "https://dotesports.com/streaming/news/most-lucrative-streamer-deals-biggest-streaming-contracts"
+    }
+   ],
+   "streamer_ids": [
+    "xqc"
+   ],
+   "summary": "Kick signed xQc to a two-year, non-exclusive deal widely reported at up to $100M with incentives (a guaranteed portion reported lower). Non-exclusive meant he kept streaming on Twitch, the structure, not just the size, reset streamer-deal economics.",
+   "title": "xQc signs a reported $100M two-year non-exclusive Kick deal"
+  }
+ ],
+ "drama": [
+  {
+   "id": "drama-vshojo",
+   "note": "Payment claims below are Ironmouse's stated allegations plus VShojo's own shutdown statement as reported; the Desk reports who said what, and the undisputed facts (departures, shutdown) as facts.",
+   "status": "verified",
+   "timeline": [
+    {
+     "date": "2025-07-21",
+     "event": "Ironmouse, a VShojo founding member, announced her immediate departure, alleging the agency had withheld a significant amount of her revenue, including roughly $500,000 raised for the Immune Deficiency Foundation. She said she was acting on legal advice.",
+     "sources": [
+      {
+       "name": "Wikipedia · VShojo",
+       "url": "https://en.wikipedia.org/wiki/VShojo"
+      },
+      {
+       "name": "Jaxon",
+       "url": "https://www.jaxon.gg/ironmouse-splits-from-vshojo-accuses-agency-of-major-charity-fraud/"
+      },
+      {
+       "name": "Know Your Meme · Ironmouse/VShojo collapse",
+       "url": "https://knowyourmeme.com/memes/events/ironmouse-vshojo-collapse-controversy"
+      }
+     ]
+    },
+    {
+     "date": "2025-07-22",
+     "event": "VShojo's remaining talent publicly resigned in the days following Ironmouse's announcement, several making similar unpaid-revenue allegations; Ironmouse's independent IDF fundraiser passed $1M within two days.",
+     "sources": [
+      {
+       "name": "Wikipedia · Ironmouse",
+       "url": "https://en.wikipedia.org/wiki/Ironmouse"
+      },
+      {
+       "name": "Know Your Meme · Ironmouse/VShojo collapse",
+       "url": "https://knowyourmeme.com/memes/events/ironmouse-vshojo-collapse-controversy"
+      }
+     ]
+    },
+    {
+     "date": "2025-07-24",
+     "event": "VShojo announced it was shutting down. Its CEO took responsibility for the failure in the company's statement, as reported by multiple outlets.",
+     "sources": [
+      {
+       "name": "Wikipedia · VShojo",
+       "url": "https://en.wikipedia.org/wiki/VShojo"
+      },
+      {
+       "name": "Wikipedia · Ironmouse",
+       "url": "https://en.wikipedia.org/wiki/Ironmouse"
+      }
+     ]
+    }
+   ],
+   "title": "VShojo: Ironmouse's departure and the agency's shutdown"
+  },
+  {
+   "id": "drama-faze-exits",
+   "note": "The departures and dates are multiply reported. The alleged reason, a disputed retroactive revenue/equity demand, is a claim by departing-side commentators, is contested, and is filed under Unverified below, not in this timeline.",
+   "status": "verified",
+   "timeline": [
+    {
+     "date": "2025-07-28",
+     "event": "Richard 'FaZe Banks' Bengtson stepped down as CEO of FaZe Media, months after GameSquare divested its remaining FaZe Media stake (Mar 31, 2025) while keeping full ownership of FaZe Esports.",
+     "sources": [
+      {
+       "name": "Wikipedia · FaZe Clan",
+       "url": "https://en.wikipedia.org/wiki/FaZe_Clan"
+      }
+     ]
+    },
+    {
+     "date": "2025-09-15",
+     "event": "FaZe Clan posted an official roster list naming who was, and was not, FaZe: Adapt, Apex, Jason, Jev, Kaysan, Lacy, Rage, Replays, Ron, Rug, Scope, Silky, Swagg and ZooMaa, plus its pro esports teams.",
+     "sources": [
+      {
+       "name": "Primetimer · FaZe members explored",
+       "url": "https://www.primetimer.com/news/was-ryan-garcia-part-of-the-faze-clan-list-of-past-and-present-members-explored-as-boxer-tweet-sparks-hilarious-reactions-from-fans"
+      }
+     ]
+    },
+    {
+     "date": "2025-12-25",
+     "event": "Adapt, JasonTheWeen, Lacy, Silky and Stable Ronaldo each announced their departure from FaZe Clan in near-identical 'Left @FaZeClan' posts. Multiple outlets reported the exits followed failed contract talks; management said the organization would continue.",
+     "sources": [
+      {
+       "name": "Primetimer · FaZe members explored",
+       "url": "https://www.primetimer.com/news/was-ryan-garcia-part-of-the-faze-clan-list-of-past-and-present-members-explored-as-boxer-tweet-sparks-hilarious-reactions-from-fans"
+      },
+      {
+       "name": "FPSHub · FaZe hit by major exits",
+       "url": "https://www.fpshub.com/941628/faze-clan-hit-by-major-exits-as-stable-ronaldo-silky-lacy-and-jasontheween-leave/"
+      }
+     ]
+    }
+   ],
+   "title": "FaZe Clan: the 2025 restructuring and the Christmas Day departures"
+  },
+  {
+   "id": "drama-asmongold-otk",
+   "note": "Dates differ slightly across outlets: the announcement video and the OTK/Starforge statements were reported in Oct 2024 by Dexerto and esports.gg; Wikipedia's Asmongold entry dates his step-away announcement to Feb 21, 2025. The Desk prints both datings rather than picking one silently.",
+   "status": "verified",
+   "timeline": [
+    {
+     "date": "2024-10",
+     "event": "Following backlash to on-stream comments about Palestinians and a Twitch suspension of his alternate account, Asmongold announced in a YouTube video that he was stepping back from leadership roles at OTK and Starforge Systems. OTK and Starforge each published statements the same period confirming the step-back.",
+     "sources": [
+      {
+       "name": "Dexerto · Asmongold stepping away from OTK leadership",
+       "url": "https://www.dexerto.com/twitch/asmongold-stepping-away-from-otk-leadership-amid-criticism-over-palestine-comments-2951971/"
+      },
+      {
+       "name": "esports.gg · Asmongold steps down",
+       "url": "https://esports.gg/news/streamers/asmongold-steps-down-from-otk-and-starforge-after-racist-comments/"
+      }
+     ]
+    },
+    {
+     "date": "2025-02-15",
+     "event": "On stream, OTK member Will Neff said significant changes were coming to the organization. Neff did not name a cause; outside speculation about whom he meant is not reported here as fact.",
+     "sources": [
+      {
+       "name": "Dexerto · OTK member reveals huge changes coming",
+       "url": "http://dexerto.com/twitch/otk-member-reveals-huge-changes-coming-to-org-amid-asmongold-drama-3133678/"
+      }
+     ]
+    },
+    {
+     "date": "2025-02-21",
+     "event": "Wikipedia's Asmongold entry dates his announced step-away from OTK leadership roles to Feb 21, 2025; Wikipedia's OTK entry lists him as a current owner and a former content creator (2020 to 2025), and Mizkif as a former owner (2020 to 2025).",
+     "sources": [
+      {
+       "name": "Wikipedia · Asmongold",
+       "url": "https://en.wikipedia.org/wiki/Asmongold"
+      },
+      {
+       "name": "Wikipedia · One True King",
+       "url": "https://en.wikipedia.org/wiki/One_True_King"
+      }
+     ]
+    }
+   ],
+   "title": "OTK: Asmongold steps back from leadership"
+  },
+  {
+   "id": "drama-drdisrespect",
+   "note": "Neutral record of a long-running case. What Beahm acknowledged, what Twitch has and has not said, and what platforms did are kept as separate facts; no outlet's characterization is adopted as the Desk's own.",
+   "status": "verified",
+   "timeline": [
+    {
+     "date": "2020-06-26",
+     "event": "Twitch permanently banned Dr Disrespect (Guy Beahm), months after signing him to a multi-year deal. Twitch did not publicly state a specific reason at the time, and Beahm said he had not been told one.",
+     "sources": [
+      {
+       "name": "Wikipedia · Dr Disrespect",
+       "url": "https://en.wikipedia.org/wiki/Dr_Disrespect"
+      }
+     ]
+    },
+    {
+     "date": "2022-03",
+     "event": "Beahm's legal dispute with Twitch over the ban was resolved; neither party admitted wrongdoing, and Beahm later said his contract was paid out in full.",
+     "sources": [
+      {
+       "name": "Wikipedia · Dr Disrespect",
+       "url": "https://en.wikipedia.org/wiki/Dr_Disrespect"
+      },
+      {
+       "name": "Kotaku · YouTube remonetization",
+       "url": "https://kotaku.com/drdisrespect-twitch-ban-minor-youtube-monetization-1851752083"
+      }
+     ]
+    },
+    {
+     "date": "2024-06-25",
+     "event": "After former Twitch staff publicly alleged the ban involved 2017 messages to a minor, Beahm posted a statement acknowledging he had exchanged messages with a minor in 2017 that he characterized as inappropriate, while maintaining nothing illegal occurred. Midnight Society, the studio he co-founded, ended its relationship with him on June 24.",
+     "sources": [
+      {
+       "name": "Wikipedia · Dr Disrespect",
+       "url": "https://en.wikipedia.org/wiki/Dr_Disrespect"
+      },
+      {
+       "name": "Dexerto · YouTube demonetizes Dr Disrespect",
+       "url": "https://dexerto.com/youtube/youtube-fully-demonetizes-dr-disrespect-after-confirming-reason-for-twitch-ban-2801132/"
+      },
+      {
+       "name": "Kotaku · Dr Disrespect returns",
+       "url": "https://kotaku.com/dr-disrespect-guy-beahm-sexting-minor-twitch-ban-return-1851609999"
+      }
+     ]
+    },
+    {
+     "date": "2024-06-28",
+     "event": "YouTube suspended monetization on Beahm's channel, citing its Creator Responsibility policy, and paused paid memberships.",
+     "sources": [
+      {
+       "name": "Dexerto · YouTube demonetizes Dr Disrespect",
+       "url": "https://dexerto.com/youtube/youtube-fully-demonetizes-dr-disrespect-after-confirming-reason-for-twitch-ban-2801132/"
+      }
+     ]
+    },
+    {
+     "date": "2025-01-30",
+     "event": "YouTube reinstated Beahm's monetization after a review of the channel's recent activity, having denied an earlier reapplication in Oct 2024; the platform said further violations would bring further action.",
+     "sources": [
+      {
+       "name": "Kotaku · YouTube remonetization",
+       "url": "https://kotaku.com/drdisrespect-twitch-ban-minor-youtube-monetization-1851752083"
+      }
+     ]
+    }
+   ],
+   "title": "Dr Disrespect: the 2020 Twitch ban, the 2024 disclosure, and YouTube's reversal"
+  }
+ ],
+ "unverified": [
+  {
+   "claim": "Commentator Adin Ross and unnamed-source reporting alleged that FaZe's management/investors asked creators to sign over roughly 20% of their earnings or brand equity retroactively, and that this demand caused the Dec 25, 2025 departures. Departing creators' own posts said only 'Left @FaZeClan'; no contract documents have been published, and management has not confirmed the claim.",
+   "id": "unv-faze-20pct",
+   "sources": [
+    {
+     "name": "Primetimer · who owns FaZe Clan now",
+     "url": "https://www.primetimer.com/news/who-owns-faze-clan-now-adin-ross-claims-the-real-reason-faze-members-quit-is-because-the-owner-wanted-them-to-give-up-20-of-their-stakes"
+    }
+   ],
+   "status": "unverified",
+   "title": "Claim: FaZe's Christmas 2025 exits were caused by a retroactive ~20% revenue/equity demand",
+   "why_unverified": "Single-chain attribution (a commentator's livestream claim repeated by aggregators), contested, and no primary document. Printed here as an allegation only, never as the reason for the exits."
+  },
+  {
+   "claim": "Viral videos and an AfroTech headline reported AMP bought a cluster of neighboring houses ('The Hill'). The underlying reporting does not independently confirm the number of homes or the ownership structure, and one widely shared breakdown explicitly flags the claim as unverified. The verified fact underneath it: AMP bought a home in Atlanta in 2022 that serves as the group's base.",
+   "id": "unv-amp-neighborhood",
+   "sources": [
+    {
+     "name": "AfroTech · AMP neighborhood",
+     "url": "https://afrotech.com/amp-the-streaming-group-purchases-neighborhood-called-the-hill"
+    },
+    {
+     "name": "Wikipedia · AMP (streamer collective)",
+     "url": "https://en.wikipedia.org/wiki/AMP_(streamer_collective)"
+    }
+   ],
+   "status": "unverified",
+   "title": "Claim: AMP purchased a six-house Atlanta 'neighborhood'",
+   "why_unverified": "Viral-first sourcing; the purchase specifics are unconfirmed by property records or the group. Listed as unverified until a primary source lands."
+  }
+ ],
+ "houses": [
+  {
+   "base": "Atlanta, Georgia",
+   "content": "Group challenge/competition videos and IRL streams from the group's Atlanta house (bought 2022), solo Twitch/YouTube channels per member, and long-form group events such as the July 2025 San Antonio streaming run.",
+   "former_members": [],
+   "founded": "2019",
+   "full_name": "Any Means Possible",
+   "id": "amp",
+   "members": [
+    "Kai Cenat",
+    "Fanum",
+    "Agent 00",
+    "Duke Dennis",
+    "Chrisnxtdoor",
+    "ImDavisss"
+   ],
+   "members_as_of": "2026-10-13",
+   "name": "AMP",
+   "sources": [
+    {
+     "name": "Wikipedia · AMP (streamer collective)",
+     "url": "https://en.wikipedia.org/wiki/AMP_(streamer_collective)"
+    },
+    {
+     "name": "AfroTech · AMP",
+     "url": "https://afrotech.com/amp-the-streaming-group-purchases-neighborhood-called-the-hill"
+    }
+   ],
+   "status": "active"
+  },
+  {
+   "base": "Los Angeles, California",
+   "content": "Creator-led media (FaZe Media) plus professional esports teams (FaZe Esports, wholly owned by GameSquare after its Mar 31, 2025 divestiture of the media stake). Won Best Content Organisation at the 2025 Streamer Awards. Roster above is the group's own Sept 15, 2025 list minus the Dec 25 departures, rosters move fast and this one is dated for that reason.",
+   "former_members": [
+    "FaZe Banks (CEO of FaZe Media until Jul 28, 2025)",
+    "PlaqueBoyMax (departed Aug 2025, as reported)",
+    "Adapt, JasonTheWeen, Lacy, Silky, Stable Ronaldo (departed Dec 25, 2025)"
+   ],
+   "founded": "2010",
+   "full_name": "FaZe Clan / FaZe Media + FaZe Esports",
+   "id": "faze",
+   "members": [
+    "Apex",
+    "Jev",
+    "Kaysan",
+    "Rage",
+    "Replays",
+    "Ron",
+    "Rug",
+    "Scope",
+    "Swagg",
+    "ZooMaa"
+   ],
+   "members_as_of": "2026-10-13 (post-Dec 25, 2025 departures)",
+   "name": "FaZe Clan",
+   "sources": [
+    {
+     "name": "Wikipedia · FaZe Clan",
+     "url": "https://en.wikipedia.org/wiki/FaZe_Clan"
+    },
+    {
+     "name": "Primetimer · FaZe members explored",
+     "url": "https://www.primetimer.com/news/was-ryan-garcia-part-of-the-faze-clan-list-of-past-and-present-members-explored-as-boxer-tweet-sparks-hilarious-reactions-from-fans"
+    },
+    {
+     "name": "FPSHub · FaZe hit by major exits",
+     "url": "https://www.fpshub.com/941628/faze-clan-hit-by-major-exits-as-stable-ronaldo-silky-lacy-and-jasontheween-leave/"
+    }
+   ],
+   "status": "active, restructured"
+  },
+  {
+   "base": "Austin, Texas",
+   "content": "Live game shows, tournaments, IRL streams and podcasts from Austin; parent of the Mad Mushroom indie publishing label and co-owner of Starforge Systems (PC building) and Mythic Talent. Long-running charity streams for Games for Love.",
+   "former_members": [
+    "Mizkif (co-founder; owner 2020 to 2025)",
+    "Rich Campbell (co-founder; 2020 to 2022)",
+    "jschlatt (2021 to 2022)",
+    "Tectone (2021 to 2024)",
+    "ExtraEmily (creator 2023 to 2026 per Wikipedia)"
+   ],
+   "founded": "2020",
+   "full_name": "One True King",
+   "id": "otk",
+   "members": [
+    "Owners: Asmongold (co-founder), Esfand (co-founder), TipsOut (co-founder), Nmplol, Sodapoppin, Emiru",
+    "Content creators: Esfand, Nmplol, Cyr, Sodapoppin"
+   ],
+   "members_as_of": "2026-10-13",
+   "name": "OTK",
+   "sources": [
+    {
+     "name": "Wikipedia · One True King",
+     "url": "https://en.wikipedia.org/wiki/One_True_King"
+    },
+    {
+     "name": "PR Newswire via Digital Producer · Mad Mushroom launch",
+     "url": "https://digitalproducer.com/otk-network-launches-indie-game-and-publishing-company-mad-mushroom/"
+    }
+   ],
+   "status": "active"
+  },
+  {
+   "base": "Los Angeles, California",
+   "content": "Group comedy/variety videos, game nights and IRL content organized in 'seasons' per house; members have lived separately and together again across Los Angeles, Seattle and Vancouver in recent years.",
+   "former_members": [
+    "Pokimane (co-founder; graduated 2023, remains in the OTV-and-friends circle)"
+   ],
+   "founded": "2017",
+   "full_name": "OfflineTV (OTV)",
+   "id": "offlinetv",
+   "members": [
+    "Scarra (co-founder)",
+    "LilyPichu",
+    "Disguised Toast",
+    "Michael Reeves",
+    "Sydeon",
+    "Masayoshi",
+    "QuarterJade",
+    "Yvonnie",
+    "Brodin Plett (creative director)"
+   ],
+   "members_as_of": "2026-10-13",
+   "name": "OfflineTV",
+   "sources": [
+    {
+     "name": "Wikipedia · OfflineTV",
+     "url": "https://en.wikipedia.org/wiki/OfflineTV"
+    },
+    {
+     "name": "Dot Esports · all past and present OfflineTV streamers",
+     "url": "https://dotesports.com/streaming/news/all-past-and-present-offlinetv-streamers"
+    }
+   ],
+   "status": "active"
+  },
+  {
+   "base": "United States (remote talent)",
+   "content": "Was an English-language VTuber agency: managed VTuber talent, merch and music (including the NOVA unit's UNIVOLT label venture). Closed in July 2025, see the Drama Tracker timeline. Listed so the directory does not pretend the agency still operates.",
+   "former_members": [
+    "Ironmouse (founding member; departed Jul 21, 2025)",
+    "All remaining talent resigned in the days before the Jul 24, 2025 shutdown"
+   ],
+   "founded": "2020",
+   "full_name": "VShojo (VTuber agency)",
+   "id": "vshojo",
+   "members": [],
+   "members_as_of": "2025-07-24 (closure)",
+   "name": "VShojo",
+   "sources": [
+    {
+     "name": "Wikipedia · VShojo",
+     "url": "https://en.wikipedia.org/wiki/VShojo"
+    }
+   ],
+   "status": "shut down, announced July 24, 2025"
+  }
+ ],
+ "events": [
+  {
+   "end": "2025-09-30",
+   "id": "ev-mafiathon-3",
+   "kind": "subathon",
+   "location": "Twitch (Los Angeles)",
+   "name": "Mafiathon 3 (Kai Cenat subathon)",
+   "note": "Month-long subathon; passed 1,000,000 active subscribers on Sept 28, 2025 (see Updates). Won Best Marathon Stream at the 2025 Streamer Awards.",
+   "sources": [
+    {
+     "name": "Creator Handbook",
+     "url": "https://www.creatorhandbook.net/kai-cenat-becomes-first-twitch-streamer-to-hit-1-million-active-subscribers-during-mafiathon-3/"
+    },
+    {
+     "name": "esports.gg · Streamer Awards 2025 winners",
+     "url": "https://esports.gg/news/streamers/streamer-awards-2025/"
+    }
+   ],
+   "start": "2025-09-01",
+   "status": "past"
+  },
+  {
+   "end": "2025-12-06",
+   "id": "ev-streamer-awards-2025",
+   "kind": "awards",
+   "location": "Wiltern Theatre, Los Angeles, California",
+   "name": "The Streamer Awards 2025 (5th annual)",
+   "note": "Hosted by QTCinderella and Maya Higa. Streamer of the Year: IShowSpeed; Gamer of the Year: CaseOh; most awards: Kai Cenat (4). One aggregator page reported a different Streamer of the Year winner; Wikipedia, Streams Charts and esports.gg agree on IShowSpeed, and the Desk follows the consensus.",
+   "sources": [
+    {
+     "name": "Wikipedia · 2025 Streamer Awards",
+     "url": "https://en.wikipedia.org/wiki/2025_Streamer_Awards"
+    },
+    {
+     "name": "Streams Charts",
+     "url": "https://streamscharts.com/news/streamer-awards-2025-winners"
+    },
+    {
+     "name": "esports.gg",
+     "url": "https://esports.gg/news/streamers/streamer-awards-2025/"
+    }
+   ],
+   "start": "2025-12-06",
+   "status": "past"
+  },
+  {
+   "end": "2026-01-10",
+   "id": "ev-agdq-2026",
+   "kind": "charity marathon",
+   "location": "Pittsburgh, Pennsylvania + Twitch/YouTube",
+   "name": "Awesome Games Done Quick 2026 (AGDQ)",
+   "note": "Games Done Quick's winter speedrunning marathon raised more than $2.44M for the Prevent Cancer Foundation across 34,000+ donations.",
+   "sources": [
+    {
+     "name": "Games Press · AGDQ 2026 total",
+     "url": "https://www.gamespress.com/Awesome-Games-Done-Quick-2026-Raises-More-Than-244-Million-for-Prevent"
+    },
+    {
+     "name": "Prevent Cancer Foundation",
+     "url": "https://preventcancer.org/news/games-done-quick-raises-over-2-4-million-for-prevent-cancer-foundation-at-annual-gaming-marathon/"
+    }
+   ],
+   "start": "2026-01-04",
+   "status": "past"
+  },
+  {
+   "end": "2026-05-31",
+   "id": "ev-twitchcon-rotterdam-2026",
+   "kind": "convention",
+   "location": "Rotterdam Ahoy, Netherlands",
+   "name": "TwitchCon Europe 2026",
+   "note": "Twitch's European convention; the 2027 European edition moves to Berlin (May 22 to 23, 2027).",
+   "sources": [
+    {
+     "name": "TwitchCon (official)",
+     "url": "https://www.twitchcon.com/rotterdam-2025/speakers/theorionsound/"
+    },
+    {
+     "name": "Wikipedia · TwitchCon",
+     "url": "https://en.wikipedia.org/wiki/TwitchCon"
+    }
+   ],
+   "start": "2026-05-30",
+   "status": "past"
+  },
+  {
+   "end": "2026-07-11",
+   "id": "ev-sgdq-2026",
+   "kind": "charity marathon",
+   "location": "Minneapolis, Minnesota + Twitch/YouTube",
+   "name": "Summer Games Done Quick 2026 (SGDQ)",
+   "note": "GDQ's summer marathon, benefiting Doctors Without Borders.",
+   "sources": [
+    {
+     "name": "Games Press · AGDQ 2026 (announces SGDQ dates)",
+     "url": "https://www.gamespress.com/Awesome-Games-Done-Quick-2026-Raises-More-Than-244-Million-for-Prevent"
+    }
+   ],
+   "start": "2026-07-05",
+   "status": "past"
+  },
+  {
+   "end": "2026-10-14",
+   "id": "ev-jynxzi-lol-tourney-2",
+   "kind": "streamer tournament",
+   "location": "Livestream, Jynxzi's Twitch and YouTube",
+   "name": "Jynxzi's League of Legends streamer tournament (2nd edition)",
+   "note": "Second edition: 40 streamers, Riot-backed, scheduled 16:00 ET / 20:00 UTC on Oct 14, 2026. Pre-event listing, no outcome is recorded here; coverage belongs to a post-event update.",
+   "sources": [
+    {
+     "name": "Sportskeeda · Jynxzi LoL streamer tournament date/time",
+     "url": "https://www.sportskeeda.com/us/streamers/news-jynxzi-s-league-legends-streamer-tournament-date-time"
+    },
+    {
+     "name": "Streams Charts · Jynxzi's second LoL streamer tourney",
+     "url": "https://streamscharts.com/news/jynxzi-second-lol-streamer-tourney-info"
+    }
+   ],
+   "start": "2026-10-14",
+   "status": "past"
+  },
+  {
+   "end": "2026-10-20",
+   "id": "ev-kyedae-return",
+   "kind": "return stream",
+   "location": "Twitch",
+   "name": "Kyedae's Twitch return",
+   "note": "Kyedae's confirmed return to Twitch on Oct 20, 2026, after an ~18-month hiatus (since April 2025). The date was reconfirmed in the research beat's Oct 13, 2026 crawls (rounds 127 to 128 add a third carried source, Sportskeeda); nothing about the return stream itself is recorded before it happens.",
+   "sources": [
+    {
+     "name": "TalkEsport · Kyedae Twitch return date",
+     "url": "https://www.talkesport.com/streaming/kyedae-twitch-return-date/"
+    },
+    {
+     "name": "Dexerto · Kyedae confirms Twitch return date",
+     "url": "https://www.dexerto.com/twitch/kyedae-finally-confirms-twitch-return-date-after-18-month-hiatus-3412956/"
+    },
+    {
+     "name": "Sportskeeda · Tectone comments on Kyedae's return to livestreaming",
+     "url": "https://www.sportskeeda.com/us/streamers/news-after-tenz-sacrificed-bones-blood-career-i-hope-finally-found-herself-tectone-comments-kyedae-s-return-livestreaming"
+    }
+   ],
+   "start": "2026-10-20",
+   "status": "past"
+  },
+  {
+   "end": "2026-11-15",
+   "id": "ev-twitchcon-sd-2026",
+   "kind": "convention",
+   "location": "San Diego Convention Center, California",
+   "name": "TwitchCon San Diego 2026",
+   "note": "Twitch's flagship North American convention. Dated from TwitchCon's official site.",
+   "sources": [
+    {
+     "name": "TwitchCon (official)",
+     "url": "https://www.twitchcon.com/rotterdam-2025/speakers/theorionsound/"
+    },
+    {
+     "name": "Wikipedia · TwitchCon",
+     "url": "https://en.wikipedia.org/wiki/TwitchCon"
+    }
+   ],
+   "start": "2026-11-13",
+   "status": "upcoming"
+  },
+  {
+   "end": "2027-01-09",
+   "id": "ev-agdq-2027",
+   "kind": "charity marathon",
+   "location": "Atlanta, Georgia + Twitch/YouTube",
+   "name": "Awesome Games Done Quick 2027 (AGDQ)",
+   "note": "AGDQ moves to Atlanta in 2027, again benefiting the Prevent Cancer Foundation per GDQ's announcement.",
+   "sources": [
+    {
+     "name": "Games Press · AGDQ 2026 (announces 2027 dates)",
+     "url": "https://www.gamespress.com/Awesome-Games-Done-Quick-2026-Raises-More-Than-244-Million-for-Prevent"
+    }
+   ],
+   "start": "2027-01-03",
+   "status": "upcoming"
+  }
+ ],
+ "feeds": [
+  {
+   "detail": "Needs registered app credentials (client ID/secret + OAuth) that this project does not hold. Live status and follower counts are therefore never printed, a profile here states platforms and categories, not live numbers.",
+   "id": "twitch-directory-api",
+   "label": "Twitch directory API (live status/followers)",
+   "status": "skip-by-design"
+  },
+  {
+   "detail": "No vetted keyless public directory contract is recorded in PIPELINE.md; the Desk does not scrape Kick pages. Kick appears only as a sourced platform fact (e.g. the xQc deal).",
+   "id": "kick-directory-api",
+   "label": "Kick directory API",
+   "status": "skip-by-design"
+  },
+  {
+   "detail": "Live search needs YT_API_KEY, which is not set (the same reason the pipeline's YouTube lane runs on RSS). No live viewer counts are claimed for any streamer.",
+   "id": "youtube-live-api",
+   "label": "YouTube live-search API",
+   "status": "skip-by-design"
+  }
+ ]
+}
