@@ -39,7 +39,8 @@
   "silentlooop/revt2v-ckpt",
   "sjxknukkji/wan2.2-t2v-a14b-transformers-bf16",
   "unsloth/Wan2.2-TI2V-5B-FP8",
-  "yaleiyaleichiling/NSFW-Anime-wan-5B"
+  "yaleiyaleichiling/NSFW-Anime-wan-5B",
+  "zhihefang/LUVE"
  ],
  "arxiv": [
   "http://arxiv.org/abs/2610.28631v1",
