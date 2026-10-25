@@ -1,0 +1,10 @@
+{
+ "at": "2026-10-25T04:47:28Z",
+ "runs": [
+  {
+   "collector": "scripts/heartbeat/stock.py",
+   "ok": false,
+   "error": "missing in site repo"
+  }
+ ]
+}
