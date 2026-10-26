@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-26T12:51:10Z",
+ "generated_at": "2026-10-26T20:30:15Z",
  "items": [
+  {
+   "id": "hf-phenmoziken/LTX-2.5-uncensored-v1.1-FP8",
+   "at": "2026-10-26T19:50:38Z",
+   "model": "phenmoziken/LTX-2.5-uncensored-v1.1-FP8",
+   "title": "New text-to-video model listed on Hugging Face: phenmoziken/LTX-2.5-uncensored-v1.1-FP8",
+   "url": "https://huggingface.co/phenmoziken/LTX-2.5-uncensored-v1.1-FP8",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Gamerrishabbsingh/text-to-video-ms-1.7b",
+   "at": "2026-10-26T16:57:51Z",
+   "model": "Gamerrishabbsingh/text-to-video-ms-1.7b",
+   "title": "New text-to-video model listed on Hugging Face: Gamerrishabbsingh/text-to-video-ms-1.7b",
+   "url": "https://huggingface.co/Gamerrishabbsingh/text-to-video-ms-1.7b",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-SOLRICKS/Mila",
    "at": "2026-10-26T08:24:01Z",
@@ -1477,26 +1497,6 @@
    "at": "2026-10-15",
    "model": "Topaz Astra",
    "title": "Coverage (completeness wave, 2026-10-15): Topaz Labs finishing record added (creative upscaling to 4K, Precise and Creative modes, Astra 2 promptable upscaling Apr 2026, interpolation to 120fps). Typed suite: a finishing tool, not a shot generator.",
-   "url": null,
-   "kind": "coverage",
-   "label": "Verified",
-   "source": "model-history"
-  },
-  {
-   "id": "history-2026-10-15-suno-v5-5-record-added",
-   "at": "2026-10-15",
-   "model": "Suno v5.5",
-   "title": "Coverage (completeness wave, 2026-10-15): the guide's first music record. Suno v5.5 (Mar 26, 2026) with Voices, Custom Models, My Taste, and Suno Studio; rights posture mid-transition under the Warner and BMG label deals, stated on the record.",
-   "url": null,
-   "kind": "coverage",
-   "label": "Verified",
-   "source": "model-history"
-  },
-  {
-   "id": "history-2026-10-15-seedream-5-0-pro-record-added",
-   "at": "2026-10-15",
-   "model": "Seedream 5.0 Pro",
-   "title": "Coverage (completeness wave, 2026-10-15): ByteDance image record added, 5.0 Pro flagship (July 2026, per BytePlus) with the 4.5 workhorse (Dec 2025, $0.04/image official API rate) and the 5.0 Flash tier ($0.018/image, OpenRouter) inside one record.",
    "url": null,
    "kind": "coverage",
    "label": "Verified",

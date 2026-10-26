@@ -1,6 +1,7 @@
 {
  "hf": [
   "EXCAI/ForcingBooster",
+  "Gamerrishabbsingh/text-to-video-ms-1.7b",
   "Kompaktion/Movetoy",
   "Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-Left",
   "Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-Out",
@@ -39,6 +40,7 @@
   "nvidia/Wan2.2-T2V-A14B-Diffusers-NVFP4",
   "nynxz/MiniMax-H3-PTD-LoRAs",
   "onocloud/onoai-motion-1.0-pro",
+  "phenmoziken/LTX-2.5-uncensored-v1.1-FP8",
   "sanjeevkumar70550932/LTX-Video-0.9.7-distilled",
   "silentlooop/revt2v-ckpt",
   "sjxknukkji/wan2.2-t2v-a14b-transformers-bf16",

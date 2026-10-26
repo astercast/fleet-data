@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-26T12:52:17Z",
+ "generated_at": "2026-10-26T20:31:52Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-10-25T20:49:37Z",
+ "last_data_change_at": "2026-10-26T20:31:52Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-10-26T12:52:13Z",
-   "last_ok_at": "2026-10-26T12:52:13Z",
+   "items": 72,
+   "checked_at": "2026-10-26T20:31:50Z",
+   "last_ok_at": "2026-10-26T20:31:50Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,14 +23,134 @@
    "label": "NHTSA vPIC make names",
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
-   "items": 12413,
-   "checked_at": "2026-10-26T12:52:17Z",
-   "last_ok_at": "2026-10-26T12:52:17Z",
+   "items": 12416,
+   "checked_at": "2026-10-26T20:31:52Z",
+   "last_ok_at": "2026-10-26T20:31:52Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "1991 Jeep Grand Wagoneer Final Edition",
+   "ref": "https://bringatrailer.com/listing/1991-jeep-grand-wagoneer-158/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "Modified 1987 Toyota Land Cruiser BJ73 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1987-toyota-bj73/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "1995 Honda Civic VX Hatchback 5-Speed Project",
+   "ref": "https://bringatrailer.com/listing/1995-honda-civic-8/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "1k-Mile 2023 Ferrari Roma",
+   "ref": "https://bringatrailer.com/listing/2023-ferrari-roma-10/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "9k-Mile 2020 Bentley Continental GT V8 Coupe",
+   "ref": "https://bringatrailer.com/listing/2020-bentley-continental-gt-v8-13/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "474-Mile 2013 Ford Mustang Shelby GT500 Coupe",
+   "ref": "https://bringatrailer.com/listing/2013-ford-mustang-shelby-gt500-coupe-77/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "1974 BMW 2002 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1974-bmw-2002-174/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "2,800-Mile 2012 Porsche 911 Carrera Cabriolet Black Edition 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2012-porsche-911-black-edition-2/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "29k-Mile 2021 Toyota Land Cruiser URJ200 Heritage Edition",
+   "ref": "https://bringatrailer.com/listing/2021-toyota-land-cruiser-99/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "1990 BMW M3",
+   "ref": "https://bringatrailer.com/listing/1990-bmw-m3-119/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "K20-Powered 1996 Honda Civic CX Hatchback 6-Speed",
+   "ref": "https://bringatrailer.com/listing/1996-honda-civic-40/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "2013 BMW X5 xDrive50i",
+   "ref": "https://bringatrailer.com/listing/2013-bmw-x5-71/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "Original-Owner 2007 Porsche 911 Turbo Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2007-porsche-911-turbo-coupe-226/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "RoW 1996 Porsche 911 Turbo WLS2 Conversion",
+   "ref": "https://bringatrailer.com/listing/1996-porsche-911-turbo-217/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "Modified 2003 Porsche 911 Turbo Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2003-porsche-911-turbo-coupe-135/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "1978 Chevrolet Corvette",
+   "ref": "https://bringatrailer.com/listing/1978-chevrolet-corvette-296/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "1994 Toyota Land Cruiser FZJ80",
+   "ref": "https://bringatrailer.com/listing/1994-toyota-land-cruiser-fzj80-158/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "1997 Land Rover Defender 90 NAS",
+   "ref": "https://bringatrailer.com/listing/1997-land-rover-defender-90-nas-196/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "27k-Mile 2017 Porsche 911 Targa 4",
+   "ref": "https://bringatrailer.com/listing/2017-porsche-911-targa-4-8/"
+  },
+  {
+   "at": "2026-10-26T20:31:52Z",
+   "kind": "sale",
+   "title": "Original-Owner 2004 Chevrolet Silverado 1500 LS",
+   "ref": "https://bringatrailer.com/listing/2004-chevrolet-silverado-1500-54/"
+  },
   {
    "at": "2026-10-25T20:49:37Z",
    "kind": "sale",
