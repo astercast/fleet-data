@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-10-25T13:25:50Z",
+ "generated_at": "2026-10-26T10:30:39Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -519,6 +519,39 @@
    "activity_id": "big-pass-the-smile-circle",
    "activity_name": "Big Pass the Smile Circle",
    "queued_at": "2026-10-25T13:25:44Z"
+  },
+  {
+   "commons_title": "File:End cretaceous 65Ma gdd5 co2 400ppmv S 1357 1 1 1 1.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:End_cretaceous_65Ma_gdd5_co2_400ppmv_S_1357_1_1_1_1.png",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/End_cretaceous_65Ma_gdd5_co2_400ppmv_S_1357_1_1_1_1.png/500px-End_cretaceous_65Ma_gdd5_co2_400ppmv_S_1357_1_1_1_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Merikanto&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Merikanto (page does not exist)\">Merikanto</a>",
+   "licence": "CC0",
+   "status": "pending",
+   "activity_id": "big-log-roll-down-the-mat",
+   "activity_name": "Big Log Roll Down the Mat",
+   "queued_at": "2026-10-26T10:30:28Z"
+  },
+  {
+   "commons_title": "File:World map of 65 million years ago co2 400 s 1357 1 1 1 1.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:World_map_of_65_million_years_ago_co2_400_s_1357_1_1_1_1.png",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/World_map_of_65_million_years_ago_co2_400_s_1357_1_1_1_1.png/500px-World_map_of_65_million_years_ago_co2_400_s_1357_1_1_1_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Merikanto&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Merikanto (page does not exist)\">Merikanto</a>",
+   "licence": "CC0",
+   "status": "pending",
+   "activity_id": "big-log-roll-down-the-mat",
+   "activity_name": "Big Log Roll Down the Mat",
+   "queued_at": "2026-10-26T10:30:28Z"
+  },
+  {
+   "commons_title": "File:The Manners Stone - geograph.org.uk - 1048201.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:The_Manners_Stone_-_geograph.org.uk_-_1048201.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Manners_Stone_-_geograph.org.uk_-_1048201.jpg/500px-The_Manners_Stone_-_geograph.org.uk_-_1048201.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/3863\">John Allan</a>",
+   "licence": "CC BY-SA 2.0",
+   "status": "pending",
+   "activity_id": "big-story-stone-first-people",
+   "activity_name": "Big Story Stone, First People",
+   "queued_at": "2026-10-26T10:30:31Z"
   }
  ]
 }

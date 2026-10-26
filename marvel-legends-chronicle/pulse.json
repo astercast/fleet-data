@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-25T13:24:45Z",
+ "generated_at": "2026-10-26T10:29:41Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-10-25T13:24:38Z",
+ "last_data_change_at": "2026-10-26T10:29:41Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 64,
-   "checked_at": "2026-10-25T13:24:38Z",
-   "last_ok_at": "2026-10-25T13:24:38Z",
+   "checked_at": "2026-10-26T10:29:36Z",
+   "last_ok_at": "2026-10-26T10:29:36Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "items": 100,
-   "checked_at": "2026-10-25T13:24:45Z",
-   "last_ok_at": "2026-10-25T13:24:45Z",
+   "checked_at": "2026-10-26T10:29:41Z",
+   "last_ok_at": "2026-10-26T10:29:41Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-10-25T13:24:45Z",
-   "last_ok_at": "2026-10-25T13:24:45Z",
+   "checked_at": "2026-10-26T10:29:41Z",
+   "last_ok_at": "2026-10-26T10:29:41Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,37 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 47,
-   "checked_at": "2026-10-25T13:24:44Z",
-   "last_ok_at": "2026-10-25T13:24:44Z",
+   "checked_at": "2026-10-26T10:29:40Z",
+   "last_ok_at": "2026-10-26T10:29:40Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-26T10:29:41Z",
+   "kind": "story",
+   "title": "Here are All the \"Avengers: Doomsday\" Toys Your Kids Will Want This Holiday Season - LaughingPlace.com",
+   "ref": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDQzTzNQZzRENUVIN1B6TDVhUE9nZGs5UWdBOW5xZE9Wak9WUHFITTJaOHFwM1BEcVhwQWpHN1JOMkNwdUNGNGViTnpVQ3hET2gwWVpOY2h2Zk9JM2habWkzVV80WVE3akI3WGZsdTJuVEpjMVZoMTNxckNRNEVObFNiaTVKanRD?oc=5"
+  },
+  {
+   "at": "2026-10-26T10:29:41Z",
+   "kind": "story",
+   "title": "Henry Cavill’s Wolverine Gets Marvel Legends Figure As MCU Rumors Continue - Cosmic Book News",
+   "ref": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN2FLSGVNSVVfMVE0ZnM5SG5EQjctS2xVTDU2aFlNUE1iaDlVbEpYY3Q3VnRfUWllMWpYXzRXX1RiS2RLVTN6TDJXdmh4bDJCQlBLTVZCajhtQzJlUXMzdjRNMGJfRTI2X1Rxd3N0SjVpcVNZcDEw?oc=5"
+  },
+  {
+   "at": "2026-10-26T10:29:41Z",
+   "kind": "story",
+   "title": "Marvel Legends Marvels Box Build-A-Figure Wave Preorder - Toy Habits",
+   "ref": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUxqV0cyc0g1MzlNdFBoZXpuSXJFUDdhVlo2TXNXZGVLY3V5VkxQQ1pZMG1NcWl6YjdvT1IwY3ZvdEp0Qmd2T1BtUkZscFVWS3loZzJBVmVzcnRlcXhDVkNvcmpsYzkzeEk4Q2M2QTBpTEc0SlJoYTZKYXdIRklBc2hBaEI?oc=5"
+  },
+  {
+   "at": "2026-10-26T10:29:41Z",
+   "kind": "preorder",
+   "title": "Drop window opens soon: Astonishing X-Men, Cyclops & Wolverine 2-pack (reissue)",
+   "ref": "radar.html"
+  },
   {
    "at": "2026-10-25T13:24:38Z",
    "kind": "catalog",
@@ -388,30 +412,6 @@
    "kind": "catalog",
    "title": "ToyArena: Marvel Legends Rivals Venom and Jeff the Land Shark Action Figure",
    "ref": "https://toyarena.com/products/marvel-legends-rivals-venom-and-jeff-the-land-shark-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Rivals Moon Knight Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-rivals-moon-knight-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: SDCC 2026 Marvel Legends Series Spider-Man, Marvel's Lizard, & Marvel's Electro Action Figure Exclusive",
-   "ref": "https://toyarena.com/products/sdcc-2026-marvel-legends-series-spider-man-marvels-lizard-marvels-electro-action-figure-exclusive"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: SDCC 2026 Marvel Legends Series X-Men '97 Professor Charles Xavier & Hoverchair Action Figure Exclusive",
-   "ref": "https://toyarena.com/products/sdcc-2026-marvel-legends-series-x-men-97-professor-charles-xavier-hoverchair-action-figure-exclusive"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends U.S. Agent (Force Works) (BAF Marvel's Box) Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-u-s-agent-force-works-baf-marvels-box-action-figure"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
- "at": "2026-10-25T13:25:50Z",
+ "at": "2026-10-26T10:30:40Z",
  "runs": [
   {
    "collector": "scripts/heartbeat/portplay.py",
    "ok": true,
-   "seconds": 0.3,
+   "seconds": 0.4,
    "error": null
   }
  ]
