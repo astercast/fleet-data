@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-26T04:35:33Z",
+ "generated_at": "2026-10-26T12:51:10Z",
  "items": [
+  {
+   "id": "hf-SOLRICKS/Mila",
+   "at": "2026-10-26T08:24:01Z",
+   "model": "SOLRICKS/Mila",
+   "title": "New text-to-video model listed on Hugging Face: SOLRICKS/Mila",
+   "url": "https://huggingface.co/SOLRICKS/Mila",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Tsuki0512/LTX-2-AVCReward-LoRA",
+   "at": "2026-10-26T07:32:15Z",
+   "model": "Tsuki0512/LTX-2-AVCReward-LoRA",
+   "title": "New text-to-video model listed on Hugging Face: Tsuki0512/LTX-2-AVCReward-LoRA",
+   "url": "https://huggingface.co/Tsuki0512/LTX-2-AVCReward-LoRA",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-10-26",
    "at": "2026-10-26T04:35:27+00:00",
@@ -1477,26 +1497,6 @@
    "at": "2026-10-15",
    "model": "Seedream 5.0 Pro",
    "title": "Coverage (completeness wave, 2026-10-15): ByteDance image record added, 5.0 Pro flagship (July 2026, per BytePlus) with the 4.5 workhorse (Dec 2025, $0.04/image official API rate) and the 5.0 Flash tier ($0.018/image, OpenRouter) inside one record.",
-   "url": null,
-   "kind": "coverage",
-   "label": "Verified",
-   "source": "model-history"
-  },
-  {
-   "id": "history-2026-10-15-runway-aleph-2-0-record-added",
-   "at": "2026-10-15",
-   "model": "Runway Aleph 2.0",
-   "title": "Coverage (completeness wave, 2026-10-15): Runway's in-context video editing model (May 21, 2026) added, and the Gen-4.5 record corrected in the same wave: Runway did ship a new model in 2026, in the editing lane. No Gen-5 exists.",
-   "url": null,
-   "kind": "coverage",
-   "label": "Verified",
-   "source": "model-history"
-  },
-  {
-   "id": "history-2026-10-15-runway-act-two-record-added",
-   "at": "2026-10-15",
-   "model": "Runway Act-Two",
-   "title": "Coverage (completeness coordinator addendum, 2026-10-15): Runway performance-capture record added. Runway Dev's first-party line is Gen-4.5, Aleph 2.0 and Act-Two; the completeness wave's lanes carried the first two. Act-Two transfers a driving performance (face, head, hands, body) onto a character image or video, up to 30 s at 24 fps, billed at 5 credits per second.",
    "url": null,
    "kind": "coverage",
    "label": "Verified",

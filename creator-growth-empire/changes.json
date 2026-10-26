@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "fb-meta-delays-business-terms-update-over-data-scra-9ce0b4",
+   "platform": "facebook",
+   "title": "Meta delays business terms update over data scraping concerns",
+   "summary": "<p>The company&rsquo;s latest commercial services agreement has been postponed while regulators in the EU and the U.K. get clarity, according to Reuters.</p>",
+   "detected_at": "2026-10-26T12:51:10Z",
+   "announced_at": "2026-10-25T20:53:49Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/meta-delays-business-terms-update-over-data-scraping-concerns/833905/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/meta-delays-business-terms-update-over-data-scraping-concerns/833905/"
+    }
+   ],
+   "category": "policy",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "fb-meta-hit-with-25b-fine-over-privacy-breaches-fca0a7",
    "platform": "facebook",
    "title": "Meta hit with $25B fine over privacy breaches",
@@ -837,8 +856,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-25T11:17:38Z",
+ "generated_at": "2026-10-26T12:51:10Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "version": "1.7.0"
 }
