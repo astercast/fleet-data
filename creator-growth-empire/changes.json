@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "yt-top-50-most-subscribed-youtube-channels-worldwid-4bb31e",
+   "platform": "youtube",
+   "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 10/25/2026",
+   "summary": "SASHA SHOW wound up on top of the Global Sub Top 50 ranking for the second week in a row. This time out, the family-friendly creator dominated the competition. He added 3.8 million new subscribers to bring his lifetime total up to 13.8 million. He doubled his rate of subscriber acquisition week-over-week. The #2 channel in the Global Sub Top 50 finished far behind SASHA SHOW, but in another context, the star of that channel was a big winner this week. In fact, he's now leading the world's sevent",
+   "detected_at": "2026-10-27T00:25:21Z",
+   "announced_at": "2026-10-26T21:22:50Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/26/top-50-most-subscribed-youtube-channels-worldwide-week-of-10-25-2026/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/26/top-50-most-subscribed-youtube-channels-worldwide-week-of-10-25-2026/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "cw-x-provides-holiday-campaign-tips-983219",
+   "platform": "other",
+   "title": "X provides holiday campaign tips",
+   "summary": "<p>Recommendations include keeping ads short, using natural language and featuring clear calls to action.</p>",
+   "detected_at": "2026-10-27T00:25:21Z",
+   "announced_at": "2026-10-25T22:17:34Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/x-provides-holiday-campaign-tips/833908/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/x-provides-holiday-campaign-tips/833908/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "fb-meta-delays-business-terms-update-over-data-scra-9ce0b4",
    "platform": "facebook",
    "title": "Meta delays business terms update over data scraping concerns",
@@ -856,8 +894,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-26T12:51:10Z",
+ "generated_at": "2026-10-27T00:25:21Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "version": "1.7.0"
 }

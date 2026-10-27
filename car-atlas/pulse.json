@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-26T20:31:52Z",
+ "generated_at": "2026-10-27T00:26:25Z",
  "stale_after_h": 26,
- "healthy": true,
- "sources_ok": 2,
+ "healthy": false,
+ "sources_ok": 1,
  "sources_total": 2,
- "last_data_change_at": "2026-10-26T20:31:52Z",
+ "last_data_change_at": "2026-10-27T00:26:25Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 72,
-   "checked_at": "2026-10-26T20:31:50Z",
-   "last_ok_at": "2026-10-26T20:31:50Z",
+   "items": 36,
+   "checked_at": "2026-10-27T00:26:17Z",
+   "last_ok_at": "2026-10-27T00:26:17Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -22,15 +22,75 @@
    "id": "nhtsa-vpic",
    "label": "NHTSA vPIC make names",
    "url": "https://vpic.nhtsa.dot.gov/api",
-   "ok": true,
+   "ok": false,
    "items": 12416,
-   "checked_at": "2026-10-26T20:31:52Z",
+   "checked_at": "2026-10-27T00:26:25Z",
    "last_ok_at": "2026-10-26T20:31:52Z",
-   "error": null,
-   "fails_in_a_row": 0
+   "error": "http 503",
+   "fails_in_a_row": 1
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-27T00:26:25Z",
+   "kind": "sale",
+   "title": "41-Years-Family-Owned, LS3-Powered 1967 Chevrolet Camaro Coupe 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1967-chevrolet-camaro-547/"
+  },
+  {
+   "at": "2026-10-27T00:26:25Z",
+   "kind": "sale",
+   "title": "11k-Mile 2001 Dodge Viper GTS",
+   "ref": "https://bringatrailer.com/listing/2001-dodge-viper-gts-56/"
+  },
+  {
+   "at": "2026-10-27T00:26:25Z",
+   "kind": "sale",
+   "title": "351-Powered 1974 Ford Bronco 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1974-ford-bronco-405/"
+  },
+  {
+   "at": "2026-10-27T00:26:25Z",
+   "kind": "sale",
+   "title": "350-Powered 1965 Chevrolet Impala Sedan",
+   "ref": "https://bringatrailer.com/listing/1965-chevrolet-impala-54/"
+  },
+  {
+   "at": "2026-10-27T00:26:25Z",
+   "kind": "sale",
+   "title": "1969 AMC AMX 390",
+   "ref": "https://bringatrailer.com/listing/1969-amc-amx-30/"
+  },
+  {
+   "at": "2026-10-27T00:26:25Z",
+   "kind": "sale",
+   "title": "200Tdi-Powered 1991 Land Rover Defender Otokar 110 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1991-land-rover-defender-110-164/"
+  },
+  {
+   "at": "2026-10-27T00:26:25Z",
+   "kind": "sale",
+   "title": "1971 MG MGB GT",
+   "ref": "https://bringatrailer.com/listing/1971-mg-mgb-gt-37/"
+  },
+  {
+   "at": "2026-10-27T00:26:25Z",
+   "kind": "sale",
+   "title": "21k-Mile 2018 Volvo V60 T6 Polestar",
+   "ref": "https://bringatrailer.com/listing/2018-volvo-v60-3/"
+  },
+  {
+   "at": "2026-10-27T00:26:25Z",
+   "kind": "sale",
+   "title": "1992 Volvo 240 Wagon",
+   "ref": "https://bringatrailer.com/listing/1992-volvo-240-69/"
+  },
+  {
+   "at": "2026-10-27T00:26:25Z",
+   "kind": "sale",
+   "title": "31k-Mile 2005 Honda Accord EX-L V6",
+   "ref": "https://bringatrailer.com/listing/2005-honda-accord-7/"
+  },
   {
    "at": "2026-10-26T20:31:52Z",
    "kind": "sale",
