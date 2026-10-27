@@ -1,6 +1,6 @@
 {
  "format": "price-watch-reported/1",
- "generated_at": "2026-10-27T00:26:25Z",
+ "generated_at": "2026-10-27T08:58:16Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -20,7 +20,8 @@
    "model": "camaro",
    "makeName": "Chevrolet",
    "modelName": "Camaro",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "11k-Mile 2001 Dodge Viper GTS",
@@ -35,7 +36,8 @@
    "model": "viper",
    "makeName": "Dodge",
    "modelName": "Viper",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "351-Powered 1974 Ford Bronco 5-Speed",
@@ -50,7 +52,8 @@
    "model": "bronco",
    "makeName": "Ford",
    "modelName": "Bronco",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "350-Powered 1965 Chevrolet Impala Sedan",
@@ -65,7 +68,8 @@
    "model": "impala",
    "makeName": "Chevrolet",
    "modelName": "Impala",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "1969 AMC AMX 390",
@@ -80,7 +84,8 @@
    "model": "amx",
    "makeName": "AMC",
    "modelName": "AMX",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "200Tdi-Powered 1991 Land Rover Defender Otokar 110 5-Speed",
@@ -95,7 +100,8 @@
    "model": "defender",
    "makeName": "Land Rover",
    "modelName": "Defender",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "1971 MG MGB GT",
@@ -110,7 +116,8 @@
    "model": "mgb",
    "makeName": "MG",
    "modelName": "MGB",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": false
   },
   {
    "title": "21k-Mile 2018 Volvo V60 T6 Polestar",
@@ -125,7 +132,8 @@
    "model": "v60",
    "makeName": "Volvo",
    "modelName": "V60",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "1992 Volvo 240 Wagon",
@@ -140,7 +148,24 @@
    "model": "240",
    "makeName": "Volvo",
    "modelName": "240",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
+  {
+   "title": "327-Powered 1958 Chevrolet Corvette 4-Speed",
+   "url": "https://bringatrailer.com/listing/1958-chevrolet-corvette-161/",
+   "price": 70000,
+   "currency": "USD",
+   "ended": "2026-10-26",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "chevrolet",
+   "model": "corvette",
+   "makeName": "Chevrolet",
+   "modelName": "Corvette",
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "31k-Mile 2005 Honda Accord EX-L V6",
@@ -155,7 +180,120 @@
    "model": "accord",
    "makeName": "Honda",
    "modelName": "Accord",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
+  {
+   "title": "RoW 1996 Porsche 911 Turbo WLS2 Conversion",
+   "url": "https://bringatrailer.com/listing/1996-porsche-911-turbo-217/",
+   "price": 335000,
+   "currency": "USD",
+   "ended": "2026-10-26",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "porsche",
+   "model": "911",
+   "makeName": "Porsche",
+   "modelName": "911",
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
+  {
+   "title": "Modified 2003 Porsche 911 Turbo Coupe 6-Speed",
+   "url": "https://bringatrailer.com/listing/2003-porsche-911-turbo-coupe-135/",
+   "price": 60000,
+   "currency": "USD",
+   "ended": "2026-10-26",
+   "noreserve": true,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "porsche",
+   "model": "911",
+   "makeName": "Porsche",
+   "modelName": "911",
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
+  {
+   "title": "1978 Chevrolet Corvette",
+   "url": "https://bringatrailer.com/listing/1978-chevrolet-corvette-296/",
+   "price": 20000,
+   "currency": "USD",
+   "ended": "2026-10-26",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "chevrolet",
+   "model": "corvette",
+   "makeName": "Chevrolet",
+   "modelName": "Corvette",
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
+  {
+   "title": "1994 Toyota Land Cruiser FZJ80",
+   "url": "https://bringatrailer.com/listing/1994-toyota-land-cruiser-fzj80-158/",
+   "price": 2500,
+   "currency": "USD",
+   "ended": "2026-10-26",
+   "noreserve": true,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "toyota",
+   "model": "land-cruiser",
+   "makeName": "Toyota",
+   "modelName": "Land Cruiser",
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
+  {
+   "title": "1997 Land Rover Defender 90 NAS",
+   "url": "https://bringatrailer.com/listing/1997-land-rover-defender-90-nas-196/",
+   "price": 43000,
+   "currency": "USD",
+   "ended": "2026-10-26",
+   "noreserve": true,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "land-rover",
+   "model": "defender",
+   "makeName": "Land Rover",
+   "modelName": "Defender",
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
+  {
+   "title": "27k-Mile 2017 Porsche 911 Targa 4",
+   "url": "https://bringatrailer.com/listing/2017-porsche-911-targa-4-8/",
+   "price": 101000,
+   "currency": "USD",
+   "ended": "2026-10-26",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "porsche",
+   "model": "911",
+   "makeName": "Porsche",
+   "modelName": "911",
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
+  {
+   "title": "Original-Owner 2004 Chevrolet Silverado 1500 LS",
+   "url": "https://bringatrailer.com/listing/2004-chevrolet-silverado-1500-54/",
+   "price": 11000,
+   "currency": "USD",
+   "ended": "2026-10-26",
+   "noreserve": true,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "chevrolet",
+   "model": "silverado",
+   "makeName": "Chevrolet",
+   "modelName": "Silverado",
+   "classification": "certified",
+   "vpicMakeKnown": true
   }
  ]
 }

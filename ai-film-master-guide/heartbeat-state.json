@@ -17,6 +17,7 @@
   "RunningHubAI/rh-moss-image-bf16-miaomiao-anima-unet",
   "RunningHubAI/rh-moss-image-bf16-unet",
   "RunningHubAI/rh-moss-image-int8-anima-unet",
+  "RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
   "RunningHubAI/rh-pipi-anima01-unet",
   "RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
   "SOLRICKS/Mila",
@@ -35,6 +36,8 @@
   "grabbou/Wan2.1-T2V-1.3B-CoreAI",
   "infosave/LTX-2.5-cmf",
   "infosave/MiniMax-H3-Turbo-cmf",
+  "intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
+  "intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
   "jean-is/FastWan2.2-TI2V-5B-ONNX",
   "nvidia/Wan2.2-T2V-A14B-Diffusers-FP8",
   "nvidia/Wan2.2-T2V-A14B-Diffusers-NVFP4",
@@ -45,6 +48,7 @@
   "silentlooop/revt2v-ckpt",
   "sjxknukkji/wan2.2-t2v-a14b-transformers-bf16",
   "unsloth/Wan2.2-TI2V-5B-FP8",
+  "wanyi2026/Minimax-H3-R2VA-Veda-Preview",
   "yaleiyaleichiling/NSFW-Anime-wan-5B",
   "zhihefang/LUVE"
  ],
@@ -63,6 +67,7 @@
   "http://arxiv.org/abs/2610.30717v1",
   "http://arxiv.org/abs/2610.30781v1",
   "http://arxiv.org/abs/2610.30861v1",
+  "http://arxiv.org/abs/2610.30861v2",
   "http://arxiv.org/abs/2610.30866v1",
   "http://arxiv.org/abs/2610.30866v2",
   "http://arxiv.org/abs/2610.30926v1",
@@ -71,10 +76,22 @@
   "http://arxiv.org/abs/2610.31121v2",
   "http://arxiv.org/abs/2610.31429v1",
   "http://arxiv.org/abs/2610.31466v1",
+  "http://arxiv.org/abs/2610.31466v2",
   "http://arxiv.org/abs/2610.31640v1",
   "http://arxiv.org/abs/2610.31747v1",
   "http://arxiv.org/abs/2610.31765v1",
-  "http://arxiv.org/abs/2610.32381v1"
+  "http://arxiv.org/abs/2610.32381v1",
+  "http://arxiv.org/abs/2610.32381v2",
+  "http://arxiv.org/abs/2610.33135v1",
+  "http://arxiv.org/abs/2610.33566v1",
+  "http://arxiv.org/abs/2610.33807v1",
+  "http://arxiv.org/abs/2610.33857v1",
+  "http://arxiv.org/abs/2610.34092v1",
+  "http://arxiv.org/abs/2610.34564v1",
+  "http://arxiv.org/abs/2610.35001v1",
+  "http://arxiv.org/abs/2610.35594v1",
+  "http://arxiv.org/abs/2610.35684v1",
+  "http://arxiv.org/abs/2610.35864v1"
  ],
  "hn": [
   "14950122",
@@ -103,13 +120,15 @@
   "tag:github.com,2008:Repository/498011141/v0.39.0",
   "tag:github.com,2008:Repository/498011141/v0.40.0",
   "tag:github.com,2008:Repository/498011141/v0.41.0",
-  "tag:github.com,2008:Repository/498011141/v0.42.0"
+  "tag:github.com,2008:Repository/498011141/v0.42.0",
+  "tag:github.com,2008:Repository/498011141/v0.42.1"
  ],
  "gh-comfyui": [
   "tag:github.com,2008:Repository/589831718/v0.42.1",
   "tag:github.com,2008:Repository/589831718/v0.42.2",
   "tag:github.com,2008:Repository/589831718/v0.42.3",
   "tag:github.com,2008:Repository/589831718/v0.42.4",
-  "tag:github.com,2008:Repository/589831718/v0.42.5"
+  "tag:github.com,2008:Repository/589831718/v0.42.5",
+  "tag:github.com,2008:Repository/589831718/v0.43.0"
  ]
 }

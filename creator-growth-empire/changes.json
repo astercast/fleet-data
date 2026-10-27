@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "ig-australia-s-proposed-algorithmic-opt-out-gets-pu-9725ff",
+   "platform": "instagram",
+   "title": "Australia’s proposed algorithmic opt-out gets pushback",
+   "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/eDf1fLcEc170l_vRPiYUM-yz-9GJV5DYes_NJs5U42w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjc2NjExNzMyXzEuanBn.webp\"/></div></figure><p>Instagram Chief Adam Mosseri and conservative commentator Michael Shellenberger have separately opposed aspects of the regulations.</p>",
+   "detected_at": "2026-10-27T08:56:14Z",
+   "announced_at": "2026-10-27T00:43:56Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/australias-proposed-algorithmic-opt-out-gets-pushback/872830/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/australias-proposed-algorithmic-opt-out-gets-pushback/872830/"
+    }
+   ],
+   "category": "legal",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-top-50-most-subscribed-youtube-channels-worldwid-4bb31e",
    "platform": "youtube",
    "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 10/25/2026",
@@ -894,7 +913,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-27T00:25:21Z",
+ "generated_at": "2026-10-27T08:56:14Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-10-27",
  "version": "1.7.0"

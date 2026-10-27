@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-27T00:26:25Z",
+ "generated_at": "2026-10-27T08:58:16Z",
  "stale_after_h": 26,
- "healthy": false,
- "sources_ok": 1,
+ "healthy": true,
+ "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-10-27T00:26:25Z",
+ "last_data_change_at": "2026-10-27T08:58:16Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-10-27T00:26:17Z",
-   "last_ok_at": "2026-10-27T00:26:17Z",
+   "items": 72,
+   "checked_at": "2026-10-27T08:58:15Z",
+   "last_ok_at": "2026-10-27T08:58:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -22,15 +22,63 @@
    "id": "nhtsa-vpic",
    "label": "NHTSA vPIC make names",
    "url": "https://vpic.nhtsa.dot.gov/api",
-   "ok": false,
+   "ok": true,
    "items": 12416,
-   "checked_at": "2026-10-27T00:26:25Z",
-   "last_ok_at": "2026-10-26T20:31:52Z",
-   "error": "http 503",
-   "fails_in_a_row": 1
+   "checked_at": "2026-10-27T08:58:16Z",
+   "last_ok_at": "2026-10-27T08:58:16Z",
+   "error": null,
+   "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-27T08:58:16Z",
+   "kind": "sale",
+   "title": "327-Powered 1958 Chevrolet Corvette 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1958-chevrolet-corvette-161/"
+  },
+  {
+   "at": "2026-10-27T08:58:16Z",
+   "kind": "sale",
+   "title": "RoW 1996 Porsche 911 Turbo WLS2 Conversion",
+   "ref": "https://bringatrailer.com/listing/1996-porsche-911-turbo-217/"
+  },
+  {
+   "at": "2026-10-27T08:58:16Z",
+   "kind": "sale",
+   "title": "Modified 2003 Porsche 911 Turbo Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2003-porsche-911-turbo-coupe-135/"
+  },
+  {
+   "at": "2026-10-27T08:58:16Z",
+   "kind": "sale",
+   "title": "1978 Chevrolet Corvette",
+   "ref": "https://bringatrailer.com/listing/1978-chevrolet-corvette-296/"
+  },
+  {
+   "at": "2026-10-27T08:58:16Z",
+   "kind": "sale",
+   "title": "1994 Toyota Land Cruiser FZJ80",
+   "ref": "https://bringatrailer.com/listing/1994-toyota-land-cruiser-fzj80-158/"
+  },
+  {
+   "at": "2026-10-27T08:58:16Z",
+   "kind": "sale",
+   "title": "1997 Land Rover Defender 90 NAS",
+   "ref": "https://bringatrailer.com/listing/1997-land-rover-defender-90-nas-196/"
+  },
+  {
+   "at": "2026-10-27T08:58:16Z",
+   "kind": "sale",
+   "title": "27k-Mile 2017 Porsche 911 Targa 4",
+   "ref": "https://bringatrailer.com/listing/2017-porsche-911-targa-4-8/"
+  },
+  {
+   "at": "2026-10-27T08:58:16Z",
+   "kind": "sale",
+   "title": "Original-Owner 2004 Chevrolet Silverado 1500 LS",
+   "ref": "https://bringatrailer.com/listing/2004-chevrolet-silverado-1500-54/"
+  },
   {
    "at": "2026-10-27T00:26:25Z",
    "kind": "sale",
@@ -168,48 +216,6 @@
    "kind": "sale",
    "title": "Original-Owner 2007 Porsche 911 Turbo Coupe 6-Speed",
    "ref": "https://bringatrailer.com/listing/2007-porsche-911-turbo-coupe-226/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "RoW 1996 Porsche 911 Turbo WLS2 Conversion",
-   "ref": "https://bringatrailer.com/listing/1996-porsche-911-turbo-217/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "Modified 2003 Porsche 911 Turbo Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2003-porsche-911-turbo-coupe-135/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "1978 Chevrolet Corvette",
-   "ref": "https://bringatrailer.com/listing/1978-chevrolet-corvette-296/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "1994 Toyota Land Cruiser FZJ80",
-   "ref": "https://bringatrailer.com/listing/1994-toyota-land-cruiser-fzj80-158/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "1997 Land Rover Defender 90 NAS",
-   "ref": "https://bringatrailer.com/listing/1997-land-rover-defender-90-nas-196/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "27k-Mile 2017 Porsche 911 Targa 4",
-   "ref": "https://bringatrailer.com/listing/2017-porsche-911-targa-4-8/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "Original-Owner 2004 Chevrolet Silverado 1500 LS",
-   "ref": "https://bringatrailer.com/listing/2004-chevrolet-silverado-1500-54/"
   },
   {
    "at": "2026-10-25T20:49:37Z",

@@ -1,7 +1,67 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-27T00:25:21Z",
+ "generated_at": "2026-10-27T08:56:14Z",
  "items": [
+  {
+   "id": "gh-diffusers-v0.42.1",
+   "at": "2026-10-27T07:41:43Z",
+   "model": "diffusers",
+   "title": "diffusers release: v0.42.1 — fix component resolution in `from_pretrained` to prevent `trust_remote_code` bypass",
+   "url": "https://github.com/huggingface/diffusers/releases/tag/v0.42.1",
+   "kind": "release",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-wanyi2026/Minimax-H3-R2VA-Veda-Preview",
+   "at": "2026-10-27T07:13:13Z",
+   "model": "wanyi2026/Minimax-H3-R2VA-Veda-Preview",
+   "title": "New text-to-video model listed on Hugging Face: wanyi2026/Minimax-H3-R2VA-Veda-Preview",
+   "url": "https://huggingface.co/wanyi2026/Minimax-H3-R2VA-Veda-Preview",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
+   "at": "2026-10-27T04:44:33Z",
+   "model": "intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
+   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
+   "url": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
+   "at": "2026-10-27T04:44:26Z",
+   "model": "intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
+   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
+   "url": "https://huggingface.co/intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "gh-comfyui-v0.43.0",
+   "at": "2026-10-27T02:40:46Z",
+   "model": "comfyui",
+   "title": "comfyui release: v0.43.0",
+   "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.0",
+   "kind": "release",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
+   "at": "2026-10-27T01:21:02Z",
+   "model": "RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
+   "url": "https://huggingface.co/RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-10-27",
    "at": "2026-10-27T00:25:16+00:00",
@@ -363,6 +423,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.35864v1",
+   "at": "2026-10-26T17:59:32Z",
+   "model": "",
+   "title": "New arXiv paper: VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
+   "url": "http://arxiv.org/abs/2610.35864v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-Gamerrishabbsingh/text-to-video-ms-1.7b",
    "at": "2026-10-26T16:57:51Z",
    "model": "Gamerrishabbsingh/text-to-video-ms-1.7b",
@@ -373,12 +443,42 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.35684v1",
+   "at": "2026-10-26T16:19:59Z",
+   "model": "",
+   "title": "New arXiv paper: OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+   "url": "http://arxiv.org/abs/2610.35684v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2610.35594v1",
+   "at": "2026-10-26T15:20:53Z",
+   "model": "",
+   "title": "New arXiv paper: Beyond Distribution Matching: Self-Supervised Representation Forcing for Few-Step Video Generation",
+   "url": "http://arxiv.org/abs/2610.35594v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-SOLRICKS/Mila",
    "at": "2026-10-26T08:24:01Z",
    "model": "SOLRICKS/Mila",
    "title": "New text-to-video model listed on Hugging Face: SOLRICKS/Mila",
    "url": "https://huggingface.co/SOLRICKS/Mila",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2610.35001v1",
+   "at": "2026-10-26T08:13:31Z",
+   "model": "",
+   "title": "New arXiv paper: More Memory, Better Videos? A Controlled Study of Visual Memory in Long-Video Generation",
+   "url": "http://arxiv.org/abs/2610.35001v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -763,6 +863,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.34564v1",
+   "at": "2026-10-25T21:07:26Z",
+   "model": "",
+   "title": "New arXiv paper: FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation",
+   "url": "http://arxiv.org/abs/2610.34564v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-zhihefang/LUVE",
    "at": "2026-10-25T21:03:24Z",
    "model": "zhihefang/LUVE",
@@ -1053,6 +1163,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.34092v1",
+   "at": "2026-10-25T06:44:06Z",
+   "model": "",
+   "title": "New arXiv paper: Learning the Autoregressive: Direct Score-Difference Estimation with Amortized Future Credit for Video Distillation",
+   "url": "http://arxiv.org/abs/2610.34092v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "check-Luma App / Ray 3.2-2026-10-25",
    "at": "2026-10-25T06:44:04+00:00",
    "model": "Luma App / Ray 3.2",
@@ -1203,6 +1323,26 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.33857v1",
+   "at": "2026-10-24T18:57:47Z",
+   "model": "",
+   "title": "New arXiv paper: TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens",
+   "url": "http://arxiv.org/abs/2610.33857v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2610.33807v1",
+   "at": "2026-10-24T17:11:06Z",
+   "model": "",
+   "title": "New arXiv paper: RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models",
+   "url": "http://arxiv.org/abs/2610.33807v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-RunningHubAI/rh-pipi-anima01-unet",
    "at": "2026-10-24T16:45:02Z",
    "model": "RunningHubAI/rh-pipi-anima01-unet",
@@ -1229,6 +1369,16 @@
    "title": "New text-to-video model listed on Hugging Face: emdashthreee/pix-vid-wn-2.1-t2v-14b",
    "url": "https://huggingface.co/emdashthreee/pix-vid-wn-2.1-t2v-14b",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2610.33566v1",
+   "at": "2026-10-24T09:35:13Z",
+   "model": "",
+   "title": "New arXiv paper: Distilling Dense Trajectory Teachers For Large-Motion Video World Models",
+   "url": "http://arxiv.org/abs/2610.33566v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -1323,6 +1473,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.33135v1",
+   "at": "2026-10-23T14:15:01Z",
+   "model": "",
+   "title": "New arXiv paper: WorldCast: World-Consistent Character Video Generation with Large-Angle Camera Control",
+   "url": "http://arxiv.org/abs/2610.33135v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-EXCAI/ForcingBooster",
    "at": "2026-10-23T09:58:40Z",
    "model": "EXCAI/ForcingBooster",
@@ -1338,166 +1498,6 @@
    "model": "Sistafistaz/text-to-video-ms-1.7b",
    "title": "New text-to-video model listed on Hugging Face: Sistafistaz/text-to-video-ms-1.7b",
    "url": "https://huggingface.co/Sistafistaz/text-to-video-ms-1.7b",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.32381v1",
-   "at": "2026-10-23T09:09:32Z",
-   "model": "",
-   "title": "New arXiv paper: UniWorld: A Unified World Model for Real-Time Visual World Simulation",
-   "url": "http://arxiv.org/abs/2610.32381v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Wuli-art/MiniMax-H3-Turbo",
-   "at": "2026-10-23T08:17:28Z",
-   "model": "Wuli-art/MiniMax-H3-Turbo",
-   "title": "New text-to-video model listed on Hugging Face: Wuli-art/MiniMax-H3-Turbo",
-   "url": "https://huggingface.co/Wuli-art/MiniMax-H3-Turbo",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-sanjeevkumar70550932/LTX-Video-0.9.7-distilled",
-   "at": "2026-10-23T01:44:45Z",
-   "model": "sanjeevkumar70550932/LTX-Video-0.9.7-distilled",
-   "title": "New text-to-video model listed on Hugging Face: sanjeevkumar70550932/LTX-Video-0.9.7-distilled",
-   "url": "https://huggingface.co/sanjeevkumar70550932/LTX-Video-0.9.7-distilled",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-nvidia/Wan2.2-T2V-A14B-Diffusers-FP8",
-   "at": "2026-10-23T00:43:15Z",
-   "model": "nvidia/Wan2.2-T2V-A14B-Diffusers-FP8",
-   "title": "New text-to-video model listed on Hugging Face: nvidia/Wan2.2-T2V-A14B-Diffusers-FP8",
-   "url": "https://huggingface.co/nvidia/Wan2.2-T2V-A14B-Diffusers-FP8",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-nvidia/Wan2.2-T2V-A14B-Diffusers-NVFP4",
-   "at": "2026-10-23T00:42:57Z",
-   "model": "nvidia/Wan2.2-T2V-A14B-Diffusers-NVFP4",
-   "title": "New text-to-video model listed on Hugging Face: nvidia/Wan2.2-T2V-A14B-Diffusers-NVFP4",
-   "url": "https://huggingface.co/nvidia/Wan2.2-T2V-A14B-Diffusers-NVFP4",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "gh-comfyui-v0.42.5",
-   "at": "2026-10-23T00:07:14Z",
-   "model": "comfyui",
-   "title": "comfyui release: v0.42.5",
-   "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5",
-   "kind": "release",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-epfl-neuroai/NEvo",
-   "at": "2026-10-22T18:54:47Z",
-   "model": "epfl-neuroai/NEvo",
-   "title": "New text-to-video model listed on Hugging Face: epfl-neuroai/NEvo",
-   "url": "https://huggingface.co/epfl-neuroai/NEvo",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.31765v1",
-   "at": "2026-10-22T18:04:12Z",
-   "model": "",
-   "title": "New arXiv paper: SyncVid: World-Equivariant Diffusion for Synchronized Video Generation",
-   "url": "http://arxiv.org/abs/2610.31765v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.31747v1",
-   "at": "2026-10-22T17:59:54Z",
-   "model": "",
-   "title": "New arXiv paper: AudioLift: Audio-Driven Single Image to Full-Head Gaussian Avatar via Multi-view Video Generation",
-   "url": "http://arxiv.org/abs/2610.31747v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.31640v1",
-   "at": "2026-10-22T17:53:03Z",
-   "model": "",
-   "title": "New arXiv paper: WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
-   "url": "http://arxiv.org/abs/2610.31640v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-dragonlimited/comfyui-molab",
-   "at": "2026-10-22T17:44:28Z",
-   "model": "dragonlimited/comfyui-molab",
-   "title": "New text-to-video model listed on Hugging Face: dragonlimited/comfyui-molab",
-   "url": "https://huggingface.co/dragonlimited/comfyui-molab",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.31466v1",
-   "at": "2026-10-22T15:58:39Z",
-   "model": "",
-   "title": "New arXiv paper: AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark",
-   "url": "http://arxiv.org/abs/2610.31466v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.31429v1",
-   "at": "2026-10-22T15:27:58Z",
-   "model": "",
-   "title": "New arXiv paper: PhysTrace: Interpretable Temporal Evaluation of Physical Consistency in Video Generative Models",
-   "url": "http://arxiv.org/abs/2610.31429v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-nynxz/MiniMax-H3-PTD-LoRAs",
-   "at": "2026-10-22T13:32:14Z",
-   "model": "nynxz/MiniMax-H3-PTD-LoRAs",
-   "title": "New text-to-video model listed on Hugging Face: nynxz/MiniMax-H3-PTD-LoRAs",
-   "url": "https://huggingface.co/nynxz/MiniMax-H3-PTD-LoRAs",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-infosave/LTX-2.5-cmf",
-   "at": "2026-10-22T12:04:44Z",
-   "model": "infosave/LTX-2.5-cmf",
-   "title": "New text-to-video model listed on Hugging Face: infosave/LTX-2.5-cmf",
-   "url": "https://huggingface.co/infosave/LTX-2.5-cmf",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-infosave/MiniMax-H3-Turbo-cmf",
-   "at": "2026-10-22T12:04:41Z",
-   "model": "infosave/MiniMax-H3-Turbo-cmf",
-   "title": "New text-to-video model listed on Hugging Face: infosave/MiniMax-H3-Turbo-cmf",
-   "url": "https://huggingface.co/infosave/MiniMax-H3-Turbo-cmf",
    "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"

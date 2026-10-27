@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-27T00:25:21Z",
+ "generated_at": "2026-10-27T08:56:14Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-10-27T00:25:21Z",
+ "last_data_change_at": "2026-10-27T08:56:14Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
-   "items": 26,
-   "checked_at": "2026-10-27T00:25:19Z",
-   "last_ok_at": "2026-10-27T00:25:19Z",
+   "items": 39,
+   "checked_at": "2026-10-27T08:56:12Z",
+   "last_ok_at": "2026-10-27T08:56:12Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-27T00:25:21Z",
-   "last_ok_at": "2026-10-27T00:25:21Z",
+   "checked_at": "2026-10-27T08:56:14Z",
+   "last_ok_at": "2026-10-27T08:56:14Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-10-27T00:25:19Z",
-   "last_ok_at": "2026-10-27T00:25:19Z",
+   "checked_at": "2026-10-27T08:56:11Z",
+   "last_ok_at": "2026-10-27T08:56:11Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-10-27T00:25:20Z",
-   "last_ok_at": "2026-10-27T00:25:20Z",
+   "checked_at": "2026-10-27T08:56:12Z",
+   "last_ok_at": "2026-10-27T08:56:12Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,127 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-10-27T00:25:19Z",
-   "last_ok_at": "2026-10-27T00:25:19Z",
+   "checked_at": "2026-10-27T08:56:11Z",
+   "last_ok_at": "2026-10-27T08:56:11Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: wanyi2026/Minimax-H3-R2VA-Veda-Preview",
+   "ref": "https://huggingface.co/wanyi2026/Minimax-H3-R2VA-Veda-Preview"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
+   "ref": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
+   "ref": "https://huggingface.co/intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
+   "ref": "https://huggingface.co/RunningHubAI/rh-moss-image-int8-unet-2114276705195122689"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
+   "ref": "http://arxiv.org/abs/2610.35864v1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+   "ref": "http://arxiv.org/abs/2610.35684v1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Beyond Distribution Matching: Self-Supervised Representation Forcing for Few-Step Video Generation",
+   "ref": "http://arxiv.org/abs/2610.35594v1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: More Memory, Better Videos? A Controlled Study of Visual Memory in Long-Video Generation",
+   "ref": "http://arxiv.org/abs/2610.35001v1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation",
+   "ref": "http://arxiv.org/abs/2610.34564v1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Learning the Autoregressive: Direct Score-Difference Estimation with Amortized Future Credit for Video Distillation",
+   "ref": "http://arxiv.org/abs/2610.34092v1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens",
+   "ref": "http://arxiv.org/abs/2610.33857v1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models",
+   "ref": "http://arxiv.org/abs/2610.33807v1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Distilling Dense Trajectory Teachers For Large-Motion Video World Models",
+   "ref": "http://arxiv.org/abs/2610.33566v1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: WorldCast: World-Consistent Character Video Generation with Large-Angle Camera Control",
+   "ref": "http://arxiv.org/abs/2610.33135v1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: UniWorld: A Unified World Model for Real-Time Visual World Simulation",
+   "ref": "http://arxiv.org/abs/2610.32381v2"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark",
+   "ref": "http://arxiv.org/abs/2610.31466v2"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Direct Forcing: Single-Stage Training with Representation-Space Supervision for Few-Step Autoregressive Video Generation",
+   "ref": "http://arxiv.org/abs/2610.30861v2"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "release",
+   "title": "diffusers release: v0.42.1 — fix component resolution in `from_pretrained` to prevent `trust_remote_code` bypass",
+   "ref": "https://github.com/huggingface/diffusers/releases/tag/v0.42.1"
+  },
+  {
+   "at": "2026-10-27T08:56:14Z",
+   "kind": "release",
+   "title": "comfyui release: v0.43.0",
+   "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.0"
+  },
   {
    "at": "2026-10-27T00:25:21Z",
    "kind": "price-signal",
