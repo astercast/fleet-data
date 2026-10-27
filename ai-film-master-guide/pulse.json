@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-27T15:21:30Z",
+ "generated_at": "2026-10-27T22:10:23Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-10-27T15:21:30Z",
+ "last_data_change_at": "2026-10-27T22:10:23Z",
  "sources": [
   {
    "id": "arxiv",
@@ -13,8 +13,8 @@
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
    "items": 39,
-   "checked_at": "2026-10-27T15:21:28Z",
-   "last_ok_at": "2026-10-27T15:21:28Z",
+   "checked_at": "2026-10-27T22:10:21Z",
+   "last_ok_at": "2026-10-27T22:10:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-27T15:21:30Z",
-   "last_ok_at": "2026-10-27T15:21:30Z",
+   "checked_at": "2026-10-27T22:10:23Z",
+   "last_ok_at": "2026-10-27T22:10:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-10-27T15:21:28Z",
-   "last_ok_at": "2026-10-27T15:21:28Z",
+   "checked_at": "2026-10-27T22:10:19Z",
+   "last_ok_at": "2026-10-27T22:10:19Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-10-27T15:21:29Z",
-   "last_ok_at": "2026-10-27T15:21:29Z",
+   "checked_at": "2026-10-27T22:10:21Z",
+   "last_ok_at": "2026-10-27T22:10:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,25 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-10-27T15:21:28Z",
-   "last_ok_at": "2026-10-27T15:21:28Z",
+   "checked_at": "2026-10-27T22:10:19Z",
+   "last_ok_at": "2026-10-27T22:10:19Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-27T22:10:23Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ParisNeo/MiniMax-H3-FL2VA-FP8",
+   "ref": "https://huggingface.co/ParisNeo/MiniMax-H3-FL2VA-FP8"
+  },
+  {
+   "at": "2026-10-27T22:10:23Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: PatiPix/FastWan2.2-TI2V-5B-GGUF",
+   "ref": "https://huggingface.co/PatiPix/FastWan2.2-TI2V-5B-GGUF"
+  },
   {
    "at": "2026-10-27T15:21:30Z",
    "kind": "new-model",
@@ -411,18 +423,6 @@
    "kind": "price-signal",
    "title": "Runway Act-Two: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://aivideos.eu/blog/runway-act-one-vs-heygen-ai-actor-direction"
-  },
-  {
-   "at": "2026-10-26T20:30:15Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: phenmoziken/LTX-2.5-uncensored-v1.1-FP8",
-   "ref": "https://huggingface.co/phenmoziken/LTX-2.5-uncensored-v1.1-FP8"
-  },
-  {
-   "at": "2026-10-26T20:30:15Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Gamerrishabbsingh/text-to-video-ms-1.7b",
-   "ref": "https://huggingface.co/Gamerrishabbsingh/text-to-video-ms-1.7b"
   }
  ]
 }

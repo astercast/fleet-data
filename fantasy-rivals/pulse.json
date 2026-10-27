@@ -1,9 +1,9 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-27T15:23:44Z",
+ "generated_at": "2026-10-27T22:13:02Z",
  "stale_after_h": 30,
- "healthy": true,
- "sources_ok": 1,
+ "healthy": false,
+ "sources_ok": 0,
  "sources_total": 1,
  "last_data_change_at": "2026-10-27T00:26:25Z",
  "sources": [
@@ -11,12 +11,12 @@
    "id": "liquipedia",
    "label": "Liquipedia pages",
    "url": "https://liquipedia.net/marvelrivals/",
-   "ok": true,
+   "ok": false,
    "items": 6,
-   "checked_at": "2026-10-27T15:23:44Z",
+   "checked_at": "2026-10-27T22:13:02Z",
    "last_ok_at": "2026-10-27T15:23:44Z",
-   "error": null,
-   "fails_in_a_row": 0
+   "error": "http 429",
+   "fails_in_a_row": 1
   }
  ],
  "changes": [

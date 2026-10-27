@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-27T15:23:44Z",
+ "generated_at": "2026-10-27T22:12:39Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-10-27T08:58:16Z",
+ "last_data_change_at": "2026-10-27T22:12:39Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-10-27T15:23:42Z",
-   "last_ok_at": "2026-10-27T15:23:42Z",
+   "items": 39,
+   "checked_at": "2026-10-27T22:12:37Z",
+   "last_ok_at": "2026-10-27T22:12:37Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,14 +23,68 @@
    "label": "NHTSA vPIC make names",
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
-   "items": 12416,
-   "checked_at": "2026-10-27T15:23:44Z",
-   "last_ok_at": "2026-10-27T15:23:44Z",
+   "items": 12417,
+   "checked_at": "2026-10-27T22:12:39Z",
+   "last_ok_at": "2026-10-27T22:12:39Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-27T22:12:39Z",
+   "kind": "sale",
+   "title": "1997 Lotus Esprit V8",
+   "ref": "https://bringatrailer.com/listing/1997-lotus-esprit-v8-6/"
+  },
+  {
+   "at": "2026-10-27T22:12:39Z",
+   "kind": "sale",
+   "title": "1991 Ferrari Testarossa",
+   "ref": "https://bringatrailer.com/listing/1991-ferrari-testarossa-67/"
+  },
+  {
+   "at": "2026-10-27T22:12:39Z",
+   "kind": "sale",
+   "title": "2007 BMW X5 3.0si",
+   "ref": "https://bringatrailer.com/listing/2007-bmw-x5-16/"
+  },
+  {
+   "at": "2026-10-27T22:12:39Z",
+   "kind": "sale",
+   "title": "20k-Mile 2006 Ford Saleen Mustang S281 3V Convertible",
+   "ref": "https://bringatrailer.com/listing/2006-saleen-mustang-s281-6/"
+  },
+  {
+   "at": "2026-10-27T22:12:39Z",
+   "kind": "sale",
+   "title": "Vortech-Supercharged, 383 Stroker-Powered 1995 Chevrolet Impala SS 6-Speed",
+   "ref": "https://bringatrailer.com/listing/1995-chevrolet-impala-ss-64/"
+  },
+  {
+   "at": "2026-10-27T22:12:39Z",
+   "kind": "sale",
+   "title": "2006 Audi TT Coupe 3.2 Quattro",
+   "ref": "https://bringatrailer.com/listing/2006-audi-tt-coupe-10/"
+  },
+  {
+   "at": "2026-10-27T22:12:39Z",
+   "kind": "sale",
+   "title": "20k-Mile 2002 Dodge Viper GTS ACR Final Edition",
+   "ref": "https://bringatrailer.com/listing/2002-dodge-viper-gts-58/"
+  },
+  {
+   "at": "2026-10-27T22:12:39Z",
+   "kind": "sale",
+   "title": "49k-Mile 2017 Jeep Wrangler Sport 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2017-jeep-wrangler-72/"
+  },
+  {
+   "at": "2026-10-27T22:12:39Z",
+   "kind": "sale",
+   "title": "350-Powered 1971 Toyota Land Cruiser FJ40",
+   "ref": "https://bringatrailer.com/listing/1971-toyota-land-cruiser-fj40-159/"
+  },
   {
    "at": "2026-10-27T08:58:16Z",
    "kind": "sale",

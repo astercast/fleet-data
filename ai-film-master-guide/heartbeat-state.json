@@ -12,6 +12,8 @@
   "Lightricks/LTX-2-19b-LoRA-Camera-Control-Static",
   "Lightricks/LTX-2.3-22b-IC-LoRA-Cross-Eyed",
   "Lightricks/LTX-2.5-Diffusers",
+  "ParisNeo/MiniMax-H3-FL2VA-FP8",
+  "PatiPix/FastWan2.2-TI2V-5B-GGUF",
   "PedroMarinhoDev/Hy-Nomas-ComfyUI",
   "Pexqman/Wan2.2-TI2V-5B-hexpack",
   "RunningHubAI/rh-minimax-h3-remix-hsa-turbo-v0.8-int8-pruned-unet",
