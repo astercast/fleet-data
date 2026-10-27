@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-10-26T10:30:39Z",
+ "generated_at": "2026-10-27T10:03:09Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -552,6 +552,28 @@
    "activity_id": "big-story-stone-first-people",
    "activity_name": "Big Story Stone, First People",
    "queued_at": "2026-10-26T10:30:31Z"
+  },
+  {
+   "commons_title": "File:Bell Dogs Bell Bhaktapur Durbar Square Bhaktapur Nepal Rajesh Dhungana.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Bell_Dogs_Bell_Bhaktapur_Durbar_Square_Bhaktapur_Nepal_Rajesh_Dhungana.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Bell_Dogs_Bell_Bhaktapur_Durbar_Square_Bhaktapur_Nepal_Rajesh_Dhungana.jpg/500px-Bell_Dogs_Bell_Bhaktapur_Durbar_Square_Bhaktapur_Nepal_Rajesh_Dhungana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a href=\"//commons.wikimedia.org/wiki/User:Sangita21957\" title=\"User:Sangita21957\">Rajesh Dhungana</a>",
+   "licence": "CC BY-SA 4.0",
+   "status": "pending",
+   "activity_id": "big-name-bell-ring-for-you",
+   "activity_name": "Big Name Bell, Ring for You",
+   "queued_at": "2026-10-27T10:03:07Z"
+  },
+  {
+   "commons_title": "File:Big Day Out (8392285402).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Big_Day_Out_(8392285402).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Big_Day_Out_%288392285402%29.jpg/500px-Big_Day_Out_%288392285402%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<bdi><a href=\"https://www.wikidata.org/wiki/Q37885816\" class=\"extiw\" title=\"d:Q37885816\"><span title=\"Australian photographer\">Eva Rinaldi</span></a></bdi>",
+   "licence": "CC BY-SA 2.0",
+   "status": "pending",
+   "activity_id": "big-name-bell-ring-for-you",
+   "activity_name": "Big Name Bell, Ring for You",
+   "queued_at": "2026-10-27T10:03:07Z"
   }
  ]
 }

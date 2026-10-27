@@ -1,6 +1,6 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-26T10:30:40Z",
+ "generated_at": "2026-10-27T10:03:10Z",
  "stale_after_h": 50,
  "healthy": true,
  "sources_ok": 3,
@@ -13,8 +13,8 @@
    "url": "https://cdn.emulatorjs.org/stable/data/version.json",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-10-26T10:30:40Z",
-   "last_ok_at": "2026-10-26T10:30:40Z",
+   "checked_at": "2026-10-27T10:03:10Z",
+   "last_ok_at": "2026-10-27T10:03:10Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "assets/js/config.js",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-10-26T10:30:39Z",
-   "last_ok_at": "2026-10-26T10:30:39Z",
+   "checked_at": "2026-10-27T10:03:09Z",
+   "last_ok_at": "2026-10-27T10:03:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "assets/emulatorjs/data/version.json",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-10-26T10:30:39Z",
-   "last_ok_at": "2026-10-26T10:30:39Z",
+   "checked_at": "2026-10-27T10:03:09Z",
+   "last_ok_at": "2026-10-27T10:03:09Z",
    "error": null,
    "fails_in_a_row": 0
   }

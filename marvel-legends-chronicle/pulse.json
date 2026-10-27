@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-26T10:29:41Z",
+ "generated_at": "2026-10-27T10:02:04Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-10-26T10:29:41Z",
+ "last_data_change_at": "2026-10-27T10:02:04Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 64,
-   "checked_at": "2026-10-26T10:29:36Z",
-   "last_ok_at": "2026-10-26T10:29:36Z",
+   "checked_at": "2026-10-27T10:01:59Z",
+   "last_ok_at": "2026-10-27T10:01:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 100,
-   "checked_at": "2026-10-26T10:29:41Z",
-   "last_ok_at": "2026-10-26T10:29:41Z",
+   "items": 60,
+   "checked_at": "2026-10-27T10:02:04Z",
+   "last_ok_at": "2026-10-27T10:02:04Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-10-26T10:29:41Z",
-   "last_ok_at": "2026-10-26T10:29:41Z",
+   "checked_at": "2026-10-27T10:02:04Z",
+   "last_ok_at": "2026-10-27T10:02:04Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,37 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 47,
-   "checked_at": "2026-10-26T10:29:40Z",
-   "last_ok_at": "2026-10-26T10:29:40Z",
+   "checked_at": "2026-10-27T10:02:04Z",
+   "last_ok_at": "2026-10-27T10:02:04Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-27T10:02:04Z",
+   "kind": "story",
+   "title": "New Marvel Legends X-Men '97 Beast Coming Soon from Hasbro - Bleeding Cool News",
+   "ref": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkVJUS1KdWxyU2t1VHpfMzhxSDE2YUpXUWNqLTlabHllSFowWldIemQycjcwTWhaMlR2czF5NmsyWS1rcFgyNHlBV0E3RjgtUTJfSUNoNFRjRFlZMUtyN05vZjFlYks1aGhEMndkUWlocTJLeDF3M050Q29HWEdZT2lLM1FuVWZ1ODNaaGxwd0MxNlRLUXF1YU1iTlA?oc=5"
+  },
+  {
+   "at": "2026-10-27T10:02:04Z",
+   "kind": "story",
+   "title": "This Iron Man Helmet Could Be the Ultimate Marvel Collectible (& There's a Good Reason Why) - ComicBook.com",
+   "ref": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc2haOGk4eXVDRjdDQWNwWWNNR3hORjlIQVBkdnhlZlhuRDJ1OFc1N0VMdVEwQ1BlRnZ2SHNxNnAwTnM3VFB6SG03WEdsaWZXeHJrVUhUZm9hTmdPY2J4REtkZjVWTHA0RlJwLTdJWnlWVkZpLTV6SFZmZGdpTWUzd3dBVUx0bFpYQVFmUHljZS1TUUF1RGpYTm5iTFpFb2Zxa1MxeUxyRXdweHlzd1hZdEpndUsySk80bGMxeXVZWFRDczZHNWc?oc=5"
+  },
+  {
+   "at": "2026-10-27T10:02:04Z",
+   "kind": "story",
+   "title": "16 Marvel Action Figures Collectors Want - Go2Tutors",
+   "ref": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSC1rSGtKaUdLN3I0SnJvMWZMb3NSWG1hQWZnVi00S2hYUUZqQWk3UjhlNThJejNlZU43QTc4ZDFUbVVESW1wUlE5aVB5Z3JqdnFJaTQ3d2Y3TTdXeUdJN1JWU1pPb19Sb290RWtNb3Q?oc=5"
+  },
+  {
+   "at": "2026-10-27T10:02:04Z",
+   "kind": "preorder",
+   "title": "Drop window opens soon: Astonishing X-Men, Cyclops & Wolverine 2-pack (reissue)",
+   "ref": "radar.html"
+  },
   {
    "at": "2026-10-26T10:29:41Z",
    "kind": "story",
@@ -70,12 +94,6 @@
    "kind": "story",
    "title": "Marvel Legends Marvels Box Build-A-Figure Wave Preorder - Toy Habits",
    "ref": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUxqV0cyc0g1MzlNdFBoZXpuSXJFUDdhVlo2TXNXZGVLY3V5VkxQQ1pZMG1NcWl6YjdvT1IwY3ZvdEp0Qmd2T1BtUkZscFVWS3loZzJBVmVzcnRlcXhDVkNvcmpsYzkzeEk4Q2M2QTBpTEc0SlJoYTZKYXdIRklBc2hBaEI?oc=5"
-  },
-  {
-   "at": "2026-10-26T10:29:41Z",
-   "kind": "preorder",
-   "title": "Drop window opens soon: Astonishing X-Men, Cyclops & Wolverine 2-pack (reissue)",
-   "ref": "radar.html"
   },
   {
    "at": "2026-10-25T13:24:38Z",
@@ -388,30 +406,6 @@
    "kind": "catalog",
    "title": "ToyArena: Marvel Legends Future Foundation Mister Fantastic & Spider-Man 2 Pack Action Figure",
    "ref": "https://toyarena.com/products/marvel-legends-future-foundation-mister-fantastic-spider-man-2-pack-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Future Foundation The Thing & Invisible Woman 2 Pack Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-future-foundation-the-thing-invisible-woman-2-pack-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends The Incredible Hulk Doc Samson Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-the-incredible-hulk-doc-samson-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Maximum Series Thor Action Figure",
-   "ref": "https://toyarena.com/products/pre-sale-marvel-legends-maximum-series-thor-action-figure-1"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Rivals Venom and Jeff the Land Shark Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-rivals-venom-and-jeff-the-land-shark-action-figure"
   }
  ]
 }

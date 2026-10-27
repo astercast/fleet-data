@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-26T10:30:39Z",
+ "generated_at": "2026-10-27T10:03:09Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-10-26T10:30:28Z",
+ "last_data_change_at": "2026-10-27T10:02:07Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 50,
-   "checked_at": "2026-10-26T10:30:39Z",
-   "last_ok_at": "2026-10-26T10:30:39Z",
+   "items": 52,
+   "checked_at": "2026-10-27T10:03:09Z",
+   "last_ok_at": "2026-10-27T10:03:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-26T10:29:46Z",
-   "last_ok_at": "2026-10-26T10:29:46Z",
+   "checked_at": "2026-10-27T10:02:09Z",
+   "last_ok_at": "2026-10-27T10:02:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-10-26T10:29:44Z",
-   "last_ok_at": "2026-10-26T10:29:44Z",
+   "checked_at": "2026-10-27T10:02:07Z",
+   "last_ok_at": "2026-10-27T10:02:07Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-26T10:29:46Z",
-   "last_ok_at": "2026-10-26T10:29:46Z",
+   "checked_at": "2026-10-27T10:02:09Z",
+   "last_ok_at": "2026-10-27T10:02:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-26T10:29:45Z",
-   "last_ok_at": "2026-10-26T10:29:45Z",
+   "checked_at": "2026-10-27T10:02:08Z",
+   "last_ok_at": "2026-10-27T10:02:08Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-26T10:29:44Z",
-   "last_ok_at": "2026-10-26T10:29:44Z",
+   "checked_at": "2026-10-27T10:02:07Z",
+   "last_ok_at": "2026-10-27T10:02:07Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,37 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-10-26T10:29:42Z",
-   "last_ok_at": "2026-10-26T10:29:42Z",
+   "checked_at": "2026-10-27T10:02:06Z",
+   "last_ok_at": "2026-10-27T10:02:06Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-27T10:02:07Z",
+   "kind": "post",
+   "title": "Super Easy Crumpled Paper Fall Tree Art With Spices",
+   "ref": "https://handsonaswegrow.com/paper-fall-tree-art-spices/"
+  },
+  {
+   "at": "2026-10-27T10:02:07Z",
+   "kind": "post",
+   "title": "Halloween Family Feud Game – Printable Party Game",
+   "ref": "https://teachbesideme.com/halloween-family-feud-game-free-printable-party-game/"
+  },
+  {
+   "at": "2026-10-27T10:02:08Z",
+   "kind": "post",
+   "title": "Thanksgiving Science Experiments & STEM Activities for Kids",
+   "ref": "https://littlebinsforlittlehands.com/thanksgiving-science-activities-and-experiments-for-kids/"
+  },
+  {
+   "at": "2026-10-27T10:03:07Z",
+   "kind": "photo-candidate",
+   "title": "Big Name Bell, Ring for You",
+   "ref": "https://commons.wikimedia.org/wiki/File:Bell_Dogs_Bell_Bhaktapur_Durbar_Square_Bhaktapur_Nepal_Rajesh_Dhungana.jpg"
+  },
   {
    "at": "2026-10-26T10:30:28Z",
    "kind": "photo-candidate",
