@@ -1,5 +1,6 @@
 {
  "hf": [
+  "AaronHuangWei/longlive2-global-query-only-ablation",
   "EXCAI/ForcingBooster",
   "Gamerrishabbsingh/text-to-video-ms-1.7b",
   "Kompaktion/Movetoy",
@@ -26,6 +27,7 @@
   "Tsuki0512/LTX-2-AVCReward-LoRA",
   "Wuli-art/MiniMax-H3-Turbo",
   "berryber09/FastH3-OmniRef-8step-pruned-w4a8",
+  "cokeadrink/minimax-h3-int8-base-ref2va",
   "cvis-tmu/Wan2.2-TI2V-5B-OPSD-step50",
   "dragonlimited/LTX2-marimo",
   "dragonlimited/comfyui-molab",
@@ -47,6 +49,8 @@
   "sanjeevkumar70550932/LTX-Video-0.9.7-distilled",
   "silentlooop/revt2v-ckpt",
   "sjxknukkji/wan2.2-t2v-a14b-transformers-bf16",
+  "taurusduan/MiniMax-H3-Turbo-Lora",
+  "taurusduan/MiniMax-H3-Turbo-Lora-ComfyUI",
   "unsloth/Wan2.2-TI2V-5B-FP8",
   "wanyi2026/Minimax-H3-R2VA-Veda-Preview",
   "yaleiyaleichiling/NSFW-Anime-wan-5B",

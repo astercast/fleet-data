@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-27T08:56:18Z",
+ "generated_at": "2026-10-27T15:21:32Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-10-27T08:56:16Z",
+ "last_data_change_at": "2026-10-27T15:21:32Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-27T08:56:15Z",
-   "last_ok_at": "2026-10-27T08:56:15Z",
+   "checked_at": "2026-10-27T15:21:30Z",
+   "last_ok_at": "2026-10-27T15:21:30Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-27T08:56:15Z",
-   "last_ok_at": "2026-10-27T08:56:15Z",
+   "checked_at": "2026-10-27T15:21:30Z",
+   "last_ok_at": "2026-10-27T15:21:30Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-10-27T08:56:17Z",
-   "last_ok_at": "2026-10-27T08:56:17Z",
+   "checked_at": "2026-10-27T15:21:31Z",
+   "last_ok_at": "2026-10-27T15:21:31Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-27T08:56:15Z",
-   "last_ok_at": "2026-10-27T08:56:15Z",
+   "checked_at": "2026-10-27T15:21:30Z",
+   "last_ok_at": "2026-10-27T15:21:30Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-27T08:56:16Z",
-   "last_ok_at": "2026-10-27T08:56:16Z",
+   "checked_at": "2026-10-27T15:21:31Z",
+   "last_ok_at": "2026-10-27T15:21:31Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-10-27T08:56:14Z",
+   "checked_at": "2026-10-27T15:21:30Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 11
+   "fails_in_a_row": 12
   },
   {
    "id": "ypp-help",
@@ -79,24 +79,24 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-10-27T08:56:18Z",
-   "last_ok_at": "2026-10-27T08:56:18Z",
+   "checked_at": "2026-10-27T15:21:32Z",
+   "last_ok_at": "2026-10-27T15:21:32Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
+   "at": "2026-10-27T15:21:32Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
+  {
    "at": "2026-10-27T08:56:16Z",
    "kind": "change",
    "title": "Australia’s proposed algorithmic opt-out gets pushback",
    "ref": "https://www.socialmediatoday.com/news/australias-proposed-algorithmic-opt-out-gets-pushback/872830/"
-  },
-  {
-   "at": "2026-10-27T08:56:18Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
   },
   {
    "at": "2026-10-27T00:25:22Z",
