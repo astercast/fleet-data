@@ -1,7 +1,37 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-28T05:29:32Z",
+ "generated_at": "2026-10-28T12:47:45Z",
  "items": [
+  {
+   "id": "hf-udgamlabs/Drishya-Tiny",
+   "at": "2026-10-28T09:22:16Z",
+   "model": "udgamlabs/Drishya-Tiny",
+   "title": "New text-to-video model listed on Hugging Face: udgamlabs/Drishya-Tiny",
+   "url": "https://huggingface.co/udgamlabs/Drishya-Tiny",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-moss-image-bf16-unet-2114288754763620353",
+   "at": "2026-10-28T09:16:02Z",
+   "model": "RunningHubAI/rh-moss-image-bf16-unet-2114288754763620353",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-moss-image-bf16-unet-2114288754763620353",
+   "url": "https://huggingface.co/RunningHubAI/rh-moss-image-bf16-unet-2114288754763620353",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Marcellus-Zhao/TTT2Reel-Wan2.2-TI2V-5B",
+   "at": "2026-10-28T08:29:03Z",
+   "model": "Marcellus-Zhao/TTT2Reel-Wan2.2-TI2V-5B",
+   "title": "New text-to-video model listed on Hugging Face: Marcellus-Zhao/TTT2Reel-Wan2.2-TI2V-5B",
+   "url": "https://huggingface.co/Marcellus-Zhao/TTT2Reel-Wan2.2-TI2V-5B",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-10-28",
    "at": "2026-10-28T05:29:25+00:00",
@@ -1469,36 +1499,6 @@
    "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
    "url": "https://huggingface.co/RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
    "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Act-Two-2026-10-25",
-   "at": "2026-10-25T06:46:13+00:00",
-   "model": "Runway Act-Two",
-   "title": "Runway Act-Two: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://aivideos.eu/blog/runway-act-one-vs-heygen-ai-actor-direction",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Topaz Astra-2026-10-25",
-   "at": "2026-10-25T06:46:12+00:00",
-   "model": "Topaz Astra",
-   "title": "Topaz Astra: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.topazlabs.com/astra",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Lyria 3 Pro-2026-10-25",
-   "at": "2026-10-25T06:46:11+00:00",
-   "model": "Lyria 3 Pro",
-   "title": "Lyria 3 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-   "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }
