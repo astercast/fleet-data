@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-27T10:03:09Z",
+ "generated_at": "2026-10-28T10:49:22Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-10-27T10:02:07Z",
+ "last_data_change_at": "2026-10-28T10:48:11Z",
  "sources": [
   {
    "id": "commons-photo-scout",
@@ -13,8 +13,8 @@
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
    "items": 52,
-   "checked_at": "2026-10-27T10:03:09Z",
-   "last_ok_at": "2026-10-27T10:03:09Z",
+   "checked_at": "2026-10-28T10:49:22Z",
+   "last_ok_at": "2026-10-28T10:49:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-27T10:02:09Z",
-   "last_ok_at": "2026-10-27T10:02:09Z",
+   "checked_at": "2026-10-28T10:48:14Z",
+   "last_ok_at": "2026-10-28T10:48:14Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-10-27T10:02:07Z",
-   "last_ok_at": "2026-10-27T10:02:07Z",
+   "checked_at": "2026-10-28T10:48:12Z",
+   "last_ok_at": "2026-10-28T10:48:12Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-27T10:02:09Z",
-   "last_ok_at": "2026-10-27T10:02:09Z",
+   "checked_at": "2026-10-28T10:48:13Z",
+   "last_ok_at": "2026-10-28T10:48:13Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-27T10:02:08Z",
-   "last_ok_at": "2026-10-27T10:02:08Z",
+   "checked_at": "2026-10-28T10:48:12Z",
+   "last_ok_at": "2026-10-28T10:48:12Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-27T10:02:07Z",
-   "last_ok_at": "2026-10-27T10:02:07Z",
+   "checked_at": "2026-10-28T10:48:12Z",
+   "last_ok_at": "2026-10-28T10:48:12Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,73 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-10-27T10:02:06Z",
-   "last_ok_at": "2026-10-27T10:02:06Z",
+   "checked_at": "2026-10-28T10:48:11Z",
+   "last_ok_at": "2026-10-28T10:48:11Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-28T10:48:11Z",
+   "kind": "post",
+   "title": "Our Favorite Lunar New Year Books and Activities",
+   "ref": "https://www.weareteachers.com/chinese-new-year-activities/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-new-year-activities"
+  },
+  {
+   "at": "2026-10-28T10:48:12Z",
+   "kind": "post",
+   "title": "Piano Keyboard Notes Chart: Free Printable for Beginners",
+   "ref": "https://teachbesideme.com/piano-keyboard-notes-chart/"
+  },
+  {
+   "at": "2026-10-28T10:48:12Z",
+   "kind": "post",
+   "title": "Cranberry Sink or Float Experiment for kids",
+   "ref": "https://littlebinsforlittlehands.com/cranberry-sink-or-float-experiment/"
+  },
+  {
+   "at": "2026-10-28T10:48:13Z",
+   "kind": "post",
+   "title": "12 Days of Gift Ideas for Teachers Christmas (with bonus Printable Tags!)",
+   "ref": "https://kidsactivitiesblog.com/131007/12-days-of-christmas-gifts-for-teachers/"
+  },
+  {
+   "at": "2026-10-28T10:48:13Z",
+   "kind": "post",
+   "title": "112 DIY Gifts for Kids (Christmas Present Ideas)",
+   "ref": "https://kidsactivitiesblog.com/969/101-diy-gifts-for-kids/"
+  },
+  {
+   "at": "2026-10-28T10:48:13Z",
+   "kind": "post",
+   "title": "28+ Best Halloween Games & Party Ideas For Kids",
+   "ref": "https://kidsactivitiesblog.com/59893/halloween-games-for-kids/"
+  },
+  {
+   "at": "2026-10-28T10:48:13Z",
+   "kind": "post",
+   "title": "Fun Fall Clay Pie Crafts For Kids",
+   "ref": "https://kidsactivitiesblog.com/287197/fun-fall-clay-pie-crafts-for-kids/"
+  },
+  {
+   "at": "2026-10-28T10:48:13Z",
+   "kind": "post",
+   "title": "How to Make an Owl Paper Bag Puppet",
+   "ref": "https://kidsactivitiesblog.com/217645/owl-paper-bag-puppet/"
+  },
+  {
+   "at": "2026-10-28T10:48:13Z",
+   "kind": "post",
+   "title": "Printable Activities For Kids With ADHD",
+   "ref": "https://kidsactivitiesblog.com/210064/printable-activities-for-kids-with-adhd/"
+  },
+  {
+   "at": "2026-10-28T10:48:13Z",
+   "kind": "post",
+   "title": "30 SPOOKTACULAR HALLOWEEN CRAFT IDEAS FOR KIDS",
+   "ref": "https://kidsactivitiesblog.com/151424/30-spooktacular-halloween-craft-ideas-for-kids/"
+  },
   {
    "at": "2026-10-27T10:02:07Z",
    "kind": "post",
@@ -385,60 +445,6 @@
    "kind": "photo-candidate",
    "title": "Sun Patch, Shade Patch",
    "ref": "https://commons.wikimedia.org/wiki/File:Lake_on_north_side_of_the_Denali_(54644198983).jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:34Z",
-   "kind": "photo-candidate",
-   "title": "Rain Call: To the Rug",
-   "ref": "https://commons.wikimedia.org/wiki/File:Istanbul_Turkish_and_Islamic_Museum_U%C5%9Fak_with_%C3%A7intamani_and_cloud_motif_16th_century_in_2006_24_034.jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:37Z",
-   "kind": "photo-candidate",
-   "title": "Name Echo, Two Claps",
-   "ref": "https://commons.wikimedia.org/wiki/File:A_magnificent_view_of_the_huge_Gol_Gumbaz_in_Black_and_White,_indicating_the_by_gone_era.The_mausoleum_of_king_Muhammad_Adil_Shah,_Adil_Shah_Dynasty.jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:39Z",
-   "kind": "photo-candidate",
-   "title": "One Shake, Pass It Around",
-   "ref": "https://commons.wikimedia.org/wiki/File:Anak_Gajah_bermain_di_Kolam.jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:40Z",
-   "kind": "photo-candidate",
-   "title": "Sticky Window Big Shapes",
-   "ref": "https://commons.wikimedia.org/wiki/File:Fictional_moon_system_4.png"
-  },
-  {
-   "at": "2026-10-25T06:59:42Z",
-   "kind": "photo-candidate",
-   "title": "Big Heart Hand Delivery",
-   "ref": "https://commons.wikimedia.org/wiki/File:Seasons-switching_1st.jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:44Z",
-   "kind": "photo-candidate",
-   "title": "Big Pot Stir-Together",
-   "ref": "https://commons.wikimedia.org/wiki/File:Odia_Mutton_Curry_(Mansha_Tarkari).jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:47Z",
-   "kind": "photo-candidate",
-   "title": "Long Banner Carry-Together",
-   "ref": "https://commons.wikimedia.org/wiki/File:Blueskin_Bay_banner.jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:49Z",
-   "kind": "photo-candidate",
-   "title": "How I Got Here Moves",
-   "ref": "https://commons.wikimedia.org/wiki/File:Eddie_August_Schneider_(1911-1940)_writing_in_Flying_magazine_on_September_1,_1931_with_Look_Out,_Lindbergh_-_Here_I_Come._This_is_page_25_of_the_magazine._This_is_page_1_of_4.png"
-  },
-  {
-   "at": "2026-10-25T06:59:51Z",
-   "kind": "photo-candidate",
-   "title": "Paint the Big Box House",
-   "ref": "https://commons.wikimedia.org/wiki/File:First_Nations_art_objects_UBC-2009.jpg"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-27T10:02:04Z",
+ "generated_at": "2026-10-28T10:48:09Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-10-27T10:02:04Z",
+ "last_data_change_at": "2026-10-28T10:48:01Z",
  "sources": [
   {
    "id": "cmdstore",
    "label": "CMDStore catalog",
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
-   "items": 64,
-   "checked_at": "2026-10-27T10:01:59Z",
-   "last_ok_at": "2026-10-27T10:01:59Z",
+   "items": 67,
+   "checked_at": "2026-10-28T10:48:01Z",
+   "last_ok_at": "2026-10-28T10:48:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 60,
-   "checked_at": "2026-10-27T10:02:04Z",
-   "last_ok_at": "2026-10-27T10:02:04Z",
+   "items": 100,
+   "checked_at": "2026-10-28T10:48:09Z",
+   "last_ok_at": "2026-10-28T10:48:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-10-27T10:02:04Z",
-   "last_ok_at": "2026-10-27T10:02:04Z",
+   "checked_at": "2026-10-28T10:48:09Z",
+   "last_ok_at": "2026-10-28T10:48:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,73 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 47,
-   "checked_at": "2026-10-27T10:02:04Z",
-   "last_ok_at": "2026-10-27T10:02:04Z",
+   "checked_at": "2026-10-28T10:48:09Z",
+   "last_ok_at": "2026-10-28T10:48:09Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-28T10:48:01Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Anniversary 6 Inch Action Figure X-Men - Astonishing Wolverine Reissue (Open Box Shelf Wear Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-anniversary-x-men-astonishing-wolverine-5010996244406dmg"
+  },
+  {
+   "at": "2026-10-28T10:48:01Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Brand New Day 6 Inch Action Figure - Spider-Man (Sub-Standard Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-day-spider-man-5010996404893dmg"
+  },
+  {
+   "at": "2026-10-28T10:48:01Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 8 Inch Action Figure X-Men Exclusive - Onslaught (Sub-Standard Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-x-men-exclusive-onslaught-5010996411419dmg"
+  },
+  {
+   "at": "2026-10-28T10:48:09Z",
+   "kind": "story",
+   "title": "Hasbro is Raising Marvel Legends and Star Wars: TBS Figures to $29.99 - Bleeding Cool News",
+   "ref": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY1lkaTVla2xRY1NwYVFNdlVPaTM1R0JUS092Y1Y2cU5fWWtsLXJGU1duQmxpaDhuOTlhcjB0NHlPal9xMUdhU0NIYXZub3UtcG9aS0ZLNWxzSUpyQmdRa19xMGdnbGJCdjdLRWlrako4QkFvY1Vic3FFekRnSUc4NS00bFM5WEQ3akdUOF9sSTBKN3V0VVZZMk10S3hTZUNxNk5ycEVialNQdw?oc=5"
+  },
+  {
+   "at": "2026-10-28T10:48:09Z",
+   "kind": "story",
+   "title": "Marvel Legends Secret Wars Daredevil review (2026) - Lyles Movie Files",
+   "ref": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44dXl6bUl0VmZJNnZlWXZock4tbVJpdkpxOTRjc3MzM29OckJUTEYwa0gwMmw3bDhHRUZuY0NvTlpEMXRhaDdJbURnQ2htWTE5OExHa3JRVGUyclU4c2N6SzFKU0FSMUhLZzFnZllwVFdCTU1EWEdsRw?oc=5"
+  },
+  {
+   "at": "2026-10-28T10:48:09Z",
+   "kind": "story",
+   "title": "Connor Storrie in Talks to Join Ryan Gosling in Marvel’s ‘Ghost Rider’ - The Hollywood Reporter",
+   "ref": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanhhOW85VGM3cTlwclJfNHhkczZNSHltWnBBdE5lcFhIMVB0TTlIN1E0RG1KbHd6dUk4N1N1dFZEdk9uM1E5VnI3QWRzTWFTS3Q0WFhlMzNNTmtOdDl6MmlXZlFTNkxfd2dUYjBlUS1rc2NQekhVMzZGdTJ6b3BxUTNndFVwQmpIOFFGdEtLdkhIcTFMZHVYRVVlS2NXTDNTS3ItOU96MWlnSU0xZlJLZw?oc=5"
+  },
+  {
+   "at": "2026-10-28T10:48:09Z",
+   "kind": "story",
+   "title": "Hasbro's Marvel Legends Series X-Men '97 Bolivar Trask and Bastion Nimrod 2-pack launches pre-orders - Flickering Myth",
+   "ref": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNW1yb0ZyUEtmTXVvRndLT09IMWx6VUlzVHg4QlM4dkVTQlBVQkd2WF8wUFg5UnBMYlgwVmZxWk1pNEhBOFo4SWtudWJIczhqSmpDdm5IUWh0QnNrSVNjRkpPa3JlZ0QxVU5QSWJGcGl2bzJVNTV2ak9nT1Y2V2t0bEp0LUhid2JQWlhVNENndzVIZFRHU19KTmpfTDJ1U0w0UFdYODhVckhWb0NHNWtoRTEtVTZxM0dLTkF6QzFjNTBpN1VpdjZ0ZTBR?oc=5"
+  },
+  {
+   "at": "2026-10-28T10:48:09Z",
+   "kind": "story",
+   "title": "Prepare for Maximum Carnage with Hasbro’s Next Marvel Legends Figure - Bleeding Cool News",
+   "ref": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVW1HS2g3Yi1BOFVabWtPYktoV1d2UjlzeUNpQzlzdWJHcldPQS1mRHk1NE9oanFjSDhGQnRsTjNqQi1VVDVManpGQktGdkZTN1VkXzNnRFIxajY2aG5TbnVXZmNlYnM4SThKNDVmZmhheURDSXo2MHlReWo3SWljYmpFeVR6YWthQlRGR3JzbDRGX1dHN1Jwenc1VXFqamlyWFRTTURIMlZIQQ?oc=5"
+  },
+  {
+   "at": "2026-10-28T10:48:09Z",
+   "kind": "story",
+   "title": "Avengers: Doomsday Hasbro Marvel Toys Reveal X-Men and Captain America’s New Looks (Exclusive) - People.com",
+   "ref": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOU9LUElJeUZRRjhVeGtDVk5DZ1pyb1VvTDdTbnR2ejVoSkNpR2RSZTQ2dWpaQjdHRVlEbWpxc1R5ODFuTDllUGhMWTlGcFJza1JZRUUzZko0bTBBVVZOeS1QNG9BZjlPUmZtM2ZLYVN2RWZoRjdDaEpvb0xzM0hRMDR6RFNidDlQYW4tSWpuWDdnS0JpeGlEd2ZvZ1Q4UXpyd2hnWXMtOXByZHgyNXV6N2J2dnhwOXpiNEdRdjBtUFlDaEY0NklYbUR1T0R6M3dRS1kxVQ?oc=5"
+  },
+  {
+   "at": "2026-10-28T10:48:09Z",
+   "kind": "preorder",
+   "title": "Drop window opens soon: Astonishing X-Men, Cyclops & Wolverine 2-pack (reissue)",
+   "ref": "radar.html"
+  },
   {
    "at": "2026-10-27T10:02:04Z",
    "kind": "story",
@@ -70,12 +130,6 @@
    "kind": "story",
    "title": "16 Marvel Action Figures Collectors Want - Go2Tutors",
    "ref": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSC1rSGtKaUdLN3I0SnJvMWZMb3NSWG1hQWZnVi00S2hYUUZqQWk3UjhlNThJejNlZU43QTc4ZDFUbVVESW1wUlE5aVB5Z3JqdnFJaTQ3d2Y3TTdXeUdJN1JWU1pPb19Sb290RWtNb3Q?oc=5"
-  },
-  {
-   "at": "2026-10-27T10:02:04Z",
-   "kind": "preorder",
-   "title": "Drop window opens soon: Astonishing X-Men, Cyclops & Wolverine 2-pack (reissue)",
-   "ref": "radar.html"
   },
   {
    "at": "2026-10-26T10:29:41Z",
@@ -352,60 +406,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends Infinite 6 Inch Action Figure 80 Year Anniversary - War Machine Punisher (Shelf Wear packaging)",
    "ref": "https://cmdstore.com/products/marvel-legends-infinite-80-year-anniversary-6-inch-action-figure-war-machine-punisher"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 8 Inch Action Figure X-Men Exclusive - Onslaught",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-x-men-exclusive-onslaught-5010996411419"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends 6 Inch Action Figure MODOK Series - Beta Ray Bill (Sub-Standard Packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-action-figures-series-15-beta-ray-bill"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Deadpool & Wolverine Wolverine (Shirtless) Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-deadpool-wolverine-wolverine-shirtless-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Retro Onslaught Exclusive Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-retro-onslaught-exclusive-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Retro Spider-Man Noir Exclusive Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-retro-spider-man-noir-exclusive-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Rivals The Punisher Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-rivals-the-punisher-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Rivals Spider-Man and Luna Snow Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-rivals-spider-man-and-luna-snow-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Fantastic Four Mole Man & Moloids Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-fantastic-four-mole-man-moloids-action-figure"
-  },
-  {
-   "at": "2026-10-25T13:24:44Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Future Foundation Mister Fantastic & Spider-Man 2 Pack Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-future-foundation-mister-fantastic-spider-man-2-pack-action-figure"
   }
  ]
 }
