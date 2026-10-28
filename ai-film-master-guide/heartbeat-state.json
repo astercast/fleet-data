@@ -45,6 +45,7 @@
   "ducvh5/looptrans-a5-b5x4-c5-tf-fm-tm",
   "emdashthreee/pix-vid-wn-2.1-t2v-14b",
   "epfl-neuroai/NEvo",
+  "epfl-vita/PTD-weights",
   "gearwave00001/MiniMax-H3-dasiwaHybridV4-fp8-rad",
   "grabbou/Wan2.1-T2V-1.3B-CoreAI",
   "infosave/LTX-2.5-cmf",
@@ -67,6 +68,7 @@
   "unsloth/Wan2.2-TI2V-5B-FP8",
   "wanyi2026/Minimax-H3-R2VA-Veda-Preview",
   "yaleiyaleichiling/NSFW-Anime-wan-5B",
+  "zero0303/ltx-2.5-mlx-dynamic-8bit",
   "zhihefang/LUVE"
  ],
  "arxiv": [

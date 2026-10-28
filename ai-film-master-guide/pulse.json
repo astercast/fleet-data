@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-28T12:47:45Z",
+ "generated_at": "2026-10-28T20:16:45Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-10-28T12:47:45Z",
+ "last_data_change_at": "2026-10-28T20:16:45Z",
  "sources": [
   {
    "id": "arxiv",
@@ -13,8 +13,8 @@
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
    "items": 47,
-   "checked_at": "2026-10-28T12:47:42Z",
-   "last_ok_at": "2026-10-28T12:47:42Z",
+   "checked_at": "2026-10-28T20:16:42Z",
+   "last_ok_at": "2026-10-28T20:16:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-28T12:47:45Z",
-   "last_ok_at": "2026-10-28T12:47:45Z",
+   "checked_at": "2026-10-28T20:16:45Z",
+   "last_ok_at": "2026-10-28T20:16:45Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-10-28T12:47:42Z",
-   "last_ok_at": "2026-10-28T12:47:42Z",
+   "checked_at": "2026-10-28T20:16:41Z",
+   "last_ok_at": "2026-10-28T20:16:41Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-10-28T12:47:43Z",
-   "last_ok_at": "2026-10-28T12:47:43Z",
+   "checked_at": "2026-10-28T20:16:42Z",
+   "last_ok_at": "2026-10-28T20:16:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,25 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-10-28T12:47:42Z",
-   "last_ok_at": "2026-10-28T12:47:42Z",
+   "checked_at": "2026-10-28T20:16:40Z",
+   "last_ok_at": "2026-10-28T20:16:40Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-28T20:16:45Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: zero0303/ltx-2.5-mlx-dynamic-8bit",
+   "ref": "https://huggingface.co/zero0303/ltx-2.5-mlx-dynamic-8bit"
+  },
+  {
+   "at": "2026-10-28T20:16:45Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: epfl-vita/PTD-weights",
+   "ref": "https://huggingface.co/epfl-vita/PTD-weights"
+  },
   {
    "at": "2026-10-28T12:47:45Z",
    "kind": "new-model",
@@ -411,18 +423,6 @@
    "kind": "new-model",
    "title": "New text-to-video model listed on Hugging Face: cokeadrink/minimax-h3-int8-base-ref2va",
    "ref": "https://huggingface.co/cokeadrink/minimax-h3-int8-base-ref2va"
-  },
-  {
-   "at": "2026-10-27T15:21:30Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: taurusduan/MiniMax-H3-Turbo-Lora",
-   "ref": "https://huggingface.co/taurusduan/MiniMax-H3-Turbo-Lora"
-  },
-  {
-   "at": "2026-10-27T15:21:30Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: taurusduan/MiniMax-H3-Turbo-Lora-ComfyUI",
-   "ref": "https://huggingface.co/taurusduan/MiniMax-H3-Turbo-Lora-ComfyUI"
   }
  ]
 }

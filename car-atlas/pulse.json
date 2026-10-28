@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-28T12:52:38Z",
+ "generated_at": "2026-10-28T20:19:17Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-10-27T22:12:39Z",
+ "last_data_change_at": "2026-10-28T20:19:17Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-10-28T12:52:36Z",
-   "last_ok_at": "2026-10-28T12:52:36Z",
+   "items": 55,
+   "checked_at": "2026-10-28T20:19:16Z",
+   "last_ok_at": "2026-10-28T20:19:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,133 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12417,
-   "checked_at": "2026-10-28T12:52:38Z",
-   "last_ok_at": "2026-10-28T12:52:38Z",
+   "checked_at": "2026-10-28T20:19:17Z",
+   "last_ok_at": "2026-10-28T20:19:17Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "42k-Mile 2005 Lotus Elise",
+   "ref": "https://bringatrailer.com/listing/2005-lotus-elise-303/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "29k-Mile 2017 Land Rover Range Rover Supercharged",
+   "ref": "https://bringatrailer.com/listing/2017-land-rover-range-rover-128/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "41k-Mile 1996 Chevrolet Corvette Coupe LT4 6-Speed",
+   "ref": "https://bringatrailer.com/listing/1996-chevrolet-corvette-coupe-85-2/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "1989 Ford Mustang Saleen Convertible",
+   "ref": "https://bringatrailer.com/listing/1989-ford-mustang-saleen-28/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "1981 Toyota Celica Supra Liftback 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1981-toyota-celica-supra/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "2006 Toyota Land Cruiser UZJ100",
+   "ref": "https://bringatrailer.com/listing/2006-toyota-land-cruiser-114/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "One-Owner, 21k-Mile 2006 GMC Sierra 1500 Extended Cab SLE2 Sierra Performance Edition",
+   "ref": "https://bringatrailer.com/listing/2006-gmc-sierra-1500-14/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "21k-Mile 2012 Porsche 911 Carrera GTS 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2012-porsche-911-carrera-gts-67/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "8k-Mile 1982 DeLorean DMC-12 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1982-delorean-dmc-12-53/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "2015 Jaguar F-Type R Coupe",
+   "ref": "https://bringatrailer.com/listing/2015-jaguar-f-type-r-coupe-39/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "Coyote-Powered 1975 Ford Bronco by Vintage Broncos",
+   "ref": "https://bringatrailer.com/listing/1975-ford-bronco-204/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "1995 Jeep Wrangler S 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1995-jeep-wrangler-135/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "Modified 2003 Porsche 911 Turbo Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2003-porsche-911-turbo-coupe-132/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "1,200-Mile 1981 Chevrolet Corvette",
+   "ref": "https://bringatrailer.com/listing/1981-chevrolet-corvette-151/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "45k-Mile 1990 Ford Bronco Eddie Bauer",
+   "ref": "https://bringatrailer.com/listing/1990-ford-bronco-126/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "24k-Mile 2013 Dodge Charger R/T Daytona",
+   "ref": "https://bringatrailer.com/listing/2013-dodge-charger-10/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "39k-Mile 2008 Mazda MX-5 Miata Grand Touring PRHT",
+   "ref": "https://bringatrailer.com/listing/2008-mazda-mx-5-miata-76/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "15k-Mile 2021 Ford Bronco Big Bend V6 4-Door",
+   "ref": "https://bringatrailer.com/listing/2021-ford-bronco-4-door-194/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "4,700-Mile 2016 Aston Martin V8 Vantage",
+   "ref": "https://bringatrailer.com/listing/2016-aston-martin-v8-vantage/"
+  },
+  {
+   "at": "2026-10-28T20:19:17Z",
+   "kind": "sale",
+   "title": "17k-Mile 2016 Porsche 911 Carrera GTS Coupe",
+   "ref": "https://bringatrailer.com/listing/2016-porsche-911-carrera-gts-coupe-26/"
+  },
   {
    "at": "2026-10-27T22:12:39Z",
    "kind": "sale",
@@ -96,12 +216,6 @@
    "kind": "sale",
    "title": "RoW 1996 Porsche 911 Turbo WLS2 Conversion",
    "ref": "https://bringatrailer.com/listing/1996-porsche-911-turbo-217/"
-  },
-  {
-   "at": "2026-10-27T08:58:16Z",
-   "kind": "sale",
-   "title": "Modified 2003 Porsche 911 Turbo Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2003-porsche-911-turbo-coupe-135/"
   },
   {
    "at": "2026-10-27T08:58:16Z",
@@ -270,120 +384,6 @@
    "kind": "sale",
    "title": "Original-Owner 2007 Porsche 911 Turbo Coupe 6-Speed",
    "ref": "https://bringatrailer.com/listing/2007-porsche-911-turbo-coupe-226/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "LS3-Powered Arkonik 1993 Land Rover Defender 110",
-   "ref": "https://bringatrailer.com/listing/1993-land-rover-defender-110-169/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "1979 Toyota Celica Supra",
-   "ref": "https://bringatrailer.com/listing/1979-toyota-celica-supra-14/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "1987 Porsche 911 Carrera Coupe G50",
-   "ref": "https://bringatrailer.com/listing/1987-porsche-911-carrera-coupe-133/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "Fuel-Injected, 302-Powered 1965 Ford Mustang Fastback 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1965-ford-mustang-1004/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "11k-Mile 1991 GMC Syclone",
-   "ref": "https://bringatrailer.com/listing/1991-gmc-syclone-133/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "400-Powered 1969 Chevrolet Camaro Coupe",
-   "ref": "https://bringatrailer.com/listing/1969-chevrolet-camaro-644/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "Original-Owner, 27k-Mile 2013 Porsche 911 Carrera S Coupe",
-   "ref": "https://bringatrailer.com/listing/2013-porsche-911-carrera-s-coupe-40/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "1987 Toyota Land Cruiser FJ60",
-   "ref": "https://bringatrailer.com/listing/1987-toyota-land-cruiser-fj60-199/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "3,800-Mile 2007 Ford Mustang Shelby GT500 Coupe",
-   "ref": "https://bringatrailer.com/listing/2007-ford-mustang-shelby-gt500-coupe-153/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "2012 Land Rover Range Rover HSE",
-   "ref": "https://bringatrailer.com/listing/2012-land-rover-range-rover-217-2-2/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "25k-Mile 2001 Toyota Tacoma PreRunner SR5 XtraCab",
-   "ref": "https://bringatrailer.com/listing/2001-toyota-tacoma-119/"
-  },
-  {
-   "at": "2026-10-25T20:49:37Z",
-   "kind": "sale",
-   "title": "2003 BMW M3 Convertible 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2003-bmw-m3-convertible-184/"
-  },
-  {
-   "at": "2026-10-25T06:49:51Z",
-   "kind": "sale",
-   "title": "2017 Land Rover Range Rover",
-   "ref": "https://bringatrailer.com/listing/2017-land-rover-range-rover-126/"
-  },
-  {
-   "at": "2026-10-25T06:49:51Z",
-   "kind": "sale",
-   "title": "1971 Chevrolet Camaro SS 350 Coupe 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1971-chevrolet-camaro-49/"
-  },
-  {
-   "at": "2026-10-25T06:49:51Z",
-   "kind": "sale",
-   "title": "1999 Land Rover Defender 90 Td5 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1999-land-rover-defender-90-51/"
-  },
-  {
-   "at": "2026-10-25T06:49:51Z",
-   "kind": "sale",
-   "title": "2000 Porsche 911 Carrera 4 Cabriolet 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2000-porsche-911-carrera-4-cabriolet-46/"
-  },
-  {
-   "at": "2026-10-25T06:49:51Z",
-   "kind": "sale",
-   "title": "1990 Porsche 911 Carrera 4 Cabriolet 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1990-porsche-911-carrera-4-cabriolet-28/"
-  },
-  {
-   "at": "2026-10-25T06:49:51Z",
-   "kind": "sale",
-   "title": "28k-MIle 2015 Audi R8 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2015-audi-r8-58/"
-  },
-  {
-   "at": "2026-10-25T06:49:51Z",
-   "kind": "sale",
-   "title": "2017 Land Rover Range Rover Supercharged",
-   "ref": "https://bringatrailer.com/listing/2017-land-rover-range-rover-125/"
   }
  ]
 }

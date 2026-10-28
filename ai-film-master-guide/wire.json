@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-28T12:47:45Z",
+ "generated_at": "2026-10-28T20:16:45Z",
  "items": [
+  {
+   "id": "hf-zero0303/ltx-2.5-mlx-dynamic-8bit",
+   "at": "2026-10-28T18:49:10Z",
+   "model": "zero0303/ltx-2.5-mlx-dynamic-8bit",
+   "title": "New text-to-video model listed on Hugging Face: zero0303/ltx-2.5-mlx-dynamic-8bit",
+   "url": "https://huggingface.co/zero0303/ltx-2.5-mlx-dynamic-8bit",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-epfl-vita/PTD-weights",
+   "at": "2026-10-28T14:43:15Z",
+   "model": "epfl-vita/PTD-weights",
+   "title": "New text-to-video model listed on Hugging Face: epfl-vita/PTD-weights",
+   "url": "https://huggingface.co/epfl-vita/PTD-weights",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-udgamlabs/Drishya-Tiny",
    "at": "2026-10-28T09:22:16Z",
@@ -1478,26 +1498,6 @@
    "model": "zhihefang/LUVE",
    "title": "New text-to-video model listed on Hugging Face: zhihefang/LUVE",
    "url": "https://huggingface.co/zhihefang/LUVE",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Pexqman/Wan2.2-TI2V-5B-hexpack",
-   "at": "2026-10-25T09:44:03Z",
-   "model": "Pexqman/Wan2.2-TI2V-5B-hexpack",
-   "title": "New text-to-video model listed on Hugging Face: Pexqman/Wan2.2-TI2V-5B-hexpack",
-   "url": "https://huggingface.co/Pexqman/Wan2.2-TI2V-5B-hexpack",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
-   "at": "2026-10-25T09:18:02Z",
-   "model": "RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
-   "url": "https://huggingface.co/RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
    "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"

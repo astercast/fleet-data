@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "yt-youtube-tests-reduced-payout-thresholds-to-aid-c-3ad63d",
+   "platform": "youtube",
+   "title": "YouTube tests reduced payout thresholds to aid creators in developing economies",
+   "summary": "YouTube is trying out a policy that makes it easier for creators to claim the AdSense revenue their videos generate. In the United States, India, and Indonesia, some members of the YouTube Partner Program now have the ability to cash out their AdSense accounts after earning just $20. Previously, $100 was the minimum threshold for those payouts. According to the YouTube Help page that tracks ongoing experiments on the platform, the lowered threshold is going into effect \"starting from October 202",
+   "detected_at": "2026-10-28T20:16:45Z",
+   "announced_at": "2026-10-28T18:31:03Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/28/youtube-partner-program-lower-payout-threshold-test/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/28/youtube-partner-program-lower-payout-threshold-test/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "cw-x-lets-users-share-credit-on-reposted-images-3c66e0",
+   "platform": "other",
+   "title": "X lets users share credit on reposted images",
+   "summary": "<p>The app&rsquo;s Original Content Rewards Program now ensures that more users benefit from engagement on linked graphics.</p>",
+   "detected_at": "2026-10-28T20:16:45Z",
+   "announced_at": "2026-10-28T18:59:28Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/x-lets-users-share-credit-on-reposted-images/873100/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/x-lets-users-share-credit-on-reposted-images/873100/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "cw-mozilla-wants-you-to-come-back-to-firefox-so-it-e68c96",
    "platform": "other",
    "title": "Mozilla wants you to come back to Firefox, so it’s going on a nostalgia trip",
@@ -932,7 +970,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-28T05:29:32Z",
+ "generated_at": "2026-10-28T20:16:45Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-10-28",
  "version": "1.7.0"
