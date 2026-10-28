@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "cw-mozilla-wants-you-to-come-back-to-firefox-so-it-e68c96",
+   "platform": "other",
+   "title": "Mozilla wants you to come back to Firefox, so it’s going on a nostalgia trip",
+   "summary": "The internet was a different place back in 2009. Social media feeds were actually driven by social interactions, the creator community was a tight-knit group of lovable outsiders, and Firefox reached its peak market share. During the final year of the 2000s, 32% of internet users chose Mozilla's browser when surfing the web. In the nearly two decades since, that market share has experienced a significant decline. Google's Chrome is still a top choice, Apple's Safari is the default option on iPho",
+   "detected_at": "2026-10-28T05:29:32Z",
+   "announced_at": "2026-10-27T22:25:59Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/27/mozilla-come-back-to-firefox-old-school-youtube/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/27/mozilla-come-back-to-firefox-old-school-youtube/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "ig-australia-s-proposed-algorithmic-opt-out-gets-pu-9725ff",
    "platform": "instagram",
    "title": "Australia’s proposed algorithmic opt-out gets pushback",
@@ -913,8 +932,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-27T08:56:14Z",
+ "generated_at": "2026-10-28T05:29:32Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "version": "1.7.0"
 }

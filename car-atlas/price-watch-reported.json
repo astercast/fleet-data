@@ -1,12 +1,28 @@
 {
  "format": "price-watch-reported/1",
- "generated_at": "2026-10-27T22:12:39Z",
+ "generated_at": "2026-10-28T05:32:58Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
  },
  "note": "Reported intake from Bring a Trailer completed results, facts only (title, price, date, link). 'certified' here means the row meets the atlas's published-source rule and matched exactly one atlas model; these rows are staged intake and are NOT part of the certified set in price-watch.json, which stays hand-certified. A 'Bid to' result is never a sale and never appears here; bid-to and unmatched results live in atlas-wants.json only.",
  "results": [
+  {
+   "title": "350-Powered 1971 Toyota Land Cruiser FJ40",
+   "url": "https://bringatrailer.com/listing/1971-toyota-land-cruiser-fj40-159/",
+   "price": 28500,
+   "currency": "USD",
+   "ended": "2026-10-27",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "toyota",
+   "model": "land-cruiser",
+   "makeName": "Toyota",
+   "modelName": "Land Cruiser",
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
   {
    "title": "1997 Lotus Esprit V8",
    "url": "https://bringatrailer.com/listing/1997-lotus-esprit-v8-6/",
@@ -132,22 +148,6 @@
    "model": "wrangler",
    "makeName": "Jeep",
    "modelName": "Wrangler",
-   "classification": "certified",
-   "vpicMakeKnown": true
-  },
-  {
-   "title": "350-Powered 1971 Toyota Land Cruiser FJ40",
-   "url": "https://bringatrailer.com/listing/1971-toyota-land-cruiser-fj40-159/",
-   "price": 28500,
-   "currency": "USD",
-   "ended": "2026-10-27",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "make": "toyota",
-   "model": "land-cruiser",
-   "makeName": "Toyota",
-   "modelName": "Land Cruiser",
    "classification": "certified",
    "vpicMakeKnown": true
   }

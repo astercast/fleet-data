@@ -1,6 +1,10 @@
 {
  "hf": [
   "AaronHuangWei/longlive2-global-query-only-ablation",
+  "AaronHuangWei/longlive2-teacher-top10-full-context-ablation",
+  "Comfy-Org/Bernini-R",
+  "Comfy-Org/Causal-Forcing-Framewise",
+  "Comfy-Org/HuMo",
   "EXCAI/ForcingBooster",
   "Gamerrishabbsingh/text-to-video-ms-1.7b",
   "Kompaktion/Movetoy",
@@ -22,6 +26,7 @@
   "RunningHubAI/rh-moss-image-int8-anima-unet",
   "RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
   "RunningHubAI/rh-pipi-anima01-unet",
+  "RunningHubAI/rh-serenity-base-v6-210000-int8-convrot.safetensors-unet",
   "RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
   "SOLRICKS/Mila",
   "Sistafistaz/text-to-video-ms-1.7b",
@@ -29,6 +34,8 @@
   "Tsuki0512/LTX-2-AVCReward-LoRA",
   "Wuli-art/MiniMax-H3-Turbo",
   "berryber09/FastH3-OmniRef-8step-pruned-w4a8",
+  "cokeadrink/fasth3-v2-native-blackwell",
+  "cokeadrink/minimax-h3-fl2va-pruned-bf16",
   "cokeadrink/minimax-h3-int8-base-ref2va",
   "cvis-tmu/Wan2.2-TI2V-5B-OPSD-step50",
   "dragonlimited/LTX2-marimo",
@@ -43,6 +50,7 @@
   "intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
   "intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
   "jean-is/FastWan2.2-TI2V-5B-ONNX",
+  "neonforestmist/LTX_Storybook_Anime_Style_LoRa",
   "nvidia/Wan2.2-T2V-A14B-Diffusers-FP8",
   "nvidia/Wan2.2-T2V-A14B-Diffusers-NVFP4",
   "nynxz/MiniMax-H3-PTD-LoRAs",
@@ -97,7 +105,15 @@
   "http://arxiv.org/abs/2610.35001v1",
   "http://arxiv.org/abs/2610.35594v1",
   "http://arxiv.org/abs/2610.35684v1",
-  "http://arxiv.org/abs/2610.35864v1"
+  "http://arxiv.org/abs/2610.35864v1",
+  "http://arxiv.org/abs/2610.35864v2",
+  "http://arxiv.org/abs/2610.36022v1",
+  "http://arxiv.org/abs/2610.36371v1",
+  "http://arxiv.org/abs/2610.36624v1",
+  "http://arxiv.org/abs/2610.36823v1",
+  "http://arxiv.org/abs/2610.37091v1",
+  "http://arxiv.org/abs/2610.37381v1",
+  "http://arxiv.org/abs/2610.37566v1"
  ],
  "hn": [
   "14950122",
@@ -135,6 +151,7 @@
   "tag:github.com,2008:Repository/589831718/v0.42.3",
   "tag:github.com,2008:Repository/589831718/v0.42.4",
   "tag:github.com,2008:Repository/589831718/v0.42.5",
-  "tag:github.com,2008:Repository/589831718/v0.43.0"
+  "tag:github.com,2008:Repository/589831718/v0.43.0",
+  "tag:github.com,2008:Repository/589831718/v0.43.1"
  ]
 }

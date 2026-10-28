@@ -1,6 +1,6 @@
 {
  "format": "atlas-wants/1",
- "generated_at": "2026-10-27T22:12:39Z",
+ "generated_at": "2026-10-28T05:32:58Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -8,14 +8,14 @@
  "note": "The atlas wants: results the intake could not certify — unmatched sales and bid-to (reserve not met) results, counted by make/model as the content plan. Bid prices are bids, not sales, and nothing here enters any price count.",
  "counts": [
   {
-   "key": "Ford f",
-   "sold": 3,
-   "bidTo": 0
-  },
-  {
    "key": "Chevrolet corvette",
    "sold": 0,
    "bidTo": 2
+  },
+  {
+   "key": "Ford f",
+   "sold": 2,
+   "bidTo": 0
   },
   {
    "key": "996 Style",
@@ -26,11 +26,6 @@
    "key": "Audi q7",
    "sold": 1,
    "bidTo": 0
-  },
-  {
-   "key": "BMW 318ti",
-   "sold": 0,
-   "bidTo": 1
   },
   {
    "key": "BMW r1100s",
@@ -56,11 +51,6 @@
    "key": "Decades Family",
    "sold": 1,
    "bidTo": 0
-  },
-  {
-   "key": "Dodge power",
-   "sold": 0,
-   "bidTo": 1
   },
   {
    "key": "Ferrari f355",
@@ -144,6 +134,30 @@
   }
  ],
  "results": [
+  {
+   "title": "1950 Land Rover Series I 80",
+   "url": "https://bringatrailer.com/listing/1950-land-rover-80-series-i/",
+   "price": 0,
+   "currency": "USD",
+   "ended": "2026-10-27",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "bid-to",
+   "matched": false,
+   "wantsKey": "Land Rover series"
+  },
+  {
+   "title": "1980 Lincoln Continental Mark VI Coupe Cartier Designer Series",
+   "url": "https://bringatrailer.com/listing/1980-lincoln-continental-3/",
+   "price": 7900,
+   "currency": "USD",
+   "ended": "2026-10-27",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "bid-to",
+   "matched": false,
+   "wantsKey": "Lincoln Continental"
+  },
   {
    "title": "1966 Chevrolet Corvette Convertible 4-Speed",
    "url": "https://bringatrailer.com/listing/1966-chevrolet-corvette-convertible-347/",
@@ -443,66 +457,6 @@
    "status": "sold",
    "matched": false,
    "wantsKey": "Years Owned"
-  },
-  {
-   "title": "Coyote-Powered 1955 Ford F-100",
-   "url": "https://bringatrailer.com/listing/1955-ford-f-100-124/",
-   "price": 73000,
-   "currency": "USD",
-   "ended": "2026-10-27",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Ford f"
-  },
-  {
-   "title": "S52-Powered 1998 BMW 318ti 5-Speed",
-   "url": "https://bringatrailer.com/listing/1998-bmw-318ti-16/",
-   "price": 6750,
-   "currency": "USD",
-   "ended": "2026-10-27",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "BMW 318ti"
-  },
-  {
-   "title": "1992 Dodge Power Ram W250 LE Cummins 4×4 5-Speed",
-   "url": "https://bringatrailer.com/listing/1992-dodge-power-ram-w250-32/",
-   "price": 25000,
-   "currency": "USD",
-   "ended": "2026-10-27",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Dodge power"
-  },
-  {
-   "title": "1950 Land Rover Series I 80",
-   "url": "https://bringatrailer.com/listing/1950-land-rover-80-series-i/",
-   "price": 0,
-   "currency": "USD",
-   "ended": "2026-10-27",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Land Rover series"
-  },
-  {
-   "title": "1980 Lincoln Continental Mark VI Coupe Cartier Designer Series",
-   "url": "https://bringatrailer.com/listing/1980-lincoln-continental-3/",
-   "price": 7900,
-   "currency": "USD",
-   "ended": "2026-10-27",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Lincoln Continental"
   }
  ]
 }
