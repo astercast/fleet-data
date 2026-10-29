@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-28T20:16:47Z",
+ "generated_at": "2026-10-29T00:51:23Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-10-28T20:16:46Z",
+ "last_data_change_at": "2026-10-29T00:51:22Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-28T20:16:45Z",
-   "last_ok_at": "2026-10-28T20:16:45Z",
+   "checked_at": "2026-10-29T00:51:21Z",
+   "last_ok_at": "2026-10-29T00:51:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-28T20:16:46Z",
-   "last_ok_at": "2026-10-28T20:16:46Z",
+   "checked_at": "2026-10-29T00:51:21Z",
+   "last_ok_at": "2026-10-29T00:51:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-10-28T20:16:47Z",
-   "last_ok_at": "2026-10-28T20:16:47Z",
+   "checked_at": "2026-10-29T00:51:23Z",
+   "last_ok_at": "2026-10-29T00:51:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-28T20:16:45Z",
-   "last_ok_at": "2026-10-28T20:16:45Z",
+   "checked_at": "2026-10-29T00:51:21Z",
+   "last_ok_at": "2026-10-29T00:51:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-28T20:16:46Z",
-   "last_ok_at": "2026-10-28T20:16:46Z",
+   "checked_at": "2026-10-29T00:51:22Z",
+   "last_ok_at": "2026-10-29T00:51:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-10-28T20:16:45Z",
+   "checked_at": "2026-10-29T00:51:21Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 16
+   "fails_in_a_row": 17
   },
   {
    "id": "ypp-help",
@@ -79,13 +79,31 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-10-28T20:16:47Z",
-   "last_ok_at": "2026-10-28T20:16:47Z",
+   "checked_at": "2026-10-29T00:51:23Z",
+   "last_ok_at": "2026-10-29T00:51:23Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-29T00:51:22Z",
+   "kind": "change",
+   "title": "YouTube’s living room TV viewership now brings in one-third of its ad revenue",
+   "ref": "https://www.tubefilter.com/2026/10/28/youtube-living-room-tv-ad-revenue-q3-2026-earnings/"
+  },
+  {
+   "at": "2026-10-29T00:51:22Z",
+   "kind": "change",
+   "title": "Reddit splits its home feed in two with a TikTok-inspired update",
+   "ref": "https://www.tubefilter.com/2026/10/28/reddit-for-you-following-split-homepage-feeds/"
+  },
+  {
+   "at": "2026-10-29T00:51:23Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
   {
    "at": "2026-10-28T20:16:46Z",
    "kind": "change",
@@ -97,12 +115,6 @@
    "kind": "change",
    "title": "X lets users share credit on reposted images",
    "ref": "https://www.socialmediatoday.com/news/x-lets-users-share-credit-on-reposted-images/873100/"
-  },
-  {
-   "at": "2026-10-28T20:16:47Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
   },
   {
    "at": "2026-10-28T05:29:34Z",

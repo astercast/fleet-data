@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-28T20:19:17Z",
+ "generated_at": "2026-10-29T00:54:25Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-10-28T20:19:17Z",
+ "last_data_change_at": "2026-10-29T00:54:25Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 55,
-   "checked_at": "2026-10-28T20:19:16Z",
-   "last_ok_at": "2026-10-28T20:19:16Z",
+   "items": 72,
+   "checked_at": "2026-10-29T00:54:24Z",
+   "last_ok_at": "2026-10-29T00:54:24Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,79 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12417,
-   "checked_at": "2026-10-28T20:19:17Z",
-   "last_ok_at": "2026-10-28T20:19:17Z",
+   "checked_at": "2026-10-29T00:54:25Z",
+   "last_ok_at": "2026-10-29T00:54:25Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "1965 Ford Mustang Convertible A-Code 289 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1965-ford-mustang-958/"
+  },
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "2024 Toyota GR Supra 3.0 Premium 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2024-toyota-supra-8/"
+  },
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "1997 Toyota Land Cruiser FZJ80 Collector&#8217;s Edition",
+   "ref": "https://bringatrailer.com/listing/1997-toyota-land-cruiser-fzj80-306/"
+  },
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "1995 Dodge Viper RT/10",
+   "ref": "https://bringatrailer.com/listing/1995-dodge-viper-rt-10-47/"
+  },
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "1995 Land Rover Defender 90 NAS 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1995-land-rover-defender-90-nas-109/"
+  },
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "1986 Porsche 911 Carrera Cabriolet",
+   "ref": "https://bringatrailer.com/listing/1986-porsche-911-carrera-cabriolet-104/"
+  },
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "2002 BMW M3 Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2002-bmw-m3-coupe-148/"
+  },
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "1973 Pontiac Firebird Trans Am 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1973-pontiac-firebird-trans-am-19/"
+  },
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "Original-Owner 2000 Pontiac Grand Prix GT Sedan",
+   "ref": "https://bringatrailer.com/listing/2000-pontiac-grand-prix-4/"
+  },
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "2017 Porsche Cayenne Turbo S",
+   "ref": "https://bringatrailer.com/listing/2017-porsche-cayenne-turbo-s-12/"
+  },
+  {
+   "at": "2026-10-29T00:54:25Z",
+   "kind": "sale",
+   "title": "29k-Mile 2021 Land Rover Range Rover HSE P400 Westminster Edition",
+   "ref": "https://bringatrailer.com/listing/2021-land-rover-range-rover-58/"
+  },
   {
    "at": "2026-10-28T20:19:17Z",
    "kind": "sale",
@@ -324,66 +390,6 @@
    "kind": "sale",
    "title": "1995 Honda Civic VX Hatchback 5-Speed Project",
    "ref": "https://bringatrailer.com/listing/1995-honda-civic-8/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "1k-Mile 2023 Ferrari Roma",
-   "ref": "https://bringatrailer.com/listing/2023-ferrari-roma-10/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "9k-Mile 2020 Bentley Continental GT V8 Coupe",
-   "ref": "https://bringatrailer.com/listing/2020-bentley-continental-gt-v8-13/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "474-Mile 2013 Ford Mustang Shelby GT500 Coupe",
-   "ref": "https://bringatrailer.com/listing/2013-ford-mustang-shelby-gt500-coupe-77/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "1974 BMW 2002 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1974-bmw-2002-174/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "2,800-Mile 2012 Porsche 911 Carrera Cabriolet Black Edition 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2012-porsche-911-black-edition-2/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "29k-Mile 2021 Toyota Land Cruiser URJ200 Heritage Edition",
-   "ref": "https://bringatrailer.com/listing/2021-toyota-land-cruiser-99/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "1990 BMW M3",
-   "ref": "https://bringatrailer.com/listing/1990-bmw-m3-119/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "K20-Powered 1996 Honda Civic CX Hatchback 6-Speed",
-   "ref": "https://bringatrailer.com/listing/1996-honda-civic-40/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "2013 BMW X5 xDrive50i",
-   "ref": "https://bringatrailer.com/listing/2013-bmw-x5-71/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "Original-Owner 2007 Porsche 911 Turbo Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2007-porsche-911-turbo-coupe-226/"
   }
  ]
 }

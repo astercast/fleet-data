@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "yt-youtube-s-living-room-tv-viewership-now-brings-i-62d359",
+   "platform": "youtube",
+   "title": "YouTube’s living room TV viewership now brings in one-third of its ad revenue",
+   "summary": "YouTube clocked $11.2 billion in ad revenue in Q3 2026, a 9% year-over-year rise. It’s also reached a record-high number of Premium and Music subscribers–150 million people. But other parts of Alphabet‘s business aren’t faring so well. The company’s stock sank 10% after Q3 earnings missed both revenue and profit expectations, and revealed that for […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-10-29T00:51:21Z",
+   "announced_at": "2026-10-28T23:02:50Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/28/youtube-living-room-tv-ad-revenue-q3-2026-earnings/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/28/youtube-living-room-tv-ad-revenue-q3-2026-earnings/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "tt-reddit-splits-its-home-feed-in-two-with-a-tiktok-7a3b9e",
+   "platform": "tiktok",
+   "title": "Reddit splits its home feed in two with a TikTok-inspired update",
+   "summary": "Would you rather see posts that are suggested for you or posts from communities you've chosen to follow? Reddit is letting its users choose between those two experiences. The social media hub has announced an update for the feed that appears on its homepage. The default option will be a For You feed that will show content from a wide selection of the platform's 138,000 active subreddits. Redditors who prefer a more customized experience can switch to the Following feed, which will only show post",
+   "detected_at": "2026-10-29T00:51:21Z",
+   "announced_at": "2026-10-28T21:47:18Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/28/reddit-for-you-following-split-homepage-feeds/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/28/reddit-for-you-following-split-homepage-feeds/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-youtube-tests-reduced-payout-thresholds-to-aid-c-3ad63d",
    "platform": "youtube",
    "title": "YouTube tests reduced payout thresholds to aid creators in developing economies",
@@ -970,8 +1008,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-28T20:16:45Z",
+ "generated_at": "2026-10-29T00:51:21Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "version": "1.7.0"
 }
