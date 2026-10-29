@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-29T09:52:15Z",
+ "generated_at": "2026-10-29T18:28:10Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-10-29T09:52:15Z",
+ "last_data_change_at": "2026-10-29T18:28:10Z",
  "sources": [
   {
    "id": "arxiv",
@@ -13,8 +13,8 @@
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
    "items": 47,
-   "checked_at": "2026-10-29T09:52:13Z",
-   "last_ok_at": "2026-10-29T09:52:13Z",
+   "checked_at": "2026-10-29T18:28:07Z",
+   "last_ok_at": "2026-10-29T18:28:07Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-29T09:52:15Z",
-   "last_ok_at": "2026-10-29T09:52:15Z",
+   "checked_at": "2026-10-29T18:28:10Z",
+   "last_ok_at": "2026-10-29T18:28:10Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-10-29T09:52:12Z",
-   "last_ok_at": "2026-10-29T09:52:12Z",
+   "checked_at": "2026-10-29T18:28:06Z",
+   "last_ok_at": "2026-10-29T18:28:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-10-29T09:52:13Z",
-   "last_ok_at": "2026-10-29T09:52:13Z",
+   "checked_at": "2026-10-29T18:28:08Z",
+   "last_ok_at": "2026-10-29T18:28:08Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,73 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-10-29T09:52:12Z",
-   "last_ok_at": "2026-10-29T09:52:12Z",
+   "checked_at": "2026-10-29T18:28:06Z",
+   "last_ok_at": "2026-10-29T18:28:06Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-29T18:28:10Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: t8star/HY-Nomas-Comfy",
+   "ref": "https://huggingface.co/t8star/HY-Nomas-Comfy"
+  },
+  {
+   "at": "2026-10-29T18:28:10Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: AbrahamPJ/fasth3-dense-v1-q4_0-gguf",
+   "ref": "https://huggingface.co/AbrahamPJ/fasth3-dense-v1-q4_0-gguf"
+  },
+  {
+   "at": "2026-10-29T18:28:10Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-MiniMax-H3-T2VA-8step-ComfyUI",
+   "ref": "https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-8step-ComfyUI"
+  },
+  {
+   "at": "2026-10-29T18:28:10Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-MiniMax-H3-T2VA-8step",
+   "ref": "https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-8step"
+  },
+  {
+   "at": "2026-10-29T18:28:10Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-MiniMax-H3-T2VA-4step-ComfyUI",
+   "ref": "https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-4step-ComfyUI"
+  },
+  {
+   "at": "2026-10-29T18:28:10Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-MiniMax-H3-T2VA-4step",
+   "ref": "https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-4step"
+  },
+  {
+   "at": "2026-10-29T18:28:10Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-Wan2.1-1.3B-Causal",
+   "ref": "https://huggingface.co/zjwfufu/SMD-Wan2.1-1.3B-Causal"
+  },
+  {
+   "at": "2026-10-29T18:28:10Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-Wan2.1-14B",
+   "ref": "https://huggingface.co/zjwfufu/SMD-Wan2.1-14B"
+  },
+  {
+   "at": "2026-10-29T18:28:10Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-Wan2.1-1.3B",
+   "ref": "https://huggingface.co/zjwfufu/SMD-Wan2.1-1.3B"
+  },
+  {
+   "at": "2026-10-29T18:28:10Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Hearmeman/minimax-h3-loras",
+   "ref": "https://huggingface.co/Hearmeman/minimax-h3-loras"
+  },
   {
    "at": "2026-10-29T09:52:15Z",
    "kind": "new-model",

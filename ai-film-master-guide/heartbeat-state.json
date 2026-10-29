@@ -2,11 +2,13 @@
  "hf": [
   "AaronHuangWei/longlive2-global-query-only-ablation",
   "AaronHuangWei/longlive2-teacher-top10-full-context-ablation",
+  "AbrahamPJ/fasth3-dense-v1-q4_0-gguf",
   "Comfy-Org/Bernini-R",
   "Comfy-Org/Causal-Forcing-Framewise",
   "Comfy-Org/HuMo",
   "EXCAI/ForcingBooster",
   "Gamerrishabbsingh/text-to-video-ms-1.7b",
+  "Hearmeman/minimax-h3-loras",
   "Kompaktion/Movetoy",
   "Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-Left",
   "Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-Out",
@@ -69,6 +71,7 @@
   "sanjeevkumar70550932/LTX-Video-0.9.7-distilled",
   "silentlooop/revt2v-ckpt",
   "sjxknukkji/wan2.2-t2v-a14b-transformers-bf16",
+  "t8star/HY-Nomas-Comfy",
   "taurusduan/MiniMax-H3-Turbo-Lora",
   "taurusduan/MiniMax-H3-Turbo-Lora-ComfyUI",
   "udgamlabs/Drishya-Tiny",
@@ -76,7 +79,14 @@
   "wanyi2026/Minimax-H3-R2VA-Veda-Preview",
   "yaleiyaleichiling/NSFW-Anime-wan-5B",
   "zero0303/ltx-2.5-mlx-dynamic-8bit",
-  "zhihefang/LUVE"
+  "zhihefang/LUVE",
+  "zjwfufu/SMD-MiniMax-H3-T2VA-4step",
+  "zjwfufu/SMD-MiniMax-H3-T2VA-4step-ComfyUI",
+  "zjwfufu/SMD-MiniMax-H3-T2VA-8step",
+  "zjwfufu/SMD-MiniMax-H3-T2VA-8step-ComfyUI",
+  "zjwfufu/SMD-Wan2.1-1.3B",
+  "zjwfufu/SMD-Wan2.1-1.3B-Causal",
+  "zjwfufu/SMD-Wan2.1-14B"
  ],
  "arxiv": [
   "http://arxiv.org/abs/2610.28631v1",

@@ -1,7 +1,107 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-29T09:52:15Z",
+ "generated_at": "2026-10-29T18:28:10Z",
  "items": [
+  {
+   "id": "hf-t8star/HY-Nomas-Comfy",
+   "at": "2026-10-29T14:33:04Z",
+   "model": "t8star/HY-Nomas-Comfy",
+   "title": "New text-to-video model listed on Hugging Face: t8star/HY-Nomas-Comfy",
+   "url": "https://huggingface.co/t8star/HY-Nomas-Comfy",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-AbrahamPJ/fasth3-dense-v1-q4_0-gguf",
+   "at": "2026-10-29T12:52:34Z",
+   "model": "AbrahamPJ/fasth3-dense-v1-q4_0-gguf",
+   "title": "New text-to-video model listed on Hugging Face: AbrahamPJ/fasth3-dense-v1-q4_0-gguf",
+   "url": "https://huggingface.co/AbrahamPJ/fasth3-dense-v1-q4_0-gguf",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-zjwfufu/SMD-MiniMax-H3-T2VA-8step-ComfyUI",
+   "at": "2026-10-29T12:42:42Z",
+   "model": "zjwfufu/SMD-MiniMax-H3-T2VA-8step-ComfyUI",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-MiniMax-H3-T2VA-8step-ComfyUI",
+   "url": "https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-8step-ComfyUI",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-zjwfufu/SMD-MiniMax-H3-T2VA-8step",
+   "at": "2026-10-29T12:42:41Z",
+   "model": "zjwfufu/SMD-MiniMax-H3-T2VA-8step",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-MiniMax-H3-T2VA-8step",
+   "url": "https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-8step",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-zjwfufu/SMD-MiniMax-H3-T2VA-4step-ComfyUI",
+   "at": "2026-10-29T12:42:40Z",
+   "model": "zjwfufu/SMD-MiniMax-H3-T2VA-4step-ComfyUI",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-MiniMax-H3-T2VA-4step-ComfyUI",
+   "url": "https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-4step-ComfyUI",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-zjwfufu/SMD-MiniMax-H3-T2VA-4step",
+   "at": "2026-10-29T12:42:39Z",
+   "model": "zjwfufu/SMD-MiniMax-H3-T2VA-4step",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-MiniMax-H3-T2VA-4step",
+   "url": "https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-4step",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-zjwfufu/SMD-Wan2.1-1.3B-Causal",
+   "at": "2026-10-29T12:42:36Z",
+   "model": "zjwfufu/SMD-Wan2.1-1.3B-Causal",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-Wan2.1-1.3B-Causal",
+   "url": "https://huggingface.co/zjwfufu/SMD-Wan2.1-1.3B-Causal",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-zjwfufu/SMD-Wan2.1-14B",
+   "at": "2026-10-29T12:42:34Z",
+   "model": "zjwfufu/SMD-Wan2.1-14B",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-Wan2.1-14B",
+   "url": "https://huggingface.co/zjwfufu/SMD-Wan2.1-14B",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-zjwfufu/SMD-Wan2.1-1.3B",
+   "at": "2026-10-29T12:42:33Z",
+   "model": "zjwfufu/SMD-Wan2.1-1.3B",
+   "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-Wan2.1-1.3B",
+   "url": "https://huggingface.co/zjwfufu/SMD-Wan2.1-1.3B",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Hearmeman/minimax-h3-loras",
+   "at": "2026-10-29T10:44:16Z",
+   "model": "Hearmeman/minimax-h3-loras",
+   "title": "New text-to-video model listed on Hugging Face: Hearmeman/minimax-h3-loras",
+   "url": "https://huggingface.co/Hearmeman/minimax-h3-loras",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-axteam/Motif-Video-2B-FP8",
    "at": "2026-10-29T07:38:10Z",
@@ -1399,106 +1499,6 @@
    "title": "Seedance 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://www.highonfilms.com/seedance-3-0-provider-checks/",
    "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 2.5-2026-10-27",
-   "at": "2026-10-27T00:21:45+00:00",
-   "model": "Seedance 2.5",
-   "title": "Seedance 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://cellcog.ai/blog/seedance-2-5-pricing/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.36371v1",
-   "at": "2026-10-26T22:36:36Z",
-   "model": "",
-   "title": "New arXiv paper: BoxWorld: Let World Engines Control and Video Generators Render",
-   "url": "http://arxiv.org/abs/2610.36371v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-phenmoziken/LTX-2.5-uncensored-v1.1-FP8",
-   "at": "2026-10-26T19:50:38Z",
-   "model": "phenmoziken/LTX-2.5-uncensored-v1.1-FP8",
-   "title": "New text-to-video model listed on Hugging Face: phenmoziken/LTX-2.5-uncensored-v1.1-FP8",
-   "url": "https://huggingface.co/phenmoziken/LTX-2.5-uncensored-v1.1-FP8",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.35864v2",
-   "at": "2026-10-26T17:59:32Z",
-   "model": "",
-   "title": "New arXiv paper: VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
-   "url": "http://arxiv.org/abs/2610.35864v2",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.35864v1",
-   "at": "2026-10-26T17:59:32Z",
-   "model": "",
-   "title": "New arXiv paper: VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
-   "url": "http://arxiv.org/abs/2610.35864v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.36022v1",
-   "at": "2026-10-26T17:47:28Z",
-   "model": "",
-   "title": "New arXiv paper: Learning and Reasoning with Geometry: How Generation Helps Spatial Understanding",
-   "url": "http://arxiv.org/abs/2610.36022v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Gamerrishabbsingh/text-to-video-ms-1.7b",
-   "at": "2026-10-26T16:57:51Z",
-   "model": "Gamerrishabbsingh/text-to-video-ms-1.7b",
-   "title": "New text-to-video model listed on Hugging Face: Gamerrishabbsingh/text-to-video-ms-1.7b",
-   "url": "https://huggingface.co/Gamerrishabbsingh/text-to-video-ms-1.7b",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.35684v1",
-   "at": "2026-10-26T16:19:59Z",
-   "model": "",
-   "title": "New arXiv paper: OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
-   "url": "http://arxiv.org/abs/2610.35684v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.35594v1",
-   "at": "2026-10-26T15:20:53Z",
-   "model": "",
-   "title": "New arXiv paper: Beyond Distribution Matching: Self-Supervised Representation Forcing for Few-Step Video Generation",
-   "url": "http://arxiv.org/abs/2610.35594v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-SOLRICKS/Mila",
-   "at": "2026-10-26T08:24:01Z",
-   "model": "SOLRICKS/Mila",
-   "title": "New text-to-video model listed on Hugging Face: SOLRICKS/Mila",
-   "url": "https://huggingface.co/SOLRICKS/Mila",
-   "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }

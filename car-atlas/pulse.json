@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-29T09:54:23Z",
+ "generated_at": "2026-10-29T18:30:27Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-10-29T00:54:25Z",
+ "last_data_change_at": "2026-10-29T18:30:27Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-10-29T09:54:19Z",
-   "last_ok_at": "2026-10-29T09:54:19Z",
+   "items": 72,
+   "checked_at": "2026-10-29T18:30:23Z",
+   "last_ok_at": "2026-10-29T18:30:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,14 +23,74 @@
    "label": "NHTSA vPIC make names",
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
-   "items": 12417,
-   "checked_at": "2026-10-29T09:54:23Z",
-   "last_ok_at": "2026-10-29T09:54:23Z",
+   "items": 12416,
+   "checked_at": "2026-10-29T18:30:27Z",
+   "last_ok_at": "2026-10-29T18:30:27Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-29T18:30:27Z",
+   "kind": "sale",
+   "title": "2004 Porsche Cayenne Turbo",
+   "ref": "https://bringatrailer.com/listing/2004-porsche-cayenne-turbo-66-2/"
+  },
+  {
+   "at": "2026-10-29T18:30:27Z",
+   "kind": "sale",
+   "title": "621-Mile 2010 Toyota Prius",
+   "ref": "https://bringatrailer.com/listing/2010-toyota-prius-3/"
+  },
+  {
+   "at": "2026-10-29T18:30:27Z",
+   "kind": "sale",
+   "title": "2015 Porsche Cayenne S E-Hybrid",
+   "ref": "https://bringatrailer.com/listing/2015-porsche-cayenne-s-18/"
+  },
+  {
+   "at": "2026-10-29T18:30:27Z",
+   "kind": "sale",
+   "title": "2017 Land Rover Range Rover SVAutobiography LWB",
+   "ref": "https://bringatrailer.com/listing/2017-land-rover-range-rover-131/"
+  },
+  {
+   "at": "2026-10-29T18:30:27Z",
+   "kind": "sale",
+   "title": "2007 Volvo XC90 V8 Sport AWD",
+   "ref": "https://bringatrailer.com/listing/2007-volvo-xc90-5/"
+  },
+  {
+   "at": "2026-10-29T18:30:27Z",
+   "kind": "sale",
+   "title": "1968 Plymouth Barracuda Formula S Coupe 383 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1968-plymouth-barracuda-52/"
+  },
+  {
+   "at": "2026-10-29T18:30:27Z",
+   "kind": "sale",
+   "title": "15k-Mile 1996 Chevrolet Corvette Grand Sport Convertible",
+   "ref": "https://bringatrailer.com/listing/1996-chevrolet-corvette-convertible-82/"
+  },
+  {
+   "at": "2026-10-29T18:30:27Z",
+   "kind": "sale",
+   "title": "2,110cc-Powered 1967 Volkswagen Beetle",
+   "ref": "https://bringatrailer.com/listing/1967-volkswagen-beetle-264/"
+  },
+  {
+   "at": "2026-10-29T18:30:27Z",
+   "kind": "sale",
+   "title": "2001 Pontiac Bonneville SE",
+   "ref": "https://bringatrailer.com/listing/2001-pontiac-bonneville-5/"
+  },
+  {
+   "at": "2026-10-29T18:30:27Z",
+   "kind": "sale",
+   "title": "50k-Mile 2009 Audi A4 2.0T Cabriolet Quattro",
+   "ref": "https://bringatrailer.com/listing/2009-audi-a4-b7-12/"
+  },
   {
    "at": "2026-10-29T00:54:25Z",
    "kind": "sale",
@@ -330,66 +390,6 @@
    "kind": "sale",
    "title": "351-Powered 1974 Ford Bronco 5-Speed",
    "ref": "https://bringatrailer.com/listing/1974-ford-bronco-405/"
-  },
-  {
-   "at": "2026-10-27T00:26:25Z",
-   "kind": "sale",
-   "title": "350-Powered 1965 Chevrolet Impala Sedan",
-   "ref": "https://bringatrailer.com/listing/1965-chevrolet-impala-54/"
-  },
-  {
-   "at": "2026-10-27T00:26:25Z",
-   "kind": "sale",
-   "title": "1969 AMC AMX 390",
-   "ref": "https://bringatrailer.com/listing/1969-amc-amx-30/"
-  },
-  {
-   "at": "2026-10-27T00:26:25Z",
-   "kind": "sale",
-   "title": "200Tdi-Powered 1991 Land Rover Defender Otokar 110 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1991-land-rover-defender-110-164/"
-  },
-  {
-   "at": "2026-10-27T00:26:25Z",
-   "kind": "sale",
-   "title": "1971 MG MGB GT",
-   "ref": "https://bringatrailer.com/listing/1971-mg-mgb-gt-37/"
-  },
-  {
-   "at": "2026-10-27T00:26:25Z",
-   "kind": "sale",
-   "title": "21k-Mile 2018 Volvo V60 T6 Polestar",
-   "ref": "https://bringatrailer.com/listing/2018-volvo-v60-3/"
-  },
-  {
-   "at": "2026-10-27T00:26:25Z",
-   "kind": "sale",
-   "title": "1992 Volvo 240 Wagon",
-   "ref": "https://bringatrailer.com/listing/1992-volvo-240-69/"
-  },
-  {
-   "at": "2026-10-27T00:26:25Z",
-   "kind": "sale",
-   "title": "31k-Mile 2005 Honda Accord EX-L V6",
-   "ref": "https://bringatrailer.com/listing/2005-honda-accord-7/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "1991 Jeep Grand Wagoneer Final Edition",
-   "ref": "https://bringatrailer.com/listing/1991-jeep-grand-wagoneer-158/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "Modified 1987 Toyota Land Cruiser BJ73 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1987-toyota-bj73/"
-  },
-  {
-   "at": "2026-10-26T20:31:52Z",
-   "kind": "sale",
-   "title": "1995 Honda Civic VX Hatchback 5-Speed Project",
-   "ref": "https://bringatrailer.com/listing/1995-honda-civic-8/"
   }
  ]
 }
