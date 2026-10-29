@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "cw-reddit-introduces-for-you-feed-dc4490",
+   "platform": "other",
+   "title": "Reddit introduces For You feed",
+   "summary": "<p>The platform&rsquo;s algorithm-defined feed is designed to improve in-app discovery with tailored recommendations and updates.</p>",
+   "detected_at": "2026-10-29T09:52:15Z",
+   "announced_at": "2026-10-28T22:42:30Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/reddit-introduces-for-you-feed/873132/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/reddit-introduces-for-you-feed/873132/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-youtube-s-living-room-tv-viewership-now-brings-i-62d359",
    "platform": "youtube",
    "title": "YouTube’s living room TV viewership now brings in one-third of its ad revenue",
@@ -1008,7 +1027,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-29T00:51:21Z",
+ "generated_at": "2026-10-29T09:52:15Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-10-29",
  "version": "1.7.0"

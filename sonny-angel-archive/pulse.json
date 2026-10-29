@@ -1,6 +1,6 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-29T00:54:50Z",
+ "generated_at": "2026-10-29T09:54:24Z",
  "stale_after_h": 30,
  "healthy": true,
  "sources_ok": 1,
@@ -13,8 +13,8 @@
    "url": "https://sonnyangelusa.com",
    "ok": true,
    "items": 18,
-   "checked_at": "2026-10-29T00:54:50Z",
-   "last_ok_at": "2026-10-29T00:54:50Z",
+   "checked_at": "2026-10-29T09:54:24Z",
+   "last_ok_at": "2026-10-29T09:54:24Z",
    "error": null,
    "fails_in_a_row": 0
   }

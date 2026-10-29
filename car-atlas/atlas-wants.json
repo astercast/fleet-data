@@ -1,6 +1,6 @@
 {
  "format": "atlas-wants/1",
- "generated_at": "2026-10-29T00:54:25Z",
+ "generated_at": "2026-10-29T09:54:23Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -8,47 +8,12 @@
  "note": "The atlas wants: results the intake could not certify — unmatched sales and bid-to (reserve not met) results, counted by make/model as the content plan. Bid prices are bids, not sales, and nothing here enters any price count.",
  "counts": [
   {
-   "key": "BMW z4",
-   "sold": 1,
-   "bidTo": 1
-  },
-  {
-   "key": "Chevrolet corvette",
-   "sold": 0,
-   "bidTo": 2
-  },
-  {
-   "key": "Family Owned",
-   "sold": 2,
-   "bidTo": 0
-  },
-  {
    "key": "550 Spyder",
    "sold": 0,
    "bidTo": 1
   },
   {
-   "key": "Acura Rsx",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Am General",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
    "key": "Audi s5",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "BMW 535i",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "BMW 650i",
    "sold": 1,
    "bidTo": 0
   },
@@ -58,32 +23,12 @@
    "bidTo": 0
   },
   {
-   "key": "Buick Regal",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Buick Series",
+   "key": "BMW z4",
    "sold": 0,
    "bidTo": 1
   },
   {
-   "key": "Chevrolet k5",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Chevrolet nova",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Chevrolet special",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Cushman 54",
+   "key": "Buick Regal",
    "sold": 1,
    "bidTo": 0
   },
@@ -93,14 +38,14 @@
    "bidTo": 0
   },
   {
+   "key": "Family Owned",
+   "sold": 1,
+   "bidTo": 0
+  },
+  {
    "key": "Ferrari 308",
    "sold": 0,
    "bidTo": 1
-  },
-  {
-   "key": "Ford econoline",
-   "sold": 1,
-   "bidTo": 0
   },
   {
    "key": "Ford excursion",
@@ -123,16 +68,6 @@
    "bidTo": 0
   },
   {
-   "key": "Indian Chief",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Infiniti G35",
-   "sold": 0,
-   "bidTo": 1
-  },
-  {
    "key": "Jeep commander",
    "sold": 1,
    "bidTo": 0
@@ -144,16 +79,6 @@
   },
   {
    "key": "MG mga",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Mercedes-Benz 280c",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Mercedes-Benz cl500",
    "sold": 1,
    "bidTo": 0
   },
@@ -178,17 +103,7 @@
    "bidTo": 1
   },
   {
-   "key": "Porsche 356a",
-   "sold": 0,
-   "bidTo": 1
-  },
-  {
    "key": "Porsche 718",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Porsche macan",
    "sold": 1,
    "bidTo": 0
   },
@@ -203,19 +118,9 @@
    "bidTo": 0
   },
   {
-   "key": "Supreme Branded",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
    "key": "Tesla roadster",
    "sold": 0,
    "bidTo": 1
-  },
-  {
-   "key": "Toyota sequoia",
-   "sold": 1,
-   "bidTo": 0
   },
   {
    "key": "Volvo v70r",
@@ -229,270 +134,6 @@
   }
  ],
  "results": [
-  {
-   "title": "Chevron Supreme-Branded Bennett Gas Pump",
-   "url": "https://bringatrailer.com/listing/gas-pump-170/",
-   "price": 7500,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Supreme Branded"
-  },
-  {
-   "title": "2015 Porsche Macan S",
-   "url": "https://bringatrailer.com/listing/2015-porsche-macan-s-35/",
-   "price": 15000,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Porsche macan"
-  },
-  {
-   "title": "1971 Ford Econoline E-300 Shasta Motorhome",
-   "url": "https://bringatrailer.com/listing/1971-ford-econoline-7/",
-   "price": 9300,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Ford econoline"
-  },
-  {
-   "title": "1986 AM General HMMWV M998",
-   "url": "https://bringatrailer.com/listing/1986-am-general-hmmwv-military-2/",
-   "price": 9200,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Am General"
-  },
-  {
-   "title": "2007 Infiniti G35 Sport Sedan 6-Speed",
-   "url": "https://bringatrailer.com/listing/2007-infiniti-g35-sedan-3/",
-   "price": 14500,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Infiniti G35"
-  },
-  {
-   "title": "35k-Mile 2003 BMW Z4 Roadster 2.5i 5-Speed",
-   "url": "https://bringatrailer.com/listing/2003-bmw-z4-roadster-143/",
-   "price": 8000,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "BMW z4"
-  },
-  {
-   "title": "1948 Cushman 54",
-   "url": "https://bringatrailer.com/listing/1948-cushman-54/",
-   "price": 2200,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Cushman 54"
-  },
-  {
-   "title": "1998 Mercedes-Benz CL500",
-   "url": "https://bringatrailer.com/listing/1998-mercedes-benz-cl500-6/",
-   "price": 8600,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Mercedes-Benz cl500"
-  },
-  {
-   "title": "2010 BMW 535i xDrive Sports Wagon Sport",
-   "url": "https://bringatrailer.com/listing/2010-bmw-535i-xdrive-sports-wagon-52/",
-   "price": 9100,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "BMW 535i"
-  },
-  {
-   "title": "2002 Acura RSX Type-S 6-Speed",
-   "url": "https://bringatrailer.com/listing/2002-acura-rsx-type-s-20/",
-   "price": 8250,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Acura Rsx"
-  },
-  {
-   "title": "1975 Mercedes-Benz 280C",
-   "url": "https://bringatrailer.com/listing/1975-mercedes-benz-280c-14/",
-   "price": 10000,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Mercedes-Benz 280c"
-  },
-  {
-   "title": "1947 Indian Chief",
-   "url": "https://bringatrailer.com/listing/1947-indian-chief-17/",
-   "price": 33000,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Indian Chief"
-  },
-  {
-   "title": "454-Powered 1969 Chevrolet Nova Coupe",
-   "url": "https://bringatrailer.com/listing/1969-chevrolet-nova-45/",
-   "price": 42500,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Chevrolet nova"
-  },
-  {
-   "title": "1958 Porsche 356A Cabriolet",
-   "url": "https://bringatrailer.com/listing/1958-porsche-356a-cabriolet-19/",
-   "price": 106058,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Porsche 356a"
-  },
-  {
-   "title": "1974 Chevrolet K5 Blazer Cheyenne 4&#215;4",
-   "url": "https://bringatrailer.com/listing/1974-chevrolet-k5-blazer-30/",
-   "price": 43000,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Chevrolet k5"
-  },
-  {
-   "title": "2004 Toyota Sequoia SR5 4&#215;4",
-   "url": "https://bringatrailer.com/listing/2004-toyota-sequoia-22/",
-   "price": 7500,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Toyota sequoia"
-  },
-  {
-   "title": "23k-Mile 2014 BMW 650i Convertible M Sport Edition",
-   "url": "https://bringatrailer.com/listing/2014-bmw-650i-convertible-5/",
-   "price": 26750,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "BMW 650i"
-  },
-  {
-   "title": "One-Family-Owned 1965 Chrysler New Yorker Sedan",
-   "url": "https://bringatrailer.com/listing/1965-chrysler-new-yorker-2/",
-   "price": 7777,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Family Owned"
-  },
-  {
-   "title": "12k-Mile 2019 Chevrolet Corvette ZR1 Coupe 3ZR ZTK",
-   "url": "https://bringatrailer.com/listing/2019-chevrolet-corvette-zr1-coupe-216/",
-   "price": 132000,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": true,
-   "wantsKey": "Chevrolet corvette"
-  },
-  {
-   "title": "2026 Chevrolet Corvette Stingray Convertible 3LT Z51 Stars &#038; Steel Limited Edition",
-   "url": "https://bringatrailer.com/listing/2026-chevrolet-corvette-stingray-3/",
-   "price": 92000,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": true,
-   "wantsKey": "Chevrolet corvette"
-  },
-  {
-   "title": "1939 Buick Series 40 Special Touring Sedan",
-   "url": "https://bringatrailer.com/listing/1939-buick-series-40-special-7/",
-   "price": 10100,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Buick Series"
-  },
-  {
-   "title": "350-Powered 1941 Chevrolet Special Deluxe Town Sedan",
-   "url": "https://bringatrailer.com/listing/1941-chevrolet-special-deluxe-11/",
-   "price": 18250,
-   "currency": "USD",
-   "ended": "2026-10-28",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Chevrolet special"
-  },
   {
    "title": "34k-Mile 2006 Jeep Commander Limited 5.7L Hemi",
    "url": "https://bringatrailer.com/listing/2006-jeep-commander-9/",
