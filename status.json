@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-10-29T09:54:29Z",
+ "generated_at": "2026-10-29T11:06:26Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -10,7 +10,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "1.2 h old, limit 14 h"
     ],
     [
      "sources",
@@ -20,11 +20,11 @@
     [
      "site",
      "ok",
-     "192 ms"
+     "183 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 1.2,
+   "changed_age_h": 1.2,
    "sources": [
     {
      "id": "arxiv",
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "23.1 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,17 +77,17 @@
     [
      "site",
      "ok",
-     "252 ms"
+     "135 ms"
     ]
    ],
-   "data_age_h": 23.1,
-   "changed_age_h": 23.1,
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "cmdstore",
      "ok": true,
      "fails": 0,
-     "items": 67
+     "items": 61
     },
     {
      "id": "gnews",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "23.1 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "191 ms"
+     "172 ms"
     ]
    ],
-   "data_age_h": 23.1,
+   "data_age_h": 0.0,
    "changed_age_h": null,
    "sources": [
     {
@@ -168,7 +168,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "1.2 h old, limit 14 h"
     ],
     [
      "sources",
@@ -178,11 +178,11 @@
     [
      "site",
      "ok",
-     "258 ms"
+     "420 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 1.2,
+   "changed_age_h": 1.2,
    "sources": [
     {
      "id": "meta-newsroom",
@@ -237,7 +237,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 8 h"
+     "1.2 h old, limit 8 h"
     ],
     [
      "sources",
@@ -247,10 +247,10 @@
     [
      "site",
      "ok",
-     "170 ms"
+     "137 ms"
     ]
    ],
-   "data_age_h": 0.0,
+   "data_age_h": 1.2,
    "changed_age_h": null,
    "sources": [
     {
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "23.1 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "247 ms"
+     "413 ms"
     ]
    ],
-   "data_age_h": 23.1,
-   "changed_age_h": 23.1,
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "23.1 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "139 ms"
+     "165 ms"
     ]
    ],
-   "data_age_h": 23.1,
+   "data_age_h": 0.0,
    "changed_age_h": null,
    "sources": [
     {
@@ -486,7 +486,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "1.2 h old, limit 14 h"
     ],
     [
      "sources",
@@ -496,11 +496,11 @@
     [
      "site",
      "ok",
-     "243 ms"
+     "256 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 9.0,
+   "data_age_h": 1.2,
+   "changed_age_h": 10.2,
    "sources": [
     {
      "id": "bat",
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "179 ms"
+     "149 ms"
     ]
    ],
    "state": "ok"
@@ -538,7 +538,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "1.2 h old, limit 14 h"
     ],
     [
      "sources",
@@ -548,7 +548,7 @@
     [
      "site",
      "ok",
-     "191 ms"
+     "156 ms"
     ],
     [
      "health",
@@ -556,8 +556,8 @@
      "ok"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 9.0,
+   "data_age_h": 1.2,
+   "changed_age_h": 10.2,
    "sources": [
     {
      "id": "liquipedia",
@@ -576,7 +576,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "1.2 h old, limit 14 h"
     ],
     [
      "sources",
@@ -591,10 +591,10 @@
     [
      "site",
      "ok",
-     "152 ms"
+     "142 ms"
     ]
    ],
-   "data_age_h": 0.0,
+   "data_age_h": 1.2,
    "changed_age_h": null,
    "sources": [
     {

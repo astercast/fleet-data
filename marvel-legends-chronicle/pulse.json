@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-28T10:48:09Z",
+ "generated_at": "2026-10-29T11:05:12Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-10-28T10:48:01Z",
+ "last_data_change_at": "2026-10-29T11:05:12Z",
  "sources": [
   {
    "id": "cmdstore",
    "label": "CMDStore catalog",
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
-   "items": 67,
-   "checked_at": "2026-10-28T10:48:01Z",
-   "last_ok_at": "2026-10-28T10:48:01Z",
+   "items": 61,
+   "checked_at": "2026-10-29T11:05:08Z",
+   "last_ok_at": "2026-10-29T11:05:08Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "items": 100,
-   "checked_at": "2026-10-28T10:48:09Z",
-   "last_ok_at": "2026-10-28T10:48:09Z",
+   "checked_at": "2026-10-29T11:05:12Z",
+   "last_ok_at": "2026-10-29T11:05:12Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-10-28T10:48:09Z",
-   "last_ok_at": "2026-10-28T10:48:09Z",
+   "checked_at": "2026-10-29T11:05:12Z",
+   "last_ok_at": "2026-10-29T11:05:12Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,31 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 47,
-   "checked_at": "2026-10-28T10:48:09Z",
-   "last_ok_at": "2026-10-28T10:48:09Z",
+   "checked_at": "2026-10-29T11:05:12Z",
+   "last_ok_at": "2026-10-29T11:05:12Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-29T11:05:12Z",
+   "kind": "story",
+   "title": "\"Astonishing X-Men\" Marvel Legends Cyclops & Wolverine Figures Now Available for Pre-Order - LaughingPlace.com",
+   "ref": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanJ0ZTg3REgxTzNkLTNPRTk4MHEyNWVfMmVsT0YxRm1MX1R5a19CMnI1MTVfVHR4MzZiVnczX3JwN2pWQnplU3pUQ3lfbWgyOW1UeHRCcHlRREFkdXRBaTlkRmg3RXNXOE5fNGZZRW5hNXU3N041OWNhLUFhaGhObFFnQmhyWTFMUWJPV3FjVFRGQkJrc0ZQa0J6S3hTckdQR0E?oc=5"
+  },
+  {
+   "at": "2026-10-29T11:05:12Z",
+   "kind": "story",
+   "title": "Astonishing X-Men Marvel Legends Cyclops & Wolverine Two Pack Preorder - Toy Habits",
+   "ref": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMS11UEszbHI4LUpzTlBMWGxKaHBIWXltTUFHT2pQY2cyd0JOZWtNYkhhczJ2WlhHSlJYVzJyMERwRVpOOWZ1aE5zRGVzRERCbGdYRmZDeTRnWHUxMDZkajJkbDEyaXJ3aXV0QmlkX1cxejF5X1RHZnUyUXpDanRFblAtdERMdGliZ055eEJ5RjR3ck5zalE?oc=5"
+  },
+  {
+   "at": "2026-10-29T11:05:12Z",
+   "kind": "story",
+   "title": "Marvel Legends X-Men 97 Archangel review (2026) - Lyles Movie Files",
+   "ref": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ga3RlTnJmdzQyTXZZN0UyZl92VmFJMG1vN3FoR1UxYzVwZ0JFQjFxT0hvSFA4QzA1aXQzQWlHazRCUGFxZWtiODE1cktxRWgzM1h6bGhicU1zOE9rWFRMZHdTTG5hOFBLbENzdk9MWTVZNU9lMDExWVNhMk5jUQ?oc=5"
+  },
   {
    "at": "2026-10-28T10:48:01Z",
    "kind": "catalog",
@@ -394,18 +412,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends The Incredible Hulk 6 Inch Action Figure Deluxe - Doc Samson",
    "ref": "https://cmdstore.com/products/marvel-legends-the-incredible-hulk-deluxe-doc-samson-5010996411709"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Disney+ 6 Inch Action Figure What If BAF The Watcher - Zombie Captain America (Shelf Wear packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-disney-what-if-baf-the-watcher-zombie-captain-america-5010993797295"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Infinite 6 Inch Action Figure 80 Year Anniversary - War Machine Punisher (Shelf Wear packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-infinite-80-year-anniversary-6-inch-action-figure-war-machine-punisher"
   }
  ]
 }

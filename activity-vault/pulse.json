@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-28T10:49:22Z",
+ "generated_at": "2026-10-29T11:06:22Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-10-28T10:48:11Z",
+ "last_data_change_at": "2026-10-29T11:05:14Z",
  "sources": [
   {
    "id": "commons-photo-scout",
@@ -13,8 +13,8 @@
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
    "items": 52,
-   "checked_at": "2026-10-28T10:49:22Z",
-   "last_ok_at": "2026-10-28T10:49:22Z",
+   "checked_at": "2026-10-29T11:06:22Z",
+   "last_ok_at": "2026-10-29T11:06:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-28T10:48:14Z",
-   "last_ok_at": "2026-10-28T10:48:14Z",
+   "checked_at": "2026-10-29T11:05:16Z",
+   "last_ok_at": "2026-10-29T11:05:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-10-28T10:48:12Z",
-   "last_ok_at": "2026-10-28T10:48:12Z",
+   "checked_at": "2026-10-29T11:05:15Z",
+   "last_ok_at": "2026-10-29T11:05:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-28T10:48:13Z",
-   "last_ok_at": "2026-10-28T10:48:13Z",
+   "checked_at": "2026-10-29T11:05:16Z",
+   "last_ok_at": "2026-10-29T11:05:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-28T10:48:12Z",
-   "last_ok_at": "2026-10-28T10:48:12Z",
+   "checked_at": "2026-10-29T11:05:15Z",
+   "last_ok_at": "2026-10-29T11:05:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-28T10:48:12Z",
-   "last_ok_at": "2026-10-28T10:48:12Z",
+   "checked_at": "2026-10-29T11:05:15Z",
+   "last_ok_at": "2026-10-29T11:05:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,85 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-10-28T10:48:11Z",
-   "last_ok_at": "2026-10-28T10:48:11Z",
+   "checked_at": "2026-10-29T11:05:14Z",
+   "last_ok_at": "2026-10-29T11:05:14Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-29T11:05:14Z",
+   "kind": "post",
+   "title": "Free Printable Placemats for Thanksgiving",
+   "ref": "https://www.weareteachers.com/free-printable-placemats-for-thanksgiving/?utm_source=rss&utm_medium=rss&utm_campaign=free-printable-placemats-for-thanksgiving"
+  },
+  {
+   "at": "2026-10-29T11:05:14Z",
+   "kind": "post",
+   "title": "25 Meaningful Presidents’ Day Activities for the Classroom",
+   "ref": "https://www.weareteachers.com/presidents-day-activities/?utm_source=rss&utm_medium=rss&utm_campaign=presidents-day-activities"
+  },
+  {
+   "at": "2026-10-29T11:05:15Z",
+   "kind": "post",
+   "title": "Googly Eyes Crafts & Activities for Halloween",
+   "ref": "https://handsonaswegrow.com/googly-eyes-crafts-activities-halloween/"
+  },
+  {
+   "at": "2026-10-29T11:05:16Z",
+   "kind": "post",
+   "title": "Free Printable Fun Fall Writing Prompts For Kids",
+   "ref": "https://kidsactivitiesblog.com/307982/free-printable-fun-fall-writing-prompts-for-kids/"
+  },
+  {
+   "at": "2026-10-29T11:05:16Z",
+   "kind": "post",
+   "title": "K-4th Grade Fun & Free Printable Halloween Math Worksheets",
+   "ref": "https://kidsactivitiesblog.com/60123/halloween-math-worksheets/"
+  },
+  {
+   "at": "2026-10-29T11:05:16Z",
+   "kind": "post",
+   "title": "10 Easy Preschool Science Experiments",
+   "ref": "https://kidsactivitiesblog.com/50091/preschool-science-experiments/"
+  },
+  {
+   "at": "2026-10-29T11:05:16Z",
+   "kind": "post",
+   "title": "Printable Reading Tracker – LEGO-Inspired",
+   "ref": "https://kidsactivitiesblog.com/115699/printable-reading-tracker-lego-inspired/"
+  },
+  {
+   "at": "2026-10-29T11:05:16Z",
+   "kind": "post",
+   "title": "Easy Solar System Project for Kids with Printable Planet Templates",
+   "ref": "https://kidsactivitiesblog.com/143016/solar-system-mobile-project/"
+  },
+  {
+   "at": "2026-10-29T11:05:16Z",
+   "kind": "post",
+   "title": "Easy DIY Falling Stars Glitter Jar Craft for Kids Sensory Bottle",
+   "ref": "https://kidsactivitiesblog.com/82165/falling-stars-glitter-jar/"
+  },
+  {
+   "at": "2026-10-29T11:05:16Z",
+   "kind": "post",
+   "title": "Fun and Cozy Fall Build A Scene Printable Craft",
+   "ref": "https://kidsactivitiesblog.com/308280/fun-and-cozy-fall-build-a-scene-printable-craft/"
+  },
+  {
+   "at": "2026-10-29T11:05:16Z",
+   "kind": "post",
+   "title": "46 Creative Preschool Fall Craft Ideas",
+   "ref": "https://kidsactivitiesblog.com/207541/fall-craft-activities-for-preschoolers/"
+  },
+  {
+   "at": "2026-10-29T11:05:16Z",
+   "kind": "post",
+   "title": "14 Fun Halloween Sensory Activities for Kids & Adults",
+   "ref": "https://kidsactivitiesblog.com/96014/halloween-sensory-activities/"
+  },
   {
    "at": "2026-10-28T10:48:11Z",
    "kind": "post",
@@ -373,78 +445,6 @@
    "kind": "post",
    "title": "Roll A Story: Halloween Edition",
    "ref": "https://kidsactivitiesblog.com/310882/roll-a-story-halloween-edition/"
-  },
-  {
-   "at": "2026-10-25T06:59:23Z",
-   "kind": "post",
-   "title": "Black Cat Handprint Craft For Preschoolers",
-   "ref": "https://kidsactivitiesblog.com/18891/halloween-crafts-for-kids/"
-  },
-  {
-   "at": "2026-10-25T06:59:23Z",
-   "kind": "post",
-   "title": "Free Printable Cute Spider Template",
-   "ref": "https://kidsactivitiesblog.com/285124/spider-template/"
-  },
-  {
-   "at": "2026-10-25T06:59:23Z",
-   "kind": "post",
-   "title": "Free Printable Puzzle for Kids to Celebrate Day of the Dead",
-   "ref": "https://kidsactivitiesblog.com/151575/get-these-printable-puzzles-to-celebrate-day-of-the-dead/"
-  },
-  {
-   "at": "2026-10-25T06:59:23Z",
-   "kind": "post",
-   "title": "Make an Easy Pumpkin Window Cling Craft for Halloween",
-   "ref": "https://kidsactivitiesblog.com/18519/pumpkin/"
-  },
-  {
-   "at": "2026-10-25T06:59:23Z",
-   "kind": "post",
-   "title": "Video Game Supply Drop Costume",
-   "ref": "https://kidsactivitiesblog.com/130149/video-game-supply-drop-costume/"
-  },
-  {
-   "at": "2026-10-25T06:59:23Z",
-   "kind": "post",
-   "title": "Gingerbread Playdough Recipe with Gingerbread Activities",
-   "ref": "https://kidsactivitiesblog.com/21858/christmas-preschool-craft/"
-  },
-  {
-   "at": "2026-10-25T06:59:23Z",
-   "kind": "post",
-   "title": "Homemade Christmas Ornaments Kids Can Make",
-   "ref": "https://kidsactivitiesblog.com/77922/ornaments-kids-can-make/"
-  },
-  {
-   "at": "2026-10-25T06:59:27Z",
-   "kind": "photo-candidate",
-   "title": "Two Foot Landing Pads",
-   "ref": "https://commons.wikimedia.org/wiki/File:Apollo_11_lunar_surface_panoramic_views_(S69-44463).jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:28Z",
-   "kind": "photo-candidate",
-   "title": "Eight Lights Line Up",
-   "ref": "https://commons.wikimedia.org/wiki/File:Komsomolskaya_(Koltsevaya_Line)_(19341949774).jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:29Z",
-   "kind": "photo-candidate",
-   "title": "Find a Friend Wearing",
-   "ref": "https://commons.wikimedia.org/wiki/File:This_Man_is_Your_Friend_-_He_Fights_for_Freedom_-_Canadian_-_DPLA_-_ca03838fb5f7b874dd7147553651a832.jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:31Z",
-   "kind": "photo-candidate",
-   "title": "Felt Tree, One by One",
-   "ref": "https://commons.wikimedia.org/wiki/File:Blessed_tree_(21033023751).jpg"
-  },
-  {
-   "at": "2026-10-25T06:59:33Z",
-   "kind": "photo-candidate",
-   "title": "Sun Patch, Shade Patch",
-   "ref": "https://commons.wikimedia.org/wiki/File:Lake_on_north_side_of_the_Denali_(54644198983).jpg"
   }
  ]
 }
