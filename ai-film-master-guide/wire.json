@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-30T18:01:58Z",
+ "generated_at": "2026-10-30T22:16:59Z",
  "items": [
+  {
+   "id": "hf-Smite79/MiniMax-H3-Longvideos",
+   "at": "2026-10-30T20:57:09Z",
+   "model": "Smite79/MiniMax-H3-Longvideos",
+   "title": "New text-to-video model listed on Hugging Face: Smite79/MiniMax-H3-Longvideos",
+   "url": "https://huggingface.co/Smite79/MiniMax-H3-Longvideos",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-hdae/karume-wan2.2",
+   "at": "2026-10-30T20:01:56Z",
+   "model": "hdae/karume-wan2.2",
+   "title": "New text-to-video model listed on Hugging Face: hdae/karume-wan2.2",
+   "url": "https://huggingface.co/hdae/karume-wan2.2",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-Varun95/t2v-finetune-lora",
    "at": "2026-10-30T17:30:48Z",
@@ -1478,26 +1498,6 @@
    "model": "Comfy-Org/Causal-Forcing-Framewise",
    "title": "New text-to-video model listed on Hugging Face: Comfy-Org/Causal-Forcing-Framewise",
    "url": "https://huggingface.co/Comfy-Org/Causal-Forcing-Framewise",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Comfy-Org/Bernini-R",
-   "at": "2026-10-28T02:15:03Z",
-   "model": "Comfy-Org/Bernini-R",
-   "title": "New text-to-video model listed on Hugging Face: Comfy-Org/Bernini-R",
-   "url": "https://huggingface.co/Comfy-Org/Bernini-R",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-neonforestmist/LTX_Storybook_Anime_Style_LoRa",
-   "at": "2026-10-28T02:11:44Z",
-   "model": "neonforestmist/LTX_Storybook_Anime_Style_LoRa",
-   "title": "New text-to-video model listed on Hugging Face: neonforestmist/LTX_Storybook_Anime_Style_LoRa",
-   "url": "https://huggingface.co/neonforestmist/LTX_Storybook_Anime_Style_LoRa",
    "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"
