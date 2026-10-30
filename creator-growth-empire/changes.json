@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "yt-youtube-subscriptions-are-rising-as-more-users-t-2df01e",
+   "platform": "youtube",
+   "title": "YouTube subscriptions are rising as more users turn to connected TV",
+   "summary": "<p>Ad growth slowed in the third quarter of fiscal 2026 but still brought in more than $11 billion in revenue, according to parent company Alphabet.</p>",
+   "detected_at": "2026-10-30T09:56:29Z",
+   "announced_at": "2026-10-29T23:59:56Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/youtube-subscriptions-are-rising-as-more-users-turn-to-connected-tv/873272/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/youtube-subscriptions-are-rising-as-more-users-turn-to-connected-tv/873272/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-youtube-is-testing-new-fixes-for-spam-violations-adecf9",
+   "platform": "youtube",
+   "title": "YouTube is testing new fixes for spam violations",
+   "summary": "<p>The platform is offering channels the option to review content, and edit or delete videos that may go against policy.</p>",
+   "detected_at": "2026-10-30T09:56:29Z",
+   "announced_at": "2026-10-29T22:50:17Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/youtube-is-testing-new-fixes-for-spam-violations/873269/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/youtube-is-testing-new-fixes-for-spam-violations/873269/"
+    }
+   ],
+   "category": "policy",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-instagram-is-offering-youtubers-up-to-500-000-to-1bde85",
    "platform": "youtube",
    "title": "Instagram is offering YouTubers up to $500,000 to post with its new horizontal format",
@@ -1065,7 +1103,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-30T00:53:10Z",
+ "generated_at": "2026-10-30T09:56:29Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-10-30",
  "version": "1.7.0"

@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-30T00:56:11Z",
+ "generated_at": "2026-10-30T09:58:47Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-10-30T00:56:11Z",
+ "last_data_change_at": "2026-10-30T09:58:47Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 72,
-   "checked_at": "2026-10-30T00:56:08Z",
-   "last_ok_at": "2026-10-30T00:56:08Z",
+   "items": 36,
+   "checked_at": "2026-10-30T09:58:42Z",
+   "last_ok_at": "2026-10-30T09:58:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,19 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12416,
-   "checked_at": "2026-10-30T00:56:11Z",
-   "last_ok_at": "2026-10-30T00:56:11Z",
+   "checked_at": "2026-10-30T09:58:47Z",
+   "last_ok_at": "2026-10-30T09:58:47Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-30T09:58:47Z",
+   "kind": "sale",
+   "title": "37k-Mile 2013 Audi TT Coupe Prestige Quattro",
+   "ref": "https://bringatrailer.com/listing/2013-audi-tt-2/"
+  },
   {
    "at": "2026-10-30T00:56:11Z",
    "kind": "sale",
@@ -384,12 +390,6 @@
    "kind": "sale",
    "title": "RoW 1996 Porsche 911 Turbo WLS2 Conversion",
    "ref": "https://bringatrailer.com/listing/1996-porsche-911-turbo-217/"
-  },
-  {
-   "at": "2026-10-27T08:58:16Z",
-   "kind": "sale",
-   "title": "1978 Chevrolet Corvette",
-   "ref": "https://bringatrailer.com/listing/1978-chevrolet-corvette-296/"
   }
  ]
 }

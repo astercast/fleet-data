@@ -1,7 +1,47 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-30T00:53:10Z",
+ "generated_at": "2026-10-30T09:56:29Z",
  "items": [
+  {
+   "id": "check-GPT Image 2-2026-10-30",
+   "at": "2026-10-30T09:56:10+00:00",
+   "model": "GPT Image 2",
+   "title": "GPT Image 2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://memeburn.com/chatgpt-images-2-0-launches-with-better-text/",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-serenity-base-v5-170000-bf16.safetensors-unet",
+   "at": "2026-10-30T03:54:02Z",
+   "model": "RunningHubAI/rh-serenity-base-v5-170000-bf16.safetensors-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-serenity-base-v5-170000-bf16.safetensors-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-serenity-base-v5-170000-bf16.safetensors-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ZhengmingYu/DMAD",
+   "at": "2026-10-30T03:52:10Z",
+   "model": "ZhengmingYu/DMAD",
+   "title": "New text-to-video model listed on Hugging Face: ZhengmingYu/DMAD",
+   "url": "https://huggingface.co/ZhengmingYu/DMAD",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "gh-comfyui-v0.43.2",
+   "at": "2026-10-30T01:24:06Z",
+   "model": "comfyui",
+   "title": "comfyui release: v0.43.2",
+   "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2",
+   "kind": "release",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-10-30",
    "at": "2026-10-30T00:52:02+00:00",
@@ -343,6 +383,36 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.40614v1",
+   "at": "2026-10-29T17:54:42Z",
+   "model": "",
+   "title": "New arXiv paper: L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+   "url": "http://arxiv.org/abs/2610.40614v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2610.40339v1",
+   "at": "2026-10-29T16:03:19Z",
+   "model": "",
+   "title": "New arXiv paper: Wizard: Manipulate Any World in Real Time via Agentic Control",
+   "url": "http://arxiv.org/abs/2610.40339v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2610.40191v1",
+   "at": "2026-10-29T14:47:39Z",
+   "model": "",
+   "title": "New arXiv paper: Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
+   "url": "http://arxiv.org/abs/2610.40191v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-t8star/HY-Nomas-Comfy",
    "at": "2026-10-29T14:33:04Z",
    "model": "t8star/HY-Nomas-Comfy",
@@ -433,12 +503,32 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.39846v1",
+   "at": "2026-10-29T11:25:37Z",
+   "model": "",
+   "title": "New arXiv paper: TokWatt: an open, boundary-annotated database of AI inference energy, from chat answers to agents",
+   "url": "http://arxiv.org/abs/2610.39846v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-Hearmeman/minimax-h3-loras",
    "at": "2026-10-29T10:44:16Z",
    "model": "Hearmeman/minimax-h3-loras",
    "title": "New text-to-video model listed on Hugging Face: Hearmeman/minimax-h3-loras",
    "url": "https://huggingface.co/Hearmeman/minimax-h3-loras",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2610.39619v1",
+   "at": "2026-10-29T08:47:55Z",
+   "model": "",
+   "title": "New arXiv paper: FutureWorld: A Plug-and-Play Causal Next-State Predictor for Interactive Video World Exploration",
+   "url": "http://arxiv.org/abs/2610.39619v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -473,6 +563,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.39367v1",
+   "at": "2026-10-29T04:59:21Z",
+   "model": "",
+   "title": "New arXiv paper: Utility-WAM: Correcting Future-Induced Action Changes",
+   "url": "http://arxiv.org/abs/2610.39367v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-RunningHubAI/rh-wan2.2-remix-i2v-highnoise-fp8-v3.0-unet",
    "at": "2026-10-29T04:43:02Z",
    "model": "RunningHubAI/rh-wan2.2-remix-i2v-highnoise-fp8-v3.0-unet",
@@ -499,6 +599,26 @@
    "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-10eros-v1.4-fp8mixed-learned.safetensors-unet",
    "url": "https://huggingface.co/RunningHubAI/rh-10eros-v1.4-fp8mixed-learned.safetensors-unet",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2610.39232v1",
+   "at": "2026-10-29T02:50:17Z",
+   "model": "",
+   "title": "New arXiv paper: Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling",
+   "url": "http://arxiv.org/abs/2610.39232v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2610.39179v1",
+   "at": "2026-10-29T02:07:42Z",
+   "model": "",
+   "title": "New arXiv paper: Edited Endpoints as Partial Goals for Image-to-Video Generation",
+   "url": "http://arxiv.org/abs/2610.39179v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -853,6 +973,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.38825v1",
+   "at": "2026-10-28T20:20:43Z",
+   "model": "",
+   "title": "New arXiv paper: Evaluating Visual Realism of AI-Generated Videos with Eye Tracking",
+   "url": "http://arxiv.org/abs/2610.38825v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-zero0303/ltx-2.5-mlx-dynamic-8bit",
    "at": "2026-10-28T18:49:10Z",
    "model": "zero0303/ltx-2.5-mlx-dynamic-8bit",
@@ -893,12 +1023,32 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.38467v1",
+   "at": "2026-10-28T08:43:34Z",
+   "model": "",
+   "title": "New arXiv paper: StreamStudio: Exploring Video Authoring with Streaming Autoregressive Generation",
+   "url": "http://arxiv.org/abs/2610.38467v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-Marcellus-Zhao/TTT2Reel-Wan2.2-TI2V-5B",
    "at": "2026-10-28T08:29:03Z",
    "model": "Marcellus-Zhao/TTT2Reel-Wan2.2-TI2V-5B",
    "title": "New text-to-video model listed on Hugging Face: Marcellus-Zhao/TTT2Reel-Wan2.2-TI2V-5B",
    "url": "https://huggingface.co/Marcellus-Zhao/TTT2Reel-Wan2.2-TI2V-5B",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2610.38349v1",
+   "at": "2026-10-28T06:49:44Z",
+   "model": "",
+   "title": "New arXiv paper: Aligning Misaligned Benchmarks for Single-View Novel View Synthesis",
+   "url": "http://arxiv.org/abs/2610.38349v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -1273,6 +1423,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2610.38241v1",
+   "at": "2026-10-28T03:43:19Z",
+   "model": "",
+   "title": "New arXiv paper: MEV: A Multi-Event Video Dataset for Long-Take Generation",
+   "url": "http://arxiv.org/abs/2610.38241v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-Comfy-Org/HuMo",
    "at": "2026-10-28T02:49:54Z",
    "model": "Comfy-Org/HuMo",
@@ -1333,172 +1493,12 @@
    "source": "heartbeat"
   },
   {
-   "id": "hf-ParisNeo/MiniMax-H3-FL2VA-FP8",
-   "at": "2026-10-27T20:19:48Z",
-   "model": "ParisNeo/MiniMax-H3-FL2VA-FP8",
-   "title": "New text-to-video model listed on Hugging Face: ParisNeo/MiniMax-H3-FL2VA-FP8",
-   "url": "https://huggingface.co/ParisNeo/MiniMax-H3-FL2VA-FP8",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.37566v1",
-   "at": "2026-10-27T17:12:42Z",
+   "id": "arxiv-2610.37983v1",
+   "at": "2026-10-27T21:28:33Z",
    "model": "",
-   "title": "New arXiv paper: ReferStream: Interactive Subject Injection for Streaming Video Generation",
-   "url": "http://arxiv.org/abs/2610.37566v1",
+   "title": "New arXiv paper: Hierarchical Diffusion for Camera-controlled Autoregressive Video Generation",
+   "url": "http://arxiv.org/abs/2610.37983v1",
    "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-PatiPix/FastWan2.2-TI2V-5B-GGUF",
-   "at": "2026-10-27T16:40:11Z",
-   "model": "PatiPix/FastWan2.2-TI2V-5B-GGUF",
-   "title": "New text-to-video model listed on Hugging Face: PatiPix/FastWan2.2-TI2V-5B-GGUF",
-   "url": "https://huggingface.co/PatiPix/FastWan2.2-TI2V-5B-GGUF",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.37381v1",
-   "at": "2026-10-27T15:09:10Z",
-   "model": "",
-   "title": "New arXiv paper: PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
-   "url": "http://arxiv.org/abs/2610.37381v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.37091v1",
-   "at": "2026-10-27T11:55:31Z",
-   "model": "",
-   "title": "New arXiv paper: GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation",
-   "url": "http://arxiv.org/abs/2610.37091v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-AaronHuangWei/longlive2-global-query-only-ablation",
-   "at": "2026-10-27T11:38:17Z",
-   "model": "AaronHuangWei/longlive2-global-query-only-ablation",
-   "title": "New text-to-video model listed on Hugging Face: AaronHuangWei/longlive2-global-query-only-ablation",
-   "url": "https://huggingface.co/AaronHuangWei/longlive2-global-query-only-ablation",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-cokeadrink/minimax-h3-int8-base-ref2va",
-   "at": "2026-10-27T10:32:26Z",
-   "model": "cokeadrink/minimax-h3-int8-base-ref2va",
-   "title": "New text-to-video model listed on Hugging Face: cokeadrink/minimax-h3-int8-base-ref2va",
-   "url": "https://huggingface.co/cokeadrink/minimax-h3-int8-base-ref2va",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-taurusduan/MiniMax-H3-Turbo-Lora",
-   "at": "2026-10-27T09:41:28Z",
-   "model": "taurusduan/MiniMax-H3-Turbo-Lora",
-   "title": "New text-to-video model listed on Hugging Face: taurusduan/MiniMax-H3-Turbo-Lora",
-   "url": "https://huggingface.co/taurusduan/MiniMax-H3-Turbo-Lora",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-taurusduan/MiniMax-H3-Turbo-Lora-ComfyUI",
-   "at": "2026-10-27T09:14:53Z",
-   "model": "taurusduan/MiniMax-H3-Turbo-Lora-ComfyUI",
-   "title": "New text-to-video model listed on Hugging Face: taurusduan/MiniMax-H3-Turbo-Lora-ComfyUI",
-   "url": "https://huggingface.co/taurusduan/MiniMax-H3-Turbo-Lora-ComfyUI",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.36823v1",
-   "at": "2026-10-27T08:23:30Z",
-   "model": "",
-   "title": "New arXiv paper: TAPESTRY: A Single Backbone for Video Generation and Robot Control",
-   "url": "http://arxiv.org/abs/2610.36823v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "gh-diffusers-v0.42.1",
-   "at": "2026-10-27T07:41:43Z",
-   "model": "diffusers",
-   "title": "diffusers release: v0.42.1 — fix component resolution in `from_pretrained` to prevent `trust_remote_code` bypass",
-   "url": "https://github.com/huggingface/diffusers/releases/tag/v0.42.1",
-   "kind": "release",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-wanyi2026/Minimax-H3-R2VA-Veda-Preview",
-   "at": "2026-10-27T07:13:13Z",
-   "model": "wanyi2026/Minimax-H3-R2VA-Veda-Preview",
-   "title": "New text-to-video model listed on Hugging Face: wanyi2026/Minimax-H3-R2VA-Veda-Preview",
-   "url": "https://huggingface.co/wanyi2026/Minimax-H3-R2VA-Veda-Preview",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
-   "at": "2026-10-27T04:44:33Z",
-   "model": "intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
-   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
-   "url": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
-   "at": "2026-10-27T04:44:26Z",
-   "model": "intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
-   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
-   "url": "https://huggingface.co/intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2610.36624v1",
-   "at": "2026-10-27T04:27:20Z",
-   "model": "",
-   "title": "New arXiv paper: Adapting Video Models for Robot Control via Motion-guided Asymmetric Prediction",
-   "url": "http://arxiv.org/abs/2610.36624v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "gh-comfyui-v0.43.0",
-   "at": "2026-10-27T02:40:46Z",
-   "model": "comfyui",
-   "title": "comfyui release: v0.43.0",
-   "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.0",
-   "kind": "release",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
-   "at": "2026-10-27T01:21:02Z",
-   "model": "RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
-   "url": "https://huggingface.co/RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
-   "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }

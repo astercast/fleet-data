@@ -33,6 +33,7 @@
   "RunningHubAI/rh-moss-image-int8-unet-2114276705195122689",
   "RunningHubAI/rh-pipi-anima01-unet",
   "RunningHubAI/rh-qwen-rapid-nsfw-v18-q6-k.gguf-gguf",
+  "RunningHubAI/rh-serenity-base-v5-170000-bf16.safetensors-unet",
   "RunningHubAI/rh-serenity-base-v6-210000-int8-convrot.safetensors-unet",
   "RunningHubAI/rh-wan2.2-remix-i2v-highnoise-fp8-v2.1-unet",
   "RunningHubAI/rh-wan2.2-remix-i2v-highnoise-fp8-v3.0-unet",
@@ -42,6 +43,7 @@
   "TK3105/UniAVC",
   "Tsuki0512/LTX-2-AVCReward-LoRA",
   "Wuli-art/MiniMax-H3-Turbo",
+  "ZhengmingYu/DMAD",
   "axteam/Motif-Video-2B-FP8",
   "berryber09/FastH3-OmniRef-8step-pruned-w4a8",
   "cokeadrink/fasth3-v2-native-blackwell",
@@ -135,7 +137,20 @@
   "http://arxiv.org/abs/2610.36823v1",
   "http://arxiv.org/abs/2610.37091v1",
   "http://arxiv.org/abs/2610.37381v1",
-  "http://arxiv.org/abs/2610.37566v1"
+  "http://arxiv.org/abs/2610.37566v1",
+  "http://arxiv.org/abs/2610.37983v1",
+  "http://arxiv.org/abs/2610.38241v1",
+  "http://arxiv.org/abs/2610.38349v1",
+  "http://arxiv.org/abs/2610.38467v1",
+  "http://arxiv.org/abs/2610.38825v1",
+  "http://arxiv.org/abs/2610.39179v1",
+  "http://arxiv.org/abs/2610.39232v1",
+  "http://arxiv.org/abs/2610.39367v1",
+  "http://arxiv.org/abs/2610.39619v1",
+  "http://arxiv.org/abs/2610.39846v1",
+  "http://arxiv.org/abs/2610.40191v1",
+  "http://arxiv.org/abs/2610.40339v1",
+  "http://arxiv.org/abs/2610.40614v1"
  ],
  "hn": [
   "14950122",
@@ -174,6 +189,7 @@
   "tag:github.com,2008:Repository/589831718/v0.42.4",
   "tag:github.com,2008:Repository/589831718/v0.42.5",
   "tag:github.com,2008:Repository/589831718/v0.43.0",
-  "tag:github.com,2008:Repository/589831718/v0.43.1"
+  "tag:github.com,2008:Repository/589831718/v0.43.1",
+  "tag:github.com,2008:Repository/589831718/v0.43.2"
  ]
 }

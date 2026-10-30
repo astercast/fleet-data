@@ -1,22 +1,22 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-30T00:53:10Z",
+ "generated_at": "2026-10-30T09:56:29Z",
  "stale_after_h": 26,
- "healthy": false,
- "sources_ok": 4,
+ "healthy": true,
+ "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-10-30T00:53:10Z",
+ "last_data_change_at": "2026-10-30T09:56:29Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
-   "ok": false,
-   "items": 47,
-   "checked_at": "2026-10-30T00:53:08Z",
-   "last_ok_at": "2026-10-29T18:28:07Z",
-   "error": "TimeoutError",
-   "fails_in_a_row": 1
+   "ok": true,
+   "items": 60,
+   "checked_at": "2026-10-30T09:56:27Z",
+   "last_ok_at": "2026-10-30T09:56:27Z",
+   "error": null,
+   "fails_in_a_row": 0
   },
   {
    "id": "github",
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-30T00:53:10Z",
-   "last_ok_at": "2026-10-30T00:53:10Z",
+   "checked_at": "2026-10-30T09:56:29Z",
+   "last_ok_at": "2026-10-30T09:56:29Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-10-30T00:52:05Z",
-   "last_ok_at": "2026-10-30T00:52:05Z",
+   "checked_at": "2026-10-30T09:56:27Z",
+   "last_ok_at": "2026-10-30T09:56:27Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-10-30T00:53:08Z",
-   "last_ok_at": "2026-10-30T00:53:08Z",
+   "checked_at": "2026-10-30T09:56:27Z",
+   "last_ok_at": "2026-10-30T09:56:27Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,115 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-10-30T00:52:05Z",
-   "last_ok_at": "2026-10-30T00:52:05Z",
+   "checked_at": "2026-10-30T09:56:27Z",
+   "last_ok_at": "2026-10-30T09:56:27Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "price-signal",
+   "title": "GPT Image 2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "ref": "https://memeburn.com/chatgpt-images-2-0-launches-with-better-text/"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-serenity-base-v5-170000-bf16.safetensors-unet",
+   "ref": "https://huggingface.co/RunningHubAI/rh-serenity-base-v5-170000-bf16.safetensors-unet"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ZhengmingYu/DMAD",
+   "ref": "https://huggingface.co/ZhengmingYu/DMAD"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+   "ref": "http://arxiv.org/abs/2610.40614v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Wizard: Manipulate Any World in Real Time via Agentic Control",
+   "ref": "http://arxiv.org/abs/2610.40339v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
+   "ref": "http://arxiv.org/abs/2610.40191v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: TokWatt: an open, boundary-annotated database of AI inference energy, from chat answers to agents",
+   "ref": "http://arxiv.org/abs/2610.39846v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: FutureWorld: A Plug-and-Play Causal Next-State Predictor for Interactive Video World Exploration",
+   "ref": "http://arxiv.org/abs/2610.39619v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Utility-WAM: Correcting Future-Induced Action Changes",
+   "ref": "http://arxiv.org/abs/2610.39367v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling",
+   "ref": "http://arxiv.org/abs/2610.39232v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Edited Endpoints as Partial Goals for Image-to-Video Generation",
+   "ref": "http://arxiv.org/abs/2610.39179v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Evaluating Visual Realism of AI-Generated Videos with Eye Tracking",
+   "ref": "http://arxiv.org/abs/2610.38825v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: StreamStudio: Exploring Video Authoring with Streaming Autoregressive Generation",
+   "ref": "http://arxiv.org/abs/2610.38467v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Aligning Misaligned Benchmarks for Single-View Novel View Synthesis",
+   "ref": "http://arxiv.org/abs/2610.38349v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: MEV: A Multi-Event Video Dataset for Long-Take Generation",
+   "ref": "http://arxiv.org/abs/2610.38241v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Hierarchical Diffusion for Camera-controlled Autoregressive Video Generation",
+   "ref": "http://arxiv.org/abs/2610.37983v1"
+  },
+  {
+   "at": "2026-10-30T09:56:29Z",
+   "kind": "release",
+   "title": "comfyui release: v0.43.2",
+   "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2"
+  },
   {
    "at": "2026-10-30T00:53:10Z",
    "kind": "price-signal",
@@ -321,54 +423,6 @@
    "kind": "new-model",
    "title": "New text-to-video model listed on Hugging Face: zjwfufu/SMD-Wan2.1-1.3B",
    "ref": "https://huggingface.co/zjwfufu/SMD-Wan2.1-1.3B"
-  },
-  {
-   "at": "2026-10-29T18:28:10Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Hearmeman/minimax-h3-loras",
-   "ref": "https://huggingface.co/Hearmeman/minimax-h3-loras"
-  },
-  {
-   "at": "2026-10-29T09:52:15Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: axteam/Motif-Video-2B-FP8",
-   "ref": "https://huggingface.co/axteam/Motif-Video-2B-FP8"
-  },
-  {
-   "at": "2026-10-29T09:52:15Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: cortex-ai-nova/Airy-Video-2.7",
-   "ref": "https://huggingface.co/cortex-ai-nova/Airy-Video-2.7"
-  },
-  {
-   "at": "2026-10-29T09:52:15Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-moss-image-base-bf16.safetensors-unet",
-   "ref": "https://huggingface.co/RunningHubAI/rh-moss-image-base-bf16.safetensors-unet"
-  },
-  {
-   "at": "2026-10-29T09:52:15Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-wan2.2-remix-i2v-highnoise-fp8-v3.0-unet",
-   "ref": "https://huggingface.co/RunningHubAI/rh-wan2.2-remix-i2v-highnoise-fp8-v3.0-unet"
-  },
-  {
-   "at": "2026-10-29T09:52:15Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-wan2.2-remix-i2v-highnoise-fp8-v2.1-unet",
-   "ref": "https://huggingface.co/RunningHubAI/rh-wan2.2-remix-i2v-highnoise-fp8-v2.1-unet"
-  },
-  {
-   "at": "2026-10-29T09:52:15Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-10eros-v1.4-fp8mixed-learned.safetensors-unet",
-   "ref": "https://huggingface.co/RunningHubAI/rh-10eros-v1.4-fp8mixed-learned.safetensors-unet"
-  },
-  {
-   "at": "2026-10-29T09:52:15Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-qwen-rapid-nsfw-v18-q6-k.gguf-gguf",
-   "ref": "https://huggingface.co/RunningHubAI/rh-qwen-rapid-nsfw-v18-q6-k.gguf-gguf"
   }
  ]
 }
