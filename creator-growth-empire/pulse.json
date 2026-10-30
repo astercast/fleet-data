@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-30T09:56:32Z",
+ "generated_at": "2026-10-30T18:02:00Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-10-30T09:56:30Z",
+ "last_data_change_at": "2026-10-30T18:01:59Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-30T09:56:30Z",
-   "last_ok_at": "2026-10-30T09:56:30Z",
+   "checked_at": "2026-10-30T18:01:59Z",
+   "last_ok_at": "2026-10-30T18:01:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-30T09:56:30Z",
-   "last_ok_at": "2026-10-30T09:56:30Z",
+   "checked_at": "2026-10-30T18:01:59Z",
+   "last_ok_at": "2026-10-30T18:01:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-10-30T09:56:31Z",
-   "last_ok_at": "2026-10-30T09:56:31Z",
+   "checked_at": "2026-10-30T18:01:59Z",
+   "last_ok_at": "2026-10-30T18:01:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-30T09:56:30Z",
-   "last_ok_at": "2026-10-30T09:56:30Z",
+   "checked_at": "2026-10-30T18:01:59Z",
+   "last_ok_at": "2026-10-30T18:01:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-30T09:56:30Z",
-   "last_ok_at": "2026-10-30T09:56:30Z",
+   "checked_at": "2026-10-30T18:01:59Z",
+   "last_ok_at": "2026-10-30T18:01:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-10-30T09:56:30Z",
+   "checked_at": "2026-10-30T18:01:58Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 21
+   "fails_in_a_row": 22
   },
   {
    "id": "ypp-help",
@@ -79,13 +79,25 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-10-30T09:56:32Z",
-   "last_ok_at": "2026-10-30T09:56:32Z",
+   "checked_at": "2026-10-30T18:02:00Z",
+   "last_ok_at": "2026-10-30T18:02:00Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-30T18:01:59Z",
+   "kind": "change",
+   "title": "YouTube subscriptions are rising as more users turn to CTV",
+   "ref": "https://www.socialmediatoday.com/news/youtube-subscriptions-are-rising-as-more-users-turn-to-ctv/873272/"
+  },
+  {
+   "at": "2026-10-30T18:02:00Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
   {
    "at": "2026-10-30T09:56:30Z",
    "kind": "change",
@@ -97,12 +109,6 @@
    "kind": "change",
    "title": "YouTube is testing new fixes for spam violations",
    "ref": "https://www.socialmediatoday.com/news/youtube-is-testing-new-fixes-for-spam-violations/873269/"
-  },
-  {
-   "at": "2026-10-30T09:56:32Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
   },
   {
    "at": "2026-10-30T00:53:11Z",
