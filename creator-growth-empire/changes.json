@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "yt-instagram-is-offering-youtubers-up-to-500-000-to-1bde85",
+   "platform": "youtube",
+   "title": "Instagram is offering YouTubers up to $500,000 to post with its new horizontal format",
+   "summary": "Instagram isn’t just chasing YouTube‘s TV watch time and ad revenue–it’s chasing its talent, too. The Meta-owned platform has offered to pay some YouTubers up to $500,000 to post videos with its newly announced long-form horizontal format “Features.” According to Business Insider, Instagram has approached “select” YouTubers with a floor price of $50,000; others have […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-10-30T00:53:10Z",
+   "announced_at": "2026-10-29T23:56:56Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/29/instagram-offering-youtubers-new-features-format/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/29/instagram-offering-youtubers-new-features-format/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "tt-the-magic-and-brands-of-disney-are-coming-to-tik-98fa50",
+   "platform": "tiktok",
+   "title": "The magic (and brands) of Disney are coming to TikTok Shop this holiday season",
+   "summary": "To attract more shoppers during the upcoming holiday season, TikTok is turning to the second-most valuable entertainment company in the world. I'm talking about Disney, which will promote items on TikTok Shop as part of a week-long activation on the ecommerce platform. To up its presence on TikTok Shop, Disney will take advantage of Super Brand Days, a campaign format that combines advertising, creator content, and TikTok Shop listings to drive sales. Other brands expected to participate in Supe",
+   "detected_at": "2026-10-30T00:53:10Z",
+   "announced_at": "2026-10-29T20:46:17Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/29/disney-tiktok-shop-super-brand-days-holiday-season/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/29/disney-tiktok-shop-super-brand-days-holiday-season/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "cw-reddit-introduces-for-you-feed-dc4490",
    "platform": "other",
    "title": "Reddit introduces For You feed",
@@ -1027,8 +1065,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-29T09:52:15Z",
+ "generated_at": "2026-10-30T00:53:10Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "version": "1.7.0"
 }

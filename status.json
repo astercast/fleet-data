@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-10-29T18:30:34Z",
+ "generated_at": "2026-10-30T00:56:15Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -10,26 +10,26 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "0.1 h old, limit 14 h"
     ],
     [
      "sources",
-     "ok",
-     "all ok"
+     "warn",
+     "down: arxiv"
     ],
     [
      "site",
      "ok",
-     "273 ms"
+     "72 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 0.1,
+   "changed_age_h": 0.1,
    "sources": [
     {
      "id": "arxiv",
-     "ok": true,
-     "fails": 0,
+     "ok": false,
+     "fails": 1,
      "items": 47
     },
     {
@@ -57,7 +57,7 @@
      "items": 44
     }
    ],
-   "state": "ok"
+   "state": "warn"
   },
   {
    "site": "marvel-legends-chronicle",
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "7.4 h old, limit 50 h"
+     "13.9 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,11 +77,11 @@
     [
      "site",
      "ok",
-     "629 ms"
+     "146 ms"
     ]
    ],
-   "data_age_h": 7.4,
-   "changed_age_h": 7.4,
+   "data_age_h": 13.9,
+   "changed_age_h": 13.9,
    "sources": [
     {
      "id": "cmdstore",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "7.4 h old, limit 50 h"
+     "13.8 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "475 ms"
+     "136 ms"
     ]
    ],
-   "data_age_h": 7.4,
+   "data_age_h": 13.8,
    "changed_age_h": null,
    "sources": [
     {
@@ -178,11 +178,11 @@
     [
      "site",
      "ok",
-     "388 ms"
+     "169 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "changed_age_h": 0.1,
    "sources": [
     {
      "id": "meta-newsroom",
@@ -217,7 +217,7 @@
     {
      "id": "youtube-blog",
      "ok": false,
-     "fails": 19,
+     "fails": 20,
      "items": 0
     },
     {
@@ -247,7 +247,7 @@
     [
      "site",
      "ok",
-     "275 ms"
+     "29 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -256,7 +256,7 @@
     {
      "id": "board",
      "ok": false,
-     "fails": 19,
+     "fails": 20,
      "items": 0
     },
     {
@@ -269,7 +269,7 @@
      "id": "lane-charts",
      "ok": true,
      "fails": 0,
-     "items": 20
+     "items": 30
     },
     {
      "id": "lane-gtrends",
@@ -340,19 +340,19 @@
     {
      "id": "lane-tiktok",
      "ok": false,
-     "fails": 19,
+     "fails": 20,
      "items": 0
     },
     {
      "id": "lane-wiki",
      "ok": true,
      "fails": 0,
-     "items": 15
+     "items": 0
     },
     {
      "id": "lane-x",
      "ok": false,
-     "fails": 19,
+     "fails": 20,
      "items": 0
     },
     {
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "7.4 h old, limit 50 h"
+     "13.8 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "629 ms"
+     "187 ms"
     ]
    ],
-   "data_age_h": 7.4,
-   "changed_age_h": 7.4,
+   "data_age_h": 13.8,
+   "changed_age_h": 13.8,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "7.4 h old, limit 50 h"
+     "13.8 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "349 ms"
+     "251 ms"
     ]
    ],
-   "data_age_h": 7.4,
+   "data_age_h": 13.8,
    "changed_age_h": null,
    "sources": [
     {
@@ -496,7 +496,7 @@
     [
      "site",
      "ok",
-     "587 ms"
+     "161 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "352 ms"
+     "153 ms"
     ]
    ],
    "state": "ok"
@@ -548,7 +548,7 @@
     [
      "site",
      "ok",
-     "390 ms"
+     "165 ms"
     ],
     [
      "health",
@@ -557,7 +557,7 @@
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 17.6,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "liquipedia",
@@ -591,7 +591,7 @@
     [
      "site",
      "ok",
-     "357 ms"
+     "139 ms"
     ]
    ],
    "data_age_h": 0.0,

@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-29T18:30:27Z",
+ "generated_at": "2026-10-30T00:56:11Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-10-29T18:30:27Z",
+ "last_data_change_at": "2026-10-30T00:56:11Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 72,
-   "checked_at": "2026-10-29T18:30:23Z",
-   "last_ok_at": "2026-10-29T18:30:23Z",
+   "checked_at": "2026-10-30T00:56:08Z",
+   "last_ok_at": "2026-10-30T00:56:08Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,55 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12416,
-   "checked_at": "2026-10-29T18:30:27Z",
-   "last_ok_at": "2026-10-29T18:30:27Z",
+   "checked_at": "2026-10-30T00:56:11Z",
+   "last_ok_at": "2026-10-30T00:56:11Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-30T00:56:11Z",
+   "kind": "sale",
+   "title": "3.8L-Powered, RoW 1994 Porsche 911 Carrera 2 Coupe RSR Tribute",
+   "ref": "https://bringatrailer.com/listing/1994-porsche-911-carrera-2-coupe-13/"
+  },
+  {
+   "at": "2026-10-30T00:56:11Z",
+   "kind": "sale",
+   "title": "12k-Mile 2008 Aston Martin V8 Vantage Roadster",
+   "ref": "https://bringatrailer.com/listing/2008-aston-martin-v8-vantage-roadster-71/"
+  },
+  {
+   "at": "2026-10-30T00:56:11Z",
+   "kind": "sale",
+   "title": "2005 Saab 9-3 Aero Convertible",
+   "ref": "https://bringatrailer.com/listing/2005-saab-9-3-25/"
+  },
+  {
+   "at": "2026-10-30T00:56:11Z",
+   "kind": "sale",
+   "title": "1968 Chevrolet Corvette Convertible L89 427/435 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1968-chevrolet-corvette-convertible-113/"
+  },
+  {
+   "at": "2026-10-30T00:56:11Z",
+   "kind": "sale",
+   "title": "JDM 1993 Toyota Supra RZ Turbo",
+   "ref": "https://bringatrailer.com/listing/1993-toyota-supra-196/"
+  },
+  {
+   "at": "2026-10-30T00:56:11Z",
+   "kind": "sale",
+   "title": "50k-Mile 1990 Jeep Grand Wagoneer",
+   "ref": "https://bringatrailer.com/listing/1990-jeep-grand-wagoneer-137/"
+  },
+  {
+   "at": "2026-10-30T00:56:11Z",
+   "kind": "sale",
+   "title": "2003 GMC Yukon Denali",
+   "ref": "https://bringatrailer.com/listing/2003-gmc-yukon-25/"
+  },
   {
    "at": "2026-10-29T18:30:27Z",
    "kind": "sale",
@@ -348,48 +390,6 @@
    "kind": "sale",
    "title": "1978 Chevrolet Corvette",
    "ref": "https://bringatrailer.com/listing/1978-chevrolet-corvette-296/"
-  },
-  {
-   "at": "2026-10-27T08:58:16Z",
-   "kind": "sale",
-   "title": "1994 Toyota Land Cruiser FZJ80",
-   "ref": "https://bringatrailer.com/listing/1994-toyota-land-cruiser-fzj80-158/"
-  },
-  {
-   "at": "2026-10-27T08:58:16Z",
-   "kind": "sale",
-   "title": "1997 Land Rover Defender 90 NAS",
-   "ref": "https://bringatrailer.com/listing/1997-land-rover-defender-90-nas-196/"
-  },
-  {
-   "at": "2026-10-27T08:58:16Z",
-   "kind": "sale",
-   "title": "27k-Mile 2017 Porsche 911 Targa 4",
-   "ref": "https://bringatrailer.com/listing/2017-porsche-911-targa-4-8/"
-  },
-  {
-   "at": "2026-10-27T08:58:16Z",
-   "kind": "sale",
-   "title": "Original-Owner 2004 Chevrolet Silverado 1500 LS",
-   "ref": "https://bringatrailer.com/listing/2004-chevrolet-silverado-1500-54/"
-  },
-  {
-   "at": "2026-10-27T00:26:25Z",
-   "kind": "sale",
-   "title": "41-Years-Family-Owned, LS3-Powered 1967 Chevrolet Camaro Coupe 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1967-chevrolet-camaro-547/"
-  },
-  {
-   "at": "2026-10-27T00:26:25Z",
-   "kind": "sale",
-   "title": "11k-Mile 2001 Dodge Viper GTS",
-   "ref": "https://bringatrailer.com/listing/2001-dodge-viper-gts-56/"
-  },
-  {
-   "at": "2026-10-27T00:26:25Z",
-   "kind": "sale",
-   "title": "351-Powered 1974 Ford Bronco 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1974-ford-bronco-405/"
   }
  ]
 }
