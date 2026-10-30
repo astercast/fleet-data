@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-29T11:05:12Z",
+ "generated_at": "2026-10-30T11:01:06Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-10-29T11:05:12Z",
+ "last_data_change_at": "2026-10-30T11:01:06Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 61,
-   "checked_at": "2026-10-29T11:05:08Z",
-   "last_ok_at": "2026-10-29T11:05:08Z",
+   "checked_at": "2026-10-30T11:01:01Z",
+   "last_ok_at": "2026-10-30T11:01:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "items": 100,
-   "checked_at": "2026-10-29T11:05:12Z",
-   "last_ok_at": "2026-10-29T11:05:12Z",
+   "checked_at": "2026-10-30T11:01:06Z",
+   "last_ok_at": "2026-10-30T11:01:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-10-29T11:05:12Z",
-   "last_ok_at": "2026-10-29T11:05:12Z",
+   "checked_at": "2026-10-30T11:01:06Z",
+   "last_ok_at": "2026-10-30T11:01:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -45,14 +45,32 @@
    "label": "ToyArena catalog",
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
-   "items": 47,
-   "checked_at": "2026-10-29T11:05:12Z",
-   "last_ok_at": "2026-10-29T11:05:12Z",
+   "items": 48,
+   "checked_at": "2026-10-30T11:01:06Z",
+   "last_ok_at": "2026-10-30T11:01:06Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-30T11:01:06Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends The Amazing Spider-Man (Marvel Holiday Special) Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-the-amazing-spider-man-marvel-holiday-special-action-figure"
+  },
+  {
+   "at": "2026-10-30T11:01:06Z",
+   "kind": "story",
+   "title": "'Avengers: Doomsday' merch has dropped ahead of the movie's release: See the best finds, including action figures and LEGO sets - 6abc Philadelphia",
+   "ref": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajFVUHV5ekZNZC05Q3hvMnMzMXBwUXJrN3I2d3hIdkNtUkQ2SnZpOHNObmhyMGN0aDRBb01XMVNPdlFEN1F1QWs2NXFIUFJfTnlfWm5CTmR2ektDOE0xUnlqcjBvM1dmdzhSd05DZlVMd2I2MnBxeXgyTEZiZmtYS1hwalVGMjR1eHRQUWZmZ2lnbUFnNGhteG9KbmF5SFlhTmg2QWVtZkppM3F3c3ItMlJFQnlwd1VMaWNOUndBN00wNVJacjd6bGMtRHBnajM3MHpKV9IB2gFBVV95cUxOVTRDMEFiU21BN1YwSm1rZHhPVXQzMERnUjhQbXdsQXVGdmpjaUFFeEhOb2o2Xy1KTExoeHFRVEQ4WTVTSXcwUHFvZElFLXduUTRRSTdmR1NETmc0b1FNU1hlOWVvOFdGN205VDBfX2F4OEJkTGZObm9RcU9QWjhCZVoxVDlBMnFHSjNNbjVtOGl0X2FOdDFwdUZiUDdyNWU3N0thMWk5RDFFdW8wQW9yR1pfRGVKeHF5LW52THJpdVpocG1YdVdWNmE1X00zMW80RG1hTW1MZHBHQQ?oc=5"
+  },
+  {
+   "at": "2026-10-30T11:01:06Z",
+   "kind": "story",
+   "title": "X-Force Deadpool Returns with New Marvel Legends Concept Figure - Bleeding Cool News",
+   "ref": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVm9UMS1OdnFtQnd4WFZNeVJ6aXRsVW9nSGZPNUQtZzU4RzhyNjNaWThkRXZPYnVEeHBubWlqTmpmTktvcWlaY2IyMGZRVUZvRlAtekV6R0NxTDcxSzNBZ0VURjEzMHNsSVdrTWVMcWJFLThtblU5ajROX29SdTV4elh2T01DMVJGLTlUUVBQS3J0U3B1d3pOVzR2S0dJLTVjVlY3MA?oc=5"
+  },
   {
    "at": "2026-10-29T11:05:12Z",
    "kind": "story",
@@ -394,24 +412,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends 6 Inch Action Figure Series 5 - Red Skull",
    "ref": "https://cmdstore.com/products/marvel-legends-action-figures-series-5-red-skull"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Marvel's Mysterio Immersive Illusions",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-marvel-s-mysterio-5010996323101"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Spider-Man No Way Home 6 Inch Action Figure Deluxe - Green Goblin",
-   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-no-way-home-deluxe-green-goblin-5010996352378"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends The Incredible Hulk 6 Inch Action Figure Deluxe - Doc Samson",
-   "ref": "https://cmdstore.com/products/marvel-legends-the-incredible-hulk-deluxe-doc-samson-5010996411709"
   }
  ]
 }

@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-29T11:06:22Z",
+ "generated_at": "2026-10-30T11:02:17Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-10-29T11:05:14Z",
+ "last_data_change_at": "2026-10-30T11:01:08Z",
  "sources": [
   {
    "id": "commons-photo-scout",
@@ -13,8 +13,8 @@
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
    "items": 52,
-   "checked_at": "2026-10-29T11:06:22Z",
-   "last_ok_at": "2026-10-29T11:06:22Z",
+   "checked_at": "2026-10-30T11:02:17Z",
+   "last_ok_at": "2026-10-30T11:02:17Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-29T11:05:16Z",
-   "last_ok_at": "2026-10-29T11:05:16Z",
+   "checked_at": "2026-10-30T11:01:09Z",
+   "last_ok_at": "2026-10-30T11:01:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-10-29T11:05:15Z",
-   "last_ok_at": "2026-10-29T11:05:15Z",
+   "checked_at": "2026-10-30T11:01:09Z",
+   "last_ok_at": "2026-10-30T11:01:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-29T11:05:16Z",
-   "last_ok_at": "2026-10-29T11:05:16Z",
+   "checked_at": "2026-10-30T11:01:09Z",
+   "last_ok_at": "2026-10-30T11:01:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-29T11:05:15Z",
-   "last_ok_at": "2026-10-29T11:05:15Z",
+   "checked_at": "2026-10-30T11:01:09Z",
+   "last_ok_at": "2026-10-30T11:01:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-29T11:05:15Z",
-   "last_ok_at": "2026-10-29T11:05:15Z",
+   "checked_at": "2026-10-30T11:01:09Z",
+   "last_ok_at": "2026-10-30T11:01:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,31 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-10-29T11:05:14Z",
-   "last_ok_at": "2026-10-29T11:05:14Z",
+   "checked_at": "2026-10-30T11:01:08Z",
+   "last_ok_at": "2026-10-30T11:01:08Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-30T11:01:08Z",
+   "kind": "post",
+   "title": "100+ Corny Thanksgiving Jokes for Kids (Plus Free Slides)",
+   "ref": "https://www.weareteachers.com/thanksgiving-jokes-for-kids/?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-jokes-for-kids"
+  },
+  {
+   "at": "2026-10-30T11:01:09Z",
+   "kind": "post",
+   "title": "Classic Glittery Christmas Stocking Craft",
+   "ref": "https://handsonaswegrow.com/christmas-stocking-craft/"
+  },
+  {
+   "at": "2026-10-30T11:01:09Z",
+   "kind": "post",
+   "title": "Thanksgiving Family Games: 6 Fun Printable Party Games",
+   "ref": "https://teachbesideme.com/thanksgiving-family-games-6-fun-printable-party-games/"
+  },
   {
    "at": "2026-10-29T11:05:14Z",
    "kind": "post",
@@ -427,24 +445,6 @@
    "kind": "post",
    "title": "Easy Thanksgiving Art Projects for Kids",
    "ref": "https://littlebinsforlittlehands.com/thanksgiving-crafts-for-kids/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Bubbling Halloween Slime Recipe (Witch’s Brew)",
-   "ref": "https://littlebinsforlittlehands.com/bubbling-halloween-slime/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Candy Catapult For Halloween STEM",
-   "ref": "https://littlebinsforlittlehands.com/halloween-popsicle-stick-catapult-stem-activity/"
-  },
-  {
-   "at": "2026-10-25T06:59:23Z",
-   "kind": "post",
-   "title": "Roll A Story: Halloween Edition",
-   "ref": "https://kidsactivitiesblog.com/310882/roll-a-story-halloween-edition/"
   }
  ]
 }

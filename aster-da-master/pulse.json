@@ -1,6 +1,6 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-29T11:05:13Z",
+ "generated_at": "2026-10-30T11:01:08Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 3,
@@ -13,8 +13,8 @@
    "url": "https://www.deezer.com/artist/66649262",
    "ok": true,
    "items": 25,
-   "checked_at": "2026-10-29T11:05:13Z",
-   "last_ok_at": "2026-10-29T11:05:13Z",
+   "checked_at": "2026-10-30T11:01:08Z",
+   "last_ok_at": "2026-10-30T11:01:08Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://soundcloud.com/asterdamaster",
    "ok": true,
    "items": 185,
-   "checked_at": "2026-10-29T11:05:12Z",
-   "last_ok_at": "2026-10-29T11:05:12Z",
+   "checked_at": "2026-10-30T11:01:07Z",
+   "last_ok_at": "2026-10-30T11:01:07Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://soundcloud.com/asterdamaster",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-10-29T11:05:13Z",
-   "last_ok_at": "2026-10-29T11:05:13Z",
+   "checked_at": "2026-10-30T11:01:07Z",
+   "last_ok_at": "2026-10-30T11:01:07Z",
    "error": null,
    "fails_in_a_row": 0
   }
