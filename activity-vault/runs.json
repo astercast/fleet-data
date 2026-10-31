@@ -1,10 +1,10 @@
 {
- "at": "2026-10-30T11:02:17Z",
+ "at": "2026-10-31T10:36:20Z",
  "runs": [
   {
    "collector": "scripts/heartbeat/vault.py",
    "ok": true,
-   "seconds": 69.0,
+   "seconds": 65.2,
    "error": null
   }
  ]

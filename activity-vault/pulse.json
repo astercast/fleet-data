@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-30T11:02:17Z",
+ "generated_at": "2026-10-31T10:36:20Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-10-30T11:01:08Z",
+ "last_data_change_at": "2026-10-31T10:35:17Z",
  "sources": [
   {
    "id": "commons-photo-scout",
@@ -13,8 +13,8 @@
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
    "items": 52,
-   "checked_at": "2026-10-30T11:02:17Z",
-   "last_ok_at": "2026-10-30T11:02:17Z",
+   "checked_at": "2026-10-31T10:36:20Z",
+   "last_ok_at": "2026-10-31T10:36:20Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-30T11:01:09Z",
-   "last_ok_at": "2026-10-30T11:01:09Z",
+   "checked_at": "2026-10-31T10:35:18Z",
+   "last_ok_at": "2026-10-31T10:35:18Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-10-30T11:01:09Z",
-   "last_ok_at": "2026-10-30T11:01:09Z",
+   "checked_at": "2026-10-31T10:35:16Z",
+   "last_ok_at": "2026-10-31T10:35:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-30T11:01:09Z",
-   "last_ok_at": "2026-10-30T11:01:09Z",
+   "checked_at": "2026-10-31T10:35:18Z",
+   "last_ok_at": "2026-10-31T10:35:18Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-30T11:01:09Z",
-   "last_ok_at": "2026-10-30T11:01:09Z",
+   "checked_at": "2026-10-31T10:35:17Z",
+   "last_ok_at": "2026-10-31T10:35:17Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-30T11:01:09Z",
-   "last_ok_at": "2026-10-30T11:01:09Z",
+   "checked_at": "2026-10-31T10:35:16Z",
+   "last_ok_at": "2026-10-31T10:35:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,19 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-10-30T11:01:08Z",
-   "last_ok_at": "2026-10-30T11:01:08Z",
+   "checked_at": "2026-10-31T10:35:15Z",
+   "last_ok_at": "2026-10-31T10:35:15Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-31T10:35:17Z",
+   "kind": "post",
+   "title": "Free Printable Thanksgiving Activities for Kids",
+   "ref": "https://littlebinsforlittlehands.com/thanksgiving-printable-counting-activity/"
+  },
   {
    "at": "2026-10-30T11:01:08Z",
    "kind": "post",
@@ -439,12 +445,6 @@
    "kind": "post",
    "title": "Disguise a Turkey Printable Craft for Kids",
    "ref": "https://littlebinsforlittlehands.com/turkey-disguise-printable/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Easy Thanksgiving Art Projects for Kids",
-   "ref": "https://littlebinsforlittlehands.com/thanksgiving-crafts-for-kids/"
   }
  ]
 }

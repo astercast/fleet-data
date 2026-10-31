@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-30T11:01:06Z",
+ "generated_at": "2026-10-31T10:35:14Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-10-30T11:01:06Z",
+ "last_data_change_at": "2026-10-31T10:35:14Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 61,
-   "checked_at": "2026-10-30T11:01:01Z",
-   "last_ok_at": "2026-10-30T11:01:01Z",
+   "checked_at": "2026-10-31T10:35:06Z",
+   "last_ok_at": "2026-10-31T10:35:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "items": 100,
-   "checked_at": "2026-10-30T11:01:06Z",
-   "last_ok_at": "2026-10-30T11:01:06Z",
+   "checked_at": "2026-10-31T10:35:14Z",
+   "last_ok_at": "2026-10-31T10:35:14Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-10-30T11:01:06Z",
-   "last_ok_at": "2026-10-30T11:01:06Z",
+   "checked_at": "2026-10-31T10:35:14Z",
+   "last_ok_at": "2026-10-31T10:35:14Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,19 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 48,
-   "checked_at": "2026-10-30T11:01:06Z",
-   "last_ok_at": "2026-10-30T11:01:06Z",
+   "checked_at": "2026-10-31T10:35:13Z",
+   "last_ok_at": "2026-10-31T10:35:13Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-31T10:35:14Z",
+   "kind": "story",
+   "title": "Hasbro Unveils Epic New MARVEL LEGENDS x MAGIC: THE GATHERING Collaboration - Get Your Comic On",
+   "ref": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVVpRZ1hVZFo2R3h3ZWVZQjkxMktXWEpzU2lTbFJxZlFHTWtNaVp4WkY3NDZub0MxQU95bmJqMWFxc1JyYmluemQyR0Fzd0pqd01kcHdMSURWaDJVOHd4UkNGYmt4Q3BTZ0x5ekJOUnR0cDNqZmJCcXBFSWVZcXdnOFJfakJTRzVDMXBMLXBaTkFoSGQ2ZXN4dlJfdnlDWjN4bG9kYWNhdG1nUElRYnFONUZXam45VmdWYVRvNQ?oc=5"
+  },
   {
    "at": "2026-10-30T11:01:06Z",
    "kind": "catalog",
@@ -406,12 +412,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends 6 Inch Action Figure Apocalypse Series - Wolverine Unmasked Variant",
    "ref": "https://cmdstore.com/products/marvel-legends-action-figures-series-12-wolverine-variant"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends 6 Inch Action Figure Series 5 - Red Skull",
-   "ref": "https://cmdstore.com/products/marvel-legends-action-figures-series-5-red-skull"
   }
  ]
 }
