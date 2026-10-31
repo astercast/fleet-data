@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-31T05:25:38Z",
+ "generated_at": "2026-10-31T12:14:35Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-10-31T05:25:38Z",
+ "last_data_change_at": "2026-10-31T12:14:35Z",
  "sources": [
   {
    "id": "arxiv",
@@ -13,8 +13,8 @@
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-10-31T05:25:36Z",
-   "last_ok_at": "2026-10-31T05:25:36Z",
+   "checked_at": "2026-10-31T12:14:34Z",
+   "last_ok_at": "2026-10-31T12:14:34Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-31T05:25:38Z",
-   "last_ok_at": "2026-10-31T05:25:38Z",
+   "checked_at": "2026-10-31T12:14:35Z",
+   "last_ok_at": "2026-10-31T12:14:35Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-10-31T05:25:36Z",
-   "last_ok_at": "2026-10-31T05:25:36Z",
+   "checked_at": "2026-10-31T12:14:33Z",
+   "last_ok_at": "2026-10-31T12:14:33Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-10-31T05:25:36Z",
-   "last_ok_at": "2026-10-31T05:25:36Z",
+   "checked_at": "2026-10-31T12:14:34Z",
+   "last_ok_at": "2026-10-31T12:14:34Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,25 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-10-31T05:25:36Z",
-   "last_ok_at": "2026-10-31T05:25:36Z",
+   "checked_at": "2026-10-31T12:14:33Z",
+   "last_ok_at": "2026-10-31T12:14:33Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-31T12:14:35Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: PrometheusEXE/MiniMax-H3-PTD-LoRAs",
+   "ref": "https://huggingface.co/PrometheusEXE/MiniMax-H3-PTD-LoRAs"
+  },
+  {
+   "at": "2026-10-31T12:14:35Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ddlara01/ultima-releases",
+   "ref": "https://huggingface.co/ddlara01/ultima-releases"
+  },
   {
    "at": "2026-10-31T05:25:38Z",
    "kind": "price-signal",

@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-10-31T05:25:38Z",
+ "generated_at": "2026-10-31T12:14:35Z",
  "items": [
+  {
+   "id": "hf-PrometheusEXE/MiniMax-H3-PTD-LoRAs",
+   "at": "2026-10-31T08:27:03Z",
+   "model": "PrometheusEXE/MiniMax-H3-PTD-LoRAs",
+   "title": "New text-to-video model listed on Hugging Face: PrometheusEXE/MiniMax-H3-PTD-LoRAs",
+   "url": "https://huggingface.co/PrometheusEXE/MiniMax-H3-PTD-LoRAs",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ddlara01/ultima-releases",
+   "at": "2026-10-31T06:12:41Z",
+   "model": "ddlara01/ultima-releases",
+   "title": "New text-to-video model listed on Hugging Face: ddlara01/ultima-releases",
+   "url": "https://huggingface.co/ddlara01/ultima-releases",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-10-31",
    "at": "2026-10-31T05:25:32+00:00",
@@ -1478,26 +1498,6 @@
    "model": "Runway Act-Two",
    "title": "Runway Act-Two: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://aivideos.eu/blog/runway-act-one-vs-heygen-ai-actor-direction",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Topaz Astra-2026-10-28",
-   "at": "2026-10-28T05:29:24+00:00",
-   "model": "Topaz Astra",
-   "title": "Topaz Astra: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.topazlabs.com/astra",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Lyria 3 Pro-2026-10-28",
-   "at": "2026-10-28T05:29:23+00:00",
-   "model": "Lyria 3 Pro",
-   "title": "Lyria 3 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
