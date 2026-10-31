@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-10-30T22:19:34Z",
+ "generated_at": "2026-10-31T05:29:00Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -10,7 +10,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "0.1 h old, limit 14 h"
     ],
     [
      "sources",
@@ -20,11 +20,11 @@
     [
      "site",
      "ok",
-     "235 ms"
+     "138 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 0.1,
+   "changed_age_h": 0.1,
    "sources": [
     {
      "id": "arxiv",
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "11.3 h old, limit 50 h"
+     "18.5 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,11 +77,11 @@
     [
      "site",
      "ok",
-     "478 ms"
+     "421 ms"
     ]
    ],
-   "data_age_h": 11.3,
-   "changed_age_h": 11.3,
+   "data_age_h": 18.5,
+   "changed_age_h": 18.5,
    "sources": [
     {
      "id": "cmdstore",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "11.3 h old, limit 50 h"
+     "18.5 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "256 ms"
+     "114 ms"
     ]
    ],
-   "data_age_h": 11.3,
+   "data_age_h": 18.5,
    "changed_age_h": null,
    "sources": [
     {
@@ -168,7 +168,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "0.1 h old, limit 14 h"
     ],
     [
      "sources",
@@ -178,11 +178,11 @@
     [
      "site",
      "ok",
-     "289 ms"
+     "277 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 0.1,
+   "changed_age_h": 0.1,
    "sources": [
     {
      "id": "meta-newsroom",
@@ -217,7 +217,7 @@
     {
      "id": "youtube-blog",
      "ok": false,
-     "fails": 23,
+     "fails": 24,
      "items": 0
     },
     {
@@ -247,7 +247,7 @@
     [
      "site",
      "ok",
-     "264 ms"
+     "109 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -256,7 +256,7 @@
     {
      "id": "board",
      "ok": false,
-     "fails": 23,
+     "fails": 24,
      "items": 0
     },
     {
@@ -269,7 +269,7 @@
      "id": "lane-charts",
      "ok": true,
      "fails": 0,
-     "items": 30
+     "items": 20
     },
     {
      "id": "lane-gtrends",
@@ -340,7 +340,7 @@
     {
      "id": "lane-tiktok",
      "ok": false,
-     "fails": 23,
+     "fails": 24,
      "items": 0
     },
     {
@@ -352,7 +352,7 @@
     {
      "id": "lane-x",
      "ok": false,
-     "fails": 23,
+     "fails": 24,
      "items": 0
     },
     {
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "11.3 h old, limit 50 h"
+     "18.4 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "448 ms"
+     "292 ms"
     ]
    ],
-   "data_age_h": 11.3,
-   "changed_age_h": 11.3,
+   "data_age_h": 18.4,
+   "changed_age_h": 18.5,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "11.3 h old, limit 50 h"
+     "18.4 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "247 ms"
+     "214 ms"
     ]
    ],
-   "data_age_h": 11.3,
+   "data_age_h": 18.4,
    "changed_age_h": null,
    "sources": [
     {
@@ -496,17 +496,17 @@
     [
      "site",
      "ok",
-     "493 ms"
+     "227 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "changed_age_h": 7.2,
    "sources": [
     {
      "id": "bat",
      "ok": true,
      "fails": 0,
-     "items": 72
+     "items": 36
     },
     {
      "id": "nhtsa-vpic",
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "257 ms"
+     "233 ms"
     ]
    ],
    "state": "ok"
@@ -548,7 +548,7 @@
     [
      "site",
      "ok",
-     "369 ms"
+     "240 ms"
     ],
     [
      "health",
@@ -557,7 +557,7 @@
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 21.4,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "liquipedia",
@@ -591,7 +591,7 @@
     [
      "site",
      "ok",
-     "254 ms"
+     "135 ms"
     ]
    ],
    "data_age_h": 0.0,

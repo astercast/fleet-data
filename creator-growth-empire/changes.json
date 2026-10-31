@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "cw-have-you-heard-chicken-shop-date-in-theaters-has-eed838",
+   "platform": "other",
+   "title": "Have you heard? ‘Chicken Shop Date’ in theaters, Hasan Piker in court, and CaylusBlox on shelves.",
+   "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, it's time for a deep-fried movie theater experience, a progressive firebrand is hitting back at his critics, and a top Roblox creative is capitalizing on his success. Pop culture minute The finale of Chicken Shop Date will be screened in movie theaters. Amelia Dimoldenberg is ending her iconic interview series, but Chicken Shop Date is goi",
+   "detected_at": "2026-10-31T05:25:38Z",
+   "announced_at": "2026-10-30T23:01:18Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/10/30/have-you-heard-amelia-dimoldenberg-chicken-shop-date-hasan-piker-caylus-blox/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/30/have-you-heard-amelia-dimoldenberg-chicken-shop-date-hasan-piker-caylus-blox/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-youtube-subscriptions-are-rising-as-more-users-t-cca482",
    "platform": "youtube",
    "title": "YouTube subscriptions are rising as more users turn to CTV",
@@ -1122,8 +1141,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-10-30T18:01:58Z",
+ "generated_at": "2026-10-31T05:25:38Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "version": "1.7.0"
 }
