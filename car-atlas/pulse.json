@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-31T12:16:31Z",
+ "generated_at": "2026-10-31T19:20:13Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-10-30T22:19:27Z",
+ "last_data_change_at": "2026-10-31T19:20:13Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-10-31T12:16:30Z",
-   "last_ok_at": "2026-10-31T12:16:30Z",
+   "items": 72,
+   "checked_at": "2026-10-31T19:20:12Z",
+   "last_ok_at": "2026-10-31T19:20:12Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,91 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12416,
-   "checked_at": "2026-10-31T12:16:31Z",
-   "last_ok_at": "2026-10-31T12:16:31Z",
+   "checked_at": "2026-10-31T19:20:13Z",
+   "last_ok_at": "2026-10-31T19:20:13Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "2,700-Mile 2023 Chevrolet Camaro ZL1 Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2023-chevrolet-camaro-coupe-49/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "27k-Mile 2003 Ford Mustang SVT Cobra Convertible",
+   "ref": "https://bringatrailer.com/listing/2003-ford-mustang-svt-cobra-convertible-58/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "2000 Porsche 911 Carrera Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2000-porsche-911-carrera-coupe-79/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "14k-Mile 2007 Chevrolet Corvette Z06 2LZ",
+   "ref": "https://bringatrailer.com/listing/2007-chevrolet-corvette-z06-129/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "1,500-Mile 2023 Dodge Challenger SRT Demon 170",
+   "ref": "https://bringatrailer.com/listing/2023-dodge-challenger-srt-demon-170-274/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "1972 Volkswagen Super Beetle Convertible",
+   "ref": "https://bringatrailer.com/listing/1972-volkswagen-super-beetle-conv-999/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "2001 Honda S2000",
+   "ref": "https://bringatrailer.com/listing/2001-honda-s2000-255/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "1986 Oldsmobile Cutlass 442",
+   "ref": "https://bringatrailer.com/listing/1986-oldsmobile-cutlass-442-3/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "Whipple-Supercharged, 3,400-Mile 2020 Ford Mustang Shelby GT500",
+   "ref": "https://bringatrailer.com/listing/2020-ford-mustang-shelby-gt500-134/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "1979 Pontiac Firebird Trans Am Special Edition",
+   "ref": "https://bringatrailer.com/listing/1979-pontiac-firebird-trans-am-208/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "2020 Land Rover Defender 110 SE P400",
+   "ref": "https://bringatrailer.com/listing/2020-land-rover-defender-110-23/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "1969 Chevrolet Camaro SS L78 396/375 Convertible 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1969-chevrolet-camaro-ss-142/"
+  },
+  {
+   "at": "2026-10-31T19:20:13Z",
+   "kind": "sale",
+   "title": "2,800-Mile 2007 Ford Mustang Shelby GT500 Super Snake Coupe",
+   "ref": "https://bringatrailer.com/listing/2007-ford-mustang-shelby-gt500-coupe-154/"
+  },
   {
    "at": "2026-10-30T22:19:27Z",
    "kind": "sale",
@@ -312,84 +390,6 @@
    "kind": "sale",
    "title": "1995 Dodge Viper RT/10",
    "ref": "https://bringatrailer.com/listing/1995-dodge-viper-rt-10-47/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "1995 Land Rover Defender 90 NAS 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1995-land-rover-defender-90-nas-109/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "1986 Porsche 911 Carrera Cabriolet",
-   "ref": "https://bringatrailer.com/listing/1986-porsche-911-carrera-cabriolet-104/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "2002 BMW M3 Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2002-bmw-m3-coupe-148/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "1973 Pontiac Firebird Trans Am 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1973-pontiac-firebird-trans-am-19/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "Original-Owner 2000 Pontiac Grand Prix GT Sedan",
-   "ref": "https://bringatrailer.com/listing/2000-pontiac-grand-prix-4/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "2017 Porsche Cayenne Turbo S",
-   "ref": "https://bringatrailer.com/listing/2017-porsche-cayenne-turbo-s-12/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "29k-Mile 2021 Land Rover Range Rover HSE P400 Westminster Edition",
-   "ref": "https://bringatrailer.com/listing/2021-land-rover-range-rover-58/"
-  },
-  {
-   "at": "2026-10-28T20:19:17Z",
-   "kind": "sale",
-   "title": "42k-Mile 2005 Lotus Elise",
-   "ref": "https://bringatrailer.com/listing/2005-lotus-elise-303/"
-  },
-  {
-   "at": "2026-10-28T20:19:17Z",
-   "kind": "sale",
-   "title": "29k-Mile 2017 Land Rover Range Rover Supercharged",
-   "ref": "https://bringatrailer.com/listing/2017-land-rover-range-rover-128/"
-  },
-  {
-   "at": "2026-10-28T20:19:17Z",
-   "kind": "sale",
-   "title": "41k-Mile 1996 Chevrolet Corvette Coupe LT4 6-Speed",
-   "ref": "https://bringatrailer.com/listing/1996-chevrolet-corvette-coupe-85-2/"
-  },
-  {
-   "at": "2026-10-28T20:19:17Z",
-   "kind": "sale",
-   "title": "1989 Ford Mustang Saleen Convertible",
-   "ref": "https://bringatrailer.com/listing/1989-ford-mustang-saleen-28/"
-  },
-  {
-   "at": "2026-10-28T20:19:17Z",
-   "kind": "sale",
-   "title": "1981 Toyota Celica Supra Liftback 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1981-toyota-celica-supra/"
-  },
-  {
-   "at": "2026-10-28T20:19:17Z",
-   "kind": "sale",
-   "title": "2006 Toyota Land Cruiser UZJ100",
-   "ref": "https://bringatrailer.com/listing/2006-toyota-land-cruiser-114/"
   }
  ]
 }
