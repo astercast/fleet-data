@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-01T00:05:43Z",
+ "generated_at": "2026-11-01T13:14:43Z",
  "items": [
+  {
+   "id": "hf-Disrupt-linus/FastH3-Omni-MLX-INT4",
+   "at": "2026-11-01T12:11:53Z",
+   "model": "Disrupt-linus/FastH3-Omni-MLX-INT4",
+   "title": "New text-to-video model listed on Hugging Face: Disrupt-linus/FastH3-Omni-MLX-INT4",
+   "url": "https://huggingface.co/Disrupt-linus/FastH3-Omni-MLX-INT4",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Spectrallic/MiniMax-H3-FL2VA-DMAD-4step-int8-convrot",
+   "at": "2026-11-01T10:23:15Z",
+   "model": "Spectrallic/MiniMax-H3-FL2VA-DMAD-4step-int8-convrot",
+   "title": "New text-to-video model listed on Hugging Face: Spectrallic/MiniMax-H3-FL2VA-DMAD-4step-int8-convrot",
+   "url": "https://huggingface.co/Spectrallic/MiniMax-H3-FL2VA-DMAD-4step-int8-convrot",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-01",
    "at": "2026-11-01T00:05:36+00:00",
@@ -1478,26 +1498,6 @@
    "model": "Adobe Firefly",
    "title": "Adobe Firefly: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://news.adobe.com/news/2026/04/adobe-new-creative-agent",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Aleph 2.0-2026-10-29",
-   "at": "2026-10-29T00:51:04+00:00",
-   "model": "Runway Aleph 2.0",
-   "title": "Runway Aleph 2.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.therundown.ai/tools/aleph",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Midjourney V8.2-2026-10-29",
-   "at": "2026-10-29T00:51:03+00:00",
-   "model": "Midjourney V8.2",
-   "title": "Midjourney V8.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://powerdrill.ai/blog/midjourney-v8-2-edit-model",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
