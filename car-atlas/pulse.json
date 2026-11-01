@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-31T19:20:13Z",
+ "generated_at": "2026-11-01T00:08:31Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-10-31T19:20:13Z",
+ "last_data_change_at": "2026-11-01T00:08:31Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 72,
-   "checked_at": "2026-10-31T19:20:12Z",
-   "last_ok_at": "2026-10-31T19:20:12Z",
+   "items": 36,
+   "checked_at": "2026-11-01T00:08:30Z",
+   "last_ok_at": "2026-11-01T00:08:30Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,61 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12416,
-   "checked_at": "2026-10-31T19:20:13Z",
-   "last_ok_at": "2026-10-31T19:20:13Z",
+   "checked_at": "2026-11-01T00:08:31Z",
+   "last_ok_at": "2026-11-01T00:08:31Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-01T00:08:31Z",
+   "kind": "sale",
+   "title": "1980 Chevrolet Camaro Z28",
+   "ref": "https://bringatrailer.com/listing/1980-chevrolet-camaro-z28-30/"
+  },
+  {
+   "at": "2026-11-01T00:08:31Z",
+   "kind": "sale",
+   "title": "One-Family-Owned 2004 Subaru Impreza WRX STi",
+   "ref": "https://bringatrailer.com/listing/2004-subaru-impreza-wrx-sti-138/"
+  },
+  {
+   "at": "2026-11-01T00:08:31Z",
+   "kind": "sale",
+   "title": "2014 Toyota Tacoma TRD Access Cab V6 4×4",
+   "ref": "https://bringatrailer.com/listing/2014-toyota-tacoma-24/"
+  },
+  {
+   "at": "2026-11-01T00:08:31Z",
+   "kind": "sale",
+   "title": "2006 Audi A4 2.0T Avant Quattro 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2006-audi-a4-b7-15/"
+  },
+  {
+   "at": "2026-11-01T00:08:31Z",
+   "kind": "sale",
+   "title": "24k-Mile 2009 Audi R8 Coupe",
+   "ref": "https://bringatrailer.com/listing/2009-audi-r8-94/"
+  },
+  {
+   "at": "2026-11-01T00:08:31Z",
+   "kind": "sale",
+   "title": "2004 Toyota Land Cruiser UZJ100",
+   "ref": "https://bringatrailer.com/listing/2004-toyota-land-cruiser-103/"
+  },
+  {
+   "at": "2026-11-01T00:08:31Z",
+   "kind": "sale",
+   "title": "2025 Chevrolet Corvette Z06 Coupe 2LZ",
+   "ref": "https://bringatrailer.com/listing/2025-chevrolet-corvette-z06-41/"
+  },
+  {
+   "at": "2026-11-01T00:08:31Z",
+   "kind": "sale",
+   "title": "47k-Mile 2003 Porsche 911 Turbo Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2003-porsche-911-turbo-coupe-133/"
+  },
   {
    "at": "2026-10-31T19:20:13Z",
    "kind": "sale",
@@ -342,54 +390,6 @@
    "kind": "sale",
    "title": "1968 Plymouth Barracuda Formula S Coupe 383 4-Speed",
    "ref": "https://bringatrailer.com/listing/1968-plymouth-barracuda-52/"
-  },
-  {
-   "at": "2026-10-29T18:30:27Z",
-   "kind": "sale",
-   "title": "15k-Mile 1996 Chevrolet Corvette Grand Sport Convertible",
-   "ref": "https://bringatrailer.com/listing/1996-chevrolet-corvette-convertible-82/"
-  },
-  {
-   "at": "2026-10-29T18:30:27Z",
-   "kind": "sale",
-   "title": "2,110cc-Powered 1967 Volkswagen Beetle",
-   "ref": "https://bringatrailer.com/listing/1967-volkswagen-beetle-264/"
-  },
-  {
-   "at": "2026-10-29T18:30:27Z",
-   "kind": "sale",
-   "title": "2001 Pontiac Bonneville SE",
-   "ref": "https://bringatrailer.com/listing/2001-pontiac-bonneville-5/"
-  },
-  {
-   "at": "2026-10-29T18:30:27Z",
-   "kind": "sale",
-   "title": "50k-Mile 2009 Audi A4 2.0T Cabriolet Quattro",
-   "ref": "https://bringatrailer.com/listing/2009-audi-a4-b7-12/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "1965 Ford Mustang Convertible A-Code 289 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1965-ford-mustang-958/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "2024 Toyota GR Supra 3.0 Premium 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2024-toyota-supra-8/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "1997 Toyota Land Cruiser FZJ80 Collector&#8217;s Edition",
-   "ref": "https://bringatrailer.com/listing/1997-toyota-land-cruiser-fzj80-306/"
-  },
-  {
-   "at": "2026-10-29T00:54:25Z",
-   "kind": "sale",
-   "title": "1995 Dodge Viper RT/10",
-   "ref": "https://bringatrailer.com/listing/1995-dodge-viper-rt-10-47/"
   }
  ]
 }
