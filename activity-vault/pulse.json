@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-31T10:36:20Z",
+ "generated_at": "2026-11-01T11:29:48Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-10-31T10:35:17Z",
+ "last_data_change_at": "2026-11-01T11:28:49Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 52,
-   "checked_at": "2026-10-31T10:36:20Z",
-   "last_ok_at": "2026-10-31T10:36:20Z",
+   "items": 54,
+   "checked_at": "2026-11-01T11:29:48Z",
+   "last_ok_at": "2026-11-01T11:29:48Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-10-31T10:35:18Z",
-   "last_ok_at": "2026-10-31T10:35:18Z",
+   "checked_at": "2026-11-01T11:28:50Z",
+   "last_ok_at": "2026-11-01T11:28:50Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-10-31T10:35:16Z",
-   "last_ok_at": "2026-10-31T10:35:16Z",
+   "checked_at": "2026-11-01T11:28:49Z",
+   "last_ok_at": "2026-11-01T11:28:49Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-31T10:35:18Z",
-   "last_ok_at": "2026-10-31T10:35:18Z",
+   "checked_at": "2026-11-01T11:28:49Z",
+   "last_ok_at": "2026-11-01T11:28:49Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-31T10:35:17Z",
-   "last_ok_at": "2026-10-31T10:35:17Z",
+   "checked_at": "2026-11-01T11:28:49Z",
+   "last_ok_at": "2026-11-01T11:28:49Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-10-31T10:35:16Z",
-   "last_ok_at": "2026-10-31T10:35:16Z",
+   "checked_at": "2026-11-01T11:28:49Z",
+   "last_ok_at": "2026-11-01T11:28:49Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,85 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-10-31T10:35:15Z",
-   "last_ok_at": "2026-10-31T10:35:15Z",
+   "checked_at": "2026-11-01T11:28:48Z",
+   "last_ok_at": "2026-11-01T11:28:48Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "Thanksgiving Worksheets",
+   "ref": "https://littlebinsforlittlehands.com/thanksgiving-worksheets/"
+  },
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "Leftover Halloween Candy Preschool Guessing Game",
+   "ref": "https://kidsactivitiesblog.com/19395/halloween-activity-2/"
+  },
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "13+ Things to do With Leftover Halloween Candy",
+   "ref": "https://kidsactivitiesblog.com/29605/top-10-things-to-do-with-halloween-candy/"
+  },
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "Free Printable November Calendar",
+   "ref": "https://kidsactivitiesblog.com/248398/november-calendar/"
+  },
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "Let’s Make Scary Cute Ghost Slime",
+   "ref": "https://kidsactivitiesblog.com/96399/ghost-slime/"
+  },
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "Vroom! Crash! Painting with Monster Trucks – Simple Art Project for Preschool",
+   "ref": "https://kidsactivitiesblog.com/17537/monster-trucks-math-and-art/"
+  },
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "Let’s Have Some Halloween Fun with the Toilet Paper Mummy Game",
+   "ref": "https://kidsactivitiesblog.com/19941/halloween-game/"
+  },
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "Halloween Treat Bag Printable – Franken-Treats!",
+   "ref": "https://kidsactivitiesblog.com/47860/halloween-treat-bag-printable/"
+  },
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "5 Not So Scary Halloween Kids Food Ideas",
+   "ref": "https://kidsactivitiesblog.com/18984/halloween-food-ideas-snack/"
+  },
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "Bat Craft Ideas for the Perfect Halloween Craft",
+   "ref": "https://kidsactivitiesblog.com/7663/bat-crafts/"
+  },
+  {
+   "at": "2026-11-01T11:28:49Z",
+   "kind": "post",
+   "title": "Fun Halloween Trivia Printables",
+   "ref": "https://kidsactivitiesblog.com/310869/fun-halloween-trivia-printables/"
+  },
+  {
+   "at": "2026-11-01T11:29:47Z",
+   "kind": "photo-candidate",
+   "title": "Big Mirror Face, Copy My Face",
+   "ref": "https://commons.wikimedia.org/wiki/File:After_nice_discussion_of_Adaptive_Optics_with_UC_California_Santa_Cruz_Professor,_I_post_blurry_image_taken_through_bug_screen_of_my_motel_room._Demonstrates_looking_through_turbulent_atmosphere._(33876740791).jpg"
+  },
   {
    "at": "2026-10-31T10:35:17Z",
    "kind": "post",
@@ -367,84 +439,6 @@
    "kind": "post",
    "title": "Toddler Craft: Wrapping Paper Stocking",
    "ref": "https://handsonaswegrow.com/toddler-craft-wrapping-paper-stocking/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Halloween Play Dough Mats – Printable Fine Motor Activities",
-   "ref": "https://teachbesideme.com/halloween-play-dough-mats-printable-fine-motor-activities/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Halloween Would You Rather Questions for Kids",
-   "ref": "https://teachbesideme.com/halloween-would-you-rather-questions-for-kids/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Halloween Charades for Kids: Free Printable Game Cards",
-   "ref": "https://teachbesideme.com/halloween-charades-for-kids-free-printable-game-cards/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Michigan State Geography for Kids: Printable Learning Pack",
-   "ref": "https://teachbesideme.com/michigan-state-geography-for-kids-printable-learning-pack/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Halloween Pattern Block Mats: Fun Printable Shape Activities",
-   "ref": "https://teachbesideme.com/halloween-pattern-block-mats-10-fun-printable-shape-activities/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Pumpkin CSI: Hands-on STEM Mystery for Kids",
-   "ref": "https://teachbesideme.com/pumpkin-csi-a-pumpkin-stem-activity-science-mystery/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Addition Games for Kids: Fun Hands-On Math Activities",
-   "ref": "https://teachbesideme.com/addition-games-for-kids/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Spider Life Cycle for Kids + Free Printable Worksheets",
-   "ref": "https://teachbesideme.com/spider-life-cycle-for-kids-free-printable-worksheets/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Free Halloween Printables for Kids",
-   "ref": "https://littlebinsforlittlehands.com/halloween-printables/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Turkey Hide and Seek Art Project for Kids",
-   "ref": "https://littlebinsforlittlehands.com/turkey-hide-and-seek-art-project-for-kids/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Turkey Camouflage Art Project for Kids",
-   "ref": "https://littlebinsforlittlehands.com/turkey-camouflage-art/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Turkey Agamograph Art Project for Kids",
-   "ref": "https://littlebinsforlittlehands.com/turkey-agamograph/"
-  },
-  {
-   "at": "2026-10-25T06:59:22Z",
-   "kind": "post",
-   "title": "Disguise a Turkey Printable Craft for Kids",
-   "ref": "https://littlebinsforlittlehands.com/turkey-disguise-printable/"
   }
  ]
 }

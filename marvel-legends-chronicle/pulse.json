@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-10-31T10:35:14Z",
+ "generated_at": "2026-11-01T11:28:46Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-10-31T10:35:14Z",
+ "last_data_change_at": "2026-11-01T11:28:46Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 61,
-   "checked_at": "2026-10-31T10:35:06Z",
-   "last_ok_at": "2026-10-31T10:35:06Z",
+   "checked_at": "2026-11-01T11:28:42Z",
+   "last_ok_at": "2026-11-01T11:28:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 100,
-   "checked_at": "2026-10-31T10:35:14Z",
-   "last_ok_at": "2026-10-31T10:35:14Z",
+   "items": 57,
+   "checked_at": "2026-11-01T11:28:46Z",
+   "last_ok_at": "2026-11-01T11:28:46Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-10-31T10:35:14Z",
-   "last_ok_at": "2026-10-31T10:35:14Z",
+   "checked_at": "2026-11-01T11:28:46Z",
+   "last_ok_at": "2026-11-01T11:28:46Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,37 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 48,
-   "checked_at": "2026-10-31T10:35:13Z",
-   "last_ok_at": "2026-10-31T10:35:13Z",
+   "checked_at": "2026-11-01T11:28:46Z",
+   "last_ok_at": "2026-11-01T11:28:46Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-01T11:28:46Z",
+   "kind": "story",
+   "title": "New Marvel Legends Figures Revealed For Avengers: Doomsday & X-Men '97 - IMDb",
+   "ref": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QS1JYbVR4dWduLUd0cTQ2T1RTbUZpa09tb19HaklGQ3VvRDNWYWZEUE5nSmZoeTZybGpFUjloM1IyZm5pWmsxcDRVeDA3V0QyLW80bEdmSU9ZNkp1a014dHZwT0tUTnM?oc=5"
+  },
+  {
+   "at": "2026-11-01T11:28:46Z",
+   "kind": "story",
+   "title": "Hasbro unveils new Marvel Legends Series Secret Wars action figures - Flickering Myth",
+   "ref": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjlEQ3FPRHc5bGg4UjhFSkxRanNJRVd1NDhTZkN3LTJtX2IyR2hkUzFYN2U0eHdENUtHWmZyMHRKT2NkYXN6bUNydFNhbnRlNncyd2QySER1UnI5dXZGRmxHeUFpU250dUpja1RGR2RWemNVRkhTNmhCSXRmaDVuLXJWQXFUTWxpRExwdm1IWDZDRDlNZTdIeDlkZ0Z6b05R?oc=5"
+  },
+  {
+   "at": "2026-11-01T11:28:46Z",
+   "kind": "story",
+   "title": "Shop Marvel Must Haves: Hasbro Marvel Legends Reveal Strange Tales Series - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQXBiZHJVRUxuaGNrVzYyU0EySUdIUk1FM2pCLUlicmtRTGd1WHhDaXp4OGtxcTlONC1odlpDMVFIeXRQdU9YVkJtQ1hCdHZxRjRrYW01OGhTTk1mYWdQXzFvTzZ3UVppdGgwakw1X28xRjM1WWlvcjJ5UVFaWHlEREdCQUpOcjNUWm1YRTg1Z2plYV9oT05mQmdLbm5iTmplYWVWYWdUallFcThXLTNwQjNaYlpCcGFVRl9PZHlWNEs4Y0tVaFJB?oc=5"
+  },
+  {
+   "at": "2026-11-01T11:28:46Z",
+   "kind": "story",
+   "title": "Hasbro's Black Panther Marvel Legends Wave 2 Figures Coming in December - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVBMOWtiNS02cEszd2tudEt0WENFSzhPank3V3lEenpaN1ZGakhzZ2IwbkhtbUVUYmc2blBmT2dycUJ1VlQ0TVM1cm9XT0x5M1hIYkFfUnNtYUxEeGFaR1NmVERqMG5mRW94b3YyQ0pCeE55Vi02cFlWZ1g2bm1DZ0tzTnUzTkZoWmVhZXR1YnY1d19NOU85VUZ0WTRiT00wZllwUFdkR0FFcWxfVDFCeFVTanJRUmoybk4tdGRn?oc=5"
+  },
   {
    "at": "2026-10-31T10:35:14Z",
    "kind": "story",
@@ -388,30 +412,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends Deadpool & Wolverine 6 Inch Action Figure - Wolverinepool",
    "ref": "https://cmdstore.com/products/marvel-legends-deadpool-wolverine-wolverinepool-5010996407443"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Deadpool & Wolverine 6 Inch Action Figure - The Cavillrine",
-   "ref": "https://cmdstore.com/products/marvel-legends-deadpool-wolverine-the-cavillrine-5010996407450"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Thunderbolts 6 Inch Action Figure 2-Pack - Valentina Allegra de Fontaine & The Void",
-   "ref": "https://cmdstore.com/products/marvel-legends-thunderbolts-2-pack-valentina-allegra-de-fontaine-the-void-5010996407276"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Deadpool & Wolverine 6 Inch Action Figure - X-Force Deadpool",
-   "ref": "https://cmdstore.com/products/marvel-legends-deadpool-wolverine-x-force-deadpool-5010996457431"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends 6 Inch Action Figure Apocalypse Series - Wolverine Unmasked Variant",
-   "ref": "https://cmdstore.com/products/marvel-legends-action-figures-series-12-wolverine-variant"
   }
  ]
 }

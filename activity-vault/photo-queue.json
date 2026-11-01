@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-10-27T10:03:09Z",
+ "generated_at": "2026-11-01T11:29:48Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -574,6 +574,28 @@
    "activity_id": "big-name-bell-ring-for-you",
    "activity_name": "Big Name Bell, Ring for You",
    "queued_at": "2026-10-27T10:03:07Z"
+  },
+  {
+   "commons_title": "File:After nice discussion of Adaptive Optics with UC California Santa Cruz Professor, I post blurry image taken through bug screen of my motel room. Demonstrates looking through turbulent atmosphere. (33876740791).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:After_nice_discussion_of_Adaptive_Optics_with_UC_California_Santa_Cruz_Professor,_I_post_blurry_image_taken_through_bug_screen_of_my_motel_room._Demonstrates_looking_through_turbulent_atmosphere._(33876740791).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/After_nice_discussion_of_Adaptive_Optics_with_UC_California_Santa_Cruz_Professor%2C_I_post_blurry_image_taken_through_bug_screen_of_my_motel_room._Demonstrates_looking_through_turbulent_atmosphere._%2833876740791%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/90536753@N00\">Robert Ashworth</a> from Bellingham, WA., USA",
+   "licence": "CC BY 2.0",
+   "status": "pending",
+   "activity_id": "big-mirror-face-copy-my-face",
+   "activity_name": "Big Mirror Face, Copy My Face",
+   "queued_at": "2026-11-01T11:29:47Z"
+  },
+  {
+   "commons_title": "File:Phenology III Journals 1-6 - DPLA - 4fb8cf24bdaa8f32e8576cf714579e9a.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Phenology_III_Journals_1-6_-_DPLA_-_4fb8cf24bdaa8f32e8576cf714579e9a.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Phenology_III_Journals_1-6_-_DPLA_-_4fb8cf24bdaa8f32e8576cf714579e9a.jpg/500px-Phenology_III_Journals_1-6_-_DPLA_-_4fb8cf24bdaa8f32e8576cf714579e9a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "Ramirez, Declan R.; Silknitter, Joseph; Vijil, Zaya",
+   "licence": "CC BY 4.0",
+   "status": "pending",
+   "activity_id": "big-mirror-face-copy-my-face",
+   "activity_name": "Big Mirror Face, Copy My Face",
+   "queued_at": "2026-11-01T11:29:47Z"
   }
  ]
 }
