@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-01T13:17:15Z",
+ "generated_at": "2026-11-01T19:37:23Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-01T00:08:31Z",
+ "last_data_change_at": "2026-11-01T19:37:23Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-01T13:17:10Z",
-   "last_ok_at": "2026-11-01T13:17:10Z",
+   "items": 72,
+   "checked_at": "2026-11-01T19:37:21Z",
+   "last_ok_at": "2026-11-01T19:37:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,91 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12416,
-   "checked_at": "2026-11-01T13:17:15Z",
-   "last_ok_at": "2026-11-01T13:17:15Z",
+   "checked_at": "2026-11-01T19:37:23Z",
+   "last_ok_at": "2026-11-01T19:37:23Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "2016 Toyota Land Cruiser URJ200",
+   "ref": "https://bringatrailer.com/listing/2016-toyota-land-cruiser-33/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "2012 Cadillac Escalade ESV Premium AWD",
+   "ref": "https://bringatrailer.com/listing/2012-cadillac-escalade-esv-5/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "RoW 1983 Porsche 911 Turbo Coupe EV Conversion",
+   "ref": "https://bringatrailer.com/listing/1983-porsche-911-turbo-10/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "1970 Dodge Challenger R/T 440 Six Pack 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1970-dodge-challenger-r-t-61/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "2003 Porsche 911 Carrera Cabriolet 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2003-porsche-911-carrera-cabriolet-53-2/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "2006 Lotus Elise",
+   "ref": "https://bringatrailer.com/listing/2006-lotus-elise-102/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "RS/SS-Style 1969 Chevrolet Camaro 396 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1969-chevrolet-camaro-ss-141/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "1967 Ford Mustang Coupe High Country Special 289",
+   "ref": "https://bringatrailer.com/listing/1967-ford-mustang-517/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "Ex–Randy Travis, 21k-Mile 1991 GMC Syclone",
+   "ref": "https://bringatrailer.com/listing/1991-gmc-syclone-134/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "1957 Chevrolet Bel Air 2-Door Hardtop",
+   "ref": "https://bringatrailer.com/listing/1957-chevrolet-bel-air-389/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "2017 Land Rover Range Rover Supercharged",
+   "ref": "https://bringatrailer.com/listing/2017-land-rover-range-rover-127/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "1999 Porsche 911 Carrera Cabriolet 6-Speed",
+   "ref": "https://bringatrailer.com/listing/1999-porsche-911-carrera-cabriolet-187/"
+  },
+  {
+   "at": "2026-11-01T19:37:23Z",
+   "kind": "sale",
+   "title": "Drag-Style, 351-Powered 1968 Ford Mustang Coupe",
+   "ref": "https://bringatrailer.com/listing/1968-ford-mustang-399-2/"
+  },
   {
    "at": "2026-11-01T00:08:31Z",
    "kind": "sale",
@@ -312,84 +390,6 @@
    "kind": "sale",
    "title": "37k-Mile 2013 Audi TT Coupe Prestige Quattro",
    "ref": "https://bringatrailer.com/listing/2013-audi-tt-2/"
-  },
-  {
-   "at": "2026-10-30T00:56:11Z",
-   "kind": "sale",
-   "title": "3.8L-Powered, RoW 1994 Porsche 911 Carrera 2 Coupe RSR Tribute",
-   "ref": "https://bringatrailer.com/listing/1994-porsche-911-carrera-2-coupe-13/"
-  },
-  {
-   "at": "2026-10-30T00:56:11Z",
-   "kind": "sale",
-   "title": "12k-Mile 2008 Aston Martin V8 Vantage Roadster",
-   "ref": "https://bringatrailer.com/listing/2008-aston-martin-v8-vantage-roadster-71/"
-  },
-  {
-   "at": "2026-10-30T00:56:11Z",
-   "kind": "sale",
-   "title": "2005 Saab 9-3 Aero Convertible",
-   "ref": "https://bringatrailer.com/listing/2005-saab-9-3-25/"
-  },
-  {
-   "at": "2026-10-30T00:56:11Z",
-   "kind": "sale",
-   "title": "1968 Chevrolet Corvette Convertible L89 427/435 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1968-chevrolet-corvette-convertible-113/"
-  },
-  {
-   "at": "2026-10-30T00:56:11Z",
-   "kind": "sale",
-   "title": "JDM 1993 Toyota Supra RZ Turbo",
-   "ref": "https://bringatrailer.com/listing/1993-toyota-supra-196/"
-  },
-  {
-   "at": "2026-10-30T00:56:11Z",
-   "kind": "sale",
-   "title": "50k-Mile 1990 Jeep Grand Wagoneer",
-   "ref": "https://bringatrailer.com/listing/1990-jeep-grand-wagoneer-137/"
-  },
-  {
-   "at": "2026-10-30T00:56:11Z",
-   "kind": "sale",
-   "title": "2003 GMC Yukon Denali",
-   "ref": "https://bringatrailer.com/listing/2003-gmc-yukon-25/"
-  },
-  {
-   "at": "2026-10-29T18:30:27Z",
-   "kind": "sale",
-   "title": "2004 Porsche Cayenne Turbo",
-   "ref": "https://bringatrailer.com/listing/2004-porsche-cayenne-turbo-66-2/"
-  },
-  {
-   "at": "2026-10-29T18:30:27Z",
-   "kind": "sale",
-   "title": "621-Mile 2010 Toyota Prius",
-   "ref": "https://bringatrailer.com/listing/2010-toyota-prius-3/"
-  },
-  {
-   "at": "2026-10-29T18:30:27Z",
-   "kind": "sale",
-   "title": "2015 Porsche Cayenne S E-Hybrid",
-   "ref": "https://bringatrailer.com/listing/2015-porsche-cayenne-s-18/"
-  },
-  {
-   "at": "2026-10-29T18:30:27Z",
-   "kind": "sale",
-   "title": "2017 Land Rover Range Rover SVAutobiography LWB",
-   "ref": "https://bringatrailer.com/listing/2017-land-rover-range-rover-131/"
-  },
-  {
-   "at": "2026-10-29T18:30:27Z",
-   "kind": "sale",
-   "title": "2007 Volvo XC90 V8 Sport AWD",
-   "ref": "https://bringatrailer.com/listing/2007-volvo-xc90-5/"
-  },
-  {
-   "at": "2026-10-29T18:30:27Z",
-   "kind": "sale",
-   "title": "1968 Plymouth Barracuda Formula S Coupe 383 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1968-plymouth-barracuda-52/"
   }
  ]
 }
