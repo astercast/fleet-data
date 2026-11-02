@@ -1,14 +1,14 @@
 {
  "format": "stock/1",
- "generated_at": "2026-10-25T06:49:52Z",
- "checked_at": "2026-10-25T06:49:52Z",
+ "generated_at": "2026-11-02T21:46:47Z",
+ "checked_at": "2026-11-02T21:46:47Z",
  "items": {
   "makeup-angel": {
    "in_stock": true,
    "url": "https://sonnyangelusa.com/products/sonny-angel-x-shu-uemura-makeup-angel-series"
   },
   "flower-gift": {
-   "in_stock": true,
+   "in_stock": false,
    "url": "https://sonnyangelusa.com/products/flower-gift-series"
   },
   "hippers-dreaming": {

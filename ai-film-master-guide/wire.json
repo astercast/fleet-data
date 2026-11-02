@@ -1,7 +1,177 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-02T10:56:38Z",
+ "generated_at": "2026-11-02T21:44:27Z",
  "items": [
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tm-ln2-stage2-from21750-ema",
+   "at": "2026-11-02T21:42:33Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tm-ln2-stage2-from21750-ema",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-ln2-stage2-from21750-ema",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-ln2-stage2-from21750-ema",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-tm-u5-qt",
+   "at": "2026-11-02T21:40:55Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-u5-qt",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-u5-qt",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-u5-qt",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-qt",
+   "at": "2026-11-02T21:39:34Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-qt",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-qt",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-qt",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-fm-tm-ln2",
+   "at": "2026-11-02T21:38:11Z",
+   "model": "ducvh5/wan21-a5b5x4c5-fm-tm-ln2",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-fm-tm-ln2",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-fm-tm-ln2",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-ar-tf-fm-tm-ln2",
+   "at": "2026-11-02T21:36:57Z",
+   "model": "ducvh5/wan21-a5b5x4c5-ar-tf-fm-tm-ln2",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-ar-tf-fm-tm-ln2",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-ar-tf-fm-tm-ln2",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-tm-su5-qt",
+   "at": "2026-11-02T21:35:44Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-su5-qt",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-su5-qt",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-su5-qt",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty",
+   "at": "2026-11-02T21:35:34Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-split-qt",
+   "at": "2026-11-02T21:35:23Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-split-qt",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-split-qt",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-split-qt",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tm-ln2",
+   "at": "2026-11-02T21:35:13Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tm-ln2",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-ln2",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-ln2",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tm-u5",
+   "at": "2026-11-02T21:35:02Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tm-u5",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-u5",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-u5",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2",
+   "at": "2026-11-02T21:34:59Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln5-qt",
+   "at": "2026-11-02T21:34:58Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln5-qt",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln5-qt",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln5-qt",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln3-qt",
+   "at": "2026-11-02T21:34:57Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln3-qt",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln3-qt",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln3-qt",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Rombakr5/Wan2.2-TI2V-5B",
+   "at": "2026-11-02T20:10:14Z",
+   "model": "Rombakr5/Wan2.2-TI2V-5B",
+   "title": "New text-to-video model listed on Hugging Face: Rombakr5/Wan2.2-TI2V-5B",
+   "url": "https://huggingface.co/Rombakr5/Wan2.2-TI2V-5B",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-f1-unet",
+   "at": "2026-11-02T15:51:15Z",
+   "model": "RunningHubAI/rh-f1-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-f1-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-f1-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Spectrallic/MiniMax-H3-DMAD-4step-int8-convrot",
+   "at": "2026-11-02T15:06:25Z",
+   "model": "Spectrallic/MiniMax-H3-DMAD-4step-int8-convrot",
+   "title": "New text-to-video model listed on Hugging Face: Spectrallic/MiniMax-H3-DMAD-4step-int8-convrot",
+   "url": "https://huggingface.co/Spectrallic/MiniMax-H3-DMAD-4step-int8-convrot",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-aifreak777/Wan2.2-TI2V-5B-FP8",
+   "at": "2026-11-02T14:33:57Z",
+   "model": "aifreak777/Wan2.2-TI2V-5B-FP8",
+   "title": "New text-to-video model listed on Hugging Face: aifreak777/Wan2.2-TI2V-5B-FP8",
+   "url": "https://huggingface.co/aifreak777/Wan2.2-TI2V-5B-FP8",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-N3M3SIS666/Wan2.2-TI2V-5B",
    "at": "2026-11-02T10:44:56Z",
@@ -1328,176 +1498,6 @@
    "model": "Runway Act-Two",
    "title": "Runway Act-Two: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://aivideos.eu/blog/runway-act-one-vs-heygen-ai-actor-direction",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Topaz Astra-2026-10-30",
-   "at": "2026-10-30T00:52:01+00:00",
-   "model": "Topaz Astra",
-   "title": "Topaz Astra: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.topazlabs.com/astra",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Lyria 3 Pro-2026-10-30",
-   "at": "2026-10-30T00:52:00+00:00",
-   "model": "Lyria 3 Pro",
-   "title": "Lyria 3 Pro: source pages changed - queued for human review",
-   "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-   "kind": "source-change",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Suno v5.5-2026-10-30",
-   "at": "2026-10-30T00:51:58+00:00",
-   "model": "Suno v5.5",
-   "title": "Suno v5.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://en.wikipedia.org/wiki/Suno",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-ElevenLabs Eleven v3-2026-10-30",
-   "at": "2026-10-30T00:51:56+00:00",
-   "model": "ElevenLabs Eleven v3",
-   "title": "ElevenLabs Eleven v3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://aitoolblaze.com/blog/elevenlabs-review-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Adobe Firefly-2026-10-30",
-   "at": "2026-10-30T00:51:54+00:00",
-   "model": "Adobe Firefly",
-   "title": "Adobe Firefly: source pages changed - queued for human review",
-   "url": "https://news.adobe.com/news/2026/04/adobe-new-creative-agent",
-   "kind": "source-change",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Aleph 2.0-2026-10-30",
-   "at": "2026-10-30T00:51:52+00:00",
-   "model": "Runway Aleph 2.0",
-   "title": "Runway Aleph 2.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.therundown.ai/tools/aleph",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Midjourney V8.2-2026-10-30",
-   "at": "2026-10-30T00:51:50+00:00",
-   "model": "Midjourney V8.2",
-   "title": "Midjourney V8.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://powerdrill.ai/blog/midjourney-v8-2-edit-model",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-FLUX.2-2026-10-30",
-   "at": "2026-10-30T00:51:47+00:00",
-   "model": "FLUX.2",
-   "title": "FLUX.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://en.wikipedia.org/wiki/Flux_(text-to-image_model)",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedream 5.0 Pro-2026-10-30",
-   "at": "2026-10-30T00:51:45+00:00",
-   "model": "Seedream 5.0 Pro",
-   "title": "Seedream 5.0 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://openrouter.ai/bytedance-seed/seedream-5-0-flash",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Nano Banana 2 and Pro-2026-10-30",
-   "at": "2026-10-30T00:51:42+00:00",
-   "model": "Nano Banana 2 and Pro",
-   "title": "Nano Banana 2 and Pro: source pages changed - queued for human review",
-   "url": "https://blog.google/innovation-and-ai/products/nano-banana-pro/",
-   "kind": "source-change",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 2.7-2026-10-30",
-   "at": "2026-10-30T00:51:36+00:00",
-   "model": "Wan 2.7",
-   "title": "Wan 2.7: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://poyo.ai/models/wan-2-7-video",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-PixVerse V6-2026-10-30",
-   "at": "2026-10-30T00:51:31+00:00",
-   "model": "PixVerse V6",
-   "title": "PixVerse V6: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.yottalabs.ai/post/pixverse-v6-vs-c1-differences-api-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-FLUX 3 Video-2026-10-30",
-   "at": "2026-10-30T00:51:18+00:00",
-   "model": "FLUX 3 Video",
-   "title": "FLUX 3 Video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Vidu Q4 Preview-2026-10-30",
-   "at": "2026-10-30T00:51:11+00:00",
-   "model": "Vidu Q4 Preview",
-   "title": "Vidu Q4 Preview: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.vidu.com/pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Gen-4.5-2026-10-30",
-   "at": "2026-10-30T00:51:05+00:00",
-   "model": "Runway Gen-4.5",
-   "title": "Runway Gen-4.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/326994/20260908/runway-ai-hits-200m-arr-enterprise-video-adoption-triples-existing-spend.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Mirage Tesseract-2026-10-30",
-   "at": "2026-10-30T00:51:01+00:00",
-   "model": "Mirage Tesseract",
-   "title": "Mirage Tesseract: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://mirage.app/tesseract",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Vidu S2-2026-10-30",
-   "at": "2026-10-30T00:50:53+00:00",
-   "model": "Vidu S2",
-   "title": "Vidu S2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.prnewswire.com/news-releases/shengshu-technology-unveils-vidu-s2-bringing-real-time-interaction-and-editing-to-ai-video-302879976.html",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"

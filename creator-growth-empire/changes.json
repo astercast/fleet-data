@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "yt-top-5-branded-videos-of-the-week-keeping-cash-f38e0d",
+   "platform": "youtube",
+   "title": "Top 5 Branded Videos of the Week: Keeping cash",
+   "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for t he ranking. And–as the name up […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-11-02T21:44:27Z",
+   "announced_at": "2026-11-02T19:23:06Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/02/top-5-branded-videos-mrbeast-veritasium-civil-rights-lawyer-2/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/02/top-5-branded-videos-mrbeast-veritasium-civil-rights-lawyer-2/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "cw-reddit-looks-to-move-toward-a-logged-in-experien-ba2eed",
    "platform": "other",
    "title": "Reddit looks to move toward a logged-in experience",
@@ -1160,7 +1179,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-02T10:56:38Z",
+ "generated_at": "2026-11-02T21:44:27Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-02",
  "version": "1.7.0"

@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-02T10:58:48Z",
+ "generated_at": "2026-11-02T21:46:46Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-01T19:37:23Z",
+ "last_data_change_at": "2026-11-02T21:46:46Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-02T10:58:48Z",
-   "last_ok_at": "2026-11-02T10:58:48Z",
+   "items": 64,
+   "checked_at": "2026-11-02T21:46:44Z",
+   "last_ok_at": "2026-11-02T21:46:44Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,14 +23,92 @@
    "label": "NHTSA vPIC make names",
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
-   "items": 12416,
-   "checked_at": "2026-11-02T10:58:48Z",
-   "last_ok_at": "2026-11-02T10:58:48Z",
+   "items": 12417,
+   "checked_at": "2026-11-02T21:46:46Z",
+   "last_ok_at": "2026-11-02T21:46:46Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "20k-Mile 1984 Chevrolet Corvette Coupe Z51 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1984-chevrolet-corvette-coupe-79/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "2004 Porsche 911 Carrera 4S Cabriolet 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2004-porsche-911-carrera-4s-cabriolet-96/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "Original-Owner 1996 Dodge Viper GTS",
+   "ref": "https://bringatrailer.com/listing/1996-dodge-viper-gts-56/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "2004 GMC Yukon XL Denali",
+   "ref": "https://bringatrailer.com/listing/2004-gmc-yukon-17/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "105-Mile 2022 Dodge Challenger SRT Hellcat Redeye Widebody Jailbreak",
+   "ref": "https://bringatrailer.com/listing/2022-dodge-challenger-srt-hellcat-redeye-widebody-jailbreak-36/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "26k-Mile 1996 Chevrolet Corvette Grand Sport Coupe LT4 6-Speed",
+   "ref": "https://bringatrailer.com/listing/1996-chevrolet-corvette-grand-sport-coupe-50/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "2005 Subaru Outback 3.0R L.L. Bean Edition",
+   "ref": "https://bringatrailer.com/listing/2005-subaru-outback-17/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "2002 Jeep Wrangler X 4.0",
+   "ref": "https://bringatrailer.com/listing/2002-jeep-wrangler-111/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "13k-Mile 2014 Chevrolet Corvette Stingray Convertible Z51 2LT",
+   "ref": "https://bringatrailer.com/listing/2014-chevrolet-corvette-stingray-convertible-64/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "Original-Owner, 111-Kilometer 1996 Chevrolet Impala SS",
+   "ref": "https://bringatrailer.com/listing/1996-chevrolet-impala-ss-127/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "Coyote-Powered 1970 Ford Bronco",
+   "ref": "https://bringatrailer.com/listing/1970-ford-bronco-283/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "2017 Mazda MX-5 Miata Cup Car",
+   "ref": "https://bringatrailer.com/listing/2017-mazda-mx-5-miata-6/"
+  },
+  {
+   "at": "2026-11-02T21:46:46Z",
+   "kind": "sale",
+   "title": "2008 Land Rover Range Rover Sport Supercharged",
+   "ref": "https://bringatrailer.com/listing/2008-land-rover-range-rover-sport-31/"
+  },
   {
    "at": "2026-11-01T19:37:23Z",
    "kind": "sale",
@@ -312,84 +390,6 @@
    "kind": "sale",
    "title": "47k-Mile 2012 GMC Yukon XL Denali AWD 6.2L",
    "ref": "https://bringatrailer.com/listing/2012-gmc-yukon-xl-denali-3/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "Japanese-Market 2008 Porsche Cayenne Turbo",
-   "ref": "https://bringatrailer.com/listing/2008-porsche-cayenne-turbo-82/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "23k-Mile 2003 Volkswagen New Beetle GLS Convertible 5-Speed",
-   "ref": "https://bringatrailer.com/listing/2003-volkswagen-new-beetle-25/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "One-Owner 2001 Toyota Land Cruiser UZJ100",
-   "ref": "https://bringatrailer.com/listing/2001-toyota-land-cruiser-76/"
-  },
-  {
-   "at": "2026-10-30T18:04:02Z",
-   "kind": "sale",
-   "title": "LS3-Powered 1957 Chevrolet Bel Air 2-Door Hardtop",
-   "ref": "https://bringatrailer.com/listing/1957-chevrolet-bel-air-390/"
-  },
-  {
-   "at": "2026-10-30T18:04:02Z",
-   "kind": "sale",
-   "title": "2019 Porsche 911 GT3 RS Weissach",
-   "ref": "https://bringatrailer.com/listing/2019-porsche-911-gt3-rs-weissach-104/"
-  },
-  {
-   "at": "2026-10-30T18:04:02Z",
-   "kind": "sale",
-   "title": "2003 Oldsmobile Aurora Final 500 Edition V8",
-   "ref": "https://bringatrailer.com/listing/2003-oldsmobile-aurora-8/"
-  },
-  {
-   "at": "2026-10-30T18:04:02Z",
-   "kind": "sale",
-   "title": "166-Mile 2009 Ford Mustang Shelby GT500KR",
-   "ref": "https://bringatrailer.com/listing/2009-ford-mustang-shelby-gt500kr-29/"
-  },
-  {
-   "at": "2026-10-30T18:04:02Z",
-   "kind": "sale",
-   "title": "1975 Jeep Wagoneer Custom 4&#215;4 Project",
-   "ref": "https://bringatrailer.com/listing/1975-jeep-wagoneer/"
-  },
-  {
-   "at": "2026-10-30T18:04:02Z",
-   "kind": "sale",
-   "title": "Fuel-Injected, 5.0L-Powered 1968 Ford Mustang Convertible 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1968-ford-mustang-408/"
-  },
-  {
-   "at": "2026-10-30T18:04:02Z",
-   "kind": "sale",
-   "title": "1970 Ford Mustang Boss 302 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1970-ford-mustang-boss-302-132/"
-  },
-  {
-   "at": "2026-10-30T18:04:02Z",
-   "kind": "sale",
-   "title": "2011 Porsche 911 GT3 RS",
-   "ref": "https://bringatrailer.com/listing/2011-porsche-911-gt3-rs-48/"
-  },
-  {
-   "at": "2026-10-30T18:04:02Z",
-   "kind": "sale",
-   "title": "32k-Mile 1988 Porsche 911 Turbo Cabriolet M505 Slant Nose",
-   "ref": "https://bringatrailer.com/listing/1988-porsche-911-turbo-cabriolet-59/"
-  },
-  {
-   "at": "2026-10-30T09:58:47Z",
-   "kind": "sale",
-   "title": "37k-Mile 2013 Audi TT Coupe Prestige Quattro",
-   "ref": "https://bringatrailer.com/listing/2013-audi-tt-2/"
   }
  ]
 }
