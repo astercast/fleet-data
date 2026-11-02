@@ -1,10 +1,10 @@
 {
- "at": "2026-11-01T11:28:48Z",
+ "at": "2026-11-02T12:51:02Z",
  "runs": [
   {
    "collector": "scripts/heartbeat/aster.py",
    "ok": true,
-   "seconds": 1.4,
+   "seconds": 1.2,
    "error": null
   }
  ]

@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-01T11:29:48Z",
+ "generated_at": "2026-11-02T12:52:11Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -596,6 +596,39 @@
    "activity_id": "big-mirror-face-copy-my-face",
    "activity_name": "Big Mirror Face, Copy My Face",
    "queued_at": "2026-11-01T11:29:47Z"
+  },
+  {
+   "commons_title": "File:Big Thomson Mesa, Capitol Reef National Park, Utah.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Big_Thomson_Mesa,_Capitol_Reef_National_Park,_Utah.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Big_Thomson_Mesa%2C_Capitol_Reef_National_Park%2C_Utah.jpg/500px-Big_Thomson_Mesa%2C_Capitol_Reef_National_Park%2C_Utah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "This image was taken by the NASA Expedition 20 crew",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "big-cloud-lying-picture-names",
+   "activity_name": "Big Cloud Lying, Picture Names",
+   "queued_at": "2026-11-02T12:52:08Z"
+  },
+  {
+   "commons_title": "File:Big boulders and white fluffy clouds (2665668841).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Big_boulders_and_white_fluffy_clouds_(2665668841).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Big_boulders_and_white_fluffy_clouds_%282665668841%29.jpg/500px-Big_boulders_and_white_fluffy_clouds_%282665668841%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/91545223@N00\">Benson Kua</a> from Toronto, Canada",
+   "licence": "CC BY-SA 2.0",
+   "status": "pending",
+   "activity_id": "big-cloud-lying-picture-names",
+   "activity_name": "Big Cloud Lying, Picture Names",
+   "queued_at": "2026-11-02T12:52:08Z"
+  },
+  {
+   "commons_title": "File:Pieter Brueghel the Elder - The Dutch Proverbs - Google Art Project.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg/500px-Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Pieter_Bruegel_the_Elder\" class=\"extiw\" title=\"w:en:Pieter Bruegel the Elder\"><span title=\"Flemish painter (1526–1569)\">Pieter Brueghel the Elder</span></a></bdi>",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "big-water-painting-fence-picture",
+   "activity_name": "Big Water Painting, Fence Picture",
+   "queued_at": "2026-11-02T12:52:10Z"
   }
  ]
 }
