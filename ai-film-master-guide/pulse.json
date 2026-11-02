@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-02T00:37:49Z",
+ "generated_at": "2026-11-02T10:56:38Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-02T00:37:49Z",
+ "last_data_change_at": "2026-11-02T10:56:38Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
-   "items": 60,
-   "checked_at": "2026-11-02T00:37:47Z",
-   "last_ok_at": "2026-11-02T00:37:47Z",
+   "items": 68,
+   "checked_at": "2026-11-02T10:56:36Z",
+   "last_ok_at": "2026-11-02T10:56:36Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-02T00:37:49Z",
-   "last_ok_at": "2026-11-02T00:37:49Z",
+   "checked_at": "2026-11-02T10:56:38Z",
+   "last_ok_at": "2026-11-02T10:56:38Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-02T00:37:05Z",
-   "last_ok_at": "2026-11-02T00:37:05Z",
+   "checked_at": "2026-11-02T10:56:35Z",
+   "last_ok_at": "2026-11-02T10:56:35Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-02T00:37:47Z",
-   "last_ok_at": "2026-11-02T00:37:47Z",
+   "checked_at": "2026-11-02T10:56:36Z",
+   "last_ok_at": "2026-11-02T10:56:36Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,85 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-02T00:37:05Z",
-   "last_ok_at": "2026-11-02T00:37:05Z",
+   "checked_at": "2026-11-02T10:56:35Z",
+   "last_ok_at": "2026-11-02T10:56:35Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: N3M3SIS666/Wan2.2-TI2V-5B",
+   "ref": "https://huggingface.co/N3M3SIS666/Wan2.2-TI2V-5B"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: my-app-s/Wan2.2-TI2V-5B-GGUF",
+   "ref": "https://huggingface.co/my-app-s/Wan2.2-TI2V-5B-GGUF"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: rajivmeduri/LTX-2.3-uncensored-v1.4-FP8",
+   "ref": "https://huggingface.co/rajivmeduri/LTX-2.3-uncensored-v1.4-FP8"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Mrbluntec/LTX-2.3-uncensored-v1.4-FP8",
+   "ref": "https://huggingface.co/Mrbluntec/LTX-2.3-uncensored-v1.4-FP8"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "paper",
+   "title": "New arXiv paper: A Better Critic Matters for Distribution Matching Distillation",
+   "ref": "http://arxiv.org/abs/2610.42135v1"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Any Forcing: Any-Step Generality and One-Step Stability for Autoregressive Video Generation",
+   "ref": "http://arxiv.org/abs/2610.42031v1"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "paper",
+   "title": "New arXiv paper: GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation",
+   "ref": "http://arxiv.org/abs/2610.42002v1"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Optimizing Stochastic Policy Geometry for Few-Step Flow Reinforcement Learning",
+   "ref": "http://arxiv.org/abs/2610.41949v1"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "paper",
+   "title": "New arXiv paper: TADP: Dual-Branch Temporally Adaptive Differential Privacy for Expression-Aware Video Anonymization",
+   "ref": "http://arxiv.org/abs/2610.41642v1"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "paper",
+   "title": "New arXiv paper: GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning",
+   "ref": "http://arxiv.org/abs/2610.41314v1"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "paper",
+   "title": "New arXiv paper: WorldBridge: Bridging Video and Action for Task Generalization in World Action Models",
+   "ref": "http://arxiv.org/abs/2610.40748v1"
+  },
+  {
+   "at": "2026-11-02T10:56:38Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling",
+   "ref": "http://arxiv.org/abs/2610.39232v2"
+  },
   {
    "at": "2026-11-02T00:37:49Z",
    "kind": "price-signal",

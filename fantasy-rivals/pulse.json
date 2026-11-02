@@ -1,6 +1,6 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-02T00:40:05Z",
+ "generated_at": "2026-11-02T10:58:49Z",
  "stale_after_h": 30,
  "healthy": true,
  "sources_ok": 1,
@@ -13,8 +13,8 @@
    "url": "https://liquipedia.net/marvelrivals/",
    "ok": true,
    "items": 6,
-   "checked_at": "2026-11-02T00:40:05Z",
-   "last_ok_at": "2026-11-02T00:40:05Z",
+   "checked_at": "2026-11-02T10:58:49Z",
+   "last_ok_at": "2026-11-02T10:58:49Z",
    "error": null,
    "fails_in_a_row": 0
   }
