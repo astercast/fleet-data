@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-11-02T21:46:53Z",
+ "generated_at": "2026-11-03T06:37:26Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -20,7 +20,7 @@
     [
      "site",
      "ok",
-     "143 ms"
+     "123 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -30,7 +30,7 @@
      "id": "arxiv",
      "ok": true,
      "fails": 0,
-     "items": 68
+     "items": 84
     },
     {
      "id": "github",
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "8.9 h old, limit 50 h"
+     "17.8 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,11 +77,11 @@
     [
      "site",
      "ok",
-     "646 ms"
+     "235 ms"
     ]
    ],
-   "data_age_h": 8.9,
-   "changed_age_h": 8.9,
+   "data_age_h": 17.8,
+   "changed_age_h": 17.8,
    "sources": [
     {
      "id": "cmdstore",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "8.9 h old, limit 50 h"
+     "17.8 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "217 ms"
+     "383 ms"
     ]
    ],
-   "data_age_h": 8.9,
+   "data_age_h": 17.8,
    "changed_age_h": null,
    "sources": [
     {
@@ -178,7 +178,7 @@
     [
      "site",
      "ok",
-     "403 ms"
+     "232 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -217,7 +217,7 @@
     {
      "id": "youtube-blog",
      "ok": false,
-     "fails": 33,
+     "fails": 34,
      "items": 0
     },
     {
@@ -247,7 +247,7 @@
     [
      "site",
      "ok",
-     "71 ms"
+     "92 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -256,7 +256,7 @@
     {
      "id": "board",
      "ok": false,
-     "fails": 33,
+     "fails": 34,
      "items": 0
     },
     {
@@ -269,7 +269,7 @@
      "id": "lane-charts",
      "ok": true,
      "fails": 0,
-     "items": 20
+     "items": 30
     },
     {
      "id": "lane-gtrends",
@@ -281,7 +281,7 @@
      "id": "lane-hn",
      "ok": true,
      "fails": 0,
-     "items": 49
+     "items": 50
     },
     {
      "id": "lane-lemmy",
@@ -340,7 +340,7 @@
     {
      "id": "lane-tiktok",
      "ok": false,
-     "fails": 33,
+     "fails": 34,
      "items": 0
     },
     {
@@ -352,14 +352,14 @@
     {
      "id": "lane-x",
      "ok": false,
-     "fails": 33,
+     "fails": 34,
      "items": 0
     },
     {
      "id": "lane-youtube_rss",
      "ok": true,
      "fails": 0,
-     "items": 80
+     "items": 72
     }
    ],
    "state": "warn"
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "8.9 h old, limit 50 h"
+     "17.8 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "510 ms"
+     "115 ms"
     ]
    ],
-   "data_age_h": 8.9,
-   "changed_age_h": 8.9,
+   "data_age_h": 17.8,
+   "changed_age_h": 17.8,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "8.9 h old, limit 50 h"
+     "17.8 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "306 ms"
+     "204 ms"
     ]
    ],
-   "data_age_h": 8.9,
+   "data_age_h": 17.8,
    "changed_age_h": null,
    "sources": [
     {
@@ -496,7 +496,7 @@
     [
      "site",
      "ok",
-     "454 ms"
+     "250 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -506,7 +506,7 @@
      "id": "bat",
      "ok": true,
      "fails": 0,
-     "items": 64
+     "items": 36
     },
     {
      "id": "nhtsa-vpic",
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "301 ms"
+     "235 ms"
     ]
    ],
    "state": "ok"
@@ -548,7 +548,7 @@
     [
      "site",
      "ok",
-     "247 ms"
+     "409 ms"
     ],
     [
      "health",
@@ -557,7 +557,7 @@
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 21.1,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "liquipedia",
@@ -591,11 +591,11 @@
     [
      "site",
      "ok",
-     "243 ms"
+     "366 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "changed_age_h": 8.8,
    "sources": [
     {
      "id": "store",

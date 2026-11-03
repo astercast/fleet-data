@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "fb-meta-delays-commercial-terms-update-indefinitely-7faa26",
+   "platform": "facebook",
+   "title": "Meta delays commercial terms update indefinitely",
+   "summary": "<p>The company&#39;s upcoming commercial terms of service update has prompted regulators to seek more insight into the specific details.</p>",
+   "detected_at": "2026-11-03T06:34:32Z",
+   "announced_at": "2026-11-02T22:46:42Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/meta-delays-commercial-terms-update-indefinitely/873528/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/meta-delays-commercial-terms-update-indefinitely/873528/"
+    }
+   ],
+   "category": "policy",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-top-5-branded-videos-of-the-week-keeping-cash-f38e0d",
    "platform": "youtube",
    "title": "Top 5 Branded Videos of the Week: Keeping cash",
@@ -1179,8 +1198,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-02T21:44:27Z",
+ "generated_at": "2026-11-03T06:34:32Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "version": "1.7.0"
 }

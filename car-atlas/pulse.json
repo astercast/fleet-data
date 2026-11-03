@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-02T21:46:46Z",
+ "generated_at": "2026-11-03T06:37:21Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-02T21:46:46Z",
+ "last_data_change_at": "2026-11-03T06:37:21Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 64,
-   "checked_at": "2026-11-02T21:46:44Z",
-   "last_ok_at": "2026-11-02T21:46:44Z",
+   "items": 36,
+   "checked_at": "2026-11-03T06:37:20Z",
+   "last_ok_at": "2026-11-03T06:37:20Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,19 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12417,
-   "checked_at": "2026-11-02T21:46:46Z",
-   "last_ok_at": "2026-11-02T21:46:46Z",
+   "checked_at": "2026-11-03T06:37:21Z",
+   "last_ok_at": "2026-11-03T06:37:21Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-03T06:37:21Z",
+   "kind": "sale",
+   "title": "1996 Porsche 911 Carrera Cabriolet",
+   "ref": "https://bringatrailer.com/listing/1996-porsche-911-carrera-cabriolet-92/"
+  },
   {
    "at": "2026-11-02T21:46:46Z",
    "kind": "sale",
@@ -384,12 +390,6 @@
    "kind": "sale",
    "title": "36-Years-Owned 1957 Austin-Healey 100-6 BN4 Roadster",
    "ref": "https://bringatrailer.com/listing/1957-austin-healey-100-6-roadster-12/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "47k-Mile 2012 GMC Yukon XL Denali AWD 6.2L",
-   "ref": "https://bringatrailer.com/listing/2012-gmc-yukon-xl-denali-3/"
   }
  ]
 }
