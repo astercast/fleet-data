@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "yt-x-like-youtube-is-offering-bonuses-to-creators-w-260f66",
+   "platform": "youtube",
+   "title": "X, like YouTube, is offering bonuses to creators who consistently upload new videos",
+   "summary": "X has been trying to increase its potential as a video platform since it was still known as Twitter. Now, four years into Elon Musk's reign, the social media hub is debuting a new form of monetization. The Video Kickstart Bonus program will deliver payouts to creators who publish regular uploads over a set period of time. For now, the Video Kickstart Bonus is a pilot program that is being tested among a select group of creators. Those lab rats will be notified of their eligibility via their Crea",
+   "detected_at": "2026-11-03T23:16:58Z",
+   "announced_at": "2026-11-03T22:57:13Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/03/x-video-kickstart-program-creator-bonus-monetization/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/03/x-video-kickstart-program-creator-bonus-monetization/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-youtube-is-giving-some-creators-a-30-day-fix-it-cccdf7",
+   "platform": "youtube",
+   "title": "YouTube is giving some creators a 30-day fix-it period before terminating their channels",
+   "summary": "YouTube is giving some creators a little grace after flagging their channels for violations of its spam policy. Historically, creators who are flagged for spam–a broad category that includes everything from viewbotting, to posting “low-effort, repetitive” comments or polls, to promoting get-rich-quick schemes, to mass-reposting content from other people–get their channels immediately terminated. That means […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-11-03T23:16:58Z",
+   "announced_at": "2026-11-03T22:39:12Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/03/youtube-spam-policy-content-violation-grace-period-appeals/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/03/youtube-spam-policy-content-violation-grace-period-appeals/"
+    }
+   ],
+   "category": "policy",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "fb-meta-delays-commercial-terms-update-indefinitely-7faa26",
    "platform": "facebook",
    "title": "Meta delays commercial terms update indefinitely",
@@ -1198,7 +1236,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-03T06:34:32Z",
+ "generated_at": "2026-11-03T23:16:58Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-03",
  "version": "1.7.0"

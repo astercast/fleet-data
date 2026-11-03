@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-03T17:05:03Z",
+ "generated_at": "2026-11-03T23:20:17Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-03T06:37:21Z",
+ "last_data_change_at": "2026-11-03T23:20:17Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 36,
-   "checked_at": "2026-11-03T17:05:01Z",
-   "last_ok_at": "2026-11-03T17:05:01Z",
+   "checked_at": "2026-11-03T23:20:16Z",
+   "last_ok_at": "2026-11-03T23:20:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,67 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12417,
-   "checked_at": "2026-11-03T17:05:03Z",
-   "last_ok_at": "2026-11-03T17:05:03Z",
+   "checked_at": "2026-11-03T23:20:17Z",
+   "last_ok_at": "2026-11-03T23:20:17Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-03T23:20:17Z",
+   "kind": "sale",
+   "title": "28-Years-Owned 1994 Mazda MX-5 Miata 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1994-mazda-mx-5-miata-145/"
+  },
+  {
+   "at": "2026-11-03T23:20:17Z",
+   "kind": "sale",
+   "title": "One-Family-Owned 2000 Honda S2000",
+   "ref": "https://bringatrailer.com/listing/2000-honda-s2000-296/"
+  },
+  {
+   "at": "2026-11-03T23:20:17Z",
+   "kind": "sale",
+   "title": "14k-Mile 2008 Jaguar XJ Vanden Plas",
+   "ref": "https://bringatrailer.com/listing/2008-jaguar-xj8-l-7/"
+  },
+  {
+   "at": "2026-11-03T23:20:17Z",
+   "kind": "sale",
+   "title": "2009 Porsche 911 Carrera S Cabriolet 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2009-porsche-911-carrera-s-cabriolet-75-2/"
+  },
+  {
+   "at": "2026-11-03T23:20:17Z",
+   "kind": "sale",
+   "title": "1999 Jeep Wrangler Sport AEV 4.0",
+   "ref": "https://bringatrailer.com/listing/1999-jeep-wrangler-114-2/"
+  },
+  {
+   "at": "2026-11-03T23:20:17Z",
+   "kind": "sale",
+   "title": "40-Years-Owned 1979 Jeep CJ-5 Renegade V8",
+   "ref": "https://bringatrailer.com/listing/1979-jeep-cj-5-51/"
+  },
+  {
+   "at": "2026-11-03T23:20:17Z",
+   "kind": "sale",
+   "title": "Neon 1969 Pontiac GTO Judge Neon Sign",
+   "ref": "https://bringatrailer.com/listing/neon-1969-pontiac-gto-judge-neon-sign/"
+  },
+  {
+   "at": "2026-11-03T23:20:17Z",
+   "kind": "sale",
+   "title": "Whipple-Supercharged 2003 Ford Mustang SVT Cobra Coupe",
+   "ref": "https://bringatrailer.com/listing/2003-ford-mustang-svt-cobra-coupe-65/"
+  },
+  {
+   "at": "2026-11-03T23:20:17Z",
+   "kind": "sale",
+   "title": "15k-Mile 2011 BMW M3 Convertible",
+   "ref": "https://bringatrailer.com/listing/2011-bmw-m3-convertible-57/"
+  },
   {
    "at": "2026-11-03T06:37:21Z",
    "kind": "sale",
@@ -336,60 +390,6 @@
    "kind": "sale",
    "title": "1976 Toyota Land Cruiser FJ40",
    "ref": "https://bringatrailer.com/listing/1976-toyota-land-cruiser-fj40-169/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "1989 Porsche 911 Carrera Cabriolet G50",
-   "ref": "https://bringatrailer.com/listing/1989-porsche-911-carrera-cabriolet-72/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "12k-Mile 2017 Porsche 911 Carrera 4S Coupe",
-   "ref": "https://bringatrailer.com/listing/2017-porsche-911-carrera-4s-coupe-35/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "8k-Mile 2010 Ford Mustang Shelby GT500 Coupe",
-   "ref": "https://bringatrailer.com/listing/2010-ford-mustang-shelby-gt500-coupe-36/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "2014 Land Rover Range Rover Supercharged LWB",
-   "ref": "https://bringatrailer.com/listing/2014-land-rover-range-rover-88/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "2,600-Mile 2001 Chevrolet Corvette Z06",
-   "ref": "https://bringatrailer.com/listing/2001-chevrolet-corvette-z06-99/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "1973 Pontiac Firebird Trans Am 455",
-   "ref": "https://bringatrailer.com/listing/1973-pontiac-firebird-trans-am-20/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "26k-Mile 1994 Mazda MX-5 Miata M Edition 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1994-mazda-mx-5-miata-146/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "One-Family-Owned 1969 Dodge Charger 383 Project",
-   "ref": "https://bringatrailer.com/listing/1969-dodge-charger-91/"
-  },
-  {
-   "at": "2026-10-30T22:19:27Z",
-   "kind": "sale",
-   "title": "36-Years-Owned 1957 Austin-Healey 100-6 BN4 Roadster",
-   "ref": "https://bringatrailer.com/listing/1957-austin-healey-100-6-roadster-12/"
   }
  ]
 }

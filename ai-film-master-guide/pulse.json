@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-03T17:03:03Z",
+ "generated_at": "2026-11-03T23:16:58Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-03T17:03:03Z",
+ "last_data_change_at": "2026-11-03T23:16:58Z",
  "sources": [
   {
    "id": "arxiv",
@@ -13,8 +13,8 @@
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
    "items": 85,
-   "checked_at": "2026-11-03T17:03:01Z",
-   "last_ok_at": "2026-11-03T17:03:01Z",
+   "checked_at": "2026-11-03T23:16:56Z",
+   "last_ok_at": "2026-11-03T23:16:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-03T17:03:03Z",
-   "last_ok_at": "2026-11-03T17:03:03Z",
+   "checked_at": "2026-11-03T23:16:58Z",
+   "last_ok_at": "2026-11-03T23:16:58Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-03T17:03:00Z",
-   "last_ok_at": "2026-11-03T17:03:00Z",
+   "checked_at": "2026-11-03T23:16:55Z",
+   "last_ok_at": "2026-11-03T23:16:55Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-03T17:03:01Z",
-   "last_ok_at": "2026-11-03T17:03:01Z",
+   "checked_at": "2026-11-03T23:16:56Z",
+   "last_ok_at": "2026-11-03T23:16:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,37 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-03T17:03:00Z",
-   "last_ok_at": "2026-11-03T17:03:00Z",
+   "checked_at": "2026-11-03T23:16:55Z",
+   "last_ok_at": "2026-11-03T23:16:55Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-03T23:16:58Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: thedefine/Wan2.2-T2V-A14B-GGUF",
+   "ref": "https://huggingface.co/thedefine/Wan2.2-T2V-A14B-GGUF"
+  },
+  {
+   "at": "2026-11-03T23:16:58Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: OliviaRossi/Minimax-H3-Hybrid-DMAD-PDMD",
+   "ref": "https://huggingface.co/OliviaRossi/Minimax-H3-Hybrid-DMAD-PDMD"
+  },
+  {
+   "at": "2026-11-03T23:16:58Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: jaxbaxxxxxx/HunyuanVideo",
+   "ref": "https://huggingface.co/jaxbaxxxxxx/HunyuanVideo"
+  },
+  {
+   "at": "2026-11-03T23:16:58Z",
+   "kind": "release",
+   "title": "comfyui release: v0.44.0",
+   "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0"
+  },
   {
    "at": "2026-11-03T17:03:03Z",
    "kind": "new-model",
@@ -399,30 +423,6 @@
    "kind": "paper",
    "title": "New arXiv paper: dKV Forcing: Separating Generation and Memory Representations through a Differentiable KV Cache",
    "ref": "http://arxiv.org/abs/2611.01648v1"
-  },
-  {
-   "at": "2026-11-03T06:34:32Z",
-   "kind": "paper",
-   "title": "New arXiv paper: GSExplorer: Interactive World Generation with a Persistent 3D Gaussian World State",
-   "ref": "http://arxiv.org/abs/2611.01543v1"
-  },
-  {
-   "at": "2026-11-03T06:34:32Z",
-   "kind": "paper",
-   "title": "New arXiv paper: IMPACT: Image-Conditioned Motion with Physics-Aware Collision and Trajectory Guidance for Video Generation",
-   "ref": "http://arxiv.org/abs/2611.01372v1"
-  },
-  {
-   "at": "2026-11-03T06:34:32Z",
-   "kind": "paper",
-   "title": "New arXiv paper: What Helps Denoising Can Hurt Memory: Rethinking History in Long Video Generation",
-   "ref": "http://arxiv.org/abs/2611.00937v1"
-  },
-  {
-   "at": "2026-11-03T06:34:32Z",
-   "kind": "paper",
-   "title": "New arXiv paper: FilmTogether: Cinematic Video Generation from Low-Cost Inputs",
-   "ref": "http://arxiv.org/abs/2611.00899v1"
   }
  ]
 }

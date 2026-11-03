@@ -28,6 +28,7 @@
   "Mohit5899/bhaav-e",
   "Mrbluntec/LTX-2.3-uncensored-v1.4-FP8",
   "N3M3SIS666/Wan2.2-TI2V-5B",
+  "OliviaRossi/Minimax-H3-Hybrid-DMAD-PDMD",
   "ParisNeo/MiniMax-H3-FL2VA-FP8",
   "PatiPix/FastWan2.2-TI2V-5B-GGUF",
   "PedroMarinhoDev/Hy-Nomas-ComfyUI",
@@ -104,6 +105,7 @@
   "infosave/MiniMax-H3-Turbo-cmf",
   "intel-ai/Wan2.2-S2V-14B-MXFP8-AutoRound",
   "intel-ai/Wan2.2-T2V-A14B-Diffusers-MXFP8-AutoRound",
+  "jaxbaxxxxxx/HunyuanVideo",
   "jean-is/FastWan2.2-TI2V-5B-ONNX",
   "my-app-s/Wan2.2-TI2V-5B-GGUF",
   "neonforestmist/LTX_Storybook_Anime_Style_LoRa",
@@ -120,6 +122,7 @@
   "t8star/HY-Nomas-Comfy",
   "taurusduan/MiniMax-H3-Turbo-Lora",
   "taurusduan/MiniMax-H3-Turbo-Lora-ComfyUI",
+  "thedefine/Wan2.2-T2V-A14B-GGUF",
   "udgamlabs/Drishya-Tiny",
   "unsloth/Wan2.2-TI2V-5B-FP8",
   "wanyi2026/Minimax-H3-R2VA-Veda-Preview",
@@ -261,6 +264,7 @@
   "tag:github.com,2008:Repository/589831718/v0.42.5",
   "tag:github.com,2008:Repository/589831718/v0.43.0",
   "tag:github.com,2008:Repository/589831718/v0.43.1",
-  "tag:github.com,2008:Repository/589831718/v0.43.2"
+  "tag:github.com,2008:Repository/589831718/v0.43.2",
+  "tag:github.com,2008:Repository/589831718/v0.44.0"
  ]
 }

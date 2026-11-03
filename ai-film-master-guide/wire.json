@@ -1,7 +1,47 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-03T17:03:03Z",
+ "generated_at": "2026-11-03T23:16:58Z",
  "items": [
+  {
+   "id": "hf-thedefine/Wan2.2-T2V-A14B-GGUF",
+   "at": "2026-11-03T20:42:06Z",
+   "model": "thedefine/Wan2.2-T2V-A14B-GGUF",
+   "title": "New text-to-video model listed on Hugging Face: thedefine/Wan2.2-T2V-A14B-GGUF",
+   "url": "https://huggingface.co/thedefine/Wan2.2-T2V-A14B-GGUF",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "gh-comfyui-v0.44.0",
+   "at": "2026-11-03T19:21:48Z",
+   "model": "comfyui",
+   "title": "comfyui release: v0.44.0",
+   "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0",
+   "kind": "release",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-OliviaRossi/Minimax-H3-Hybrid-DMAD-PDMD",
+   "at": "2026-11-03T18:37:52Z",
+   "model": "OliviaRossi/Minimax-H3-Hybrid-DMAD-PDMD",
+   "title": "New text-to-video model listed on Hugging Face: OliviaRossi/Minimax-H3-Hybrid-DMAD-PDMD",
+   "url": "https://huggingface.co/OliviaRossi/Minimax-H3-Hybrid-DMAD-PDMD",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-jaxbaxxxxxx/HunyuanVideo",
+   "at": "2026-11-03T18:34:20Z",
+   "model": "jaxbaxxxxxx/HunyuanVideo",
+   "title": "New text-to-video model listed on Hugging Face: jaxbaxxxxxx/HunyuanVideo",
+   "url": "https://huggingface.co/jaxbaxxxxxx/HunyuanVideo",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-wsjLL/MiniMax-H3-NVFP4",
    "at": "2026-11-03T15:29:05Z",
@@ -1458,46 +1498,6 @@
    "model": "MiniMax H3",
    "title": "MiniMax H3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://pixo.video/blog/what-is-minimax-h3",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Hailuo 02 / 2.3-2026-11-01",
-   "at": "2026-11-01T00:02:56+00:00",
-   "model": "Hailuo 02 / 2.3",
-   "title": "Hailuo 02 / 2.3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://magichour.ai/blog/hailuo-23-pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 3.0 / 3.0 Prime-2026-11-01",
-   "at": "2026-11-01T00:02:48+00:00",
-   "model": "Wan 3.0 / 3.0 Prime",
-   "title": "Wan 3.0 / 3.0 Prime: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.makeinfluencer.ai/guides/best-ai-video-generators-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1 Fast / Veo 3-2026-11-01",
-   "at": "2026-11-01T00:02:35+00:00",
-   "model": "Veo 3.1 Fast / Veo 3",
-   "title": "Veo 3.1 Fast / Veo 3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "http://dev.to/osman_sylemez_e83bde4a36/running-veo-31-kling-30-and-seedance-20-side-by-side-what-a-10-second-clip-actually-costs-597",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1-2026-11-01",
-   "at": "2026-11-01T00:02:25+00:00",
-   "model": "Veo 3.1",
-   "title": "Veo 3.1: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
