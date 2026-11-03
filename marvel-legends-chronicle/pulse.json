@@ -1,6 +1,6 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-02T12:51:01Z",
+ "generated_at": "2026-11-03T12:19:53Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 61,
-   "checked_at": "2026-11-02T12:50:56Z",
-   "last_ok_at": "2026-11-02T12:50:56Z",
+   "checked_at": "2026-11-03T12:19:48Z",
+   "last_ok_at": "2026-11-03T12:19:48Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 100,
-   "checked_at": "2026-11-02T12:51:01Z",
-   "last_ok_at": "2026-11-02T12:51:01Z",
+   "items": 58,
+   "checked_at": "2026-11-03T12:19:53Z",
+   "last_ok_at": "2026-11-03T12:19:53Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-02T12:51:01Z",
-   "last_ok_at": "2026-11-02T12:51:01Z",
+   "checked_at": "2026-11-03T12:19:53Z",
+   "last_ok_at": "2026-11-03T12:19:53Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 48,
-   "checked_at": "2026-11-02T12:51:00Z",
-   "last_ok_at": "2026-11-02T12:51:00Z",
+   "checked_at": "2026-11-03T12:19:52Z",
+   "last_ok_at": "2026-11-03T12:19:52Z",
    "error": null,
    "fails_in_a_row": 0
   }
