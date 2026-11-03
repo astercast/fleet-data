@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-03T06:34:32Z",
+ "generated_at": "2026-11-03T17:03:03Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-03T06:34:32Z",
+ "last_data_change_at": "2026-11-03T17:03:03Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
-   "items": 84,
-   "checked_at": "2026-11-03T06:34:29Z",
-   "last_ok_at": "2026-11-03T06:34:29Z",
+   "items": 85,
+   "checked_at": "2026-11-03T17:03:01Z",
+   "last_ok_at": "2026-11-03T17:03:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-03T06:34:32Z",
-   "last_ok_at": "2026-11-03T06:34:32Z",
+   "checked_at": "2026-11-03T17:03:03Z",
+   "last_ok_at": "2026-11-03T17:03:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-03T06:34:28Z",
-   "last_ok_at": "2026-11-03T06:34:28Z",
+   "checked_at": "2026-11-03T17:03:00Z",
+   "last_ok_at": "2026-11-03T17:03:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-03T06:34:29Z",
-   "last_ok_at": "2026-11-03T06:34:29Z",
+   "checked_at": "2026-11-03T17:03:01Z",
+   "last_ok_at": "2026-11-03T17:03:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,61 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-03T06:34:28Z",
-   "last_ok_at": "2026-11-03T06:34:28Z",
+   "checked_at": "2026-11-03T17:03:00Z",
+   "last_ok_at": "2026-11-03T17:03:00Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-03T17:03:03Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: wsjLL/MiniMax-H3-NVFP4",
+   "ref": "https://huggingface.co/wsjLL/MiniMax-H3-NVFP4"
+  },
+  {
+   "at": "2026-11-03T17:03:03Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Alextokenizin7873/LongCat-Video",
+   "ref": "https://huggingface.co/Alextokenizin7873/LongCat-Video"
+  },
+  {
+   "at": "2026-11-03T17:03:03Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Fluid-Motion-AI/hunyuanvideo-1.5-weights",
+   "ref": "https://huggingface.co/Fluid-Motion-AI/hunyuanvideo-1.5-weights"
+  },
+  {
+   "at": "2026-11-03T17:03:03Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Fluid-Motion-AI/skyreels-v1-weights",
+   "ref": "https://huggingface.co/Fluid-Motion-AI/skyreels-v1-weights"
+  },
+  {
+   "at": "2026-11-03T17:03:03Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: slmonker/TaoMate-HD-preview-comfy",
+   "ref": "https://huggingface.co/slmonker/TaoMate-HD-preview-comfy"
+  },
+  {
+   "at": "2026-11-03T17:03:03Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-qwen3.6-27b-q5-k-p-gguf",
+   "ref": "https://huggingface.co/RunningHubAI/rh-qwen3.6-27b-q5-k-p-gguf"
+  },
+  {
+   "at": "2026-11-03T17:03:03Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: zero1101001/wan22-fp8-t2v-loras-nsfw",
+   "ref": "https://huggingface.co/zero1101001/wan22-fp8-t2v-loras-nsfw"
+  },
+  {
+   "at": "2026-11-03T17:03:03Z",
+   "kind": "paper",
+   "title": "New arXiv paper: TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation",
+   "ref": "http://arxiv.org/abs/2611.03394v1"
+  },
   {
    "at": "2026-11-03T06:34:32Z",
    "kind": "price-signal",
@@ -375,54 +423,6 @@
    "kind": "paper",
    "title": "New arXiv paper: FilmTogether: Cinematic Video Generation from Low-Cost Inputs",
    "ref": "http://arxiv.org/abs/2611.00899v1"
-  },
-  {
-   "at": "2026-11-03T06:34:32Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
-   "ref": "http://arxiv.org/abs/2611.00859v1"
-  },
-  {
-   "at": "2026-11-03T06:34:32Z",
-   "kind": "paper",
-   "title": "New arXiv paper: UniCaMo: Unified Camera and Motion Control for Video Diffusion Models",
-   "ref": "http://arxiv.org/abs/2611.00810v1"
-  },
-  {
-   "at": "2026-11-03T06:34:32Z",
-   "kind": "paper",
-   "title": "New arXiv paper: SE-Mem: Semantic-Episodic Memory for Scene-Consistent Generative View Synthesis",
-   "ref": "http://arxiv.org/abs/2611.00658v1"
-  },
-  {
-   "at": "2026-11-03T06:34:32Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Seeing the Unseen: Unified Visible--Invisible Motion for Physically Consistent Video Generation",
-   "ref": "http://arxiv.org/abs/2611.00293v1"
-  },
-  {
-   "at": "2026-11-02T21:44:27Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-ln2-stage2-from21750-ema",
-   "ref": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-ln2-stage2-from21750-ema"
-  },
-  {
-   "at": "2026-11-02T21:44:27Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-u5-qt",
-   "ref": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-u5-qt"
-  },
-  {
-   "at": "2026-11-02T21:44:27Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-qt",
-   "ref": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-qt"
-  },
-  {
-   "at": "2026-11-02T21:44:27Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-fm-tm-ln2",
-   "ref": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-fm-tm-ln2"
   }
  ]
 }

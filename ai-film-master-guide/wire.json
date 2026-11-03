@@ -1,7 +1,77 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-03T06:34:32Z",
+ "generated_at": "2026-11-03T17:03:03Z",
  "items": [
+  {
+   "id": "hf-wsjLL/MiniMax-H3-NVFP4",
+   "at": "2026-11-03T15:29:05Z",
+   "model": "wsjLL/MiniMax-H3-NVFP4",
+   "title": "New text-to-video model listed on Hugging Face: wsjLL/MiniMax-H3-NVFP4",
+   "url": "https://huggingface.co/wsjLL/MiniMax-H3-NVFP4",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Alextokenizin7873/LongCat-Video",
+   "at": "2026-11-03T10:40:15Z",
+   "model": "Alextokenizin7873/LongCat-Video",
+   "title": "New text-to-video model listed on Hugging Face: Alextokenizin7873/LongCat-Video",
+   "url": "https://huggingface.co/Alextokenizin7873/LongCat-Video",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Fluid-Motion-AI/hunyuanvideo-1.5-weights",
+   "at": "2026-11-03T10:09:13Z",
+   "model": "Fluid-Motion-AI/hunyuanvideo-1.5-weights",
+   "title": "New text-to-video model listed on Hugging Face: Fluid-Motion-AI/hunyuanvideo-1.5-weights",
+   "url": "https://huggingface.co/Fluid-Motion-AI/hunyuanvideo-1.5-weights",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Fluid-Motion-AI/skyreels-v1-weights",
+   "at": "2026-11-03T10:09:07Z",
+   "model": "Fluid-Motion-AI/skyreels-v1-weights",
+   "title": "New text-to-video model listed on Hugging Face: Fluid-Motion-AI/skyreels-v1-weights",
+   "url": "https://huggingface.co/Fluid-Motion-AI/skyreels-v1-weights",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-slmonker/TaoMate-HD-preview-comfy",
+   "at": "2026-11-03T09:49:26Z",
+   "model": "slmonker/TaoMate-HD-preview-comfy",
+   "title": "New text-to-video model listed on Hugging Face: slmonker/TaoMate-HD-preview-comfy",
+   "url": "https://huggingface.co/slmonker/TaoMate-HD-preview-comfy",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-qwen3.6-27b-q5-k-p-gguf",
+   "at": "2026-11-03T09:23:01Z",
+   "model": "RunningHubAI/rh-qwen3.6-27b-q5-k-p-gguf",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-qwen3.6-27b-q5-k-p-gguf",
+   "url": "https://huggingface.co/RunningHubAI/rh-qwen3.6-27b-q5-k-p-gguf",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-zero1101001/wan22-fp8-t2v-loras-nsfw",
+   "at": "2026-11-03T06:39:15Z",
+   "model": "zero1101001/wan22-fp8-t2v-loras-nsfw",
+   "title": "New text-to-video model listed on Hugging Face: zero1101001/wan22-fp8-t2v-loras-nsfw",
+   "url": "https://huggingface.co/zero1101001/wan22-fp8-t2v-loras-nsfw",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-03",
    "at": "2026-11-03T06:34:25+00:00",
@@ -529,6 +599,16 @@
    "title": "New text-to-video model listed on Hugging Face: Rombakr5/Wan2.2-TI2V-5B",
    "url": "https://huggingface.co/Rombakr5/Wan2.2-TI2V-5B",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.03394v1",
+   "at": "2026-11-02T16:29:27Z",
+   "model": "",
+   "title": "New arXiv paper: TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation",
+   "url": "http://arxiv.org/abs/2611.03394v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -1419,86 +1499,6 @@
    "title": "Veo 3.1: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
    "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Kling 3.0-2026-11-01",
-   "at": "2026-11-01T00:02:16+00:00",
-   "model": "Kling 3.0",
-   "title": "Kling 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 3.0-2026-11-01",
-   "at": "2026-11-01T00:02:08+00:00",
-   "model": "Seedance 3.0",
-   "title": "Seedance 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.highonfilms.com/seedance-3-0-provider-checks/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 2.5-2026-11-01",
-   "at": "2026-11-01T00:02:02+00:00",
-   "model": "Seedance 2.5",
-   "title": "Seedance 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://cellcog.ai/blog/seedance-2-5-pricing/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.00937v1",
-   "at": "2026-10-31T13:39:46Z",
-   "model": "",
-   "title": "New arXiv paper: What Helps Denoising Can Hurt Memory: Rethinking History in Long Video Generation",
-   "url": "http://arxiv.org/abs/2611.00937v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.00899v1",
-   "at": "2026-10-31T12:59:20Z",
-   "model": "",
-   "title": "New arXiv paper: FilmTogether: Cinematic Video Generation from Low-Cost Inputs",
-   "url": "http://arxiv.org/abs/2611.00899v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.00859v1",
-   "at": "2026-10-31T12:04:25Z",
-   "model": "",
-   "title": "New arXiv paper: Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
-   "url": "http://arxiv.org/abs/2611.00859v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.00810v1",
-   "at": "2026-10-31T10:45:03Z",
-   "model": "",
-   "title": "New arXiv paper: UniCaMo: Unified Camera and Motion Control for Video Diffusion Models",
-   "url": "http://arxiv.org/abs/2611.00810v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-PrometheusEXE/MiniMax-H3-PTD-LoRAs",
-   "at": "2026-10-31T08:27:03Z",
-   "model": "PrometheusEXE/MiniMax-H3-PTD-LoRAs",
-   "title": "New text-to-video model listed on Hugging Face: PrometheusEXE/MiniMax-H3-PTD-LoRAs",
-   "url": "https://huggingface.co/PrometheusEXE/MiniMax-H3-PTD-LoRAs",
-   "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }
