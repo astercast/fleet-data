@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:03:59.287913+00:00",
+ "generated_at": "2026-11-04T14:24:49.526048+00:00",
  "version": 1,
  "method": "Hand-curated by a wave-worker from web research (Oct 2026), never by an LLM. verification: 'verified' = 2+ independent sources agree; 'single-source' = one source or creator lore, flagged, not trusted. status: rising/peak/fading for the current cycle; established = long-lived format, not a current surge; evergreen = always-recurring debate template. The pipeline matches topics to families with conservative word-boundary regexes (see pipeline/format_families.py) and re-computes every run, so family links are derived, never stale.",
  "families": [
@@ -454,7 +454,7 @@
    "verification": "single-source",
    "verification_note": "Creator-lore, no Oct-2026 dated evidence found. Evergreen, not a current surge.",
    "tracked_topics": [
-    "spreadsheets-are-an-art-form"
+    "6-diesel-is-the-only-reason-texas-flipped"
    ]
   }
  ]

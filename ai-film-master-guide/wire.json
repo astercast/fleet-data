@@ -1,7 +1,37 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-04T06:05:14Z",
+ "generated_at": "2026-11-04T14:23:52Z",
  "items": [
+  {
+   "id": "hf-Spectrallic/MiniMax-H3-DMAD-int8-convrot",
+   "at": "2026-11-04T14:20:24Z",
+   "model": "Spectrallic/MiniMax-H3-DMAD-int8-convrot",
+   "title": "New text-to-video model listed on Hugging Face: Spectrallic/MiniMax-H3-DMAD-int8-convrot",
+   "url": "https://huggingface.co/Spectrallic/MiniMax-H3-DMAD-int8-convrot",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Riyan200324200324/Wan2.1-T2V-14B-gguf",
+   "at": "2026-11-04T14:00:23Z",
+   "model": "Riyan200324200324/Wan2.1-T2V-14B-gguf",
+   "title": "New text-to-video model listed on Hugging Face: Riyan200324200324/Wan2.1-T2V-14B-gguf",
+   "url": "https://huggingface.co/Riyan200324200324/Wan2.1-T2V-14B-gguf",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Spectrallic/MiniMax-H3-PDMD-4step-int8-convrot",
+   "at": "2026-11-04T12:51:48Z",
+   "model": "Spectrallic/MiniMax-H3-PDMD-4step-int8-convrot",
+   "title": "New text-to-video model listed on Hugging Face: Spectrallic/MiniMax-H3-PDMD-4step-int8-convrot",
+   "url": "https://huggingface.co/Spectrallic/MiniMax-H3-PDMD-4step-int8-convrot",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-04",
    "at": "2026-11-04T06:05:10+00:00",
@@ -1468,36 +1498,6 @@
    "model": "Vidu S2",
    "title": "Vidu S2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://www.prnewswire.com/news-releases/shengshu-technology-unveils-vidu-s2-bringing-real-time-interaction-and-editing-to-ai-video-302879976.html",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-LTX-2.5-2026-11-02",
-   "at": "2026-11-02T00:35:40+00:00",
-   "model": "LTX-2.5",
-   "title": "LTX-2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://intelligibberish.com/articles/best-local-video-generation-models-by-vram/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Gemini Omni-2026-11-02",
-   "at": "2026-11-02T00:35:32+00:00",
-   "model": "Gemini Omni",
-   "title": "Gemini Omni: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Kling 4.0-2026-11-02",
-   "at": "2026-11-02T00:35:21+00:00",
-   "model": "Kling 4.0",
-   "title": "Kling 4.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
