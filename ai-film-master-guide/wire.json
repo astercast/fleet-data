@@ -1,7 +1,67 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-04T14:23:52Z",
+ "generated_at": "2026-11-04T21:18:30Z",
  "items": [
+  {
+   "id": "hf-karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
+   "at": "2026-11-04T20:05:30Z",
+   "model": "karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
+   "title": "New text-to-video model listed on Hugging Face: karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
+   "url": "https://huggingface.co/karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
+   "at": "2026-11-04T17:22:13Z",
+   "model": "RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
+   "at": "2026-11-04T17:14:28Z",
+   "model": "manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
+   "title": "New text-to-video model listed on Hugging Face: manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
+   "url": "https://huggingface.co/manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-teste-unet",
+   "at": "2026-11-04T15:44:02Z",
+   "model": "RunningHubAI/rh-teste-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-teste-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-teste-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-minimax-h3-fl2va-pruned-int8-unet",
+   "at": "2026-11-04T15:27:03Z",
+   "model": "RunningHubAI/rh-minimax-h3-fl2va-pruned-int8-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-minimax-h3-fl2va-pruned-int8-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-minimax-h3-fl2va-pruned-int8-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-rzgar/TaoMate-HD-preview-T2V-Comfy",
+   "at": "2026-11-04T14:49:48Z",
+   "model": "rzgar/TaoMate-HD-preview-T2V-Comfy",
+   "title": "New text-to-video model listed on Hugging Face: rzgar/TaoMate-HD-preview-T2V-Comfy",
+   "url": "https://huggingface.co/rzgar/TaoMate-HD-preview-T2V-Comfy",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-Spectrallic/MiniMax-H3-DMAD-int8-convrot",
    "at": "2026-11-04T14:20:24Z",
@@ -1438,66 +1498,6 @@
    "model": "Wan 2.7",
    "title": "Wan 2.7: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://poyo.ai/models/wan-2-7-video",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-PixVerse V6-2026-11-02",
-   "at": "2026-11-02T00:36:30+00:00",
-   "model": "PixVerse V6",
-   "title": "PixVerse V6: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.yottalabs.ai/post/pixverse-v6-vs-c1-differences-api-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-FLUX 3 Video-2026-11-02",
-   "at": "2026-11-02T00:36:18+00:00",
-   "model": "FLUX 3 Video",
-   "title": "FLUX 3 Video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Vidu Q4 Preview-2026-11-02",
-   "at": "2026-11-02T00:36:08+00:00",
-   "model": "Vidu Q4 Preview",
-   "title": "Vidu Q4 Preview: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.vidu.com/pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Gen-4.5-2026-11-02",
-   "at": "2026-11-02T00:36:01+00:00",
-   "model": "Runway Gen-4.5",
-   "title": "Runway Gen-4.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/326994/20260908/runway-ai-hits-200m-arr-enterprise-video-adoption-triples-existing-spend.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Mirage Tesseract-2026-11-02",
-   "at": "2026-11-02T00:35:57+00:00",
-   "model": "Mirage Tesseract",
-   "title": "Mirage Tesseract: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://mirage.app/tesseract",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Vidu S2-2026-11-02",
-   "at": "2026-11-02T00:35:48+00:00",
-   "model": "Vidu S2",
-   "title": "Vidu S2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.prnewswire.com/news-releases/shengshu-technology-unveils-vidu-s2-bringing-real-time-interaction-and-editing-to-ai-video-302879976.html",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"

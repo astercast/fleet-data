@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "yt-the-code-for-youtube-s-android-app-reveals-a-tes-e14e9c",
+   "platform": "youtube",
+   "title": "The code for YouTube’s Android app reveals a testing ground for Instagram-style social features",
+   "summary": "The most recent version of YouTube's Android app includes some curious lines of code. A report from Android Authority reveals numerous references to Tamba, a mysterious entity that has some similarities to Instagram. Android Authority's discoveries within the YouTube app include the logo pictured above and dozens of icons that share a crude aesthetic reminiscent of hand-drawn images. Those assets are tied to a package titled \"com.google.android.youtube.sandbox,\" suggesting that Tamba is a separa",
+   "detected_at": "2026-11-04T21:18:30Z",
+   "announced_at": "2026-11-04T20:48:16Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/04/youtube-android-app-tamba-social-media-platform/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/04/youtube-android-app-tamba-social-media-platform/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-top-5-branded-videos-of-the-week-the-adrenaline-e460b2",
+   "platform": "youtube",
+   "title": "Top 5 Branded Videos of the Week: The adrenaline spectrum",
+   "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for t he ranking. And–as the name up […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-11-04T21:18:30Z",
+   "announced_at": "2026-11-04T20:05:08Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/04/top-5-branded-videos-mrbeast-veritasium-civil-rights-lawyer/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/04/top-5-branded-videos-mrbeast-veritasium-civil-rights-lawyer/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-youtube-enlists-educational-creators-to-show-the-ede059",
    "platform": "youtube",
    "title": "YouTube enlists educational creators to show the value of its interactive gaming hub",
@@ -1274,7 +1312,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-04T06:05:14Z",
+ "generated_at": "2026-11-04T21:18:30Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-04",
  "version": "1.7.0"

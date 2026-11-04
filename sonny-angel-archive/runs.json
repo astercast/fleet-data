@@ -1,10 +1,10 @@
 {
- "at": "2026-11-04T14:26:30Z",
+ "at": "2026-11-04T21:21:39Z",
  "runs": [
   {
    "collector": "scripts/heartbeat/stock.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 0.3,
    "error": null
   }
  ]
