@@ -1,6 +1,6 @@
 {
  "format": "atlas-wants/1",
- "generated_at": "2026-11-03T23:20:17Z",
+ "generated_at": "2026-11-04T06:08:12Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -88,11 +88,6 @@
    "bidTo": 1
   },
   {
-   "key": "Mercedes-Benz gl550",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
    "key": "Mercedes-Benz ml500",
    "sold": 1,
    "bidTo": 0
@@ -114,13 +109,18 @@
   },
   {
    "key": "Mercedes-Benz slk230",
-   "sold": 0,
-   "bidTo": 1
+   "sold": 1,
+   "bidTo": 0
   },
   {
    "key": "Pontiac firebird",
    "sold": 1,
    "bidTo": 0
+  },
+  {
+   "key": "Porsche 911",
+   "sold": 0,
+   "bidTo": 1
   },
   {
    "key": "Porsche boxster",
@@ -139,6 +139,18 @@
   }
  ],
  "results": [
+  {
+   "title": "Non-Sunroof, RoW 1987 Porsche 911 Carrera Coupe G50",
+   "url": "https://bringatrailer.com/listing/1987-porsche-911-carrera-coupe-127-2/",
+   "price": 0,
+   "currency": "USD",
+   "ended": "2026-11-04",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "bid-to",
+   "matched": true,
+   "wantsKey": "Porsche 911"
+  },
   {
    "title": "1992 Chevrolet K1500 Silverado Z71 4×4",
    "url": "https://bringatrailer.com/listing/1992-chevrolet-k1500-pickup-gmt400/",
@@ -399,7 +411,7 @@
    "ended": "2026-11-03",
    "noreserve": false,
    "house": "Bring a Trailer",
-   "status": "bid-to",
+   "status": "sold",
    "matched": false,
    "wantsKey": "Mercedes-Benz slk230"
   },
@@ -450,18 +462,6 @@
    "status": "sold",
    "matched": false,
    "wantsKey": "Shaquille O"
-  },
-  {
-   "title": "2015 Mercedes-Benz GL550 4MATIC",
-   "url": "https://bringatrailer.com/listing/2015-mercedes-benz-gl550-16/",
-   "price": 16100,
-   "currency": "USD",
-   "ended": "2026-11-03",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Mercedes-Benz gl550"
   }
  ]
 }

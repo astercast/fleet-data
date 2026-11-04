@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "yt-youtube-enlists-educational-creators-to-show-the-ede059",
+   "platform": "youtube",
+   "title": "YouTube enlists educational creators to show the value of its interactive gaming hub",
+   "summary": "As educators, researchers, and policymakers debate YouTube's utility in classrooms, a handful of creators are getting the chance to show how the platform's interactive elements can enhance learning. YouTube quietly introduced a slate of educational games through its Playables hub, with notable STEM channels like Veritasium and Khan Academy involved in the initiative. Playables has been available on YouTube for nearly three years, but for much of its existence, the hub has been little more than a",
+   "detected_at": "2026-11-04T06:05:14Z",
+   "announced_at": "2026-11-04T00:14:22Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/03/youtube-educational-games-playables-veritasium/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/03/youtube-educational-games-playables-veritasium/"
+    }
+   ],
+   "category": "policy",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "cw-linkedin-shares-information-on-new-creator-insig-4fb05b",
+   "platform": "other",
+   "title": "LinkedIn shares information on new creator insights options",
+   "summary": "<p>The company&rsquo;s updated analytics are designed to help creators access more monetization opportunities and better understand post metrics.</p>",
+   "detected_at": "2026-11-04T06:05:14Z",
+   "announced_at": "2026-11-03T23:25:51Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/linkedin-shares-information-on-new-creator-insights-options/873675/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/linkedin-shares-information-on-new-creator-insights-options/873675/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-x-like-youtube-is-offering-bonuses-to-creators-w-260f66",
    "platform": "youtube",
    "title": "X, like YouTube, is offering bonuses to creators who consistently upload new videos",
@@ -1236,8 +1274,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-03T23:16:58Z",
+ "generated_at": "2026-11-04T06:05:14Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "version": "1.7.0"
 }

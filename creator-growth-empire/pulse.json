@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-03T23:17:03Z",
+ "generated_at": "2026-11-04T06:05:16Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-03T23:17:00Z",
+ "last_data_change_at": "2026-11-04T06:05:15Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-03T23:16:59Z",
-   "last_ok_at": "2026-11-03T23:16:59Z",
+   "checked_at": "2026-11-04T06:05:15Z",
+   "last_ok_at": "2026-11-04T06:05:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-03T23:16:59Z",
-   "last_ok_at": "2026-11-03T23:16:59Z",
+   "checked_at": "2026-11-04T06:05:15Z",
+   "last_ok_at": "2026-11-04T06:05:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-03T23:17:02Z",
-   "last_ok_at": "2026-11-03T23:17:02Z",
+   "checked_at": "2026-11-04T06:05:16Z",
+   "last_ok_at": "2026-11-04T06:05:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-03T23:16:59Z",
-   "last_ok_at": "2026-11-03T23:16:59Z",
+   "checked_at": "2026-11-04T06:05:15Z",
+   "last_ok_at": "2026-11-04T06:05:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-03T23:17:00Z",
-   "last_ok_at": "2026-11-03T23:17:00Z",
+   "checked_at": "2026-11-04T06:05:15Z",
+   "last_ok_at": "2026-11-04T06:05:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-03T23:16:59Z",
+   "checked_at": "2026-11-04T06:05:15Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 36
+   "fails_in_a_row": 37
   },
   {
    "id": "ypp-help",
@@ -79,13 +79,37 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-03T23:17:03Z",
-   "last_ok_at": "2026-11-03T23:17:03Z",
+   "checked_at": "2026-11-04T06:05:16Z",
+   "last_ok_at": "2026-11-04T06:05:16Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-04T06:05:15Z",
+   "kind": "change",
+   "title": "YouTube enlists educational creators to show the value of its interactive gaming hub",
+   "ref": "https://www.tubefilter.com/2026/11/03/youtube-educational-games-playables-veritasium/"
+  },
+  {
+   "at": "2026-11-04T06:05:15Z",
+   "kind": "change",
+   "title": "LinkedIn shares information on new creator insights options",
+   "ref": "https://www.socialmediatoday.com/news/linkedin-shares-information-on-new-creator-insights-options/873675/"
+  },
+  {
+   "at": "2026-11-04T06:05:16Z",
+   "kind": "source-changed",
+   "title": "TikTok Newsroom page changed",
+   "ref": "https://newsroom.tiktok.com/en-us/"
+  },
+  {
+   "at": "2026-11-04T06:05:16Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
   {
    "at": "2026-11-03T23:17:00Z",
    "kind": "change",
@@ -99,12 +123,6 @@
    "ref": "https://www.tubefilter.com/2026/11/03/youtube-spam-policy-content-violation-grace-period-appeals/"
   },
   {
-   "at": "2026-11-03T23:17:03Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
-  },
-  {
    "at": "2026-11-03T06:34:34Z",
    "kind": "change",
    "title": "Meta delays commercial terms update indefinitely",
@@ -115,12 +133,6 @@
    "kind": "change",
    "title": "Top 5 Branded Videos of the Week: Keeping cash",
    "ref": "https://www.tubefilter.com/2026/11/02/top-5-branded-videos-mrbeast-veritasium-civil-rights-lawyer-2/"
-  },
-  {
-   "at": "2026-11-02T21:44:30Z",
-   "kind": "source-changed",
-   "title": "TikTok Newsroom page changed",
-   "ref": "https://newsroom.tiktok.com/en-us/"
   },
   {
    "at": "2026-11-02T10:56:38Z",
