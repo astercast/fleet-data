@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-02T12:52:11Z",
+ "generated_at": "2026-11-04T12:31:29Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -629,6 +629,28 @@
    "activity_id": "big-water-painting-fence-picture",
    "activity_name": "Big Water Painting, Fence Picture",
    "queued_at": "2026-11-02T12:52:10Z"
+  },
+  {
+   "commons_title": "File:Letter signed Sara, Intervale, N.H., to (Ernst Filsinger), New York City, July 23, 1926 - DPLA - afb76b820e4a31e470d599fed60abe20 (page 1).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Letter_signed_Sara,_Intervale,_N.H.,_to_(Ernst_Filsinger),_New_York_City,_July_23,_1926_-_DPLA_-_afb76b820e4a31e470d599fed60abe20_(page_1).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Letter_signed_Sara%2C_Intervale%2C_N.H.%2C_to_%28Ernst_Filsinger%29%2C_New_York_City%2C_July_23%2C_1926_-_DPLA_-_afb76b820e4a31e470d599fed60abe20_%28page_1%29.jpg/500px-Letter_signed_Sara%2C_Intervale%2C_N.H.%2C_to_%28Ernst_Filsinger%29%2C_New_York_City%2C_July_23%2C_1926_-_DPLA_-_afb76b820e4a31e470d599fed60abe20_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "Teasdale, Sara, 1884-1933",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "big-new-friend-room-tour",
+   "activity_name": "Big New Friend Room Tour",
+   "queued_at": "2026-11-04T12:31:28Z"
+  },
+  {
+   "commons_title": "File:Letter signed Sara, Intervale, N.H., to (Ernst Filsinger), New York City, July 23, 1926 - DPLA - afb76b820e4a31e470d599fed60abe20 (page 4).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Letter_signed_Sara,_Intervale,_N.H.,_to_(Ernst_Filsinger),_New_York_City,_July_23,_1926_-_DPLA_-_afb76b820e4a31e470d599fed60abe20_(page_4).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Letter_signed_Sara%2C_Intervale%2C_N.H.%2C_to_%28Ernst_Filsinger%29%2C_New_York_City%2C_July_23%2C_1926_-_DPLA_-_afb76b820e4a31e470d599fed60abe20_%28page_4%29.jpg/500px-Letter_signed_Sara%2C_Intervale%2C_N.H.%2C_to_%28Ernst_Filsinger%29%2C_New_York_City%2C_July_23%2C_1926_-_DPLA_-_afb76b820e4a31e470d599fed60abe20_%28page_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "Teasdale, Sara, 1884-1933",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "big-new-friend-room-tour",
+   "activity_name": "Big New Friend Room Tour",
+   "queued_at": "2026-11-04T12:31:28Z"
   }
  ]
 }

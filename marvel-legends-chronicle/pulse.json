@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-03T12:19:53Z",
+ "generated_at": "2026-11-04T12:30:15Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-02T12:51:01Z",
+ "last_data_change_at": "2026-11-04T12:30:15Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 61,
-   "checked_at": "2026-11-03T12:19:48Z",
-   "last_ok_at": "2026-11-03T12:19:48Z",
+   "checked_at": "2026-11-04T12:30:07Z",
+   "last_ok_at": "2026-11-04T12:30:07Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 58,
-   "checked_at": "2026-11-03T12:19:53Z",
-   "last_ok_at": "2026-11-03T12:19:53Z",
+   "items": 100,
+   "checked_at": "2026-11-04T12:30:15Z",
+   "last_ok_at": "2026-11-04T12:30:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-03T12:19:53Z",
-   "last_ok_at": "2026-11-03T12:19:53Z",
+   "checked_at": "2026-11-04T12:30:15Z",
+   "last_ok_at": "2026-11-04T12:30:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,25 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 48,
-   "checked_at": "2026-11-03T12:19:52Z",
-   "last_ok_at": "2026-11-03T12:19:52Z",
+   "checked_at": "2026-11-04T12:30:15Z",
+   "last_ok_at": "2026-11-04T12:30:15Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-04T12:30:15Z",
+   "kind": "story",
+   "title": "Review of the Wolverine action figure from the Marvel Legends Series by Hasbro - YouTube",
+   "ref": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12QWowRXRSLUZidjdTbHh2MTBaemUxWnY1cmZ4T0EwcndfQ0NKWkhxeGw3ME9jS3NudnNhaS16N0RjRnBuWmFrSnRteEZ0UG5nYnF3MTlkQ0wwSWo0?oc=5"
+  },
+  {
+   "at": "2026-11-04T12:30:15Z",
+   "kind": "story",
+   "title": "New Marvel Legends Figures Revealed For Avengers: Doomsday & X-Men '97 - IMDb",
+   "ref": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOWdlM2lVYWJmYXc1WmU2Y2l0YVNiVkFpMlpiODYxdDJUYTdPczZpNGlhSVNBWjVpTkhPOXFRUjFMSW8td1JiLWlaVGNFYUdSTHgxUUlwRXM3Q3hJNmI3ZlViNmlVdnc?oc=5"
+  },
   {
    "at": "2026-11-02T12:51:01Z",
    "kind": "story",
@@ -70,12 +82,6 @@
    "kind": "story",
    "title": "Beast joins Hasbro’s X-Men ’97 Marvel Legends Series collection with new figure - Flickering Myth",
    "ref": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3d1TGpjUVFZOHlySkFvYi1kUmZkdHF0SHdveXg5RV9OQnl2TVBWbE9iYjBRWllYcVNHV0VqcDBRQkdZVE9BRENrX01fem1LZ19CSzNBVG9nSk9rUEs3MV9xQlE0bC0wX09jdHFyeGluYUdjR0ZDNGhnNG0xZ2VJWHVYdmVQRDhGclg2Z2xCMVA3MktNcmJmczNfWmZST0l6Z1hhTUZYbDYzMU03MlE?oc=5"
-  },
-  {
-   "at": "2026-11-01T11:28:46Z",
-   "kind": "story",
-   "title": "New Marvel Legends Figures Revealed For Avengers: Doomsday & X-Men '97 - IMDb",
-   "ref": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QS1JYbVR4dWduLUd0cTQ2T1RTbUZpa09tb19HaklGQ3VvRDNWYWZEUE5nSmZoeTZybGpFUjloM1IyZm5pWmsxcDRVeDA3V0QyLW80bEdmSU9ZNkp1a014dHZwT0tUTnM?oc=5"
   },
   {
    "at": "2026-11-01T11:28:46Z",
@@ -400,18 +406,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Shang-Chi",
    "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-shang-chi-5010996355843"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Gambit",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-gambit-5010996355812"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Captain America (Falcon)",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-captain-america-falcon-5010996355836"
   }
  ]
 }

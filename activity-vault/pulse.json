@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-03T12:20:55Z",
+ "generated_at": "2026-11-04T12:31:29Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-03T12:19:54Z",
+ "last_data_change_at": "2026-11-04T12:30:19Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 57,
-   "checked_at": "2026-11-03T12:20:55Z",
-   "last_ok_at": "2026-11-03T12:20:55Z",
+   "items": 59,
+   "checked_at": "2026-11-04T12:31:29Z",
+   "last_ok_at": "2026-11-04T12:31:29Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-03T12:19:56Z",
-   "last_ok_at": "2026-11-03T12:19:56Z",
+   "checked_at": "2026-11-04T12:30:23Z",
+   "last_ok_at": "2026-11-04T12:30:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-03T12:19:55Z",
-   "last_ok_at": "2026-11-03T12:19:55Z",
+   "checked_at": "2026-11-04T12:30:19Z",
+   "last_ok_at": "2026-11-04T12:30:19Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-03T12:19:56Z",
-   "last_ok_at": "2026-11-03T12:19:56Z",
+   "checked_at": "2026-11-04T12:30:22Z",
+   "last_ok_at": "2026-11-04T12:30:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-03T12:19:56Z",
-   "last_ok_at": "2026-11-03T12:19:56Z",
+   "checked_at": "2026-11-04T12:30:21Z",
+   "last_ok_at": "2026-11-04T12:30:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-03T12:19:56Z",
-   "last_ok_at": "2026-11-03T12:19:56Z",
+   "checked_at": "2026-11-04T12:30:20Z",
+   "last_ok_at": "2026-11-04T12:30:20Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,37 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-03T12:19:54Z",
-   "last_ok_at": "2026-11-03T12:19:54Z",
+   "checked_at": "2026-11-04T12:30:18Z",
+   "last_ok_at": "2026-11-04T12:30:18Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-04T12:30:19Z",
+   "kind": "post",
+   "title": "40 Thanksgiving Crafts for Kids to Really Show Their Thanks",
+   "ref": "https://handsonaswegrow.com/thanksgiving-crafts-kids/"
+  },
+  {
+   "at": "2026-11-04T12:30:20Z",
+   "kind": "post",
+   "title": "Apple Taste Test Activity with Printable Worksheets",
+   "ref": "https://teachbesideme.com/apple-taste-test-printable/"
+  },
+  {
+   "at": "2026-11-04T12:30:22Z",
+   "kind": "post",
+   "title": "Funny Thanksgiving Jokes Your Kids Will Gobble Up",
+   "ref": "https://kidsactivitiesblog.com/183426/thanksgiving-jokes-kids/"
+  },
+  {
+   "at": "2026-11-04T12:31:28Z",
+   "kind": "photo-candidate",
+   "title": "Big New Friend Room Tour",
+   "ref": "https://commons.wikimedia.org/wiki/File:Letter_signed_Sara,_Intervale,_N.H.,_to_(Ernst_Filsinger),_New_York_City,_July_23,_1926_-_DPLA_-_afb76b820e4a31e470d599fed60abe20_(page_1).jpg"
+  },
   {
    "at": "2026-11-03T12:19:54Z",
    "kind": "post",
@@ -415,36 +439,6 @@
    "kind": "post",
    "title": "Thanksgiving Science Experiments & STEM Activities for Kids",
    "ref": "https://littlebinsforlittlehands.com/thanksgiving-science-activities-and-experiments-for-kids/"
-  },
-  {
-   "at": "2026-10-27T10:03:07Z",
-   "kind": "photo-candidate",
-   "title": "Big Name Bell, Ring for You",
-   "ref": "https://commons.wikimedia.org/wiki/File:Bell_Dogs_Bell_Bhaktapur_Durbar_Square_Bhaktapur_Nepal_Rajesh_Dhungana.jpg"
-  },
-  {
-   "at": "2026-10-26T10:30:28Z",
-   "kind": "photo-candidate",
-   "title": "Big Log Roll Down the Mat",
-   "ref": "https://commons.wikimedia.org/wiki/File:End_cretaceous_65Ma_gdd5_co2_400ppmv_S_1357_1_1_1_1.png"
-  },
-  {
-   "at": "2026-10-26T10:30:31Z",
-   "kind": "photo-candidate",
-   "title": "Big Story Stone, First People",
-   "ref": "https://commons.wikimedia.org/wiki/File:The_Manners_Stone_-_geograph.org.uk_-_1048201.jpg"
-  },
-  {
-   "at": "2026-10-25T13:25:20Z",
-   "kind": "photo-candidate",
-   "title": "Big Texture Feet Path Walk",
-   "ref": "https://commons.wikimedia.org/wiki/File:Phenology_III_Journals_1-6_-_DPLA_-_4fb8cf24bdaa8f32e8576cf714579e9a.jpg"
-  },
-  {
-   "at": "2026-10-25T13:25:38Z",
-   "kind": "photo-candidate",
-   "title": "Big Warm Stone Hold and Tell",
-   "ref": "https://commons.wikimedia.org/wiki/File:Of_All_The_Stones_I%27ve_Thrown_(16365006266).jpg"
   }
  ]
 }
