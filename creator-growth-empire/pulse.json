@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-04T21:18:34Z",
+ "generated_at": "2026-11-05T06:32:04Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-04T21:18:32Z",
+ "last_data_change_at": "2026-11-05T06:32:02Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-04T21:18:31Z",
-   "last_ok_at": "2026-11-04T21:18:31Z",
+   "checked_at": "2026-11-05T06:32:01Z",
+   "last_ok_at": "2026-11-05T06:32:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-04T21:18:31Z",
-   "last_ok_at": "2026-11-04T21:18:31Z",
+   "checked_at": "2026-11-05T06:32:02Z",
+   "last_ok_at": "2026-11-05T06:32:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-04T21:18:33Z",
-   "last_ok_at": "2026-11-04T21:18:33Z",
+   "checked_at": "2026-11-05T06:32:03Z",
+   "last_ok_at": "2026-11-05T06:32:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-04T21:18:31Z",
-   "last_ok_at": "2026-11-04T21:18:31Z",
+   "checked_at": "2026-11-05T06:32:02Z",
+   "last_ok_at": "2026-11-05T06:32:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-04T21:18:32Z",
-   "last_ok_at": "2026-11-04T21:18:32Z",
+   "checked_at": "2026-11-05T06:32:02Z",
+   "last_ok_at": "2026-11-05T06:32:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-04T21:18:31Z",
+   "checked_at": "2026-11-05T06:32:01Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 39
+   "fails_in_a_row": 40
   },
   {
    "id": "ypp-help",
@@ -79,13 +79,49 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-04T21:18:34Z",
-   "last_ok_at": "2026-11-04T21:18:34Z",
+   "checked_at": "2026-11-05T06:32:04Z",
+   "last_ok_at": "2026-11-05T06:32:04Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-05T06:32:02Z",
+   "kind": "change",
+   "title": "Are Reddit’s new search ads just an answer engine optimization play?",
+   "ref": "https://www.tubefilter.com/2026/11/04/reddit-search-ads-test-ai-answer-engine-optimization/"
+  },
+  {
+   "at": "2026-11-05T06:32:02Z",
+   "kind": "change",
+   "title": "Midterm election traffic spiked on Twitch, but Hasan Piker can’t hold a candle to Steve Kornacki",
+   "ref": "https://www.tubefilter.com/2026/11/04/2026-midterm-election-hasan-piker-steve-kornacki/"
+  },
+  {
+   "at": "2026-11-05T06:32:02Z",
+   "kind": "change",
+   "title": "Snapchat posts modest user increase in Q3",
+   "ref": "https://www.socialmediatoday.com/news/snapchat-posts-modest-user-increase-in-q3/873823/"
+  },
+  {
+   "at": "2026-11-05T06:32:02Z",
+   "kind": "change",
+   "title": "Instagram tries to entice long-form creators",
+   "ref": "https://www.socialmediatoday.com/news/instagram-tries-to-entice-long-form-creators/873820/"
+  },
+  {
+   "at": "2026-11-05T06:32:02Z",
+   "kind": "change",
+   "title": "LinkedIn details new creator insights options",
+   "ref": "https://www.socialmediatoday.com/news/linkedin-details-new-creator-insights-options/873675/"
+  },
+  {
+   "at": "2026-11-05T06:32:04Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
   {
    "at": "2026-11-04T21:18:32Z",
    "kind": "change",
@@ -103,12 +139,6 @@
    "kind": "source-changed",
    "title": "TikTok Newsroom page changed",
    "ref": "https://newsroom.tiktok.com/en-us/"
-  },
-  {
-   "at": "2026-11-04T21:18:34Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
   },
   {
    "at": "2026-11-04T06:05:15Z",

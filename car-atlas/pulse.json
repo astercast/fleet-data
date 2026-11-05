@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-04T21:21:38Z",
+ "generated_at": "2026-11-05T06:35:14Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-04T21:21:38Z",
+ "last_data_change_at": "2026-11-05T06:35:14Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 70,
-   "checked_at": "2026-11-04T21:21:36Z",
-   "last_ok_at": "2026-11-04T21:21:36Z",
+   "items": 36,
+   "checked_at": "2026-11-05T06:35:13Z",
+   "last_ok_at": "2026-11-05T06:35:13Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,67 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12418,
-   "checked_at": "2026-11-04T21:21:38Z",
-   "last_ok_at": "2026-11-04T21:21:38Z",
+   "checked_at": "2026-11-05T06:35:14Z",
+   "last_ok_at": "2026-11-05T06:35:14Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-05T06:35:14Z",
+   "kind": "sale",
+   "title": "2014 Porsche 911 Carrera Coupe 7-Speed",
+   "ref": "https://bringatrailer.com/listing/2014-porsche-911-carrera-coupe-24/"
+  },
+  {
+   "at": "2026-11-05T06:35:14Z",
+   "kind": "sale",
+   "title": "Single-Family-Owned 1999 Toyota Tacoma SR5 XtraCab 4×4 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1999-toyota-tacoma-80/"
+  },
+  {
+   "at": "2026-11-05T06:35:14Z",
+   "kind": "sale",
+   "title": "2024 Porsche Cayenne S Coupe",
+   "ref": "https://bringatrailer.com/listing/2024-porsche-cayenne-s-3/"
+  },
+  {
+   "at": "2026-11-05T06:35:14Z",
+   "kind": "sale",
+   "title": "1978 Ford Bronco Ranger XLT",
+   "ref": "https://bringatrailer.com/listing/1978-ford-bronco-181/"
+  },
+  {
+   "at": "2026-11-05T06:35:14Z",
+   "kind": "sale",
+   "title": "2026 BMW M3 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2026-bmw-m3-2/"
+  },
+  {
+   "at": "2026-11-05T06:35:14Z",
+   "kind": "sale",
+   "title": "1999 Honda Civic Si",
+   "ref": "https://bringatrailer.com/listing/1999-honda-civic-si-33/"
+  },
+  {
+   "at": "2026-11-05T06:35:14Z",
+   "kind": "sale",
+   "title": "1988 Toyota Land Cruiser FJ62",
+   "ref": "https://bringatrailer.com/listing/1988-toyota-land-cruiser-fj62-264/"
+  },
+  {
+   "at": "2026-11-05T06:35:14Z",
+   "kind": "sale",
+   "title": "14k-Mile 2013 Toyota Tacoma TRD Sport Double Cab V6 4×4",
+   "ref": "https://bringatrailer.com/listing/2013-toyota-tacoma-45/"
+  },
+  {
+   "at": "2026-11-05T06:35:14Z",
+   "kind": "sale",
+   "title": "2002 BMW M3 Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2002-bmw-m3-coupe-149/"
+  },
   {
    "at": "2026-11-04T21:21:38Z",
    "kind": "sale",
@@ -336,60 +390,6 @@
    "kind": "sale",
    "title": "Ex–Randy Travis, 21k-Mile 1991 GMC Syclone",
    "ref": "https://bringatrailer.com/listing/1991-gmc-syclone-134/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "1957 Chevrolet Bel Air 2-Door Hardtop",
-   "ref": "https://bringatrailer.com/listing/1957-chevrolet-bel-air-389/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "2017 Land Rover Range Rover Supercharged",
-   "ref": "https://bringatrailer.com/listing/2017-land-rover-range-rover-127/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "1999 Porsche 911 Carrera Cabriolet 6-Speed",
-   "ref": "https://bringatrailer.com/listing/1999-porsche-911-carrera-cabriolet-187/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "Drag-Style, 351-Powered 1968 Ford Mustang Coupe",
-   "ref": "https://bringatrailer.com/listing/1968-ford-mustang-399-2/"
-  },
-  {
-   "at": "2026-11-01T00:08:31Z",
-   "kind": "sale",
-   "title": "1980 Chevrolet Camaro Z28",
-   "ref": "https://bringatrailer.com/listing/1980-chevrolet-camaro-z28-30/"
-  },
-  {
-   "at": "2026-11-01T00:08:31Z",
-   "kind": "sale",
-   "title": "One-Family-Owned 2004 Subaru Impreza WRX STi",
-   "ref": "https://bringatrailer.com/listing/2004-subaru-impreza-wrx-sti-138/"
-  },
-  {
-   "at": "2026-11-01T00:08:31Z",
-   "kind": "sale",
-   "title": "2014 Toyota Tacoma TRD Access Cab V6 4×4",
-   "ref": "https://bringatrailer.com/listing/2014-toyota-tacoma-24/"
-  },
-  {
-   "at": "2026-11-01T00:08:31Z",
-   "kind": "sale",
-   "title": "2006 Audi A4 2.0T Avant Quattro 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2006-audi-a4-b7-15/"
-  },
-  {
-   "at": "2026-11-01T00:08:31Z",
-   "kind": "sale",
-   "title": "24k-Mile 2009 Audi R8 Coupe",
-   "ref": "https://bringatrailer.com/listing/2009-audi-r8-94/"
   }
  ]
 }

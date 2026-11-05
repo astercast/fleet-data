@@ -1,6 +1,101 @@
 {
  "changes": [
   {
+   "id": "cw-are-reddit-s-new-search-ads-just-an-answer-engin-773418",
+   "platform": "other",
+   "title": "Are Reddit’s new search ads just an answer engine optimization play?",
+   "summary": "In a blog post published on November 3, Reddit revealed that it's testing a new ad product. Alongside a \"select group of eligible advertisers,\" the social platform is experimenting with paid media posts that show up in its search results. The new ads will harness Reddit's \"existing ad targeting\" to surface relevant product recommendations on search pages. The blog post provided two examples of how that process could work: A search for \"espresso station\" could show results for coffee machines, be",
+   "detected_at": "2026-11-05T06:32:00Z",
+   "announced_at": "2026-11-04T23:39:59Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/04/reddit-search-ads-test-ai-answer-engine-optimization/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/04/reddit-search-ads-test-ai-answer-engine-optimization/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-midterm-election-traffic-spiked-on-twitch-but-ha-22896a",
+   "platform": "youtube",
+   "title": "Midterm election traffic spiked on Twitch, but Hasan Piker can’t hold a candle to Steve Kornacki",
+   "summary": "The 2026 U.S. midterm elections resulted in a historic victory for Democrats, but liberals weren't the only big winners on the night of November 3. Streamers across YouTube, Twitch, Kick, and Rumble picked up more viewership than they've ever received during midterm election coverage. According to Streams Charts, election-related broadcasts on those four platforms combined to haul in 20.87 hours of watch time, collectively reaching 3.4 million concurrent viewers. Across 3,400 channels, election ",
+   "detected_at": "2026-11-05T06:32:00Z",
+   "announced_at": "2026-11-04T22:35:00Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/04/2026-midterm-election-hasan-piker-steve-kornacki/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/04/2026-midterm-election-hasan-piker-steve-kornacki/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "cw-snapchat-posts-modest-user-increase-in-q3-49c9a5",
+   "platform": "other",
+   "title": "Snapchat posts modest user increase in Q3",
+   "summary": "<p>Snap&#39;s revenue was up, but its daily platform active growth has stalled across nearly every market.</p>",
+   "detected_at": "2026-11-05T06:32:00Z",
+   "announced_at": "2026-11-05T00:46:32Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/snapchat-posts-modest-user-increase-in-q3/873823/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/snapchat-posts-modest-user-increase-in-q3/873823/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-instagram-tries-to-entice-long-form-creators-c29181",
+   "platform": "youtube",
+   "title": "Instagram tries to entice long-form creators",
+   "summary": "<p>The platform is using one-off payouts and premium placements to make up for its lack of the type of robust payout system offered by YouTube.</p>",
+   "detected_at": "2026-11-05T06:32:00Z",
+   "announced_at": "2026-11-04T22:50:52Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/instagram-tries-to-entice-long-form-creators/873820/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-tries-to-entice-long-form-creators/873820/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "cw-linkedin-details-new-creator-insights-options-1bec65",
+   "platform": "other",
+   "title": "LinkedIn details new creator insights options",
+   "summary": "<p>Updated analytics are designed to help creators access more monetization opportunities and better understand post metrics.</p>",
+   "detected_at": "2026-11-05T06:32:00Z",
+   "announced_at": "2026-11-03T23:25:51Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/linkedin-details-new-creator-insights-options/873675/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/linkedin-details-new-creator-insights-options/873675/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-the-code-for-youtube-s-android-app-reveals-a-tes-e14e9c",
    "platform": "youtube",
    "title": "The code for YouTube’s Android app reveals a testing ground for Instagram-style social features",
@@ -1312,8 +1407,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-04T21:18:30Z",
+ "generated_at": "2026-11-05T06:32:00Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "version": "1.7.0"
 }
