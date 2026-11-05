@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "yt-netflix-might-want-its-new-ai-search-to-drum-up-77fb8e",
+   "platform": "youtube",
+   "title": "Netflix might want its new AI search to drum up more “quality” viewership",
+   "summary": "Netflix‘s new strategy for combating YouTube‘s commanding share of living room TVs is to insist that it’s not the quantity of viewership, but the quality. And it might be trying to pump up those quality views with a new recommendation tool. Of course, the times being what they are, the tool is AI. AI Discover […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-11-05T17:23:09Z",
+   "announced_at": "2026-11-05T07:07:15Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/05/netflix-ai-discovery-search-algorithm/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/05/netflix-ai-discovery-search-algorithm/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "cw-are-reddit-s-new-search-ads-just-an-answer-engin-773418",
    "platform": "other",
    "title": "Are Reddit’s new search ads just an answer engine optimization play?",
@@ -1407,7 +1426,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-05T06:32:00Z",
+ "generated_at": "2026-11-05T17:23:09Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-05",
  "version": "1.7.0"

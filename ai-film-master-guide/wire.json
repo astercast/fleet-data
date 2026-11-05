@@ -1,7 +1,137 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-05T06:32:00Z",
+ "generated_at": "2026-11-05T17:23:09Z",
  "items": [
+  {
+   "id": "hf-Zakyrie/minimax-h3-beauty-clarity-enhancer",
+   "at": "2026-11-05T15:40:21Z",
+   "model": "Zakyrie/minimax-h3-beauty-clarity-enhancer",
+   "title": "New text-to-video model listed on Hugging Face: Zakyrie/minimax-h3-beauty-clarity-enhancer",
+   "url": "https://huggingface.co/Zakyrie/minimax-h3-beauty-clarity-enhancer",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Zakyrie/minimax-h3-bunny-motion-repair",
+   "at": "2026-11-05T14:54:24Z",
+   "model": "Zakyrie/minimax-h3-bunny-motion-repair",
+   "title": "New text-to-video model listed on Hugging Face: Zakyrie/minimax-h3-bunny-motion-repair",
+   "url": "https://huggingface.co/Zakyrie/minimax-h3-bunny-motion-repair",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Zakyrie/minimax-h3-bunny-combat-base",
+   "at": "2026-11-05T14:52:41Z",
+   "model": "Zakyrie/minimax-h3-bunny-combat-base",
+   "title": "New text-to-video model listed on Hugging Face: Zakyrie/minimax-h3-bunny-combat-base",
+   "url": "https://huggingface.co/Zakyrie/minimax-h3-bunny-combat-base",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg",
+   "at": "2026-11-05T14:41:57Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty-coord",
+   "at": "2026-11-05T14:38:33Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty-coord",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty-coord",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty-coord",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-u5-qt-fw-hd-item-wanneg",
+   "at": "2026-11-05T14:38:23Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-u5-qt-fw-hd-item-wanneg",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-u5-qt-fw-hd-item-wanneg",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-u5-qt-fw-hd-item-wanneg",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-ln2-qt-fw-hd-item-wanneg",
+   "at": "2026-11-05T14:38:12Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-ln2-qt-fw-hd-item-wanneg",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-ln2-qt-fw-hd-item-wanneg",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-ln2-qt-fw-hd-item-wanneg",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-vpakarinen/asmr-whisper-audio-h3-lora",
+   "at": "2026-11-05T13:44:51Z",
+   "model": "vpakarinen/asmr-whisper-audio-h3-lora",
+   "title": "New text-to-video model listed on Hugging Face: vpakarinen/asmr-whisper-audio-h3-lora",
+   "url": "https://huggingface.co/vpakarinen/asmr-whisper-audio-h3-lora",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-minimax-h3-fused-refdelta-r1024-turbo8-mystic07-int8-convrot-r-unet",
+   "at": "2026-11-05T12:58:11Z",
+   "model": "RunningHubAI/rh-minimax-h3-fused-refdelta-r1024-turbo8-mystic07-int8-convrot-r-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-minimax-h3-fused-refdelta-r1024-turbo8-mystic07-int8-convrot-r-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-minimax-h3-fused-refdelta-r1024-turbo8-mystic07-int8-convrot-r-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-vpakarinen/natural-face-speech-h3-lora",
+   "at": "2026-11-05T12:17:15Z",
+   "model": "vpakarinen/natural-face-speech-h3-lora",
+   "title": "New text-to-video model listed on Hugging Face: vpakarinen/natural-face-speech-h3-lora",
+   "url": "https://huggingface.co/vpakarinen/natural-face-speech-h3-lora",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-vpakarinen/better-human-motion-h3-lora",
+   "at": "2026-11-05T12:10:09Z",
+   "model": "vpakarinen/better-human-motion-h3-lora",
+   "title": "New text-to-video model listed on Hugging Face: vpakarinen/better-human-motion-h3-lora",
+   "url": "https://huggingface.co/vpakarinen/better-human-motion-h3-lora",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-magic-wan-image-v3-fp8mixed-unet",
+   "at": "2026-11-05T07:54:14Z",
+   "model": "RunningHubAI/rh-magic-wan-image-v3-fp8mixed-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-magic-wan-image-v3-fp8mixed-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-magic-wan-image-v3-fp8mixed-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-flux.1-dev-unet-2039890212842639362",
+   "at": "2026-11-05T06:32:30Z",
+   "model": "RunningHubAI/rh-flux.1-dev-unet-2039890212842639362",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-flux.1-dev-unet-2039890212842639362",
+   "url": "https://huggingface.co/RunningHubAI/rh-flux.1-dev-unet-2039890212842639362",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-05",
    "at": "2026-11-05T06:31:53+00:00",
@@ -1368,136 +1498,6 @@
    "model": "Gemini Omni",
    "title": "Gemini Omni: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Kling 4.0-2026-11-03",
-   "at": "2026-11-03T06:32:42+00:00",
-   "model": "Kling 4.0",
-   "title": "Kling 4.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Midjourney V1 Video-2026-11-03",
-   "at": "2026-11-03T06:32:38+00:00",
-   "model": "Midjourney V1 Video",
-   "title": "Midjourney V1 Video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.krea.ai/blog/is-midjourney-free-pricing-video-and-free-alternatives-in-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Grok Imagine Video 1.5-2026-11-03",
-   "at": "2026-11-03T06:32:28+00:00",
-   "model": "Grok Imagine Video 1.5",
-   "title": "Grok Imagine Video 1.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://venice.ai/models/grok-imagine-1-5-lite",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Marketing Studio video-2026-11-03",
-   "at": "2026-11-03T06:32:26+00:00",
-   "model": "Marketing Studio video",
-   "title": "Marketing Studio video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://higgsfield.ai/pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Pika 2.5-2026-11-03",
-   "at": "2026-11-03T06:32:19+00:00",
-   "model": "Pika 2.5",
-   "title": "Pika 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://alphasignal.ai/news/pika-rebuilds-into-a-full-creative-studio-routing-across-seven-ai-tools",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Luma App / Ray 3.2-2026-11-03",
-   "at": "2026-11-03T06:32:13+00:00",
-   "model": "Luma App / Ray 3.2",
-   "title": "Luma App / Ray 3.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://magichour.ai/blog/kling-vs-pika-vs-luma",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-MiniMax H3-2026-11-03",
-   "at": "2026-11-03T06:32:01+00:00",
-   "model": "MiniMax H3",
-   "title": "MiniMax H3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://pixo.video/blog/what-is-minimax-h3",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Hailuo 02 / 2.3-2026-11-03",
-   "at": "2026-11-03T06:31:53+00:00",
-   "model": "Hailuo 02 / 2.3",
-   "title": "Hailuo 02 / 2.3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://magichour.ai/blog/hailuo-23-pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 3.0 / 3.0 Prime-2026-11-03",
-   "at": "2026-11-03T06:31:43+00:00",
-   "model": "Wan 3.0 / 3.0 Prime",
-   "title": "Wan 3.0 / 3.0 Prime: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.makeinfluencer.ai/guides/best-ai-video-generators-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1 Fast / Veo 3-2026-11-03",
-   "at": "2026-11-03T06:31:27+00:00",
-   "model": "Veo 3.1 Fast / Veo 3",
-   "title": "Veo 3.1 Fast / Veo 3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "http://dev.to/osman_sylemez_e83bde4a36/running-veo-31-kling-30-and-seedance-20-side-by-side-what-a-10-second-clip-actually-costs-597",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1-2026-11-03",
-   "at": "2026-11-03T06:31:16+00:00",
-   "model": "Veo 3.1",
-   "title": "Veo 3.1: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Kling 3.0-2026-11-03",
-   "at": "2026-11-03T06:31:06+00:00",
-   "model": "Kling 3.0",
-   "title": "Kling 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 3.0-2026-11-03",
-   "at": "2026-11-03T06:30:59+00:00",
-   "model": "Seedance 3.0",
-   "title": "Seedance 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.highonfilms.com/seedance-3-0-provider-checks/",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"

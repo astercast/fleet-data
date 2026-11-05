@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-05T06:32:00Z",
+ "generated_at": "2026-11-05T17:23:09Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-05T06:32:00Z",
+ "last_data_change_at": "2026-11-05T17:23:09Z",
  "sources": [
   {
    "id": "arxiv",
@@ -13,8 +13,8 @@
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
    "items": 102,
-   "checked_at": "2026-11-05T06:31:57Z",
-   "last_ok_at": "2026-11-05T06:31:57Z",
+   "checked_at": "2026-11-05T17:23:06Z",
+   "last_ok_at": "2026-11-05T17:23:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-05T06:32:00Z",
-   "last_ok_at": "2026-11-05T06:32:00Z",
+   "checked_at": "2026-11-05T17:23:09Z",
+   "last_ok_at": "2026-11-05T17:23:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-05T06:31:57Z",
-   "last_ok_at": "2026-11-05T06:31:57Z",
+   "checked_at": "2026-11-05T17:23:05Z",
+   "last_ok_at": "2026-11-05T17:23:05Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-05T06:31:58Z",
-   "last_ok_at": "2026-11-05T06:31:58Z",
+   "checked_at": "2026-11-05T17:23:06Z",
+   "last_ok_at": "2026-11-05T17:23:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,91 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-05T06:31:57Z",
-   "last_ok_at": "2026-11-05T06:31:57Z",
+   "checked_at": "2026-11-05T17:23:05Z",
+   "last_ok_at": "2026-11-05T17:23:05Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Zakyrie/minimax-h3-beauty-clarity-enhancer",
+   "ref": "https://huggingface.co/Zakyrie/minimax-h3-beauty-clarity-enhancer"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Zakyrie/minimax-h3-bunny-motion-repair",
+   "ref": "https://huggingface.co/Zakyrie/minimax-h3-bunny-motion-repair"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Zakyrie/minimax-h3-bunny-combat-base",
+   "ref": "https://huggingface.co/Zakyrie/minimax-h3-bunny-combat-base"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg",
+   "ref": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty-coord",
+   "ref": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty-coord"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-u5-qt-fw-hd-item-wanneg",
+   "ref": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-u5-qt-fw-hd-item-wanneg"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-ln2-qt-fw-hd-item-wanneg",
+   "ref": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-ln2-qt-fw-hd-item-wanneg"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: vpakarinen/asmr-whisper-audio-h3-lora",
+   "ref": "https://huggingface.co/vpakarinen/asmr-whisper-audio-h3-lora"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-minimax-h3-fused-refdelta-r1024-turbo8-mystic07-int8-convrot-r-unet",
+   "ref": "https://huggingface.co/RunningHubAI/rh-minimax-h3-fused-refdelta-r1024-turbo8-mystic07-int8-convrot-r-unet"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: vpakarinen/natural-face-speech-h3-lora",
+   "ref": "https://huggingface.co/vpakarinen/natural-face-speech-h3-lora"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: vpakarinen/better-human-motion-h3-lora",
+   "ref": "https://huggingface.co/vpakarinen/better-human-motion-h3-lora"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-magic-wan-image-v3-fp8mixed-unet",
+   "ref": "https://huggingface.co/RunningHubAI/rh-magic-wan-image-v3-fp8mixed-unet"
+  },
+  {
+   "at": "2026-11-05T17:23:09Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-flux.1-dev-unet-2039890212842639362",
+   "ref": "https://huggingface.co/RunningHubAI/rh-flux.1-dev-unet-2039890212842639362"
+  },
   {
    "at": "2026-11-05T06:32:00Z",
    "kind": "price-signal",
@@ -345,72 +423,6 @@
    "kind": "paper",
    "title": "New arXiv paper: Chronos: Sequential Identity-Preserving Video Generation by Temporal Anchoring",
    "ref": "http://arxiv.org/abs/2611.05893v1"
-  },
-  {
-   "at": "2026-11-05T06:32:00Z",
-   "kind": "paper",
-   "title": "New arXiv paper: DualCast: Dual-Image Conditioned Diffusion Transformers for Digital Human E-Commerce Video Generation",
-   "ref": "http://arxiv.org/abs/2611.05825v1"
-  },
-  {
-   "at": "2026-11-05T06:32:00Z",
-   "kind": "paper",
-   "title": "New arXiv paper: FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video",
-   "ref": "http://arxiv.org/abs/2611.05062v2"
-  },
-  {
-   "at": "2026-11-04T21:18:30Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
-   "ref": "https://huggingface.co/karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF"
-  },
-  {
-   "at": "2026-11-04T21:18:30Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
-   "ref": "https://huggingface.co/RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet"
-  },
-  {
-   "at": "2026-11-04T21:18:30Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
-   "ref": "https://huggingface.co/manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod"
-  },
-  {
-   "at": "2026-11-04T21:18:30Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-teste-unet",
-   "ref": "https://huggingface.co/RunningHubAI/rh-teste-unet"
-  },
-  {
-   "at": "2026-11-04T21:18:30Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-minimax-h3-fl2va-pruned-int8-unet",
-   "ref": "https://huggingface.co/RunningHubAI/rh-minimax-h3-fl2va-pruned-int8-unet"
-  },
-  {
-   "at": "2026-11-04T21:18:30Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: rzgar/TaoMate-HD-preview-T2V-Comfy",
-   "ref": "https://huggingface.co/rzgar/TaoMate-HD-preview-T2V-Comfy"
-  },
-  {
-   "at": "2026-11-04T14:23:52Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Spectrallic/MiniMax-H3-DMAD-int8-convrot",
-   "ref": "https://huggingface.co/Spectrallic/MiniMax-H3-DMAD-int8-convrot"
-  },
-  {
-   "at": "2026-11-04T14:23:52Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Riyan200324200324/Wan2.1-T2V-14B-gguf",
-   "ref": "https://huggingface.co/Riyan200324200324/Wan2.1-T2V-14B-gguf"
-  },
-  {
-   "at": "2026-11-04T14:23:52Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Spectrallic/MiniMax-H3-PDMD-4step-int8-convrot",
-   "ref": "https://huggingface.co/Spectrallic/MiniMax-H3-PDMD-4step-int8-convrot"
   }
  ]
 }
