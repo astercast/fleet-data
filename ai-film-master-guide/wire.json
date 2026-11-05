@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-05T17:23:09Z",
+ "generated_at": "2026-11-05T23:36:36Z",
  "items": [
+  {
+   "id": "check-Sora 2 / Pro / Max-2026-11-05",
+   "at": "2026-11-05T23:33:43+00:00",
+   "model": "Sora 2 / Pro / Max",
+   "title": "Sora 2 / Pro / Max: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://dev.to/stimlau/sora-vs-runway-openai-killed-sora-now-what-2692",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-high-lighting-v2.0-unet",
+   "at": "2026-11-05T18:23:03Z",
+   "model": "RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-high-lighting-v2.0-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-high-lighting-v2.0-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-high-lighting-v2.0-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-Zakyrie/minimax-h3-beauty-clarity-enhancer",
    "at": "2026-11-05T15:40:21Z",
@@ -1478,26 +1498,6 @@
    "model": "Vidu S2",
    "title": "Vidu S2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://www.prnewswire.com/news-releases/shengshu-technology-unveils-vidu-s2-bringing-real-time-interaction-and-editing-to-ai-video-302879976.html",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-LTX-2.5-2026-11-03",
-   "at": "2026-11-03T06:33:02+00:00",
-   "model": "LTX-2.5",
-   "title": "LTX-2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://intelligibberish.com/articles/best-local-video-generation-models-by-vram/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Gemini Omni-2026-11-03",
-   "at": "2026-11-03T06:32:53+00:00",
-   "model": "Gemini Omni",
-   "title": "Gemini Omni: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"

@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-05T17:25:50Z",
+ "generated_at": "2026-11-05T23:39:42Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-05T06:35:14Z",
+ "last_data_change_at": "2026-11-05T23:39:42Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-05T17:25:48Z",
-   "last_ok_at": "2026-11-05T17:25:48Z",
+   "items": 72,
+   "checked_at": "2026-11-05T23:39:41Z",
+   "last_ok_at": "2026-11-05T23:39:41Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,85 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12419,
-   "checked_at": "2026-11-05T17:25:50Z",
-   "last_ok_at": "2026-11-05T17:25:50Z",
+   "checked_at": "2026-11-05T23:39:42Z",
+   "last_ok_at": "2026-11-05T23:39:42Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "1977 Toyota Land Cruiser FJ40",
+   "ref": "https://bringatrailer.com/listing/1977-toyota-land-cruiser-fj40-198/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "36k-Mile 2014 Porsche 911 Carrera S Coupe 7-Speed",
+   "ref": "https://bringatrailer.com/listing/2014-porsche-911-carrera-s-coupe-47/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "1996 Porsche 911 Turbo",
+   "ref": "https://bringatrailer.com/listing/1996-porsche-911-turbo-228/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "1977 Chevrolet Corvette",
+   "ref": "https://bringatrailer.com/listing/1977-chevrolet-corvette-181/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "1988 Toyota Land Cruiser FJ62",
+   "ref": "https://bringatrailer.com/listing/1988-toyota-land-cruiser-fj62-266/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "1970 Ford Bronco 302",
+   "ref": "https://bringatrailer.com/listing/1970-ford-bronco-284/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "1988 Bentley Continental Convertible",
+   "ref": "https://bringatrailer.com/listing/1988-bentley-continental-4/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "1917 Ford Model T Touring",
+   "ref": "https://bringatrailer.com/listing/1917-ford-model-t-9/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "34k-Mile 2018 Land Rover Range Rover Sport HSE",
+   "ref": "https://bringatrailer.com/listing/2018-land-rover-range-rover-sport-29/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "14k-Mile 2008 Aston Martin V8 Vantage Roadster",
+   "ref": "https://bringatrailer.com/listing/2008-aston-martin-v8-vantage-roadster-69-2/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "2002 Porsche 911 Turbo Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2002-porsche-911-turbo-coupe-124/"
+  },
+  {
+   "at": "2026-11-05T23:39:42Z",
+   "kind": "sale",
+   "title": "29k-Mile 2008 Porsche 911 Turbo Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2008-porsche-911-turbo-coupe-98/"
+  },
   {
    "at": "2026-11-05T06:35:14Z",
    "kind": "sale",
@@ -66,12 +138,6 @@
    "kind": "sale",
    "title": "1999 Honda Civic Si",
    "ref": "https://bringatrailer.com/listing/1999-honda-civic-si-33/"
-  },
-  {
-   "at": "2026-11-05T06:35:14Z",
-   "kind": "sale",
-   "title": "1988 Toyota Land Cruiser FJ62",
-   "ref": "https://bringatrailer.com/listing/1988-toyota-land-cruiser-fj62-264/"
   },
   {
    "at": "2026-11-05T06:35:14Z",
@@ -318,78 +384,6 @@
    "kind": "sale",
    "title": "Original-Owner, 111-Kilometer 1996 Chevrolet Impala SS",
    "ref": "https://bringatrailer.com/listing/1996-chevrolet-impala-ss-127/"
-  },
-  {
-   "at": "2026-11-02T21:46:46Z",
-   "kind": "sale",
-   "title": "Coyote-Powered 1970 Ford Bronco",
-   "ref": "https://bringatrailer.com/listing/1970-ford-bronco-283/"
-  },
-  {
-   "at": "2026-11-02T21:46:46Z",
-   "kind": "sale",
-   "title": "2017 Mazda MX-5 Miata Cup Car",
-   "ref": "https://bringatrailer.com/listing/2017-mazda-mx-5-miata-6/"
-  },
-  {
-   "at": "2026-11-02T21:46:46Z",
-   "kind": "sale",
-   "title": "2008 Land Rover Range Rover Sport Supercharged",
-   "ref": "https://bringatrailer.com/listing/2008-land-rover-range-rover-sport-31/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "2016 Toyota Land Cruiser URJ200",
-   "ref": "https://bringatrailer.com/listing/2016-toyota-land-cruiser-33/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "2012 Cadillac Escalade ESV Premium AWD",
-   "ref": "https://bringatrailer.com/listing/2012-cadillac-escalade-esv-5/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "RoW 1983 Porsche 911 Turbo Coupe EV Conversion",
-   "ref": "https://bringatrailer.com/listing/1983-porsche-911-turbo-10/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "1970 Dodge Challenger R/T 440 Six Pack 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1970-dodge-challenger-r-t-61/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "2003 Porsche 911 Carrera Cabriolet 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2003-porsche-911-carrera-cabriolet-53-2/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "2006 Lotus Elise",
-   "ref": "https://bringatrailer.com/listing/2006-lotus-elise-102/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "RS/SS-Style 1969 Chevrolet Camaro 396 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1969-chevrolet-camaro-ss-141/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "1967 Ford Mustang Coupe High Country Special 289",
-   "ref": "https://bringatrailer.com/listing/1967-ford-mustang-517/"
-  },
-  {
-   "at": "2026-11-01T19:37:23Z",
-   "kind": "sale",
-   "title": "Ex–Randy Travis, 21k-Mile 1991 GMC Syclone",
-   "ref": "https://bringatrailer.com/listing/1991-gmc-syclone-134/"
   }
  ]
 }

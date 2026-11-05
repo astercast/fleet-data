@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "tt-tiktok-shop-now-has-a-standalone-app-in-four-sou-ef8278",
+   "platform": "tiktok",
+   "title": "TikTok Shop now has a standalone app in four Southeast Asian markets",
+   "summary": "According to one estimate, the ecommerce market in Southeast Asia will generate $226 billion of gross merchandise value in 2026. TikTok Shop already accounts for a sizable chunk of that GMV, but ByteDance's ecommerce hub is looking to increase the size of its market share. With the launch of a standalone Shop app, TikTok will position itself to compete more directly with retailers like Shein and Temu. Android and iOS versions of the standalone TikTok Shop app have arrived in Singapore, Malaysia,",
+   "detected_at": "2026-11-05T23:36:36Z",
+   "announced_at": "2026-11-05T23:26:25Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/05/tiktok-shop-standalone-app-southeast-asia-ecommerce/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/05/tiktok-shop-standalone-app-southeast-asia-ecommerce/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-netflix-might-want-its-new-ai-search-to-drum-up-77fb8e",
    "platform": "youtube",
    "title": "Netflix might want its new AI search to drum up more “quality” viewership",
@@ -1426,7 +1445,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-05T17:23:09Z",
+ "generated_at": "2026-11-05T23:36:36Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-05",
  "version": "1.7.0"
