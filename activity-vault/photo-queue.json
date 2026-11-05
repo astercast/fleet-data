@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-04T12:31:29Z",
+ "generated_at": "2026-11-05T12:44:41Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -651,6 +651,17 @@
    "activity_id": "big-new-friend-room-tour",
    "activity_name": "Big New Friend Room Tour",
    "queued_at": "2026-11-04T12:31:28Z"
+  },
+  {
+   "commons_title": "File:Discrete dynamic in case of complex quadratic polynomial.gif",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Discrete_dynamic_in_case_of_complex_quadratic_polynomial.gif",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Discrete_dynamic_in_case_of_complex_quadratic_polynomial.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "author": "<a href=\"//commons.wikimedia.org/wiki/User:Adam_majewski\" class=\"mw-redirect\" title=\"User:Adam majewski\">Adam majewski</a>",
+   "licence": "CC BY-SA 4.0",
+   "status": "pending",
+   "activity_id": "big-choose-your-colour-corner",
+   "activity_name": "Big Choose Your Colour Corner",
+   "queued_at": "2026-11-05T12:44:40Z"
   }
  ]
 }

@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-04T12:30:15Z",
+ "generated_at": "2026-11-05T12:43:42Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-04T12:30:15Z",
+ "last_data_change_at": "2026-11-05T12:43:42Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 61,
-   "checked_at": "2026-11-04T12:30:07Z",
-   "last_ok_at": "2026-11-04T12:30:07Z",
+   "checked_at": "2026-11-05T12:43:37Z",
+   "last_ok_at": "2026-11-05T12:43:37Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 100,
-   "checked_at": "2026-11-04T12:30:15Z",
-   "last_ok_at": "2026-11-04T12:30:15Z",
+   "items": 57,
+   "checked_at": "2026-11-05T12:43:42Z",
+   "last_ok_at": "2026-11-05T12:43:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-04T12:30:15Z",
-   "last_ok_at": "2026-11-04T12:30:15Z",
+   "checked_at": "2026-11-05T12:43:42Z",
+   "last_ok_at": "2026-11-05T12:43:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,19 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 48,
-   "checked_at": "2026-11-04T12:30:15Z",
-   "last_ok_at": "2026-11-04T12:30:15Z",
+   "checked_at": "2026-11-05T12:43:41Z",
+   "last_ok_at": "2026-11-05T12:43:41Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-05T12:43:42Z",
+   "kind": "story",
+   "title": "Bare-chested Wolverine gets his own Marvel Legends action figure - Comics Beat",
+   "ref": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRk5DQnZxRlFaS0lNcFhhTlVyYWtJLU5hX3Y1NkxsZHVENWN3YW1rOTQ3TFlrWHVCSHdmOTUwSk5Ld1NoeGxveGNJT2twdTZHMHFoWXNLVW9mTk56Q3ZjLTlydHFPOU9SR1kyRG44cEd3SG9uQUxfUVpMdHhmdVVMWVJDV0lyQQ?oc=5"
+  },
   {
    "at": "2026-11-04T12:30:15Z",
    "kind": "story",
