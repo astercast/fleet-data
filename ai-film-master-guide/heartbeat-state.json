@@ -154,6 +154,7 @@
   "silentlooop/revt2v-ckpt",
   "sjxknukkji/wan2.2-t2v-a14b-transformers-bf16",
   "slmonker/TaoMate-HD-preview-comfy",
+  "smile-forge/wan2.2-ti2v-5b-onnx",
   "t8star/HY-Nomas-Comfy",
   "taurusduan/MiniMax-H3-Turbo-Lora",
   "taurusduan/MiniMax-H3-Turbo-Lora-ComfyUI",
@@ -331,6 +332,7 @@
   "tag:github.com,2008:Repository/589831718/v0.43.1",
   "tag:github.com,2008:Repository/589831718/v0.43.2",
   "tag:github.com,2008:Repository/589831718/v0.44.0",
-  "tag:github.com,2008:Repository/589831718/v0.44.1"
+  "tag:github.com,2008:Repository/589831718/v0.44.1",
+  "tag:github.com,2008:Repository/589831718/v0.44.2"
  ]
 }

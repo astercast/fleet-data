@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-06T16:49:45Z",
+ "generated_at": "2026-11-06T23:07:10Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-05T23:39:42Z",
+ "last_data_change_at": "2026-11-06T23:07:10Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 36,
-   "checked_at": "2026-11-06T16:49:44Z",
-   "last_ok_at": "2026-11-06T16:49:44Z",
+   "checked_at": "2026-11-06T23:07:09Z",
+   "last_ok_at": "2026-11-06T23:07:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,14 +23,62 @@
    "label": "NHTSA vPIC make names",
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
-   "items": 12421,
-   "checked_at": "2026-11-06T16:49:45Z",
-   "last_ok_at": "2026-11-06T16:49:45Z",
+   "items": 12422,
+   "checked_at": "2026-11-06T23:07:10Z",
+   "last_ok_at": "2026-11-06T23:07:10Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-06T23:07:10Z",
+   "kind": "sale",
+   "title": "LS376-Powered 2003 Porsche 911 Carrera 4 Cabriolet",
+   "ref": "https://bringatrailer.com/listing/2003-porsche-911-carrera-4-cabriolet-41/"
+  },
+  {
+   "at": "2026-11-06T23:07:10Z",
+   "kind": "sale",
+   "title": "1992 Land Rover Defender 90 200Tdi 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1992-land-rover-defender-90-101/"
+  },
+  {
+   "at": "2026-11-06T23:07:10Z",
+   "kind": "sale",
+   "title": "Tri-Power-Equipped 1965 Pontiac GTO Sport Coupe 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1965-pontiac-gto-201/"
+  },
+  {
+   "at": "2026-11-06T23:07:10Z",
+   "kind": "sale",
+   "title": "15k-Mile 2007 Aston Martin V8 Vantage",
+   "ref": "https://bringatrailer.com/listing/2007-aston-martin-v8-vantage-159/"
+  },
+  {
+   "at": "2026-11-06T23:07:10Z",
+   "kind": "sale",
+   "title": "17k-Mile 2021 Jeep Grand Cherokee Trackhawk",
+   "ref": "https://bringatrailer.com/listing/2021-jeep-grand-cherokee-trackhawk-32/"
+  },
+  {
+   "at": "2026-11-06T23:07:10Z",
+   "kind": "sale",
+   "title": "31k-Mile 2011 BMW M3 Convertible 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2011-bmw-m3-convertible-52/"
+  },
+  {
+   "at": "2026-11-06T23:07:10Z",
+   "kind": "sale",
+   "title": "One-Owner, 15k-Mile 2004 Porsche 911 Carrera 4S Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2004-porsche-911-carrera-4s-coupe-52/"
+  },
+  {
+   "at": "2026-11-06T23:07:10Z",
+   "kind": "sale",
+   "title": "2006 Porsche Cayenne Turbo S",
+   "ref": "https://bringatrailer.com/listing/2006-porsche-cayenne-turbo-s-62/"
+  },
   {
    "at": "2026-11-05T23:39:42Z",
    "kind": "sale",
@@ -342,48 +390,6 @@
    "kind": "sale",
    "title": "Original-Owner 1996 Dodge Viper GTS",
    "ref": "https://bringatrailer.com/listing/1996-dodge-viper-gts-56/"
-  },
-  {
-   "at": "2026-11-02T21:46:46Z",
-   "kind": "sale",
-   "title": "2004 GMC Yukon XL Denali",
-   "ref": "https://bringatrailer.com/listing/2004-gmc-yukon-17/"
-  },
-  {
-   "at": "2026-11-02T21:46:46Z",
-   "kind": "sale",
-   "title": "105-Mile 2022 Dodge Challenger SRT Hellcat Redeye Widebody Jailbreak",
-   "ref": "https://bringatrailer.com/listing/2022-dodge-challenger-srt-hellcat-redeye-widebody-jailbreak-36/"
-  },
-  {
-   "at": "2026-11-02T21:46:46Z",
-   "kind": "sale",
-   "title": "26k-Mile 1996 Chevrolet Corvette Grand Sport Coupe LT4 6-Speed",
-   "ref": "https://bringatrailer.com/listing/1996-chevrolet-corvette-grand-sport-coupe-50/"
-  },
-  {
-   "at": "2026-11-02T21:46:46Z",
-   "kind": "sale",
-   "title": "2005 Subaru Outback 3.0R L.L. Bean Edition",
-   "ref": "https://bringatrailer.com/listing/2005-subaru-outback-17/"
-  },
-  {
-   "at": "2026-11-02T21:46:46Z",
-   "kind": "sale",
-   "title": "2002 Jeep Wrangler X 4.0",
-   "ref": "https://bringatrailer.com/listing/2002-jeep-wrangler-111/"
-  },
-  {
-   "at": "2026-11-02T21:46:46Z",
-   "kind": "sale",
-   "title": "13k-Mile 2014 Chevrolet Corvette Stingray Convertible Z51 2LT",
-   "ref": "https://bringatrailer.com/listing/2014-chevrolet-corvette-stingray-convertible-64/"
-  },
-  {
-   "at": "2026-11-02T21:46:46Z",
-   "kind": "sale",
-   "title": "Original-Owner, 111-Kilometer 1996 Chevrolet Impala SS",
-   "ref": "https://bringatrailer.com/listing/1996-chevrolet-impala-ss-127/"
   }
  ]
 }

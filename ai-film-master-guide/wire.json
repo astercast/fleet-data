@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-06T16:46:19Z",
+ "generated_at": "2026-11-06T23:03:57Z",
  "items": [
+  {
+   "id": "gh-comfyui-v0.44.2",
+   "at": "2026-11-06T20:37:56Z",
+   "model": "comfyui",
+   "title": "comfyui release: v0.44.2",
+   "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.2",
+   "kind": "release",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-smile-forge/wan2.2-ti2v-5b-onnx",
+   "at": "2026-11-06T19:07:30Z",
+   "model": "smile-forge/wan2.2-ti2v-5b-onnx",
+   "title": "New text-to-video model listed on Hugging Face: smile-forge/wan2.2-ti2v-5b-onnx",
+   "url": "https://huggingface.co/smile-forge/wan2.2-ti2v-5b-onnx",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-seedance2-5ai/seedance-2-5-video",
    "at": "2026-11-06T16:42:57Z",
@@ -1478,26 +1498,6 @@
    "model": "MiniMax H3",
    "title": "MiniMax H3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://pixo.video/blog/what-is-minimax-h3",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Hailuo 02 / 2.3-2026-11-04",
-   "at": "2026-11-04T06:02:51+00:00",
-   "model": "Hailuo 02 / 2.3",
-   "title": "Hailuo 02 / 2.3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://magichour.ai/blog/hailuo-23-pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 3.0 / 3.0 Prime-2026-11-04",
-   "at": "2026-11-04T06:02:43+00:00",
-   "model": "Wan 3.0 / 3.0 Prime",
-   "title": "Wan 3.0 / 3.0 Prime: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.makeinfluencer.ai/guides/best-ai-video-generators-2026",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"

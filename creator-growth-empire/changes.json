@@ -1,6 +1,63 @@
 {
  "changes": [
   {
+   "id": "fb-design-the-muse-app-just-for-you-7d15d3",
+   "platform": "facebook",
+   "title": "Design the Muse App, Just for You",
+   "summary": "Today, we're introducing spaces, an interactive way to build a more customized experience in the Muse app. The post Design the Muse App, Just for You appeared first on Meta Newsroom .",
+   "detected_at": "2026-11-06T23:03:57Z",
+   "announced_at": "2026-11-06T18:00:58Z",
+   "effective_at": null,
+   "source_url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+   "sources": [
+    {
+     "name": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "verified",
+   "affects": []
+  },
+  {
+   "id": "cw-uta-faze-vets-launch-iso-as-a-new-partner-for-ta-47c6bc",
+   "platform": "other",
+   "title": "UTA, FaZe vets launch ISO as a “new partner for talent”",
+   "summary": "A new talent firm is launching with a stacked roster of luminaries from the worlds of streaming, social media, and content creation. Mike Lee and Darren Yan are the leaders of ISO, which is kicking off with a roster of 90 top creators. ISO (the name stands for \"in search of\") is a wide-reaching management firm that touch categories like beauty, food, and art, but its roots are deepest in the gaming and streamer communities. Lee, who will serve as ISO's CEO, was previously the Head of Gaming and ",
+   "detected_at": "2026-11-06T23:03:57Z",
+   "announced_at": "2026-11-06T22:50:16Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/06/iso-new-talent-management-agency-faze-uta-execs/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/06/iso-new-talent-management-agency-faze-uta-execs/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "tt-the-e-u-wants-a-new-for-you-page-so-that-its-cit-79bf0f",
+   "platform": "tiktok",
+   "title": "The E.U. wants a new For You Page so that its citizens don’t get stuck in TikTok rabbit holes",
+   "summary": "Does the European Union have the authority to mandate changes to TikTok's For You Page? The continental body is making that claim. The E.U. announced on Wednesday that the addictive design of the FYP violates the Digital Services Act. A press release discusses the \"rabbit hole effect\" of TikTok's infinitely scrolling vertical feed, which is filled with personalized recommendations. \"Every time a user scrolls or likes a video on TikTok, the algorithm serves more of the same leading users down rab",
+   "detected_at": "2026-11-06T23:03:57Z",
+   "announced_at": "2026-11-06T21:22:20Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/06/european-union-eu-digital-services-act-tiktok-for-you-page-fyp/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/06/european-union-eu-digital-services-act-tiktok-for-you-page-fyp/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "tt-tiktok-launches-standalone-shopping-app-41682f",
    "platform": "tiktok",
    "title": "TikTok launches standalone shopping app",
@@ -1483,7 +1540,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-06T06:26:52Z",
+ "generated_at": "2026-11-06T23:03:57Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-06",
  "version": "1.7.0"
