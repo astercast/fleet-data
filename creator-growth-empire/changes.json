@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "tt-tiktok-launches-standalone-shopping-app-41682f",
+   "platform": "tiktok",
+   "title": "TikTok launches standalone shopping app",
+   "summary": "<p>The new platform is focused on product discovery and purchasing but is currently only available to a handful of countries in Asia.</p>",
+   "detected_at": "2026-11-06T06:26:52Z",
+   "announced_at": "2026-11-05T22:14:51Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/tiktok-launches-standalone-shopping-app/873952/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/tiktok-launches-standalone-shopping-app/873952/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "fb-meta-adds-new-capabilities-to-graph-and-marketin-ca8d5f",
+   "platform": "facebook",
+   "title": "Meta adds new capabilities to Graph and Marketing API",
+   "summary": "<p>Businesses that use these tools will be able to add or remove artificial intelligence self-disclosures from posts, although other features have been deprecated.</p>",
+   "detected_at": "2026-11-06T06:26:52Z",
+   "announced_at": "2026-11-05T22:13:39Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/meta-adds-new-capabilities-to-graph-and-marketing-api/873951/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/meta-adds-new-capabilities-to-graph-and-marketing-api/873951/"
+    }
+   ],
+   "category": "policy",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "tt-tiktok-shop-now-has-a-standalone-app-in-four-sou-ef8278",
    "platform": "tiktok",
    "title": "TikTok Shop now has a standalone app in four Southeast Asian markets",
@@ -1445,8 +1483,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-05T23:36:36Z",
+ "generated_at": "2026-11-06T06:26:52Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "version": "1.7.0"
 }
