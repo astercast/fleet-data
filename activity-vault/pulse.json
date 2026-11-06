@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-05T12:44:41Z",
+ "generated_at": "2026-11-06T12:27:25Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-05T12:43:44Z",
+ "last_data_change_at": "2026-11-06T12:26:27Z",
  "sources": [
   {
    "id": "commons-photo-scout",
@@ -13,8 +13,8 @@
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-05T12:44:41Z",
-   "last_ok_at": "2026-11-05T12:44:41Z",
+   "checked_at": "2026-11-06T12:27:25Z",
+   "last_ok_at": "2026-11-06T12:27:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-05T12:43:46Z",
-   "last_ok_at": "2026-11-05T12:43:46Z",
+   "checked_at": "2026-11-06T12:26:28Z",
+   "last_ok_at": "2026-11-06T12:26:28Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-05T12:43:45Z",
-   "last_ok_at": "2026-11-05T12:43:45Z",
+   "checked_at": "2026-11-06T12:26:27Z",
+   "last_ok_at": "2026-11-06T12:26:27Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-05T12:43:46Z",
-   "last_ok_at": "2026-11-05T12:43:46Z",
+   "checked_at": "2026-11-06T12:26:28Z",
+   "last_ok_at": "2026-11-06T12:26:28Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-05T12:43:46Z",
-   "last_ok_at": "2026-11-05T12:43:46Z",
+   "checked_at": "2026-11-06T12:26:28Z",
+   "last_ok_at": "2026-11-06T12:26:28Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-05T12:43:45Z",
-   "last_ok_at": "2026-11-05T12:43:45Z",
+   "checked_at": "2026-11-06T12:26:28Z",
+   "last_ok_at": "2026-11-06T12:26:28Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,25 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-05T12:43:44Z",
-   "last_ok_at": "2026-11-05T12:43:44Z",
+   "checked_at": "2026-11-06T12:26:27Z",
+   "last_ok_at": "2026-11-06T12:26:27Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-06T12:26:27Z",
+   "kind": "post",
+   "title": "Wrapping Paper Snowflakes",
+   "ref": "https://handsonaswegrow.com/wrapping-paper-snowflakes/"
+  },
+  {
+   "at": "2026-11-06T12:26:28Z",
+   "kind": "post",
+   "title": "Stay Organized This Holiday Season with a Fall Recipe Binder Printable",
+   "ref": "https://kidsactivitiesblog.com/310930/stay-organized-this-holiday-season-with-a-fall-recipe-binder-printable/"
+  },
   {
    "at": "2026-11-05T12:43:44Z",
    "kind": "post",
@@ -433,18 +445,6 @@
    "kind": "post",
    "title": "How to Make an Owl Paper Bag Puppet",
    "ref": "https://kidsactivitiesblog.com/217645/owl-paper-bag-puppet/"
-  },
-  {
-   "at": "2026-10-28T10:48:13Z",
-   "kind": "post",
-   "title": "Printable Activities For Kids With ADHD",
-   "ref": "https://kidsactivitiesblog.com/210064/printable-activities-for-kids-with-adhd/"
-  },
-  {
-   "at": "2026-10-28T10:48:13Z",
-   "kind": "post",
-   "title": "30 SPOOKTACULAR HALLOWEEN CRAFT IDEAS FOR KIDS",
-   "ref": "https://kidsactivitiesblog.com/151424/30-spooktacular-halloween-craft-ideas-for-kids/"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
- "at": "2026-11-05T12:43:42Z",
+ "at": "2026-11-06T12:26:25Z",
  "runs": [
   {
    "collector": "scripts/heartbeat/marvel.py",
    "ok": true,
-   "seconds": 5.9,
+   "seconds": 4.8,
    "error": null
   }
  ]
