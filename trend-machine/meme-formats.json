@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T12:56:39.149085+00:00",
+ "generated_at": "2026-11-07T19:26:31.912432+00:00",
  "version": 1,
  "method": "Hand-curated by a wave-worker from web research (Oct 2026), never by an LLM. verification: 'verified' = 2+ independent sources agree; 'single-source' = one source or creator lore, flagged, not trusted. status: rising/peak/fading for the current cycle; established = long-lived format, not a current surge; evergreen = always-recurring debate template. The pipeline matches topics to families with conservative word-boundary regexes (see pipeline/format_families.py) and re-computes every run, so family links are derived, never stale.",
  "families": [
@@ -453,9 +453,7 @@
    "status_note": "Always-recurring debate template; no specific Oct 2026 surge verified. Tracked because it keeps re-filling, not because it's spiking.",
    "verification": "single-source",
    "verification_note": "Creator-lore, no Oct-2026 dated evidence found. Evergreen, not a current surge.",
-   "tracked_topics": [
-    "the-way-they-paint-nba-courts-is-unsettling-and-i-"
-   ]
+   "tracked_topics": []
   }
  ]
 }

@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-07T12:55:03Z",
+ "generated_at": "2026-11-07T19:25:20Z",
  "items": [
+  {
+   "id": "hf-ununununununununununununununununununun/umt5-xxl-encoder-phi-lattice-v2",
+   "at": "2026-11-07T19:16:10Z",
+   "model": "ununununununununununununununununununun/umt5-xxl-encoder-phi-lattice-v2",
+   "title": "New text-to-video model listed on Hugging Face: ununununununununununununununununununun/umt5-xxl-encoder-phi-lattice-v2",
+   "url": "https://huggingface.co/ununununununununununununununununununun/umt5-xxl-encoder-phi-lattice-v2",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-wanvideo/wan-3-0-prime",
+   "at": "2026-11-07T13:03:05Z",
+   "model": "wanvideo/wan-3-0-prime",
+   "title": "New text-to-video model listed on Hugging Face: wanvideo/wan-3-0-prime",
+   "url": "https://huggingface.co/wanvideo/wan-3-0-prime",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-y0urOy/Video-Mirai",
    "at": "2026-11-07T10:28:17Z",
@@ -1478,26 +1498,6 @@
    "model": "Spectrallic/MiniMax-H3-LightX2V-int8-convrot",
    "title": "New text-to-video model listed on Hugging Face: Spectrallic/MiniMax-H3-LightX2V-int8-convrot",
    "url": "https://huggingface.co/Spectrallic/MiniMax-H3-LightX2V-int8-convrot",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
-   "at": "2026-11-04T20:05:30Z",
-   "model": "karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
-   "title": "New text-to-video model listed on Hugging Face: karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
-   "url": "https://huggingface.co/karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
-   "at": "2026-11-04T17:22:13Z",
-   "model": "RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
-   "url": "https://huggingface.co/RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
    "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"
