@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-06T23:04:00Z",
+ "generated_at": "2026-11-07T05:50:18Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-06T23:03:59Z",
+ "last_data_change_at": "2026-11-07T05:50:18Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-06T23:03:58Z",
-   "last_ok_at": "2026-11-06T23:03:58Z",
+   "checked_at": "2026-11-07T05:50:17Z",
+   "last_ok_at": "2026-11-07T05:50:17Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-06T23:03:58Z",
-   "last_ok_at": "2026-11-06T23:03:58Z",
+   "checked_at": "2026-11-07T05:50:17Z",
+   "last_ok_at": "2026-11-07T05:50:17Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-06T23:03:59Z",
-   "last_ok_at": "2026-11-06T23:03:59Z",
+   "checked_at": "2026-11-07T05:50:18Z",
+   "last_ok_at": "2026-11-07T05:50:18Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-06T23:03:58Z",
-   "last_ok_at": "2026-11-06T23:03:58Z",
+   "checked_at": "2026-11-07T05:50:17Z",
+   "last_ok_at": "2026-11-07T05:50:17Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-06T23:03:59Z",
-   "last_ok_at": "2026-11-06T23:03:59Z",
+   "checked_at": "2026-11-07T05:50:17Z",
+   "last_ok_at": "2026-11-07T05:50:17Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-06T23:03:58Z",
+   "checked_at": "2026-11-07T05:50:17Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 45
+   "fails_in_a_row": 46
   },
   {
    "id": "ypp-help",
@@ -79,13 +79,19 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-06T23:04:00Z",
-   "last_ok_at": "2026-11-06T23:04:00Z",
+   "checked_at": "2026-11-07T05:50:18Z",
+   "last_ok_at": "2026-11-07T05:50:18Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-07T05:50:18Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
   {
    "at": "2026-11-06T23:03:59Z",
    "kind": "change",
@@ -103,12 +109,6 @@
    "kind": "change",
    "title": "The E.U. wants a new For You Page so that its citizens don’t get stuck in TikTok rabbit holes",
    "ref": "https://www.tubefilter.com/2026/11/06/european-union-eu-digital-services-act-tiktok-for-you-page-fyp/"
-  },
-  {
-   "at": "2026-11-06T23:04:00Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
   },
   {
    "at": "2026-11-06T06:26:52Z",
