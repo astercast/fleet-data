@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-07T05:50:17Z",
+ "generated_at": "2026-11-07T12:55:03Z",
  "items": [
+  {
+   "id": "hf-y0urOy/Video-Mirai",
+   "at": "2026-11-07T10:28:17Z",
+   "model": "y0urOy/Video-Mirai",
+   "title": "New text-to-video model listed on Hugging Face: y0urOy/Video-Mirai",
+   "url": "https://huggingface.co/y0urOy/Video-Mirai",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-UtopiaIA/Wan2.1-T2V-1.3B-web",
+   "at": "2026-11-07T07:23:16Z",
+   "model": "UtopiaIA/Wan2.1-T2V-1.3B-web",
+   "title": "New text-to-video model listed on Hugging Face: UtopiaIA/Wan2.1-T2V-1.3B-web",
+   "url": "https://huggingface.co/UtopiaIA/Wan2.1-T2V-1.3B-web",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-07",
    "at": "2026-11-07T05:50:12+00:00",
@@ -1479,26 +1499,6 @@
    "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
    "url": "https://huggingface.co/RunningHubAI/rh-minimax-h3-ref2va-pruned-zs05-int8-convrot.safetensors-unet",
    "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
-   "at": "2026-11-04T17:14:28Z",
-   "model": "manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
-   "title": "New text-to-video model listed on Hugging Face: manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
-   "url": "https://huggingface.co/manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.06796v1",
-   "at": "2026-11-04T17:14:20Z",
-   "model": "",
-   "title": "New arXiv paper: VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation",
-   "url": "http://arxiv.org/abs/2611.06796v1",
-   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }
