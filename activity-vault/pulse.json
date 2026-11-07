@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-06T12:27:25Z",
+ "generated_at": "2026-11-07T11:19:50Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-06T12:26:27Z",
+ "last_data_change_at": "2026-11-07T11:18:55Z",
  "sources": [
   {
    "id": "commons-photo-scout",
@@ -13,8 +13,8 @@
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-06T12:27:25Z",
-   "last_ok_at": "2026-11-06T12:27:25Z",
+   "checked_at": "2026-11-07T11:19:50Z",
+   "last_ok_at": "2026-11-07T11:19:50Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-06T12:26:28Z",
-   "last_ok_at": "2026-11-06T12:26:28Z",
+   "checked_at": "2026-11-07T11:18:57Z",
+   "last_ok_at": "2026-11-07T11:18:57Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-06T12:26:27Z",
-   "last_ok_at": "2026-11-06T12:26:27Z",
+   "checked_at": "2026-11-07T11:18:56Z",
+   "last_ok_at": "2026-11-07T11:18:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-06T12:26:28Z",
-   "last_ok_at": "2026-11-06T12:26:28Z",
+   "checked_at": "2026-11-07T11:18:56Z",
+   "last_ok_at": "2026-11-07T11:18:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-06T12:26:28Z",
-   "last_ok_at": "2026-11-06T12:26:28Z",
+   "checked_at": "2026-11-07T11:18:56Z",
+   "last_ok_at": "2026-11-07T11:18:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-06T12:26:28Z",
-   "last_ok_at": "2026-11-06T12:26:28Z",
+   "checked_at": "2026-11-07T11:18:56Z",
+   "last_ok_at": "2026-11-07T11:18:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,85 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-06T12:26:27Z",
-   "last_ok_at": "2026-11-06T12:26:27Z",
+   "checked_at": "2026-11-07T11:18:55Z",
+   "last_ok_at": "2026-11-07T11:18:55Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-07T11:18:55Z",
+   "kind": "post",
+   "title": "27 Fun Food Web and Food Chain Activities",
+   "ref": "https://www.weareteachers.com/food-webs/?utm_source=rss&utm_medium=rss&utm_campaign=food-webs"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "Dinner’s Ready! A Thanksgiving Math Card Game for Kids",
+   "ref": "https://teachbesideme.com/dinners-ready-a-thanksgiving-math-card-game-for-kids/"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "Winter Science Experiments and STEM Activities for Kids",
+   "ref": "https://littlebinsforlittlehands.com/winter-science-ideas-kids/"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "25 {Amazing} Toilet Paper Roll Crafts",
+   "ref": "https://kidsactivitiesblog.com/49918/toilet-paper-roll-crafts-2/"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "Paper Doll Printable: Design Your Own Paper Dolls",
+   "ref": "https://kidsactivitiesblog.com/62841/design-your-own-paper-dolls/"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "Drawing Cartoon Hands and Feet Art Project for Kids",
+   "ref": "https://kidsactivitiesblog.com/287441/drawing-cartoon-hands-and-feet-art/"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "I Spy Thanksgiving Worksheets For Kids of All Ages",
+   "ref": "https://kidsactivitiesblog.com/285642/i-spy-thanksgiving/"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "Festive Thanksgiving Table Decor You Can Print and Craft",
+   "ref": "https://kidsactivitiesblog.com/308612/festive-thanksgiving-table-decor-you-can-print-and-craft/"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "Ridiculously Easy Ways to Make Your Artificial Christmas Tree Look Fuller",
+   "ref": "https://kidsactivitiesblog.com/78910/how-to-make-your-christmas-tree-look-fuller/"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "20 Adorable Christmas Elf Craft Ideas, Activities & Treats",
+   "ref": "https://kidsactivitiesblog.com/78883/20-elf-crafts-treats/"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "Free Printable Thanksgiving Placemats for Kids to Color",
+   "ref": "https://kidsactivitiesblog.com/61361/free-printable-placemats/"
+  },
+  {
+   "at": "2026-11-07T11:18:56Z",
+   "kind": "post",
+   "title": "100+ Fun Quiet Time Games and Activities For Kids",
+   "ref": "https://kidsactivitiesblog.com/60561/quiet-time-activities/"
+  },
   {
    "at": "2026-11-06T12:26:27Z",
    "kind": "post",
@@ -373,78 +445,6 @@
    "kind": "post",
    "title": "Easy Solar System Project for Kids with Printable Planet Templates",
    "ref": "https://kidsactivitiesblog.com/143016/solar-system-mobile-project/"
-  },
-  {
-   "at": "2026-10-29T11:05:16Z",
-   "kind": "post",
-   "title": "Easy DIY Falling Stars Glitter Jar Craft for Kids Sensory Bottle",
-   "ref": "https://kidsactivitiesblog.com/82165/falling-stars-glitter-jar/"
-  },
-  {
-   "at": "2026-10-29T11:05:16Z",
-   "kind": "post",
-   "title": "Fun and Cozy Fall Build A Scene Printable Craft",
-   "ref": "https://kidsactivitiesblog.com/308280/fun-and-cozy-fall-build-a-scene-printable-craft/"
-  },
-  {
-   "at": "2026-10-29T11:05:16Z",
-   "kind": "post",
-   "title": "46 Creative Preschool Fall Craft Ideas",
-   "ref": "https://kidsactivitiesblog.com/207541/fall-craft-activities-for-preschoolers/"
-  },
-  {
-   "at": "2026-10-29T11:05:16Z",
-   "kind": "post",
-   "title": "14 Fun Halloween Sensory Activities for Kids & Adults",
-   "ref": "https://kidsactivitiesblog.com/96014/halloween-sensory-activities/"
-  },
-  {
-   "at": "2026-10-28T10:48:11Z",
-   "kind": "post",
-   "title": "Our Favorite Lunar New Year Books and Activities",
-   "ref": "https://www.weareteachers.com/chinese-new-year-activities/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-new-year-activities"
-  },
-  {
-   "at": "2026-10-28T10:48:12Z",
-   "kind": "post",
-   "title": "Piano Keyboard Notes Chart: Free Printable for Beginners",
-   "ref": "https://teachbesideme.com/piano-keyboard-notes-chart/"
-  },
-  {
-   "at": "2026-10-28T10:48:12Z",
-   "kind": "post",
-   "title": "Cranberry Sink or Float Experiment for kids",
-   "ref": "https://littlebinsforlittlehands.com/cranberry-sink-or-float-experiment/"
-  },
-  {
-   "at": "2026-10-28T10:48:13Z",
-   "kind": "post",
-   "title": "12 Days of Gift Ideas for Teachers Christmas (with bonus Printable Tags!)",
-   "ref": "https://kidsactivitiesblog.com/131007/12-days-of-christmas-gifts-for-teachers/"
-  },
-  {
-   "at": "2026-10-28T10:48:13Z",
-   "kind": "post",
-   "title": "112 DIY Gifts for Kids (Christmas Present Ideas)",
-   "ref": "https://kidsactivitiesblog.com/969/101-diy-gifts-for-kids/"
-  },
-  {
-   "at": "2026-10-28T10:48:13Z",
-   "kind": "post",
-   "title": "28+ Best Halloween Games & Party Ideas For Kids",
-   "ref": "https://kidsactivitiesblog.com/59893/halloween-games-for-kids/"
-  },
-  {
-   "at": "2026-10-28T10:48:13Z",
-   "kind": "post",
-   "title": "Fun Fall Clay Pie Crafts For Kids",
-   "ref": "https://kidsactivitiesblog.com/287197/fun-fall-clay-pie-crafts-for-kids/"
-  },
-  {
-   "at": "2026-10-28T10:48:13Z",
-   "kind": "post",
-   "title": "How to Make an Owl Paper Bag Puppet",
-   "ref": "https://kidsactivitiesblog.com/217645/owl-paper-bag-puppet/"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-06T12:26:25Z",
+ "generated_at": "2026-11-07T11:18:53Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-05T12:43:42Z",
+ "last_data_change_at": "2026-11-07T11:18:49Z",
  "sources": [
   {
    "id": "cmdstore",
    "label": "CMDStore catalog",
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
-   "items": 61,
-   "checked_at": "2026-11-06T12:26:22Z",
-   "last_ok_at": "2026-11-06T12:26:22Z",
+   "items": 63,
+   "checked_at": "2026-11-07T11:18:49Z",
+   "last_ok_at": "2026-11-07T11:18:49Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 58,
-   "checked_at": "2026-11-06T12:26:25Z",
-   "last_ok_at": "2026-11-06T12:26:25Z",
+   "items": 59,
+   "checked_at": "2026-11-07T11:18:53Z",
+   "last_ok_at": "2026-11-07T11:18:53Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-06T12:26:25Z",
-   "last_ok_at": "2026-11-06T12:26:25Z",
+   "checked_at": "2026-11-07T11:18:53Z",
+   "last_ok_at": "2026-11-07T11:18:53Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,25 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 48,
-   "checked_at": "2026-11-06T12:26:25Z",
-   "last_ok_at": "2026-11-06T12:26:25Z",
+   "checked_at": "2026-11-07T11:18:53Z",
+   "last_ok_at": "2026-11-07T11:18:53Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-07T11:18:49Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Fantastic Four - Dr. Doom (Sub-Standard Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-retro-fantastic-four-dr-doom-5010993753307dmg"
+  },
+  {
+   "at": "2026-11-07T11:18:49Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Brand New Day 6 Inch Action Figure - Spider-Man (Sub-Standard Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-day-spider-man-5010996404893dmg"
+  },
   {
    "at": "2026-11-05T12:43:42Z",
    "kind": "story",
@@ -154,12 +166,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends Anniversary 6 Inch Action Figure X-Men - Astonishing Wolverine Reissue (Open Box Shelf Wear Packaging)",
    "ref": "https://cmdstore.com/products/marvel-legends-anniversary-x-men-astonishing-wolverine-5010996244406dmg"
-  },
-  {
-   "at": "2026-10-28T10:48:01Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Brand New Day 6 Inch Action Figure - Spider-Man (Sub-Standard Packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-day-spider-man-5010996404893dmg"
   },
   {
    "at": "2026-10-28T10:48:01Z",
@@ -400,18 +406,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Set of 6",
    "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-set-of-6-g20385l00"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Doctor Doom",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-doctor-doom-5010996355782"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Shang-Chi",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-shang-chi-5010996355843"
   }
  ]
 }
