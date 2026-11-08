@@ -1,6 +1,6 @@
 {
  "format": "atlas-wants/1",
- "generated_at": "2026-11-08T00:31:39Z",
+ "generated_at": "2026-11-08T10:18:39Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -84,8 +84,8 @@
   },
   {
    "key": "Land Rover 110",
-   "sold": 0,
-   "bidTo": 1
+   "sold": 1,
+   "bidTo": 0
   },
   {
    "key": "Lexus gx460",
@@ -267,7 +267,7 @@
    "ended": "2026-11-07",
    "noreserve": false,
    "house": "Bring a Trailer",
-   "status": "bid-to",
+   "status": "sold",
    "matched": false,
    "wantsKey": "Land Rover 110"
   },
