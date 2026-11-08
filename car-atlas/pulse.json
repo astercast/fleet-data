@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-08T17:59:54Z",
+ "generated_at": "2026-11-08T22:04:06Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-08T17:59:54Z",
+ "last_data_change_at": "2026-11-08T22:04:06Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-08T17:59:52Z",
-   "last_ok_at": "2026-11-08T17:59:52Z",
+   "items": 90,
+   "checked_at": "2026-11-08T22:04:05Z",
+   "last_ok_at": "2026-11-08T22:04:05Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,103 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12422,
-   "checked_at": "2026-11-08T17:59:54Z",
-   "last_ok_at": "2026-11-08T17:59:54Z",
+   "checked_at": "2026-11-08T22:04:06Z",
+   "last_ok_at": "2026-11-08T22:04:06Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "40-Years-Owned 1964.5 Ford Mustang Coupe 260",
+   "ref": "https://bringatrailer.com/listing/1964-ford-mustang-98/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "One-Owner 2014 Cadillac Escalade Platinum AWD",
+   "ref": "https://bringatrailer.com/listing/2014-cadillac-escalade-8/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "Turbocharged 2006 Porsche 911 Carrera S Cabriolet 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2006-porsche-911-carrera-s-cabriolet-47-2/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "2006 Subaru Impreza WRX STi",
+   "ref": "https://bringatrailer.com/listing/2006-subaru-impreza-wrx-sti-95/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "1991 Ford Mustang LX 5.0 Notchback 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1991-ford-mustang-102/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "1966 Ford Mustang Coupe Project",
+   "ref": "https://bringatrailer.com/listing/1966-ford-mustang-1095/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "47k-Mile 1999 Toyota Tacoma 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1999-toyota-tacoma-79/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "45k-Mile 2007 Porsche 911 Carrera 4S Cabriolet 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2007-porsche-911-carrera-4s-cabriolet-49/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "45-Years-Owned, 427-Powered 1967 Chevrolet Corvette Convertible 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1967-chevrolet-corvette-convertible-369/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "1954 Nash Metropolitan Convertible",
+   "ref": "https://bringatrailer.com/listing/1954-nash-metropolitan-10/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "15k-Mile 2010 Maserati Quattroporte S",
+   "ref": "https://bringatrailer.com/listing/2010-maserati-quattroporte-s-5/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "2019 Porsche 911 Targa 4S",
+   "ref": "https://bringatrailer.com/listing/2019-porsche-911-targa-4s-16/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "20k-Mile 1999 Mazda MX-5 Miata 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1999-mazda-mx-5-miata-246/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "1974 Jaguar E-Type Series III Roadster V12 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1974-jaguar-e-type-series-iii-roadster-v12-47/"
+  },
+  {
+   "at": "2026-11-08T22:04:06Z",
+   "kind": "sale",
+   "title": "1999 Jeep Wrangler Sahara 4.0 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1999-jeep-wrangler-118/"
+  },
   {
    "at": "2026-11-08T17:59:54Z",
    "kind": "sale",
@@ -300,96 +390,6 @@
    "kind": "sale",
    "title": "1978 Ford Bronco Ranger XLT",
    "ref": "https://bringatrailer.com/listing/1978-ford-bronco-181/"
-  },
-  {
-   "at": "2026-11-05T06:35:14Z",
-   "kind": "sale",
-   "title": "2026 BMW M3 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2026-bmw-m3-2/"
-  },
-  {
-   "at": "2026-11-05T06:35:14Z",
-   "kind": "sale",
-   "title": "1999 Honda Civic Si",
-   "ref": "https://bringatrailer.com/listing/1999-honda-civic-si-33/"
-  },
-  {
-   "at": "2026-11-05T06:35:14Z",
-   "kind": "sale",
-   "title": "14k-Mile 2013 Toyota Tacoma TRD Sport Double Cab V6 4×4",
-   "ref": "https://bringatrailer.com/listing/2013-toyota-tacoma-45/"
-  },
-  {
-   "at": "2026-11-05T06:35:14Z",
-   "kind": "sale",
-   "title": "2002 BMW M3 Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2002-bmw-m3-coupe-149/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "24-Years-Owned 1960 Chevrolet Corvette 3-Speed",
-   "ref": "https://bringatrailer.com/listing/1960-chevrolet-corvette-162/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "22-Years-Owned 1999 Porsche 911 Carrera Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/1999-porsche-911-carrera-coupe-233/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "2005 Jeep Wrangler X 4.0 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2006-jeep-wrangler-420/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "1985 Jeep CJ-7",
-   "ref": "https://bringatrailer.com/listing/1985-jeep-cj-7-127/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "1994 Porsche 911 Carrera 2 Cabriolet",
-   "ref": "https://bringatrailer.com/listing/1994-porsche-911-carrera-2-cabriolet-14/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "1999 GMC Sierra 1500 SLT Sportside Z71 4×4",
-   "ref": "https://bringatrailer.com/listing/1999-gmc-sierra-1500-9/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "2023 Cadillac CT5-V Blackwing 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2023-cadillac-ct5-v-blackwing-33/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "24-Years-Owned 1999 Chevrolet Camaro Z28 Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/1999-chevrolet-camaro-z28-31/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "2005 Porsche Cayenne S",
-   "ref": "https://bringatrailer.com/listing/2005-porsche-cayenne-s-33/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "2013 BMW X5 M",
-   "ref": "https://bringatrailer.com/listing/2013-bmw-x5-m-31/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "1968 Volkswagen Beetle Project",
-   "ref": "https://bringatrailer.com/listing/1968-volkswagen-beetle-103/"
   }
  ]
 }
