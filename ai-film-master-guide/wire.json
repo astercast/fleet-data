@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-08T00:28:06Z",
+ "generated_at": "2026-11-08T17:57:22Z",
  "items": [
+  {
+   "id": "hf-Ravlyyyk/LTX-2.3-uncensored-v1.4-FP8",
+   "at": "2026-11-08T17:14:34Z",
+   "model": "Ravlyyyk/LTX-2.3-uncensored-v1.4-FP8",
+   "title": "New text-to-video model listed on Hugging Face: Ravlyyyk/LTX-2.3-uncensored-v1.4-FP8",
+   "url": "https://huggingface.co/Ravlyyyk/LTX-2.3-uncensored-v1.4-FP8",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-darksidewalker/MiniMaxH3",
+   "at": "2026-11-08T13:44:48Z",
+   "model": "darksidewalker/MiniMaxH3",
+   "title": "New text-to-video model listed on Hugging Face: darksidewalker/MiniMaxH3",
+   "url": "https://huggingface.co/darksidewalker/MiniMaxH3",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-08",
    "at": "2026-11-08T00:28:02+00:00",
@@ -1479,26 +1499,6 @@
    "title": "Lyria 3 Pro: source pages changed - queued for human review",
    "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
    "kind": "source-change",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Suno v5.5-2026-11-05",
-   "at": "2026-11-05T06:31:49+00:00",
-   "model": "Suno v5.5",
-   "title": "Suno v5.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://en.wikipedia.org/wiki/Suno",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-ElevenLabs Eleven v3-2026-11-05",
-   "at": "2026-11-05T06:31:47+00:00",
-   "model": "ElevenLabs Eleven v3",
-   "title": "ElevenLabs Eleven v3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://aitoolblaze.com/blog/elevenlabs-review-2026",
-   "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }

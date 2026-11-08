@@ -1,6 +1,6 @@
 {
  "format": "price-watch-reported/1",
- "generated_at": "2026-11-08T00:31:39Z",
+ "generated_at": "2026-11-08T17:59:54Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -132,6 +132,22 @@
    "model": "corvette",
    "makeName": "Chevrolet",
    "modelName": "Corvette",
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
+  {
+   "title": "528 Hemi–Powered 1969 Dodge Charger 5-Speed",
+   "url": "https://bringatrailer.com/listing/1969-dodge-charger-89/",
+   "price": 112112,
+   "currency": "USD",
+   "ended": "2026-11-07",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "dodge",
+   "model": "charger",
+   "makeName": "Dodge",
+   "modelName": "Charger",
    "classification": "certified",
    "vpicMakeKnown": true
   },

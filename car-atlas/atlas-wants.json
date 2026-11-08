@@ -1,6 +1,6 @@
 {
  "format": "atlas-wants/1",
- "generated_at": "2026-11-08T10:18:39Z",
+ "generated_at": "2026-11-08T17:59:54Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -36,11 +36,6 @@
    "key": "Chevrolet express",
    "sold": 1,
    "bidTo": 0
-  },
-  {
-   "key": "Dodge charger",
-   "sold": 0,
-   "bidTo": 1
   },
   {
    "key": "Ferrari 360cs",
@@ -330,18 +325,6 @@
    "status": "sold",
    "matched": false,
    "wantsKey": "3L Vortec"
-  },
-  {
-   "title": "528 Hemi–Powered 1969 Dodge Charger 5-Speed",
-   "url": "https://bringatrailer.com/listing/1969-dodge-charger-89/",
-   "price": 112112,
-   "currency": "USD",
-   "ended": "2026-11-07",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": true,
-   "wantsKey": "Dodge charger"
   },
   {
    "title": "35k-Mile 1991 Mercedes-Benz 560SEL",

@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-08T10:18:39Z",
+ "generated_at": "2026-11-08T17:59:54Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-08T00:31:39Z",
+ "last_data_change_at": "2026-11-08T17:59:54Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 36,
-   "checked_at": "2026-11-08T10:18:38Z",
-   "last_ok_at": "2026-11-08T10:18:38Z",
+   "checked_at": "2026-11-08T17:59:52Z",
+   "last_ok_at": "2026-11-08T17:59:52Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,19 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12422,
-   "checked_at": "2026-11-08T10:18:39Z",
-   "last_ok_at": "2026-11-08T10:18:39Z",
+   "checked_at": "2026-11-08T17:59:54Z",
+   "last_ok_at": "2026-11-08T17:59:54Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-08T17:59:54Z",
+   "kind": "sale",
+   "title": "528 Hemi–Powered 1969 Dodge Charger 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1969-dodge-charger-89/"
+  },
   {
    "at": "2026-11-08T00:31:39Z",
    "kind": "sale",
@@ -384,12 +390,6 @@
    "kind": "sale",
    "title": "1968 Volkswagen Beetle Project",
    "ref": "https://bringatrailer.com/listing/1968-volkswagen-beetle-103/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "2008 Mazda MX-5 Miata Special Edition",
-   "ref": "https://bringatrailer.com/listing/2008-mazda-mx-5-miata-77/"
   }
  ]
 }
