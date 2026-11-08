@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-07T11:18:53Z",
+ "generated_at": "2026-11-08T11:30:06Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-07T11:18:49Z",
+ "last_data_change_at": "2026-11-08T11:30:06Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 63,
-   "checked_at": "2026-11-07T11:18:49Z",
-   "last_ok_at": "2026-11-07T11:18:49Z",
+   "checked_at": "2026-11-08T11:30:02Z",
+   "last_ok_at": "2026-11-08T11:30:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 59,
-   "checked_at": "2026-11-07T11:18:53Z",
-   "last_ok_at": "2026-11-07T11:18:53Z",
+   "items": 61,
+   "checked_at": "2026-11-08T11:30:06Z",
+   "last_ok_at": "2026-11-08T11:30:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-07T11:18:53Z",
-   "last_ok_at": "2026-11-07T11:18:53Z",
+   "checked_at": "2026-11-08T11:30:06Z",
+   "last_ok_at": "2026-11-08T11:30:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,31 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 48,
-   "checked_at": "2026-11-07T11:18:53Z",
-   "last_ok_at": "2026-11-07T11:18:53Z",
+   "checked_at": "2026-11-08T11:30:06Z",
+   "last_ok_at": "2026-11-08T11:30:06Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-08T11:30:06Z",
+   "kind": "story",
+   "title": "Shop Marvel Must Haves: Prepare for ‘Avengers: Doomsday’ with Official Doctor Doom Toys and Merch - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN21jZ3U1NlpMUTliWWFrdnp3VWRmZEhIOWxkNVZLVV9xS3JSRmxIRlljSmpzTlBObFo2bEpnemNVVlY3LU1za1RtMzlwQS1iS2h6RUg2M0hnNFYyQ1hDXy1PVENyaVBpQ195TFNQQ3BlQXVpNTBhVmNPTEZLamxmT3Q2WUFvb29KSlNrLTBnb2x4MUg4NXRFbmlQaS1oS1ZhYkRxblhxQjNMTFdkaWc?oc=5"
+  },
+  {
+   "at": "2026-11-08T11:30:06Z",
+   "kind": "story",
+   "title": "Marvel Legends Ghost Rider Figure Down to $43 at Walmart - The Inventory",
+   "ref": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWE55eWJnT2ppZUo5Vll4N0loSGw4MWY5T1JrbmNoRWowOVViQTRubHBXTFJxaW1pTEo1RlQ5QUt4c2lsaDZwREtFakpKLXhEamhxMUw1VUpaenItOXJEaWhZYzBUT01EZktJRFREaE5NazVwQ1JGNTBLalFidjJWV1RGZnQ4QzFYdHhSZS1hc3BxVktKSGZKcVROQlJYVHBlVGNnNUdaQU1tUkFMejJGUUhBaVM?oc=5"
+  },
+  {
+   "at": "2026-11-08T11:30:06Z",
+   "kind": "story",
+   "title": "Marvel Legends Power Princess (Void BAF) $33 at Walmart - The Inventory",
+   "ref": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFJiMjZpdzlZRHZPd0hLRUczb1RldXlISzQ5cXVQS09zcHBtSnVDajRETVRwVzEyQmN2SEhGQUNFLUNNSm1rSkFEdnMzTERPNmdRRHZfdXVxOHhXQzlRVmtqN0FRTW5JV05XUmF1VTlIU2dkTDNjTC1KOUMxTVY4LWtHdTRhc1B5eEYtMXp1TVNHMWNBRWtCY2NmY2NBSGhCZ0xPbGdvV3ozQQ?oc=5"
+  },
   {
    "at": "2026-11-07T11:18:49Z",
    "kind": "catalog",
@@ -394,18 +412,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure 2-Pack - Vision & Scarlet Witch",
    "ref": "https://cmdstore.com/products/marvel-legends-avengers-2-pack-vision-scarlet-witch-5010996434753"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Thor",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-thor-5010996355799"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers Doomsday 6 Inch Action Figure - Set of 6",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-doomsday-set-of-6-g20385l00"
   }
  ]
 }
