@@ -1,7 +1,7 @@
 {
  "format": "stock/1",
- "generated_at": "2026-11-04T14:26:30Z",
- "checked_at": "2026-11-04T14:26:30Z",
+ "generated_at": "2026-11-08T00:31:40Z",
+ "checked_at": "2026-11-08T00:31:40Z",
  "items": {
   "flower-gift": {
    "in_stock": false,
@@ -28,7 +28,7 @@
    "url": "https://sonnyangelusa.com/products/animal-series-ver-3"
   },
   "marine": {
-   "in_stock": true,
+   "in_stock": false,
    "url": "https://sonnyangelusa.com/products/minifigure-marine-series-2019"
   },
   "fruit": {

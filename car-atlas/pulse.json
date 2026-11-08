@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-07T19:28:21Z",
+ "generated_at": "2026-11-08T00:31:39Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-07T19:28:21Z",
+ "last_data_change_at": "2026-11-08T00:31:39Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 72,
-   "checked_at": "2026-11-07T19:28:19Z",
-   "last_ok_at": "2026-11-07T19:28:19Z",
+   "items": 36,
+   "checked_at": "2026-11-08T00:31:39Z",
+   "last_ok_at": "2026-11-08T00:31:39Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,73 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12422,
-   "checked_at": "2026-11-07T19:28:21Z",
-   "last_ok_at": "2026-11-07T19:28:21Z",
+   "checked_at": "2026-11-08T00:31:39Z",
+   "last_ok_at": "2026-11-08T00:31:39Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-08T00:31:39Z",
+   "kind": "sale",
+   "title": "1967 Chevrolet Corvette Convertible 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1967-chevrolet-corvette-convertible-355-2/"
+  },
+  {
+   "at": "2026-11-08T00:31:39Z",
+   "kind": "sale",
+   "title": "1983 DeLorean DMC-12 5-Speed Project",
+   "ref": "https://bringatrailer.com/listing/1983-delorean-dmc-12-52/"
+  },
+  {
+   "at": "2026-11-08T00:31:39Z",
+   "kind": "sale",
+   "title": "45k-Mile 2010 Cadillac Escalade Premium",
+   "ref": "https://bringatrailer.com/listing/2010-cadillac-escalade-12/"
+  },
+  {
+   "at": "2026-11-08T00:31:39Z",
+   "kind": "sale",
+   "title": "1969 Pontiac GTO Hardtop",
+   "ref": "https://bringatrailer.com/listing/1969-pontiac-gto-137/"
+  },
+  {
+   "at": "2026-11-08T00:31:39Z",
+   "kind": "sale",
+   "title": "1989 Porsche 911 Carrera 4 Coupe 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1989-porsche-911-carrera-4-coupe-58/"
+  },
+  {
+   "at": "2026-11-08T00:31:39Z",
+   "kind": "sale",
+   "title": "Original-Owner 17k-Mile 2000 Honda S2000",
+   "ref": "https://bringatrailer.com/listing/2000-honda-s2000-290/"
+  },
+  {
+   "at": "2026-11-08T00:31:39Z",
+   "kind": "sale",
+   "title": "2011 Porsche Cayenne Turbo",
+   "ref": "https://bringatrailer.com/listing/2011-porsche-cayenne-turbo-60/"
+  },
+  {
+   "at": "2026-11-08T00:31:39Z",
+   "kind": "sale",
+   "title": "35k-Mile 2002 Chevrolet Corvette Z06",
+   "ref": "https://bringatrailer.com/listing/2002-chevrolet-corvette-z06-189/"
+  },
+  {
+   "at": "2026-11-08T00:31:39Z",
+   "kind": "sale",
+   "title": "1,776cc-Powered 1965 Volkswagen Beetle",
+   "ref": "https://bringatrailer.com/listing/1965-volkswagen-beetle-156/"
+  },
+  {
+   "at": "2026-11-08T00:31:39Z",
+   "kind": "sale",
+   "title": "1970 Ford Mustang Hardtop 302",
+   "ref": "https://bringatrailer.com/listing/1970-ford-mustang-200/"
+  },
   {
    "at": "2026-11-07T19:28:21Z",
    "kind": "sale",
@@ -330,66 +390,6 @@
    "kind": "sale",
    "title": "2008 Mazda MX-5 Miata Special Edition",
    "ref": "https://bringatrailer.com/listing/2008-mazda-mx-5-miata-77/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "5.0L-Powered 1993 Land Rover Discovery Camel Trophy Edition 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1993-land-rover-discovery/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "30k-Mile 1995 GMC Yukon SLT 4×4",
-   "ref": "https://bringatrailer.com/listing/1995-gmc-yukon-18/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "37k-Mile 2021 Land Rover Range Rover HSE D260",
-   "ref": "https://bringatrailer.com/listing/2021-land-rover-range-rover-60/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "2024 Chevrolet Corvette Z06 Convertible 3LZ Z07",
-   "ref": "https://bringatrailer.com/listing/2024-chevrolet-corvette-z06-172/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "1982 Toyota Land Cruiser FJ43",
-   "ref": "https://bringatrailer.com/listing/1982-toyota-land-cruiser-fj43-31/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "31-Years-Family-Owned 1972 Toyota Land Cruiser FJ40",
-   "ref": "https://bringatrailer.com/listing/1972-toyota-land-cruiser-fj40-171/"
-  },
-  {
-   "at": "2026-11-04T21:21:38Z",
-   "kind": "sale",
-   "title": "2010 Land Rover Range Rover HSE Luxury",
-   "ref": "https://bringatrailer.com/listing/2010-land-rover-range-rover-111/"
-  },
-  {
-   "at": "2026-11-03T23:20:17Z",
-   "kind": "sale",
-   "title": "28-Years-Owned 1994 Mazda MX-5 Miata 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1994-mazda-mx-5-miata-145/"
-  },
-  {
-   "at": "2026-11-03T23:20:17Z",
-   "kind": "sale",
-   "title": "One-Family-Owned 2000 Honda S2000",
-   "ref": "https://bringatrailer.com/listing/2000-honda-s2000-296/"
-  },
-  {
-   "at": "2026-11-03T23:20:17Z",
-   "kind": "sale",
-   "title": "14k-Mile 2008 Jaguar XJ Vanden Plas",
-   "ref": "https://bringatrailer.com/listing/2008-jaguar-xj8-l-7/"
   }
  ]
 }
