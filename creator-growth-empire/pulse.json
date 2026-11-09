@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-08T22:00:56Z",
+ "generated_at": "2026-11-09T06:07:22Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-08T22:00:56Z",
+ "last_data_change_at": "2026-11-09T06:07:21Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-08T22:00:54Z",
-   "last_ok_at": "2026-11-08T22:00:54Z",
+   "checked_at": "2026-11-09T06:07:21Z",
+   "last_ok_at": "2026-11-09T06:07:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-08T22:00:55Z",
-   "last_ok_at": "2026-11-08T22:00:55Z",
+   "checked_at": "2026-11-09T06:07:21Z",
+   "last_ok_at": "2026-11-09T06:07:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-08T22:00:56Z",
-   "last_ok_at": "2026-11-08T22:00:56Z",
+   "checked_at": "2026-11-09T06:07:22Z",
+   "last_ok_at": "2026-11-09T06:07:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-08T22:00:55Z",
-   "last_ok_at": "2026-11-08T22:00:55Z",
+   "checked_at": "2026-11-09T06:07:21Z",
+   "last_ok_at": "2026-11-09T06:07:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-08T22:00:55Z",
-   "last_ok_at": "2026-11-08T22:00:55Z",
+   "checked_at": "2026-11-09T06:07:21Z",
+   "last_ok_at": "2026-11-09T06:07:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-08T22:00:54Z",
+   "checked_at": "2026-11-09T06:07:21Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 52
+   "fails_in_a_row": 53
   },
   {
    "id": "ypp-help",
@@ -79,15 +79,21 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-08T22:00:56Z",
-   "last_ok_at": "2026-11-08T22:00:56Z",
+   "checked_at": "2026-11-09T06:07:22Z",
+   "last_ok_at": "2026-11-09T06:07:22Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
-   "at": "2026-11-08T22:00:56Z",
+   "at": "2026-11-09T06:07:21Z",
+   "kind": "change",
+   "title": "Just a quarter of U.S. adults trust creators to always disclose brand deals",
+   "ref": "https://www.tubefilter.com/2026/11/08/creator-marketing-data-survey-brand-disclosure-trust/"
+  },
+  {
+   "at": "2026-11-09T06:07:22Z",
    "kind": "source-changed",
    "title": "YouTube Partner Program help page page changed",
    "ref": "https://support.google.com/youtube/answer/72851"

@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "cw-just-a-quarter-of-u-s-adults-trust-creators-to-a-b3d66b",
+   "platform": "other",
+   "title": "Just a quarter of U.S. adults trust creators to always disclose brand deals",
+   "summary": "Just one in four U.S. adults believe content creators consistently disclose brand ties when promoting a sponsored product. That’s not a lot of trust for an industry that relies on creators building close bonds with their audiences. The data comes from a Morning Consult survey conducted for Business Insider; around 2,000 people participated. Perhaps unsurprisingly, […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-11-09T06:07:21Z",
+   "announced_at": "2026-11-09T00:26:03Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/08/creator-marketing-data-survey-brand-disclosure-trust/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/08/creator-marketing-data-survey-brand-disclosure-trust/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "fb-design-the-muse-app-just-for-you-7d15d3",
    "platform": "facebook",
    "title": "Design the Muse App, Just for You",
@@ -1514,25 +1533,6 @@
     "g-drill-metrics",
     "p-read-phase2"
    ]
-  },
-  {
-   "category": "monetization",
-   "confidence": "single-source",
-   "detected_at": "2026-08-10T00:00:00Z",
-   "id": "yt-ypp-overhaul-2026",
-   "platform": "youtube",
-   "sources": [
-    {
-     "name": "AIR Media-Tech, YouTube algorithm in 2026 (month-by-month)",
-     "url": "https://air.io/en/trending/youtube-algorithm-in-2026-month-by-month-changes-that-affect-your-views"
-    }
-   ],
-   "summary": "New-applicant thresholds double: 8,000 watch hours per 365 days or 20M Shorts views per 90 days. Shorts ad/subscription revenue sharing gets a 10M qualified-Shorts-views-per-90-days floor. Premium Lite revenue joins the pool (55% long-form / 45% Shorts split of the creator share). Current Partners are grandfathered under existing terms until the effective date.",
-   "title": "YouTube Partner Program overhaul announced (effective Feb 1, 2027)",
-   "affects": [
-    "p-drill-ypp",
-    "c-read-phase5"
-   ]
   }
  ],
  "confidence_legend": {
@@ -1540,8 +1540,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-06T23:03:57Z",
+ "generated_at": "2026-11-09T06:07:21Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-06",
+ "updated": "2026-11-09",
  "version": "1.7.0"
 }
