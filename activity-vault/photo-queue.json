@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-05T12:44:41Z",
+ "generated_at": "2026-11-09T13:20:51Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -662,6 +662,17 @@
    "activity_id": "big-choose-your-colour-corner",
    "activity_name": "Big Choose Your Colour Corner",
    "queued_at": "2026-11-05T12:44:40Z"
+  },
+  {
+   "commons_title": "File:College Days by Naida Muriel Freudenberg (1915-1998) in the Jersey Journal on April 26, 1930 (crop).png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:College_Days_by_Naida_Muriel_Freudenberg_(1915-1998)_in_the_Jersey_Journal_on_April_26,_1930_(crop).png",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/College_Days_by_Naida_Muriel_Freudenberg_%281915-1998%29_in_the_Jersey_Journal_on_April_26%2C_1930_%28crop%29.png/500px-College_Days_by_Naida_Muriel_Freudenberg_%281915-1998%29_in_the_Jersey_Journal_on_April_26%2C_1930_%28crop%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<bdi><a href=\"https://www.wikidata.org/wiki/Q48751399\" class=\"extiw\" title=\"d:Q48751399\"><span title=\"(1915-1998) American author\">Naida Muriel Freudenberg</span></a></bdi>",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "hot-seat-kind-questions",
+   "activity_name": "Hot Seat, Kind Questions",
+   "queued_at": "2026-11-09T13:20:50Z"
   }
  ]
 }

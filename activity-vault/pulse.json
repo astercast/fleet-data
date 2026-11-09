@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-08T11:31:09Z",
+ "generated_at": "2026-11-09T13:20:51Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-08T11:30:12Z",
+ "last_data_change_at": "2026-11-09T13:19:57Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 60,
-   "checked_at": "2026-11-08T11:31:09Z",
-   "last_ok_at": "2026-11-08T11:31:09Z",
+   "items": 61,
+   "checked_at": "2026-11-09T13:20:51Z",
+   "last_ok_at": "2026-11-09T13:20:51Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-08T11:30:12Z",
-   "last_ok_at": "2026-11-08T11:30:12Z",
+   "checked_at": "2026-11-09T13:19:58Z",
+   "last_ok_at": "2026-11-09T13:19:58Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-08T11:30:10Z",
-   "last_ok_at": "2026-11-08T11:30:10Z",
+   "checked_at": "2026-11-09T13:19:57Z",
+   "last_ok_at": "2026-11-09T13:19:57Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-08T11:30:12Z",
-   "last_ok_at": "2026-11-08T11:30:12Z",
+   "checked_at": "2026-11-09T13:19:58Z",
+   "last_ok_at": "2026-11-09T13:19:58Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-08T11:30:11Z",
-   "last_ok_at": "2026-11-08T11:30:11Z",
+   "checked_at": "2026-11-09T13:19:58Z",
+   "last_ok_at": "2026-11-09T13:19:58Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-08T11:30:10Z",
-   "last_ok_at": "2026-11-08T11:30:10Z",
+   "checked_at": "2026-11-09T13:19:57Z",
+   "last_ok_at": "2026-11-09T13:19:57Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,31 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-08T11:30:08Z",
-   "last_ok_at": "2026-11-08T11:30:08Z",
+   "checked_at": "2026-11-09T13:19:56Z",
+   "last_ok_at": "2026-11-09T13:19:56Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-09T13:19:57Z",
+   "kind": "post",
+   "title": "42 Simple Hanukkah Crafts for Kids to Celebrate! Dreidels, Menorahs & More!",
+   "ref": "https://handsonaswegrow.com/hanukkah-crafts-kids/"
+  },
+  {
+   "at": "2026-11-09T13:19:58Z",
+   "kind": "post",
+   "title": "Turkey Call Sound Science Experiment for Kids",
+   "ref": "https://littlebinsforlittlehands.com/turkey-call-science-experiment/"
+  },
+  {
+   "at": "2026-11-09T13:20:50Z",
+   "kind": "photo-candidate",
+   "title": "Hot Seat, Kind Questions",
+   "ref": "https://commons.wikimedia.org/wiki/File:College_Days_by_Naida_Muriel_Freudenberg_(1915-1998)_in_the_Jersey_Journal_on_April_26,_1930_(crop).png"
+  },
   {
    "at": "2026-11-08T11:30:12Z",
    "kind": "post",
@@ -427,24 +445,6 @@
    "kind": "post",
    "title": "Free Printable Fun Fall Writing Prompts For Kids",
    "ref": "https://kidsactivitiesblog.com/307982/free-printable-fun-fall-writing-prompts-for-kids/"
-  },
-  {
-   "at": "2026-10-29T11:05:16Z",
-   "kind": "post",
-   "title": "K-4th Grade Fun & Free Printable Halloween Math Worksheets",
-   "ref": "https://kidsactivitiesblog.com/60123/halloween-math-worksheets/"
-  },
-  {
-   "at": "2026-10-29T11:05:16Z",
-   "kind": "post",
-   "title": "10 Easy Preschool Science Experiments",
-   "ref": "https://kidsactivitiesblog.com/50091/preschool-science-experiments/"
-  },
-  {
-   "at": "2026-10-29T11:05:16Z",
-   "kind": "post",
-   "title": "Printable Reading Tracker – LEGO-Inspired",
-   "ref": "https://kidsactivitiesblog.com/115699/printable-reading-tracker-lego-inspired/"
   }
  ]
 }
