@@ -1,5 +1,7 @@
 {
  "hf": [
+  "AI-KSK/ksk-video-233-comfyui-workflows",
+  "AI-KSK/ksk-video-239-comfyui-workflows",
   "AaronHuangWei/longlive2-global-query-only-ablation",
   "AaronHuangWei/longlive2-teacher-top10-full-context-ablation",
   "AbrahamPJ/fasth3-dense-v1-q4_0-gguf",
@@ -37,6 +39,7 @@
   "PatiPix/FastWan2.2-TI2V-5B-GGUF",
   "PedroMarinhoDev/Hy-Nomas-ComfyUI",
   "Perflow-Shuai/H3-AR-Few-Step-LoRA",
+  "Perflow-Shuai/MiniMax-H3-3Step-LoRA",
   "Pexqman/Wan2.2-TI2V-5B-hexpack",
   "PrometheusEXE/MiniMax-H3-PTD-LoRAs",
   "Ravlyyyk/LTX-2.3-uncensored-v1.4-FP8",
@@ -159,6 +162,7 @@
   "sanjeevkumar70550932/LTX-Video-0.9.7-distilled",
   "seedance2-5ai/seedance-2-5-video",
   "silentlooop/revt2v-ckpt",
+  "siraxe/H3_slider_experiments",
   "sjxknukkji/wan2.2-t2v-a14b-transformers-bf16",
   "slmonker/TaoMate-HD-preview-comfy",
   "smile-forge/wan2.2-ti2v-5b-onnx",

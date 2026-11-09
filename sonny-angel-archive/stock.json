@@ -1,10 +1,10 @@
 {
  "format": "stock/1",
- "generated_at": "2026-11-08T00:31:40Z",
- "checked_at": "2026-11-08T00:31:40Z",
+ "generated_at": "2026-11-09T16:07:38Z",
+ "checked_at": "2026-11-09T16:07:38Z",
  "items": {
   "flower-gift": {
-   "in_stock": false,
+   "in_stock": true,
    "url": "https://sonnyangelusa.com/products/flower-gift-series"
   },
   "hippers-dreaming": {
@@ -28,7 +28,7 @@
    "url": "https://sonnyangelusa.com/products/animal-series-ver-3"
   },
   "marine": {
-   "in_stock": false,
+   "in_stock": true,
    "url": "https://sonnyangelusa.com/products/minifigure-marine-series-2019"
   },
   "fruit": {
@@ -40,7 +40,7 @@
    "url": "https://sonnyangelusa.com/products/hippers-harvest-series"
   },
   "sweets": {
-   "in_stock": true,
+   "in_stock": false,
    "url": "https://sonnyangelusa.com/products/minifigure-sweets-series-2019"
   },
   "flower": {

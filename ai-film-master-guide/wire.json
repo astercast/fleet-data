@@ -1,7 +1,47 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-09T06:07:21Z",
+ "generated_at": "2026-11-09T16:04:18Z",
  "items": [
+  {
+   "id": "hf-siraxe/H3_slider_experiments",
+   "at": "2026-11-09T13:51:24Z",
+   "model": "siraxe/H3_slider_experiments",
+   "title": "New text-to-video model listed on Hugging Face: siraxe/H3_slider_experiments",
+   "url": "https://huggingface.co/siraxe/H3_slider_experiments",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-AI-KSK/ksk-video-233-comfyui-workflows",
+   "at": "2026-11-09T12:23:52Z",
+   "model": "AI-KSK/ksk-video-233-comfyui-workflows",
+   "title": "New text-to-video model listed on Hugging Face: AI-KSK/ksk-video-233-comfyui-workflows",
+   "url": "https://huggingface.co/AI-KSK/ksk-video-233-comfyui-workflows",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Perflow-Shuai/MiniMax-H3-3Step-LoRA",
+   "at": "2026-11-09T12:23:09Z",
+   "model": "Perflow-Shuai/MiniMax-H3-3Step-LoRA",
+   "title": "New text-to-video model listed on Hugging Face: Perflow-Shuai/MiniMax-H3-3Step-LoRA",
+   "url": "https://huggingface.co/Perflow-Shuai/MiniMax-H3-3Step-LoRA",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-AI-KSK/ksk-video-239-comfyui-workflows",
+   "at": "2026-11-09T12:21:19Z",
+   "model": "AI-KSK/ksk-video-239-comfyui-workflows",
+   "title": "New text-to-video model listed on Hugging Face: AI-KSK/ksk-video-239-comfyui-workflows",
+   "url": "https://huggingface.co/AI-KSK/ksk-video-239-comfyui-workflows",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-09",
    "at": "2026-11-09T06:07:05+00:00",
@@ -1458,46 +1498,6 @@
    "model": "Vidu Q4 Preview",
    "title": "Vidu Q4 Preview: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://www.vidu.com/pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Gen-4.5-2026-11-06",
-   "at": "2026-11-06T06:25:25+00:00",
-   "model": "Runway Gen-4.5",
-   "title": "Runway Gen-4.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/326994/20260908/runway-ai-hits-200m-arr-enterprise-video-adoption-triples-existing-spend.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Mirage Tesseract-2026-11-06",
-   "at": "2026-11-06T06:25:21+00:00",
-   "model": "Mirage Tesseract",
-   "title": "Mirage Tesseract: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://mirage.app/tesseract",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Vidu S2-2026-11-06",
-   "at": "2026-11-06T06:25:11+00:00",
-   "model": "Vidu S2",
-   "title": "Vidu S2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.prnewswire.com/news-releases/shengshu-technology-unveils-vidu-s2-bringing-real-time-interaction-and-editing-to-ai-video-302879976.html",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-LTX-2.5-2026-11-06",
-   "at": "2026-11-06T06:25:01+00:00",
-   "model": "LTX-2.5",
-   "title": "LTX-2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://intelligibberish.com/articles/best-local-video-generation-models-by-vram/",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
