@@ -78,6 +78,7 @@
   "RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
   "SJTU-DENG-Lab/WaveForcing-1.3B",
   "SOLRICKS/Mila",
+  "SadikNawazAI/wan22-qx-encoders-gguf",
   "Sistafistaz/text-to-video-ms-1.7b",
   "Smite79/MiniMax-H3-Longvideos",
   "Spectrallic/MiniMax-H3-DMAD-4step-int8-convrot",
@@ -86,6 +87,8 @@
   "Spectrallic/MiniMax-H3-LightX2V-int8-convrot",
   "Spectrallic/MiniMax-H3-PDMD-4step-int8-convrot",
   "Statite/SpecAR",
+  "StillDeadcode/fasth3-8-step-v2-i8",
+  "StillDeadcode/minimax-h3-i8",
   "TK3105/UniAVC",
   "TaoLiveAIGC/TaoMate-HD-preview",
   "Tsuki0512/LTX-2-AVCReward-LoRA",
@@ -105,9 +108,11 @@
   "abc1015abc/History-Forcing",
   "addlabsviral/minimax-h3-flashgen-fused",
   "aifreak777/Wan2.2-TI2V-5B-FP8",
+  "anyze/wan2.1-anime-lora",
   "axteam/Motif-Video-2B-FP8",
   "berryber09/FastH3-OmniRef-8step-pruned-w4a8",
   "capybara102/fasth3-dense-v1-q4_0-gguf",
+  "cmjones1966/MiniMax-H3-Longvideos",
   "cokeadrink/fasth3-v2-native-blackwell",
   "cokeadrink/minimax-h3-fl2va-pruned-bf16",
   "cokeadrink/minimax-h3-int8-base-ref2va",
@@ -120,6 +125,7 @@
   "ddlara01/ultima-releases",
   "dragonlimited/LTX2-marimo",
   "dragonlimited/comfyui-molab",
+  "drtuch/ltx-2-2.3-i2v-nsfw-furry-multi-purpose-sex-lora",
   "ducvh5/looptrans-a5-b5x4-c5-tf-fm-tm",
   "ducvh5/wan21-a5b5x4c5-ar-tf-fm-tm-ln2",
   "ducvh5/wan21-a5b5x4c5-fm-tm-ln2",
@@ -148,6 +154,7 @@
   "emdashthreee/pix-vid-wn-2.1-t2v-14b",
   "epfl-neuroai/NEvo",
   "epfl-vita/PTD-weights",
+  "fusorlabs/motif-video-2b-web",
   "fusorlabs/wan2.1-t2v-1.3b-web",
   "gearwave00001/MiniMax-H3-dasiwaHybridV4-fp8-rad",
   "grabbou/Wan2.1-T2V-1.3B-CoreAI",
@@ -381,6 +388,7 @@
   "tag:github.com,2008:Repository/589831718/v0.43.2",
   "tag:github.com,2008:Repository/589831718/v0.44.0",
   "tag:github.com,2008:Repository/589831718/v0.44.1",
-  "tag:github.com,2008:Repository/589831718/v0.44.2"
+  "tag:github.com,2008:Repository/589831718/v0.44.2",
+  "tag:github.com,2008:Repository/589831718/v0.45.0"
  ]
 }

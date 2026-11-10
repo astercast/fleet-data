@@ -1,6 +1,6 @@
 {
  "format": "price-watch-reported/1",
- "generated_at": "2026-11-10T11:05:22Z",
+ "generated_at": "2026-11-10T19:45:02Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -20,7 +20,8 @@
    "model": "911",
    "makeName": "Porsche",
    "modelName": "911",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "48k-Mile 2012 Porsche Cayenne",
@@ -35,7 +36,8 @@
    "model": "cayenne",
    "makeName": "Porsche",
    "modelName": "Cayenne",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "Original-Owner 2004 Toyota Land Cruiser UZJ100",
@@ -50,7 +52,8 @@
    "model": "land-cruiser",
    "makeName": "Toyota",
    "modelName": "Land Cruiser",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "1,915-Powered 1968 Volkswagen Beetle Convertible",
@@ -65,7 +68,8 @@
    "model": "beetle",
    "makeName": "Volkswagen",
    "modelName": "Beetle",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "2013 BMW M3 Coupe Competition Package",
@@ -80,7 +84,8 @@
    "model": "m3",
    "makeName": "BMW",
    "modelName": "M3",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "29k-Mile 1996 Ford Mustang SVT Cobra Mystic Coupe 5-Speed",
@@ -95,7 +100,8 @@
    "model": "mustang",
    "makeName": "Ford",
    "modelName": "Mustang",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   },
   {
    "title": "313-Mile 2022 Ford Mustang Shelby GT500 Heritage Edition Carbon Fiber Track Pack",
@@ -110,7 +116,8 @@
    "model": "mustang",
    "makeName": "Ford",
    "modelName": "Mustang",
-   "classification": "certified"
+   "classification": "certified",
+   "vpicMakeKnown": true
   }
  ]
 }
