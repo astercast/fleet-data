@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-09T13:20:51Z",
+ "generated_at": "2026-11-10T12:58:34Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -673,6 +673,50 @@
    "activity_id": "hot-seat-kind-questions",
    "activity_name": "Hot Seat, Kind Questions",
    "queued_at": "2026-11-09T13:20:50Z"
+  },
+  {
+   "commons_title": "File:A midnight modern conversation - DPLA - 05a5ea6563960776d9ea200a2015a86a.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:A_midnight_modern_conversation_-_DPLA_-_05a5ea6563960776d9ea200a2015a86a.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/A_midnight_modern_conversation_-_DPLA_-_05a5ea6563960776d9ea200a2015a86a.jpg/500px-A_midnight_modern_conversation_-_DPLA_-_05a5ea6563960776d9ea200a2015a86a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "Hogarth, William, 1697-1764",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "midnight-around-the-world",
+   "activity_name": "Midnight Around the World",
+   "queued_at": "2026-11-10T12:58:31Z"
+  },
+  {
+   "commons_title": "File:Lunar libration with phase2.gif",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Lunar_libration_with_phase2.gif",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lunar_libration_with_phase2.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "author": "<a href=\"https://en.wikipedia.org/wiki/User:Tomruen\" class=\"extiw\" title=\"en:User:Tomruen\">Tomruen</a>",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "midnight-around-the-world",
+   "activity_name": "Midnight Around the World",
+   "queued_at": "2026-11-10T12:58:31Z"
+  },
+  {
+   "commons_title": "File:An Education Volunteer with his high school students in the Philippines.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:An_Education_Volunteer_with_his_high_school_students_in_the_Philippines.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/An_Education_Volunteer_with_his_high_school_students_in_the_Philippines.jpg/500px-An_Education_Volunteer_with_his_high_school_students_in_the_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "Peace Corps",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "teach-back-to-the-youngers",
+   "activity_name": "Teach-Back to the Youngers",
+   "queued_at": "2026-11-10T12:58:33Z"
+  },
+  {
+   "commons_title": "File:Bell telephone magazine (1922) (14569748709).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Bell_telephone_magazine_(1922)_(14569748709).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bell_telephone_magazine_%281922%29_%2814569748709%29.jpg/500px-Bell_telephone_magazine_%281922%29_%2814569748709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images</a>",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "teach-back-to-the-youngers",
+   "activity_name": "Teach-Back to the Youngers",
+   "queued_at": "2026-11-10T12:58:33Z"
   }
  ]
 }

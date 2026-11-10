@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-11-10T11:05:50Z",
+ "generated_at": "2026-11-10T12:58:38Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -10,7 +10,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "1.9 h old, limit 14 h"
     ],
     [
      "sources",
@@ -20,11 +20,11 @@
     [
      "site",
      "ok",
-     "120 ms"
+     "121 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 1.9,
+   "changed_age_h": 1.9,
    "sources": [
     {
      "id": "arxiv",
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "21.8 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,23 +77,23 @@
     [
      "site",
      "ok",
-     "111 ms"
+     "304 ms"
     ]
    ],
-   "data_age_h": 21.8,
-   "changed_age_h": 47.6,
+   "data_age_h": 0.0,
+   "changed_age_h": 49.5,
    "sources": [
     {
      "id": "cmdstore",
      "ok": true,
      "fails": 0,
-     "items": 63
+     "items": 62
     },
     {
      "id": "gnews",
      "ok": true,
      "fails": 0,
-     "items": 59
+     "items": 58
     },
     {
      "id": "preorders",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "21.8 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "224 ms"
+     "137 ms"
     ]
    ],
-   "data_age_h": 21.8,
+   "data_age_h": 0.0,
    "changed_age_h": null,
    "sources": [
     {
@@ -168,7 +168,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "1.9 h old, limit 14 h"
     ],
     [
      "sources",
@@ -178,11 +178,11 @@
     [
      "site",
      "ok",
-     "318 ms"
+     "205 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 1.9,
+   "changed_age_h": 1.9,
    "sources": [
     {
      "id": "meta-newsroom",
@@ -237,7 +237,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 8 h"
+     "1.9 h old, limit 8 h"
     ],
     [
      "sources",
@@ -247,10 +247,10 @@
     [
      "site",
      "ok",
-     "105 ms"
+     "260 ms"
     ]
    ],
-   "data_age_h": 0.0,
+   "data_age_h": 1.9,
    "changed_age_h": null,
    "sources": [
     {
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "21.7 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,17 +382,17 @@
     [
      "site",
      "ok",
-     "101 ms"
+     "237 ms"
     ]
    ],
-   "data_age_h": 21.7,
-   "changed_age_h": 21.8,
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "commons-photo-scout",
      "ok": true,
      "fails": 0,
-     "items": 61
+     "items": 65
     },
     {
      "id": "feed-buggyandbuddy",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "21.7 h old, limit 50 h"
+     "0.0 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "239 ms"
+     "121 ms"
     ]
    ],
-   "data_age_h": 21.7,
+   "data_age_h": 0.0,
    "changed_age_h": null,
    "sources": [
     {
@@ -486,7 +486,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "1.9 h old, limit 14 h"
     ],
     [
      "sources",
@@ -496,11 +496,11 @@
     [
      "site",
      "ok",
-     "381 ms"
+     "252 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 9.5,
+   "data_age_h": 1.9,
+   "changed_age_h": 11.4,
    "sources": [
     {
      "id": "bat",
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "242 ms"
+     "201 ms"
     ]
    ],
    "state": "ok"
@@ -538,7 +538,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "1.9 h old, limit 14 h"
     ],
     [
      "sources",
@@ -548,7 +548,7 @@
     [
      "site",
      "ok",
-     "381 ms"
+     "262 ms"
     ],
     [
      "health",
@@ -556,8 +556,8 @@
      "ok"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 9.5,
+   "data_age_h": 1.9,
+   "changed_age_h": 11.4,
    "sources": [
     {
      "id": "liquipedia",
@@ -576,7 +576,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "1.9 h old, limit 14 h"
     ],
     [
      "sources",
@@ -591,11 +591,11 @@
     [
      "site",
      "ok",
-     "374 ms"
+     "211 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 9.5,
+   "data_age_h": 1.9,
+   "changed_age_h": 11.4,
    "sources": [
     {
      "id": "store",

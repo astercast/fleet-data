@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-09T13:20:51Z",
+ "generated_at": "2026-11-10T12:58:34Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-09T13:19:57Z",
+ "last_data_change_at": "2026-11-10T12:57:31Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 61,
-   "checked_at": "2026-11-09T13:20:51Z",
-   "last_ok_at": "2026-11-09T13:20:51Z",
+   "items": 65,
+   "checked_at": "2026-11-10T12:58:34Z",
+   "last_ok_at": "2026-11-10T12:58:34Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-09T13:19:58Z",
-   "last_ok_at": "2026-11-09T13:19:58Z",
+   "checked_at": "2026-11-10T12:57:34Z",
+   "last_ok_at": "2026-11-10T12:57:34Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-09T13:19:57Z",
-   "last_ok_at": "2026-11-09T13:19:57Z",
+   "checked_at": "2026-11-10T12:57:33Z",
+   "last_ok_at": "2026-11-10T12:57:33Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-09T13:19:58Z",
-   "last_ok_at": "2026-11-09T13:19:58Z",
+   "checked_at": "2026-11-10T12:57:34Z",
+   "last_ok_at": "2026-11-10T12:57:34Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-09T13:19:58Z",
-   "last_ok_at": "2026-11-09T13:19:58Z",
+   "checked_at": "2026-11-10T12:57:33Z",
+   "last_ok_at": "2026-11-10T12:57:33Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-09T13:19:57Z",
-   "last_ok_at": "2026-11-09T13:19:57Z",
+   "checked_at": "2026-11-10T12:57:33Z",
+   "last_ok_at": "2026-11-10T12:57:33Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,43 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-09T13:19:56Z",
-   "last_ok_at": "2026-11-09T13:19:56Z",
+   "checked_at": "2026-11-10T12:57:31Z",
+   "last_ok_at": "2026-11-10T12:57:31Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-10T12:57:31Z",
+   "kind": "post",
+   "title": "80 Exciting 5th Grade Science Projects, Demos & Experiments",
+   "ref": "https://www.weareteachers.com/5th-grade-science-projects/?utm_source=rss&utm_medium=rss&utm_campaign=5th-grade-science-projects"
+  },
+  {
+   "at": "2026-11-10T12:57:33Z",
+   "kind": "post",
+   "title": "25 Fun Christmas Science Experiments",
+   "ref": "https://littlebinsforlittlehands.com/christmas-science-activities-kids-top-10-christmas-ideas-kids/"
+  },
+  {
+   "at": "2026-11-10T12:57:34Z",
+   "kind": "post",
+   "title": "Roll A Story: Thanksgiving Edition",
+   "ref": "https://kidsactivitiesblog.com/310958/roll-a-story-thanksgiving-edition/"
+  },
+  {
+   "at": "2026-11-10T12:58:31Z",
+   "kind": "photo-candidate",
+   "title": "Midnight Around the World",
+   "ref": "https://commons.wikimedia.org/wiki/File:A_midnight_modern_conversation_-_DPLA_-_05a5ea6563960776d9ea200a2015a86a.jpg"
+  },
+  {
+   "at": "2026-11-10T12:58:33Z",
+   "kind": "photo-candidate",
+   "title": "Teach-Back to the Youngers",
+   "ref": "https://commons.wikimedia.org/wiki/File:An_Education_Volunteer_with_his_high_school_students_in_the_Philippines.jpg"
+  },
   {
    "at": "2026-11-09T13:19:57Z",
    "kind": "post",
@@ -403,48 +433,6 @@
    "kind": "post",
    "title": "Free Printable Thanksgiving Activities for Kids",
    "ref": "https://littlebinsforlittlehands.com/thanksgiving-printable-counting-activity/"
-  },
-  {
-   "at": "2026-10-30T11:01:08Z",
-   "kind": "post",
-   "title": "100+ Corny Thanksgiving Jokes for Kids (Plus Free Slides)",
-   "ref": "https://www.weareteachers.com/thanksgiving-jokes-for-kids/?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-jokes-for-kids"
-  },
-  {
-   "at": "2026-10-30T11:01:09Z",
-   "kind": "post",
-   "title": "Classic Glittery Christmas Stocking Craft",
-   "ref": "https://handsonaswegrow.com/christmas-stocking-craft/"
-  },
-  {
-   "at": "2026-10-30T11:01:09Z",
-   "kind": "post",
-   "title": "Thanksgiving Family Games: 6 Fun Printable Party Games",
-   "ref": "https://teachbesideme.com/thanksgiving-family-games-6-fun-printable-party-games/"
-  },
-  {
-   "at": "2026-10-29T11:05:14Z",
-   "kind": "post",
-   "title": "Free Printable Placemats for Thanksgiving",
-   "ref": "https://www.weareteachers.com/free-printable-placemats-for-thanksgiving/?utm_source=rss&utm_medium=rss&utm_campaign=free-printable-placemats-for-thanksgiving"
-  },
-  {
-   "at": "2026-10-29T11:05:14Z",
-   "kind": "post",
-   "title": "25 Meaningful Presidents’ Day Activities for the Classroom",
-   "ref": "https://www.weareteachers.com/presidents-day-activities/?utm_source=rss&utm_medium=rss&utm_campaign=presidents-day-activities"
-  },
-  {
-   "at": "2026-10-29T11:05:15Z",
-   "kind": "post",
-   "title": "Googly Eyes Crafts & Activities for Halloween",
-   "ref": "https://handsonaswegrow.com/googly-eyes-crafts-activities-halloween/"
-  },
-  {
-   "at": "2026-10-29T11:05:16Z",
-   "kind": "post",
-   "title": "Free Printable Fun Fall Writing Prompts For Kids",
-   "ref": "https://kidsactivitiesblog.com/307982/free-printable-fun-fall-writing-prompts-for-kids/"
   }
  ]
 }
