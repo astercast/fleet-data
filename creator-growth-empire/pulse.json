@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-09T16:04:21Z",
+ "generated_at": "2026-11-10T01:30:58Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-09T16:04:21Z",
+ "last_data_change_at": "2026-11-10T01:30:56Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-09T16:04:19Z",
-   "last_ok_at": "2026-11-09T16:04:19Z",
+   "checked_at": "2026-11-10T01:30:55Z",
+   "last_ok_at": "2026-11-10T01:30:55Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-09T16:04:19Z",
-   "last_ok_at": "2026-11-09T16:04:19Z",
+   "checked_at": "2026-11-10T01:30:56Z",
+   "last_ok_at": "2026-11-10T01:30:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-09T16:04:20Z",
-   "last_ok_at": "2026-11-09T16:04:20Z",
+   "checked_at": "2026-11-10T01:30:57Z",
+   "last_ok_at": "2026-11-10T01:30:57Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-09T16:04:19Z",
-   "last_ok_at": "2026-11-09T16:04:19Z",
+   "checked_at": "2026-11-10T01:30:55Z",
+   "last_ok_at": "2026-11-10T01:30:55Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-09T16:04:20Z",
-   "last_ok_at": "2026-11-09T16:04:20Z",
+   "checked_at": "2026-11-10T01:30:56Z",
+   "last_ok_at": "2026-11-10T01:30:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-09T16:04:19Z",
+   "checked_at": "2026-11-10T01:30:55Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 54
+   "fails_in_a_row": 55
   },
   {
    "id": "ypp-help",
@@ -79,15 +79,21 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-09T16:04:21Z",
-   "last_ok_at": "2026-11-09T16:04:21Z",
+   "checked_at": "2026-11-10T01:30:58Z",
+   "last_ok_at": "2026-11-10T01:30:58Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
-   "at": "2026-11-09T16:04:21Z",
+   "at": "2026-11-10T01:30:56Z",
+   "kind": "change",
+   "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 11/08/2026",
+   "ref": "https://www.tubefilter.com/2026/11/09/top-50-most-subscribed-youtube-channels-worldwide-week-of-11-08-2026/"
+  },
+  {
+   "at": "2026-11-10T01:30:58Z",
    "kind": "source-changed",
    "title": "YouTube Partner Program help page page changed",
    "ref": "https://support.google.com/youtube/answer/72851"

@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-11-09T16:07:44Z",
+ "generated_at": "2026-11-10T01:34:53Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -20,7 +20,7 @@
     [
      "site",
      "ok",
-     "282 ms"
+     "185 ms"
     ]
    ],
    "data_age_h": 0.1,
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "2.8 h old, limit 50 h"
+     "12.2 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,11 +77,11 @@
     [
      "site",
      "ok",
-     "248 ms"
+     "564 ms"
     ]
    ],
-   "data_age_h": 2.8,
-   "changed_age_h": 28.6,
+   "data_age_h": 12.2,
+   "changed_age_h": 38.1,
    "sources": [
     {
      "id": "cmdstore",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "2.8 h old, limit 50 h"
+     "12.2 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "209 ms"
+     "364 ms"
     ]
    ],
-   "data_age_h": 2.8,
+   "data_age_h": 12.2,
    "changed_age_h": null,
    "sources": [
     {
@@ -178,7 +178,7 @@
     [
      "site",
      "ok",
-     "310 ms"
+     "330 ms"
     ]
    ],
    "data_age_h": 0.1,
@@ -217,7 +217,7 @@
     {
      "id": "youtube-blog",
      "ok": false,
-     "fails": 54,
+     "fails": 55,
      "items": 0
     },
     {
@@ -247,7 +247,7 @@
     [
      "site",
      "ok",
-     "114 ms"
+     "416 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -256,7 +256,7 @@
     {
      "id": "board",
      "ok": false,
-     "fails": 54,
+     "fails": 55,
      "items": 0
     },
     {
@@ -269,7 +269,7 @@
      "id": "lane-charts",
      "ok": true,
      "fails": 0,
-     "items": 10
+     "items": 20
     },
     {
      "id": "lane-gtrends",
@@ -281,7 +281,7 @@
      "id": "lane-hn",
      "ok": true,
      "fails": 0,
-     "items": 50
+     "items": 49
     },
     {
      "id": "lane-lemmy",
@@ -340,19 +340,19 @@
     {
      "id": "lane-tiktok",
      "ok": false,
-     "fails": 54,
+     "fails": 55,
      "items": 0
     },
     {
      "id": "lane-wiki",
      "ok": true,
      "fails": 0,
-     "items": 15
+     "items": 0
     },
     {
      "id": "lane-x",
      "ok": false,
-     "fails": 54,
+     "fails": 55,
      "items": 0
     },
     {
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "2.8 h old, limit 50 h"
+     "12.2 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "225 ms"
+     "560 ms"
     ]
    ],
-   "data_age_h": 2.8,
-   "changed_age_h": 2.8,
+   "data_age_h": 12.2,
+   "changed_age_h": 12.2,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "2.8 h old, limit 50 h"
+     "12.2 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "247 ms"
+     "325 ms"
     ]
    ],
-   "data_age_h": 2.8,
+   "data_age_h": 12.2,
    "changed_age_h": null,
    "sources": [
     {
@@ -496,17 +496,17 @@
     [
      "site",
      "ok",
-     "213 ms"
+     "507 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 18.1,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "bat",
      "ok": true,
      "fails": 0,
-     "items": 36
+     "items": 72
     },
     {
      "id": "nhtsa-vpic",
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "413 ms"
+     "354 ms"
     ]
    ],
    "state": "ok"
@@ -542,13 +542,13 @@
     ],
     [
      "sources",
-     "ok",
-     "all ok"
+     "fail",
+     "down: liquipedia"
     ],
     [
      "site",
      "ok",
-     "306 ms"
+     "413 ms"
     ],
     [
      "health",
@@ -557,16 +557,16 @@
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 9.9,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "liquipedia",
-     "ok": true,
-     "fails": 0,
+     "ok": false,
+     "fails": 1,
      "items": 6
     }
    ],
-   "state": "ok"
+   "state": "fail"
   },
   {
    "site": "sonny-angel-archive",
@@ -591,7 +591,7 @@
     [
      "site",
      "ok",
-     "1679 ms"
+     "387 ms"
     ]
    ],
    "data_age_h": 0.0,

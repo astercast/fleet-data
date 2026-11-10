@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-09T16:07:37Z",
+ "generated_at": "2026-11-10T01:34:23Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-08T22:04:06Z",
+ "last_data_change_at": "2026-11-10T01:34:23Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-09T16:07:32Z",
-   "last_ok_at": "2026-11-09T16:07:32Z",
+   "items": 72,
+   "checked_at": "2026-11-10T01:34:22Z",
+   "last_ok_at": "2026-11-10T01:34:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,55 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12424,
-   "checked_at": "2026-11-09T16:07:37Z",
-   "last_ok_at": "2026-11-09T16:07:37Z",
+   "checked_at": "2026-11-10T01:34:23Z",
+   "last_ok_at": "2026-11-10T01:34:23Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-10T01:34:23Z",
+   "kind": "sale",
+   "title": "2017 Porsche 911 Turbo Cabriolet",
+   "ref": "https://bringatrailer.com/listing/2017-porsche-911-turbo-cabriolet-7/"
+  },
+  {
+   "at": "2026-11-10T01:34:23Z",
+   "kind": "sale",
+   "title": "48k-Mile 2012 Porsche Cayenne",
+   "ref": "https://bringatrailer.com/listing/2012-porsche-cayenne-33/"
+  },
+  {
+   "at": "2026-11-10T01:34:23Z",
+   "kind": "sale",
+   "title": "Original-Owner 2004 Toyota Land Cruiser UZJ100",
+   "ref": "https://bringatrailer.com/listing/2004-toyota-land-cruiser-102/"
+  },
+  {
+   "at": "2026-11-10T01:34:23Z",
+   "kind": "sale",
+   "title": "1,915-Powered 1968 Volkswagen Beetle Convertible",
+   "ref": "https://bringatrailer.com/listing/1968-volkswagen-beetle-117/"
+  },
+  {
+   "at": "2026-11-10T01:34:23Z",
+   "kind": "sale",
+   "title": "2013 BMW M3 Coupe Competition Package",
+   "ref": "https://bringatrailer.com/listing/2013-bmw-m3-coupe-185/"
+  },
+  {
+   "at": "2026-11-10T01:34:23Z",
+   "kind": "sale",
+   "title": "29k-Mile 1996 Ford Mustang SVT Cobra Mystic Coupe 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1996-ford-mustang-svt-cobra-coupe-57/"
+  },
+  {
+   "at": "2026-11-10T01:34:23Z",
+   "kind": "sale",
+   "title": "313-Mile 2022 Ford Mustang Shelby GT500 Heritage Edition Carbon Fiber Track Pack",
+   "ref": "https://bringatrailer.com/listing/2022-ford-mustang-shelby-gt500-heritage-edition-93/"
+  },
   {
    "at": "2026-11-08T22:04:06Z",
    "kind": "sale",
@@ -348,48 +390,6 @@
    "kind": "sale",
    "title": "34k-Mile 2018 Land Rover Range Rover Sport HSE",
    "ref": "https://bringatrailer.com/listing/2018-land-rover-range-rover-sport-29/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "14k-Mile 2008 Aston Martin V8 Vantage Roadster",
-   "ref": "https://bringatrailer.com/listing/2008-aston-martin-v8-vantage-roadster-69-2/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "2002 Porsche 911 Turbo Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2002-porsche-911-turbo-coupe-124/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "29k-Mile 2008 Porsche 911 Turbo Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2008-porsche-911-turbo-coupe-98/"
-  },
-  {
-   "at": "2026-11-05T06:35:14Z",
-   "kind": "sale",
-   "title": "2014 Porsche 911 Carrera Coupe 7-Speed",
-   "ref": "https://bringatrailer.com/listing/2014-porsche-911-carrera-coupe-24/"
-  },
-  {
-   "at": "2026-11-05T06:35:14Z",
-   "kind": "sale",
-   "title": "Single-Family-Owned 1999 Toyota Tacoma SR5 XtraCab 4×4 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1999-toyota-tacoma-80/"
-  },
-  {
-   "at": "2026-11-05T06:35:14Z",
-   "kind": "sale",
-   "title": "2024 Porsche Cayenne S Coupe",
-   "ref": "https://bringatrailer.com/listing/2024-porsche-cayenne-s-3/"
-  },
-  {
-   "at": "2026-11-05T06:35:14Z",
-   "kind": "sale",
-   "title": "1978 Ford Bronco Ranger XLT",
-   "ref": "https://bringatrailer.com/listing/1978-ford-bronco-181/"
   }
  ]
 }

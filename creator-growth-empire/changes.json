@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "yt-top-50-most-subscribed-youtube-channels-worldwid-aa0b74",
+   "platform": "youtube",
+   "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 11/08/2026",
+   "summary": "SASHA SHOW was the top dog in our subscriber charts during the month of October, and his hot streak continued into November. The Turkey-based creator picked up 1.4 million weekly subscribers during the first measurement period of the month. That brought his total YouTube following up to 17.2 million. Though a creator based in Turkey is dominating the Global Sub Top 50, India is still the most ubiquitous country in the ranking. 14 of the top 50 channels hail from that nation, and a few of them ha",
+   "detected_at": "2026-11-10T01:30:55Z",
+   "announced_at": "2026-11-09T23:20:36Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/09/top-50-most-subscribed-youtube-channels-worldwide-week-of-11-08-2026/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/09/top-50-most-subscribed-youtube-channels-worldwide-week-of-11-08-2026/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "cw-just-a-quarter-of-u-s-adults-trust-creators-to-a-b3d66b",
    "platform": "other",
    "title": "Just a quarter of U.S. adults trust creators to always disclose brand deals",
@@ -1540,8 +1559,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-09T06:07:21Z",
+ "generated_at": "2026-11-10T01:30:55Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "version": "1.7.0"
 }

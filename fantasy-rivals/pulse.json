@@ -1,25 +1,31 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-09T16:07:38Z",
+ "generated_at": "2026-11-10T01:34:47Z",
  "stale_after_h": 30,
- "healthy": true,
- "sources_ok": 1,
+ "healthy": false,
+ "sources_ok": 0,
  "sources_total": 1,
- "last_data_change_at": "2026-11-09T06:11:02Z",
+ "last_data_change_at": "2026-11-10T01:34:47Z",
  "sources": [
   {
    "id": "liquipedia",
    "label": "Liquipedia pages",
    "url": "https://liquipedia.net/marvelrivals/",
-   "ok": true,
+   "ok": false,
    "items": 6,
-   "checked_at": "2026-11-09T16:07:38Z",
+   "checked_at": "2026-11-10T01:34:47Z",
    "last_ok_at": "2026-11-09T16:07:38Z",
-   "error": null,
-   "fails_in_a_row": 0
+   "error": "http 429",
+   "fails_in_a_row": 1
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-10T01:34:47Z",
+   "kind": "state",
+   "title": "Season status changed for 2026-11-10",
+   "ref": null
+  },
   {
    "at": "2026-11-09T06:11:02Z",
    "kind": "state",

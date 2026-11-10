@@ -1,6 +1,6 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-09T16:07:29Z",
+ "generated_at": "2026-11-10T01:34:16Z",
  "stale_after_h": 8,
  "healthy": false,
  "sources_ok": 15,
@@ -13,10 +13,10 @@
    "url": null,
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-09T16:07:29Z",
+   "checked_at": "2026-11-10T01:34:16Z",
    "last_ok_at": null,
-   "error": "board below the 150-topic bar",
-   "fails_in_a_row": 54
+   "error": "health gate held the board; last good board kept",
+   "fails_in_a_row": 55
   },
   {
    "id": "lane-bluesky",
@@ -24,8 +24,8 @@
    "url": null,
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-09T16:04:48Z",
-   "last_ok_at": "2026-11-09T16:04:48Z",
+   "checked_at": "2026-11-10T01:31:26Z",
+   "last_ok_at": "2026-11-10T01:31:26Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -34,9 +34,9 @@
    "label": "Trend lane: charts",
    "url": null,
    "ok": true,
-   "items": 10,
-   "checked_at": "2026-11-09T16:05:30Z",
-   "last_ok_at": "2026-11-09T16:05:30Z",
+   "items": 20,
+   "checked_at": "2026-11-10T01:31:50Z",
+   "last_ok_at": "2026-11-10T01:31:50Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": null,
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-09T16:04:22Z",
-   "last_ok_at": "2026-11-09T16:04:22Z",
+   "checked_at": "2026-11-10T01:31:00Z",
+   "last_ok_at": "2026-11-10T01:31:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -56,9 +56,9 @@
    "label": "Trend lane: hn",
    "url": null,
    "ok": true,
-   "items": 50,
-   "checked_at": "2026-11-09T16:04:47Z",
-   "last_ok_at": "2026-11-09T16:04:47Z",
+   "items": 49,
+   "checked_at": "2026-11-10T01:31:25Z",
+   "last_ok_at": "2026-11-10T01:31:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": null,
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-09T16:04:49Z",
-   "last_ok_at": "2026-11-09T16:04:49Z",
+   "checked_at": "2026-11-10T01:31:27Z",
+   "last_ok_at": "2026-11-10T01:31:27Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,8 +79,8 @@
    "url": null,
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-09T16:04:48Z",
-   "last_ok_at": "2026-11-09T16:04:48Z",
+   "checked_at": "2026-11-10T01:31:26Z",
+   "last_ok_at": "2026-11-10T01:31:26Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -90,8 +90,8 @@
    "url": null,
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-09T16:05:31Z",
-   "last_ok_at": "2026-11-09T16:05:31Z",
+   "checked_at": "2026-11-10T01:31:51Z",
+   "last_ok_at": "2026-11-10T01:31:51Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -101,8 +101,8 @@
    "url": null,
    "ok": true,
    "items": 75,
-   "checked_at": "2026-11-09T16:04:24Z",
-   "last_ok_at": "2026-11-09T16:04:24Z",
+   "checked_at": "2026-11-10T01:31:02Z",
+   "last_ok_at": "2026-11-10T01:31:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -112,8 +112,8 @@
    "url": null,
    "ok": true,
    "items": 100,
-   "checked_at": "2026-11-09T16:04:39Z",
-   "last_ok_at": "2026-11-09T16:04:39Z",
+   "checked_at": "2026-11-10T01:31:16Z",
+   "last_ok_at": "2026-11-10T01:31:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -123,8 +123,8 @@
    "url": null,
    "ok": true,
    "items": 0,
-   "checked_at": "2026-11-09T16:04:39Z",
-   "last_ok_at": "2026-11-09T16:04:39Z",
+   "checked_at": "2026-11-10T01:31:17Z",
+   "last_ok_at": "2026-11-10T01:31:17Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -134,8 +134,8 @@
    "url": null,
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-09T16:04:42Z",
-   "last_ok_at": "2026-11-09T16:04:42Z",
+   "checked_at": "2026-11-10T01:31:20Z",
+   "last_ok_at": "2026-11-10T01:31:20Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -145,8 +145,8 @@
    "url": null,
    "ok": true,
    "items": 25,
-   "checked_at": "2026-11-09T16:05:52Z",
-   "last_ok_at": "2026-11-09T16:05:52Z",
+   "checked_at": "2026-11-10T01:34:15Z",
+   "last_ok_at": "2026-11-10T01:34:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -156,8 +156,8 @@
    "url": null,
    "ok": true,
    "items": 32,
-   "checked_at": "2026-11-09T16:05:49Z",
-   "last_ok_at": "2026-11-09T16:05:49Z",
+   "checked_at": "2026-11-10T01:34:12Z",
+   "last_ok_at": "2026-11-10T01:34:12Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -167,19 +167,19 @@
    "url": null,
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-09T16:05:52Z",
+   "checked_at": "2026-11-10T01:34:15Z",
    "last_ok_at": null,
    "error": "no output this run",
-   "fails_in_a_row": 54
+   "fails_in_a_row": 55
   },
   {
    "id": "lane-wiki",
    "label": "Trend lane: wiki",
    "url": null,
    "ok": true,
-   "items": 15,
-   "checked_at": "2026-11-09T16:05:30Z",
-   "last_ok_at": "2026-11-09T16:05:30Z",
+   "items": 0,
+   "checked_at": "2026-11-10T01:31:50Z",
+   "last_ok_at": "2026-11-10T01:31:50Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -189,10 +189,10 @@
    "url": null,
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-09T16:05:52Z",
+   "checked_at": "2026-11-10T01:34:15Z",
    "last_ok_at": null,
    "error": "no output this run",
-   "fails_in_a_row": 54
+   "fails_in_a_row": 55
   },
   {
    "id": "lane-youtube_rss",
@@ -200,8 +200,8 @@
    "url": null,
    "ok": true,
    "items": 80,
-   "checked_at": "2026-11-09T16:05:43Z",
-   "last_ok_at": "2026-11-09T16:05:43Z",
+   "checked_at": "2026-11-10T01:34:06Z",
+   "last_ok_at": "2026-11-10T01:34:06Z",
    "error": null,
    "fails_in_a_row": 0
   }
