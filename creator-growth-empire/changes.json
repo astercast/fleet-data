@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "cw-linkedin-explains-its-improved-content-recommend-f9901c",
+   "platform": "other",
+   "title": "LinkedIn explains its improved content recommendation system",
+   "summary": "<p>The Profile Relevance model uses LLM-generated embeddings to show users more relevant posts from people they don&rsquo;t follow.</p>",
+   "detected_at": "2026-11-10T11:03:05Z",
+   "announced_at": "2026-11-09T23:21:18Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/linkedin-explains-its-improved-content-recommendation-system/874206/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/linkedin-explains-its-improved-content-recommendation-system/874206/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-top-50-most-subscribed-youtube-channels-worldwid-aa0b74",
    "platform": "youtube",
    "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 11/08/2026",
@@ -1559,7 +1578,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-10T01:30:55Z",
+ "generated_at": "2026-11-10T11:03:05Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-10",
  "version": "1.7.0"

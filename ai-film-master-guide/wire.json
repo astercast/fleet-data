@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-10T01:30:55Z",
+ "generated_at": "2026-11-10T11:03:05Z",
  "items": [
+  {
+   "id": "hf-capybara102/fasth3-dense-v1-q4_0-gguf",
+   "at": "2026-11-10T08:55:32Z",
+   "model": "capybara102/fasth3-dense-v1-q4_0-gguf",
+   "title": "New text-to-video model listed on Hugging Face: capybara102/fasth3-dense-v1-q4_0-gguf",
+   "url": "https://huggingface.co/capybara102/fasth3-dense-v1-q4_0-gguf",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-pmczip/MiniMaxH3_RefMod",
+   "at": "2026-11-10T03:10:07Z",
+   "model": "pmczip/MiniMaxH3_RefMod",
+   "title": "New text-to-video model listed on Hugging Face: pmczip/MiniMaxH3_RefMod",
+   "url": "https://huggingface.co/pmczip/MiniMaxH3_RefMod",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-10",
    "at": "2026-11-10T01:30:46+00:00",
@@ -503,6 +523,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.12411v1",
+   "at": "2026-11-09T13:43:37Z",
+   "model": "",
+   "title": "New arXiv paper: PhysOPSD: Code as Privilege for Physically Plausible Video Generation",
+   "url": "http://arxiv.org/abs/2611.12411v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-AI-KSK/ksk-video-233-comfyui-workflows",
    "at": "2026-11-09T12:23:52Z",
    "model": "AI-KSK/ksk-video-233-comfyui-workflows",
@@ -529,6 +559,26 @@
    "title": "New text-to-video model listed on Hugging Face: AI-KSK/ksk-video-239-comfyui-workflows",
    "url": "https://huggingface.co/AI-KSK/ksk-video-239-comfyui-workflows",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.12087v1",
+   "at": "2026-11-09T09:04:48Z",
+   "model": "",
+   "title": "New arXiv paper: Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos",
+   "url": "http://arxiv.org/abs/2611.12087v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.12069v1",
+   "at": "2026-11-09T08:43:56Z",
+   "model": "",
+   "title": "New arXiv paper: MPEG-Diffusion: Mixed-Resolution Video Generation",
+   "url": "http://arxiv.org/abs/2611.12069v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -903,6 +953,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.11825v1",
+   "at": "2026-11-09T03:40:19Z",
+   "model": "",
+   "title": "New arXiv paper: ACROSSVAM3.0: Resource-Bounded 4D Scene Construction and Adaptive Surface Association",
+   "url": "http://arxiv.org/abs/2611.11825v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-unsloth/LTX-2.5-FP8",
    "at": "2026-11-09T01:48:25Z",
    "model": "unsloth/LTX-2.5-FP8",
@@ -919,6 +979,36 @@
    "title": "New text-to-video model listed on Hugging Face: Ravlyyyk/LTX-2.3-uncensored-v1.4-FP8",
    "url": "https://huggingface.co/Ravlyyyk/LTX-2.3-uncensored-v1.4-FP8",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.11500v1",
+   "at": "2026-11-08T16:59:50Z",
+   "model": "",
+   "title": "New arXiv paper: ForeAct: Geometry-Guided Action Learning from World Representations",
+   "url": "http://arxiv.org/abs/2611.11500v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.11452v1",
+   "at": "2026-11-08T15:28:33Z",
+   "model": "",
+   "title": "New arXiv paper: Semantically Aligned KV Cache Compression for Efficient Agentic Autoregressive Video Generation",
+   "url": "http://arxiv.org/abs/2611.11452v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.11421v1",
+   "at": "2026-11-08T14:34:51Z",
+   "model": "",
+   "title": "New arXiv paper: GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching",
+   "url": "http://arxiv.org/abs/2611.11421v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -1343,6 +1433,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.10594v1",
+   "at": "2026-11-07T09:01:12Z",
+   "model": "",
+   "title": "New arXiv paper: OneReel: Efficient Multi-Scene Video Generation with Scene-Structured Attention",
+   "url": "http://arxiv.org/abs/2611.10594v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-UtopiaIA/Wan2.1-T2V-1.3B-web",
    "at": "2026-11-07T07:23:16Z",
    "model": "UtopiaIA/Wan2.1-T2V-1.3B-web",
@@ -1398,106 +1498,6 @@
    "model": "ElevenLabs Eleven v3",
    "title": "ElevenLabs Eleven v3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://aitoolblaze.com/blog/elevenlabs-review-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Adobe Firefly-2026-11-07",
-   "at": "2026-11-07T05:50:05+00:00",
-   "model": "Adobe Firefly",
-   "title": "Adobe Firefly: source pages changed - queued for human review",
-   "url": "https://news.adobe.com/news/2026/04/adobe-new-creative-agent",
-   "kind": "source-change",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Aleph 2.0-2026-11-07",
-   "at": "2026-11-07T05:50:03+00:00",
-   "model": "Runway Aleph 2.0",
-   "title": "Runway Aleph 2.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.therundown.ai/tools/aleph",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Midjourney V8.2-2026-11-07",
-   "at": "2026-11-07T05:50:02+00:00",
-   "model": "Midjourney V8.2",
-   "title": "Midjourney V8.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://powerdrill.ai/blog/midjourney-v8-2-edit-model",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-GPT Image 2-2026-11-07",
-   "at": "2026-11-07T05:50:00+00:00",
-   "model": "GPT Image 2",
-   "title": "GPT Image 2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://memeburn.com/chatgpt-images-2-0-launches-with-better-text/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-FLUX.2-2026-11-07",
-   "at": "2026-11-07T05:49:59+00:00",
-   "model": "FLUX.2",
-   "title": "FLUX.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://en.wikipedia.org/wiki/Flux_(text-to-image_model)",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedream 5.0 Pro-2026-11-07",
-   "at": "2026-11-07T05:49:57+00:00",
-   "model": "Seedream 5.0 Pro",
-   "title": "Seedream 5.0 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://openrouter.ai/bytedance-seed/seedream-5-0-flash",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Nano Banana 2 and Pro-2026-11-07",
-   "at": "2026-11-07T05:49:55+00:00",
-   "model": "Nano Banana 2 and Pro",
-   "title": "Nano Banana 2 and Pro: source pages changed - queued for human review",
-   "url": "https://blog.google/innovation-and-ai/products/nano-banana-pro/",
-   "kind": "source-change",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 2.7-2026-11-07",
-   "at": "2026-11-07T05:49:50+00:00",
-   "model": "Wan 2.7",
-   "title": "Wan 2.7: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://poyo.ai/models/wan-2-7-video",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-PixVerse V6-2026-11-07",
-   "at": "2026-11-07T05:49:46+00:00",
-   "model": "PixVerse V6",
-   "title": "PixVerse V6: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.yottalabs.ai/post/pixverse-v6-vs-c1-differences-api-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-FLUX 3 Video-2026-11-07",
-   "at": "2026-11-07T05:49:34+00:00",
-   "model": "FLUX 3 Video",
-   "title": "FLUX 3 Video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"

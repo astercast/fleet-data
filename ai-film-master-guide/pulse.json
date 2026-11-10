@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-10T01:30:55Z",
+ "generated_at": "2026-11-10T11:03:05Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-10T01:30:55Z",
+ "last_data_change_at": "2026-11-10T11:03:05Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
-   "items": 116,
-   "checked_at": "2026-11-10T01:30:51Z",
-   "last_ok_at": "2026-11-10T01:30:51Z",
+   "items": 127,
+   "checked_at": "2026-11-10T11:03:02Z",
+   "last_ok_at": "2026-11-10T11:03:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-10T01:30:55Z",
-   "last_ok_at": "2026-11-10T01:30:55Z",
+   "checked_at": "2026-11-10T11:03:05Z",
+   "last_ok_at": "2026-11-10T11:03:05Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-10T01:30:49Z",
-   "last_ok_at": "2026-11-10T01:30:49Z",
+   "checked_at": "2026-11-10T11:03:01Z",
+   "last_ok_at": "2026-11-10T11:03:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-10T01:30:52Z",
-   "last_ok_at": "2026-11-10T01:30:52Z",
+   "checked_at": "2026-11-10T11:03:02Z",
+   "last_ok_at": "2026-11-10T11:03:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,91 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-10T01:30:49Z",
-   "last_ok_at": "2026-11-10T01:30:49Z",
+   "checked_at": "2026-11-10T11:03:01Z",
+   "last_ok_at": "2026-11-10T11:03:01Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: capybara102/fasth3-dense-v1-q4_0-gguf",
+   "ref": "https://huggingface.co/capybara102/fasth3-dense-v1-q4_0-gguf"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: pmczip/MiniMaxH3_RefMod",
+   "ref": "https://huggingface.co/pmczip/MiniMaxH3_RefMod"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: PhysOPSD: Code as Privilege for Physically Plausible Video Generation",
+   "ref": "http://arxiv.org/abs/2611.12411v1"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos",
+   "ref": "http://arxiv.org/abs/2611.12087v1"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: MPEG-Diffusion: Mixed-Resolution Video Generation",
+   "ref": "http://arxiv.org/abs/2611.12069v1"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: ACROSSVAM3.0: Resource-Bounded 4D Scene Construction and Adaptive Surface Association",
+   "ref": "http://arxiv.org/abs/2611.11825v1"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: ForeAct: Geometry-Guided Action Learning from World Representations",
+   "ref": "http://arxiv.org/abs/2611.11500v1"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Semantically Aligned KV Cache Compression for Efficient Agentic Autoregressive Video Generation",
+   "ref": "http://arxiv.org/abs/2611.11452v1"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching",
+   "ref": "http://arxiv.org/abs/2611.11421v1"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: OneReel: Efficient Multi-Scene Video Generation with Scene-Structured Attention",
+   "ref": "http://arxiv.org/abs/2611.10594v1"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Beyond Frame-Level Accuracy: Analyzing Video-Level Stability in Transformer-Based Deepfake Forensics",
+   "ref": "http://arxiv.org/abs/2611.10249v1"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: MotionCore: A Latent Neural Simulator for Video Generation with Rigid-Body Dynamics",
+   "ref": "http://arxiv.org/abs/2611.08904v2"
+  },
+  {
+   "at": "2026-11-10T11:03:05Z",
+   "kind": "paper",
+   "title": "New arXiv paper: EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+   "ref": "http://arxiv.org/abs/2611.08477v2"
+  },
   {
    "at": "2026-11-10T01:30:55Z",
    "kind": "price-signal",
@@ -345,42 +423,6 @@
    "kind": "new-model",
    "title": "New text-to-video model listed on Hugging Face: BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy",
    "ref": "https://huggingface.co/BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy"
-  },
-  {
-   "at": "2026-11-10T01:30:55Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy-v2",
-   "ref": "https://huggingface.co/BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy-v2"
-  },
-  {
-   "at": "2026-11-10T01:30:55Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: WaveCut/Vimoo-1.0-Lite-OrbitQuant-W4A8",
-   "ref": "https://huggingface.co/WaveCut/Vimoo-1.0-Lite-OrbitQuant-W4A8"
-  },
-  {
-   "at": "2026-11-09T16:04:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: siraxe/H3_slider_experiments",
-   "ref": "https://huggingface.co/siraxe/H3_slider_experiments"
-  },
-  {
-   "at": "2026-11-09T16:04:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: AI-KSK/ksk-video-233-comfyui-workflows",
-   "ref": "https://huggingface.co/AI-KSK/ksk-video-233-comfyui-workflows"
-  },
-  {
-   "at": "2026-11-09T16:04:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Perflow-Shuai/MiniMax-H3-3Step-LoRA",
-   "ref": "https://huggingface.co/Perflow-Shuai/MiniMax-H3-3Step-LoRA"
-  },
-  {
-   "at": "2026-11-09T16:04:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: AI-KSK/ksk-video-239-comfyui-workflows",
-   "ref": "https://huggingface.co/AI-KSK/ksk-video-239-comfyui-workflows"
   }
  ]
 }
