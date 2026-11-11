@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-10T19:42:13Z",
+ "generated_at": "2026-11-11T01:17:24Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-10T19:42:13Z",
+ "last_data_change_at": "2026-11-11T01:17:21Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-10T19:42:10Z",
-   "last_ok_at": "2026-11-10T19:42:10Z",
+   "checked_at": "2026-11-11T01:17:20Z",
+   "last_ok_at": "2026-11-11T01:17:20Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-10T19:42:10Z",
-   "last_ok_at": "2026-11-10T19:42:10Z",
+   "checked_at": "2026-11-11T01:17:20Z",
+   "last_ok_at": "2026-11-11T01:17:20Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-10T19:42:13Z",
-   "last_ok_at": "2026-11-10T19:42:13Z",
+   "checked_at": "2026-11-11T01:17:24Z",
+   "last_ok_at": "2026-11-11T01:17:24Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-10T19:42:10Z",
-   "last_ok_at": "2026-11-10T19:42:10Z",
+   "checked_at": "2026-11-11T01:17:20Z",
+   "last_ok_at": "2026-11-11T01:17:20Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-10T19:42:11Z",
-   "last_ok_at": "2026-11-10T19:42:11Z",
+   "checked_at": "2026-11-11T01:17:21Z",
+   "last_ok_at": "2026-11-11T01:17:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-10T19:42:10Z",
+   "checked_at": "2026-11-11T01:17:20Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 57
+   "fails_in_a_row": 58
   },
   {
    "id": "ypp-help",
@@ -79,15 +79,33 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-10T19:42:13Z",
-   "last_ok_at": "2026-11-10T19:42:13Z",
+   "checked_at": "2026-11-11T01:17:24Z",
+   "last_ok_at": "2026-11-11T01:17:24Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
-   "at": "2026-11-10T19:42:13Z",
+   "at": "2026-11-11T01:17:21Z",
+   "kind": "change",
+   "title": "TikTok Shop Plus is a subscription tier that unlocks shopping perks for $9.99 per month",
+   "ref": "https://www.tubefilter.com/2026/11/10/tiktok-shop-plus-ecommerce-paid-subscription-tier/"
+  },
+  {
+   "at": "2026-11-11T01:17:21Z",
+   "kind": "change",
+   "title": "The Hot 100 flows through social media, so Billboard is bringing YouTube data back into its charts",
+   "ref": "https://www.tubefilter.com/2026/11/10/billboard-youtube-returns-to-hot-100-chart/"
+  },
+  {
+   "at": "2026-11-11T01:17:24Z",
+   "kind": "source-changed",
+   "title": "TikTok Newsroom page changed",
+   "ref": "https://newsroom.tiktok.com/en-us/"
+  },
+  {
+   "at": "2026-11-11T01:17:24Z",
    "kind": "source-changed",
    "title": "YouTube Partner Program help page page changed",
    "ref": "https://support.google.com/youtube/answer/72851"
@@ -193,12 +211,6 @@
    "kind": "change",
    "title": "Top 5 Branded Videos of the Week: The adrenaline spectrum",
    "ref": "https://www.tubefilter.com/2026/11/04/top-5-branded-videos-mrbeast-veritasium-civil-rights-lawyer/"
-  },
-  {
-   "at": "2026-11-04T21:18:33Z",
-   "kind": "source-changed",
-   "title": "TikTok Newsroom page changed",
-   "ref": "https://newsroom.tiktok.com/en-us/"
   },
   {
    "at": "2026-11-04T06:05:15Z",
@@ -421,12 +433,6 @@
    "kind": "change",
    "title": "What’s next for ‘Taskmaster’ after getting big on YouTube? A charity stream with creators.",
    "ref": "https://www.tubefilter.com/2026/09/15/taskmaster-charity-fundraising-stream-twitch-creators/"
-  },
-  {
-   "at": "2026-10-25T06:46:22Z",
-   "kind": "change",
-   "title": "Twitch and Amazon facing class-action lawsuit over scraping streamers’ content without their consent",
-   "ref": "https://www.tubefilter.com/2026/08/25/twitch-amazon-lawsuit-warren-pandiscia-ai-training/"
   }
  ]
 }

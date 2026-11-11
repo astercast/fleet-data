@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-10T19:45:02Z",
+ "generated_at": "2026-11-11T01:21:31Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-10T01:34:23Z",
+ "last_data_change_at": "2026-11-11T01:21:31Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 36,
-   "checked_at": "2026-11-10T19:45:01Z",
-   "last_ok_at": "2026-11-10T19:45:01Z",
+   "checked_at": "2026-11-11T01:21:29Z",
+   "last_ok_at": "2026-11-11T01:21:29Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,61 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12426,
-   "checked_at": "2026-11-10T19:45:02Z",
-   "last_ok_at": "2026-11-10T19:45:02Z",
+   "checked_at": "2026-11-11T01:21:31Z",
+   "last_ok_at": "2026-11-11T01:21:31Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-11T01:21:31Z",
+   "kind": "sale",
+   "title": "42k-Mile 1994 Mazda RX-7 R2 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1994-mazda-rx-7-r2-2/"
+  },
+  {
+   "at": "2026-11-11T01:21:31Z",
+   "kind": "sale",
+   "title": "1988 Jeep Grand Wagoneer",
+   "ref": "https://bringatrailer.com/listing/1988-jeep-grand-wagoneer-181/"
+  },
+  {
+   "at": "2026-11-11T01:21:31Z",
+   "kind": "sale",
+   "title": "2003 Ford Mustang SVT Cobra Convertible",
+   "ref": "https://bringatrailer.com/listing/2003-ford-mustang-svt-cobra-convertible-59/"
+  },
+  {
+   "at": "2026-11-11T01:21:31Z",
+   "kind": "sale",
+   "title": "2009 Audi A4 Avant 2.0T",
+   "ref": "https://bringatrailer.com/listing/2009-audi-a4-b8-10/"
+  },
+  {
+   "at": "2026-11-11T01:21:31Z",
+   "kind": "sale",
+   "title": "2001 Porsche 911 Carrera 4 Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2001-porsche-911-carrera-4-coupe-36/"
+  },
+  {
+   "at": "2026-11-11T01:21:31Z",
+   "kind": "sale",
+   "title": "2010 Subaru Forester 2.5X 5-Speed",
+   "ref": "https://bringatrailer.com/listing/2010-subaru-forester-12/"
+  },
+  {
+   "at": "2026-11-11T01:21:31Z",
+   "kind": "sale",
+   "title": "29-Years-Owned 1971 Chevrolet Corvette Convertible 454 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1971-chevrolet-corvette-convertible-48/"
+  },
+  {
+   "at": "2026-11-11T01:21:31Z",
+   "kind": "sale",
+   "title": "10k-Mile 2014 Nissan GT-R Premium",
+   "ref": "https://bringatrailer.com/listing/2014-nissan-gt-r-premium-11/"
+  },
   {
    "at": "2026-11-10T01:34:23Z",
    "kind": "sale",
@@ -342,54 +390,6 @@
    "kind": "sale",
    "title": "1977 Toyota Land Cruiser FJ40",
    "ref": "https://bringatrailer.com/listing/1977-toyota-land-cruiser-fj40-198/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "36k-Mile 2014 Porsche 911 Carrera S Coupe 7-Speed",
-   "ref": "https://bringatrailer.com/listing/2014-porsche-911-carrera-s-coupe-47/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "1996 Porsche 911 Turbo",
-   "ref": "https://bringatrailer.com/listing/1996-porsche-911-turbo-228/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "1977 Chevrolet Corvette",
-   "ref": "https://bringatrailer.com/listing/1977-chevrolet-corvette-181/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "1988 Toyota Land Cruiser FJ62",
-   "ref": "https://bringatrailer.com/listing/1988-toyota-land-cruiser-fj62-266/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "1970 Ford Bronco 302",
-   "ref": "https://bringatrailer.com/listing/1970-ford-bronco-284/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "1988 Bentley Continental Convertible",
-   "ref": "https://bringatrailer.com/listing/1988-bentley-continental-4/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "1917 Ford Model T Touring",
-   "ref": "https://bringatrailer.com/listing/1917-ford-model-t-9/"
-  },
-  {
-   "at": "2026-11-05T23:39:42Z",
-   "kind": "sale",
-   "title": "34k-Mile 2018 Land Rover Range Rover Sport HSE",
-   "ref": "https://bringatrailer.com/listing/2018-land-rover-range-rover-sport-29/"
   }
  ]
 }

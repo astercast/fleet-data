@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-11-10T19:45:08Z",
+ "generated_at": "2026-11-11T01:21:43Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -10,7 +10,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "0.1 h old, limit 14 h"
     ],
     [
      "sources",
@@ -20,11 +20,11 @@
     [
      "site",
      "ok",
-     "101 ms"
+     "1199 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 0.1,
+   "changed_age_h": 0.1,
    "sources": [
     {
      "id": "arxiv",
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "6.8 h old, limit 50 h"
+     "12.4 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,11 +77,11 @@
     [
      "site",
      "ok",
-     "577 ms"
+     "981 ms"
     ]
    ],
-   "data_age_h": 6.8,
-   "changed_age_h": 56.2,
+   "data_age_h": 12.4,
+   "changed_age_h": 61.9,
    "sources": [
     {
      "id": "cmdstore",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "6.8 h old, limit 50 h"
+     "12.4 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "289 ms"
+     "612 ms"
     ]
    ],
-   "data_age_h": 6.8,
+   "data_age_h": 12.4,
    "changed_age_h": null,
    "sources": [
     {
@@ -168,7 +168,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 14 h"
+     "0.1 h old, limit 14 h"
     ],
     [
      "sources",
@@ -178,11 +178,11 @@
     [
      "site",
      "ok",
-     "425 ms"
+     "830 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 0.1,
+   "changed_age_h": 0.1,
    "sources": [
     {
      "id": "meta-newsroom",
@@ -217,7 +217,7 @@
     {
      "id": "youtube-blog",
      "ok": false,
-     "fails": 57,
+     "fails": 58,
      "items": 0
     },
     {
@@ -247,7 +247,7 @@
     [
      "site",
      "ok",
-     "61 ms"
+     "628 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -256,7 +256,7 @@
     {
      "id": "board",
      "ok": false,
-     "fails": 57,
+     "fails": 58,
      "items": 0
     },
     {
@@ -269,7 +269,7 @@
      "id": "lane-charts",
      "ok": true,
      "fails": 0,
-     "items": 30
+     "items": 20
     },
     {
      "id": "lane-gtrends",
@@ -340,26 +340,26 @@
     {
      "id": "lane-tiktok",
      "ok": false,
-     "fails": 57,
+     "fails": 58,
      "items": 0
     },
     {
      "id": "lane-wiki",
      "ok": true,
      "fails": 0,
-     "items": 15
+     "items": 0
     },
     {
      "id": "lane-x",
      "ok": false,
-     "fails": 57,
+     "fails": 58,
      "items": 0
     },
     {
      "id": "lane-youtube_rss",
      "ok": true,
      "fails": 0,
-     "items": 80
+     "items": 72
     }
    ],
    "state": "warn"
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "6.8 h old, limit 50 h"
+     "12.4 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "598 ms"
+     "839 ms"
     ]
    ],
-   "data_age_h": 6.8,
-   "changed_age_h": 6.8,
+   "data_age_h": 12.4,
+   "changed_age_h": 12.4,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "6.8 h old, limit 50 h"
+     "12.4 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "254 ms"
+     "624 ms"
     ]
    ],
-   "data_age_h": 6.8,
+   "data_age_h": 12.4,
    "changed_age_h": null,
    "sources": [
     {
@@ -496,11 +496,11 @@
     [
      "site",
      "ok",
-     "220 ms"
+     "797 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 18.2,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "bat",
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "241 ms"
+     "532 ms"
     ]
    ],
    "state": "ok"
@@ -548,7 +548,7 @@
     [
      "site",
      "ok",
-     "356 ms"
+     "571 ms"
     ],
     [
      "health",
@@ -591,11 +591,11 @@
     [
      "site",
      "ok",
-     "360 ms"
+     "616 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 18.2,
+   "changed_age_h": 23.8,
    "sources": [
     {
      "id": "store",

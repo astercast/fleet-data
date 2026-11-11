@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "tt-tiktok-shop-plus-is-a-subscription-tier-that-unl-a2dbc1",
+   "platform": "tiktok",
+   "title": "TikTok Shop Plus is a subscription tier that unlocks shopping perks for $9.99 per month",
+   "summary": "TikTok Shop is delivering a perk for shoppers this holiday season: a new subscription service. It's called TikTok Shop Plus, and it brings TikTok's ecommerce wing in line with its competitors. Similar to Walmart+ and Amazon Prime, TikTok Shop Plus will reward subscribers with deals, shipping discounts, and coupons that will refresh on a regular basis. TikTok is commodifying its ecommerce platform around the world Initially, Shop launched as an offshoot of TikTok, but in recent months, the app's ",
+   "detected_at": "2026-11-11T01:17:19Z",
+   "announced_at": "2026-11-10T23:17:04Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/10/tiktok-shop-plus-ecommerce-paid-subscription-tier/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/10/tiktok-shop-plus-ecommerce-paid-subscription-tier/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-the-hot-100-flows-through-social-media-so-billbo-1227e0",
+   "platform": "youtube",
+   "title": "The Hot 100 flows through social media, so Billboard is bringing YouTube data back into its charts",
+   "summary": "Billboard and YouTube have kissed and made up. A disagreement between the two companies kept the latter out of the former's chart calculus for about a year, but Billboard is adjusting its weights to give more recognition to ad-supported streams that occur on YouTube. As a result, YouTube data will be incorporated into the Billboard charts (again) in 2027 and beyond. Lyor Cohen, YouTube's Global Head of Music, announced the new policy in a blog post. \"We are returning to the Billboard charts star",
+   "detected_at": "2026-11-11T01:17:19Z",
+   "announced_at": "2026-11-10T20:59:08Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/10/billboard-youtube-returns-to-hot-100-chart/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/10/billboard-youtube-returns-to-hot-100-chart/"
+    }
+   ],
+   "category": "policy",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "cw-linkedin-explains-its-improved-content-recommend-f9901c",
    "platform": "other",
    "title": "LinkedIn explains its improved content recommendation system",
@@ -1578,8 +1616,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-10T11:03:05Z",
+ "generated_at": "2026-11-11T01:17:19Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "version": "1.7.0"
 }
