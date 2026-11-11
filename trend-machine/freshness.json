@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-11T10:47:33Z",
- "runStartedAt": "2026-11-11T10:47:33Z",
+ "generatedAt": "2026-11-11T19:35:44Z",
+ "runStartedAt": "2026-11-11T19:35:44Z",
  "cadenceHours": 3,
- "freshUntil": "2026-11-11T14:47:33Z",
- "staleAfter": "2026-11-11T22:47:33Z",
+ "freshUntil": "2026-11-11T23:35:44Z",
+ "staleAfter": "2026-11-12T07:35:44Z",
  "board": {
   "topics": 408,
   "tracked": 300,
-  "confirmed": 12,
-  "singleSource": 288,
-  "newestSighting": "2026-11-11T10:47:32Z"
+  "confirmed": 11,
+  "singleSource": 289,
+  "newestSighting": "2026-11-11T19:35:43Z"
  },
  "laneCounts": {
   "live": 12,
@@ -24,7 +24,7 @@
    "label": "Google Trends",
    "state": "live",
    "hits": 10,
-   "lastGoodAt": "2026-11-11T10:46:40Z",
+   "lastGoodAt": "2026-11-11T19:34:49Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -33,7 +33,7 @@
    "label": "Google News",
    "state": "live",
    "hits": 75,
-   "lastGoodAt": "2026-11-11T10:46:42Z",
+   "lastGoodAt": "2026-11-11T19:34:51Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -42,7 +42,7 @@
    "label": "Google News searches",
    "state": "live",
    "hits": 100,
-   "lastGoodAt": "2026-11-11T10:46:56Z",
+   "lastGoodAt": "2026-11-11T19:35:04Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -59,8 +59,8 @@
    "id": "reddit_rss",
    "label": "Reddit (RSS)",
    "state": "live",
-   "hits": 24,
-   "lastGoodAt": "2026-11-11T10:47:00Z",
+   "hits": 12,
+   "lastGoodAt": "2026-11-11T19:35:06Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -68,8 +68,8 @@
    "id": "hn",
    "label": "Hacker News",
    "state": "live",
-   "hits": 50,
-   "lastGoodAt": "2026-11-11T10:47:09Z",
+   "hits": 49,
+   "lastGoodAt": "2026-11-11T19:35:12Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -78,7 +78,7 @@
    "label": "Mastodon tags",
    "state": "live",
    "hits": 20,
-   "lastGoodAt": "2026-11-11T10:47:09Z",
+   "lastGoodAt": "2026-11-11T19:35:13Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -87,7 +87,7 @@
    "label": "Bluesky trending",
    "state": "live",
    "hits": 10,
-   "lastGoodAt": "2026-11-11T10:47:09Z",
+   "lastGoodAt": "2026-11-11T19:35:15Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -95,8 +95,8 @@
    "id": "charts",
    "label": "Apple charts",
    "state": "live",
-   "hits": 10,
-   "lastGoodAt": "2026-11-11T10:47:10Z",
+   "hits": 30,
+   "lastGoodAt": "2026-11-11T19:35:21Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -105,7 +105,7 @@
    "label": "Wikipedia most read",
    "state": "live",
    "hits": 15,
-   "lastGoodAt": "2026-11-11T10:47:11Z",
+   "lastGoodAt": "2026-11-11T19:35:22Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -115,7 +115,7 @@
    "state": "dead",
    "hits": 0,
    "lastGoodAt": "2026-10-24T13:38:12Z",
-   "ageHours": 429.2,
+   "ageHours": 438.0,
    "missesInARow": 1
   },
   {
@@ -123,7 +123,7 @@
    "label": "YouTube channels",
    "state": "live",
    "hits": 80,
-   "lastGoodAt": "2026-11-11T10:47:22Z",
+   "lastGoodAt": "2026-11-11T19:35:32Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -132,7 +132,7 @@
    "label": "Streamer news",
    "state": "live",
    "hits": 32,
-   "lastGoodAt": "2026-11-11T10:47:27Z",
+   "lastGoodAt": "2026-11-11T19:35:38Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -141,7 +141,7 @@
    "label": "Steam most played",
    "state": "live",
    "hits": 25,
-   "lastGoodAt": "2026-11-11T10:47:32Z",
+   "lastGoodAt": "2026-11-11T19:35:43Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },

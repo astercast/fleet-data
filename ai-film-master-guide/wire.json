@@ -1,7 +1,37 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-11T10:46:36Z",
+ "generated_at": "2026-11-11T19:34:46Z",
  "items": [
+  {
+   "id": "hf-hancheng-ai/HyperFlow-H3-Flash-FL2VA-MLX-Serve-4bit",
+   "at": "2026-11-11T17:16:46Z",
+   "model": "hancheng-ai/HyperFlow-H3-Flash-FL2VA-MLX-Serve-4bit",
+   "title": "New text-to-video model listed on Hugging Face: hancheng-ai/HyperFlow-H3-Flash-FL2VA-MLX-Serve-4bit",
+   "url": "https://huggingface.co/hancheng-ai/HyperFlow-H3-Flash-FL2VA-MLX-Serve-4bit",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-hancheng-ai/HyperFlow-H3-Flash-FL2VA-MLX-Serve-8bit",
+   "at": "2026-11-11T17:15:39Z",
+   "model": "hancheng-ai/HyperFlow-H3-Flash-FL2VA-MLX-Serve-8bit",
+   "title": "New text-to-video model listed on Hugging Face: hancheng-ai/HyperFlow-H3-Flash-FL2VA-MLX-Serve-8bit",
+   "url": "https://huggingface.co/hancheng-ai/HyperFlow-H3-Flash-FL2VA-MLX-Serve-8bit",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-melmass/ltxv-loras",
+   "at": "2026-11-11T15:33:37Z",
+   "model": "melmass/ltxv-loras",
+   "title": "New text-to-video model listed on Hugging Face: melmass/ltxv-loras",
+   "url": "https://huggingface.co/melmass/ltxv-loras",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-krishgolcha/minsky-01-videogen-release",
    "at": "2026-11-11T10:00:30Z",
@@ -1468,36 +1498,6 @@
    "model": "Marketing Studio video",
    "title": "Marketing Studio video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://higgsfield.ai/pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Pika 2.5-2026-11-09",
-   "at": "2026-11-09T06:03:46+00:00",
-   "model": "Pika 2.5",
-   "title": "Pika 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://alphasignal.ai/news/pika-rebuilds-into-a-full-creative-studio-routing-across-seven-ai-tools",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Luma App / Ray 3.2-2026-11-09",
-   "at": "2026-11-09T06:03:41+00:00",
-   "model": "Luma App / Ray 3.2",
-   "title": "Luma App / Ray 3.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://magichour.ai/blog/kling-vs-pika-vs-luma",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-MiniMax H3-2026-11-09",
-   "at": "2026-11-09T06:03:21+00:00",
-   "model": "MiniMax H3",
-   "title": "MiniMax H3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://pixo.video/blog/what-is-minimax-h3",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
