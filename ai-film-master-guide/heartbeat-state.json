@@ -76,6 +76,12 @@
   "RunningHubAI/rh-wan2.2-remix-i2v-highnoise-fp8-v3.0-unet",
   "RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-high-lighting-v2.0-unet",
   "RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
+  "S3ckn11g0r/CROWN-H3-InstaGirl-TikTok-DeepFocus",
+  "S3ckn11g0r/CROWN-H3-Niji-Semireal-Aesthetic",
+  "S3ckn11g0r/CROWN-H3-Perfect-Hands-Eyes-Anatomy",
+  "S3ckn11g0r/CROWN-H3-Spatial-And-Hand-Grip-Master",
+  "S3ckn11g0r/CROWN-H3-True-POV-Interactive",
+  "S3ckn11g0r/CROWN-H3-VFX-Combat-Boost",
   "SJTU-DENG-Lab/WaveForcing-1.3B",
   "SOLRICKS/Mila",
   "SadikNawazAI/wan22-qx-encoders-gguf",
@@ -170,6 +176,8 @@
   "jean-is/FastWan2.2-TI2V-5B-ONNX",
   "jinotter3/CRePE",
   "karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
+  "krishgolcha/minsky-01-videogen",
+  "krishgolcha/minsky-01-videogen-release",
   "lvladikov/LTX-2.5-Stage1-Distill-2step-LoRA",
   "manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
   "mlboydaisuke/LTX-Video-2B-CoreAI",
@@ -348,7 +356,13 @@
   "http://arxiv.org/abs/2611.11825v1",
   "http://arxiv.org/abs/2611.12069v1",
   "http://arxiv.org/abs/2611.12087v1",
-  "http://arxiv.org/abs/2611.12411v1"
+  "http://arxiv.org/abs/2611.12411v1",
+  "http://arxiv.org/abs/2611.13576v1",
+  "http://arxiv.org/abs/2611.13971v1",
+  "http://arxiv.org/abs/2611.14033v1",
+  "http://arxiv.org/abs/2611.14307v1",
+  "http://arxiv.org/abs/2611.14420v1",
+  "http://arxiv.org/abs/2611.14440v1"
  ],
  "hn": [
   "14950122",
@@ -393,6 +407,7 @@
   "tag:github.com,2008:Repository/589831718/v0.44.1",
   "tag:github.com,2008:Repository/589831718/v0.44.2",
   "tag:github.com,2008:Repository/589831718/v0.45.0",
-  "tag:github.com,2008:Repository/589831718/v0.45.1"
+  "tag:github.com,2008:Repository/589831718/v0.45.1",
+  "tag:github.com,2008:Repository/589831718/v0.45.2"
  ]
 }

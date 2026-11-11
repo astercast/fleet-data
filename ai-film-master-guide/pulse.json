@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-11T01:17:19Z",
+ "generated_at": "2026-11-11T10:46:36Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-11T01:17:19Z",
+ "last_data_change_at": "2026-11-11T10:46:36Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
-   "items": 127,
-   "checked_at": "2026-11-11T01:17:15Z",
-   "last_ok_at": "2026-11-11T01:17:15Z",
+   "items": 133,
+   "checked_at": "2026-11-11T10:46:33Z",
+   "last_ok_at": "2026-11-11T10:46:33Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-11T01:17:19Z",
-   "last_ok_at": "2026-11-11T01:17:19Z",
+   "checked_at": "2026-11-11T10:46:36Z",
+   "last_ok_at": "2026-11-11T10:46:36Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-11T01:17:13Z",
-   "last_ok_at": "2026-11-11T01:17:13Z",
+   "checked_at": "2026-11-11T10:46:33Z",
+   "last_ok_at": "2026-11-11T10:46:33Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-11T01:17:16Z",
-   "last_ok_at": "2026-11-11T01:17:16Z",
+   "checked_at": "2026-11-11T10:46:34Z",
+   "last_ok_at": "2026-11-11T10:46:34Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,103 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-11T01:17:13Z",
-   "last_ok_at": "2026-11-11T01:17:13Z",
+   "checked_at": "2026-11-11T10:46:33Z",
+   "last_ok_at": "2026-11-11T10:46:33Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: krishgolcha/minsky-01-videogen-release",
+   "ref": "https://huggingface.co/krishgolcha/minsky-01-videogen-release"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-Perfect-Hands-Eyes-Anatomy",
+   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-Perfect-Hands-Eyes-Anatomy"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-InstaGirl-TikTok-DeepFocus",
+   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-InstaGirl-TikTok-DeepFocus"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-Niji-Semireal-Aesthetic",
+   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-Niji-Semireal-Aesthetic"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-True-POV-Interactive",
+   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-True-POV-Interactive"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-Spatial-And-Hand-Grip-Master",
+   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-Spatial-And-Hand-Grip-Master"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-VFX-Combat-Boost",
+   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-VFX-Combat-Boost"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: krishgolcha/minsky-01-videogen",
+   "ref": "https://huggingface.co/krishgolcha/minsky-01-videogen"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "paper",
+   "title": "New arXiv paper: UGG: Unified Generative Geometry Model",
+   "ref": "http://arxiv.org/abs/2611.14440v1"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "paper",
+   "title": "New arXiv paper: OnlyAct: Extracting Action Representations from Foundation Models for World Models",
+   "ref": "http://arxiv.org/abs/2611.14420v1"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "paper",
+   "title": "New arXiv paper: TaoMate-R1: Temporal Role Specialization for Streaming Multi-Reference Video Generation",
+   "ref": "http://arxiv.org/abs/2611.14307v1"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Few-Step Streaming Video Generation via Condition Shifting",
+   "ref": "http://arxiv.org/abs/2611.14033v1"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "paper",
+   "title": "New arXiv paper: TransGHOST: Real-Time, Synthesis-Free Reconstruction of Instrument-Occluded Regions in Ophthalmic Microsurgery",
+   "ref": "http://arxiv.org/abs/2611.13971v1"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "paper",
+   "title": "New arXiv paper: PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation",
+   "ref": "http://arxiv.org/abs/2611.13576v1"
+  },
+  {
+   "at": "2026-11-11T10:46:36Z",
+   "kind": "release",
+   "title": "comfyui release: v0.45.2",
+   "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.2"
+  },
   {
    "at": "2026-11-11T01:17:19Z",
    "kind": "price-signal",
@@ -333,96 +423,6 @@
    "kind": "new-model",
    "title": "New text-to-video model listed on Hugging Face: SadikNawazAI/wan22-qx-encoders-gguf",
    "ref": "https://huggingface.co/SadikNawazAI/wan22-qx-encoders-gguf"
-  },
-  {
-   "at": "2026-11-10T19:42:09Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: anyze/wan2.1-anime-lora",
-   "ref": "https://huggingface.co/anyze/wan2.1-anime-lora"
-  },
-  {
-   "at": "2026-11-10T19:42:09Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: drtuch/ltx-2-2.3-i2v-nsfw-furry-multi-purpose-sex-lora",
-   "ref": "https://huggingface.co/drtuch/ltx-2-2.3-i2v-nsfw-furry-multi-purpose-sex-lora"
-  },
-  {
-   "at": "2026-11-10T19:42:09Z",
-   "kind": "release",
-   "title": "comfyui release: v0.45.0",
-   "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.0"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: capybara102/fasth3-dense-v1-q4_0-gguf",
-   "ref": "https://huggingface.co/capybara102/fasth3-dense-v1-q4_0-gguf"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: pmczip/MiniMaxH3_RefMod",
-   "ref": "https://huggingface.co/pmczip/MiniMaxH3_RefMod"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "paper",
-   "title": "New arXiv paper: PhysOPSD: Code as Privilege for Physically Plausible Video Generation",
-   "ref": "http://arxiv.org/abs/2611.12411v1"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos",
-   "ref": "http://arxiv.org/abs/2611.12087v1"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "paper",
-   "title": "New arXiv paper: MPEG-Diffusion: Mixed-Resolution Video Generation",
-   "ref": "http://arxiv.org/abs/2611.12069v1"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "paper",
-   "title": "New arXiv paper: ACROSSVAM3.0: Resource-Bounded 4D Scene Construction and Adaptive Surface Association",
-   "ref": "http://arxiv.org/abs/2611.11825v1"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "paper",
-   "title": "New arXiv paper: ForeAct: Geometry-Guided Action Learning from World Representations",
-   "ref": "http://arxiv.org/abs/2611.11500v1"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Semantically Aligned KV Cache Compression for Efficient Agentic Autoregressive Video Generation",
-   "ref": "http://arxiv.org/abs/2611.11452v1"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "paper",
-   "title": "New arXiv paper: GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching",
-   "ref": "http://arxiv.org/abs/2611.11421v1"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "paper",
-   "title": "New arXiv paper: OneReel: Efficient Multi-Scene Video Generation with Scene-Structured Attention",
-   "ref": "http://arxiv.org/abs/2611.10594v1"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Beyond Frame-Level Accuracy: Analyzing Video-Level Stability in Transformer-Based Deepfake Forensics",
-   "ref": "http://arxiv.org/abs/2611.10249v1"
-  },
-  {
-   "at": "2026-11-10T11:03:05Z",
-   "kind": "paper",
-   "title": "New arXiv paper: MotionCore: A Latent Neural Simulator for Video Generation with Rigid-Body Dynamics",
-   "ref": "http://arxiv.org/abs/2611.08904v2"
   }
  ]
 }

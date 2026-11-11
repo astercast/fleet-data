@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-11T01:17:24Z",
+ "generated_at": "2026-11-11T10:46:38Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-11T01:17:21Z",
+ "last_data_change_at": "2026-11-11T10:46:37Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-11T01:17:20Z",
-   "last_ok_at": "2026-11-11T01:17:20Z",
+   "checked_at": "2026-11-11T10:46:36Z",
+   "last_ok_at": "2026-11-11T10:46:36Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-11T01:17:20Z",
-   "last_ok_at": "2026-11-11T01:17:20Z",
+   "checked_at": "2026-11-11T10:46:37Z",
+   "last_ok_at": "2026-11-11T10:46:37Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-11T01:17:24Z",
-   "last_ok_at": "2026-11-11T01:17:24Z",
+   "checked_at": "2026-11-11T10:46:38Z",
+   "last_ok_at": "2026-11-11T10:46:38Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-11T01:17:20Z",
-   "last_ok_at": "2026-11-11T01:17:20Z",
+   "checked_at": "2026-11-11T10:46:36Z",
+   "last_ok_at": "2026-11-11T10:46:36Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-11T01:17:21Z",
-   "last_ok_at": "2026-11-11T01:17:21Z",
+   "checked_at": "2026-11-11T10:46:37Z",
+   "last_ok_at": "2026-11-11T10:46:37Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-11T01:17:20Z",
+   "checked_at": "2026-11-11T10:46:36Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 58
+   "fails_in_a_row": 59
   },
   {
    "id": "ypp-help",
@@ -79,13 +79,37 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-11T01:17:24Z",
-   "last_ok_at": "2026-11-11T01:17:24Z",
+   "checked_at": "2026-11-11T10:46:38Z",
+   "last_ok_at": "2026-11-11T10:46:38Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-11T10:46:37Z",
+   "kind": "change",
+   "title": "X adds video clipping",
+   "ref": "https://www.socialmediatoday.com/news/x-adds-video-clipping/874341/"
+  },
+  {
+   "at": "2026-11-11T10:46:37Z",
+   "kind": "change",
+   "title": "TikTok tests shopping subscriptions",
+   "ref": "https://www.socialmediatoday.com/news/tiktok-tests-shopping-subscriptions/874337/"
+  },
+  {
+   "at": "2026-11-11T10:46:37Z",
+   "kind": "change",
+   "title": "Reddit tests AI-compiled product reviews",
+   "ref": "https://www.socialmediatoday.com/news/reddit-tests-ai-compiled-product-reviews/874336/"
+  },
+  {
+   "at": "2026-11-11T10:46:38Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
   {
    "at": "2026-11-11T01:17:21Z",
    "kind": "change",
@@ -103,12 +127,6 @@
    "kind": "source-changed",
    "title": "TikTok Newsroom page changed",
    "ref": "https://newsroom.tiktok.com/en-us/"
-  },
-  {
-   "at": "2026-11-11T01:17:24Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
   },
   {
    "at": "2026-11-10T11:03:06Z",
@@ -421,18 +439,6 @@
    "kind": "change",
    "title": "Twitch has streaming deals in its new Shopping category",
    "ref": "https://www.tubefilter.com/2026/10/06/twitch-has-streaming-deals-in-its-new-shopping-category/"
-  },
-  {
-   "at": "2026-10-25T06:46:22Z",
-   "kind": "change",
-   "title": "Let’s go to the highlight reel: Twitch is helping creators turn their Clips into stream “recaps”",
-   "ref": "https://www.tubefilter.com/2026/09/29/twitch-clips-recaps-feed-streamer-highlights/"
-  },
-  {
-   "at": "2026-10-25T06:46:22Z",
-   "kind": "change",
-   "title": "What’s next for ‘Taskmaster’ after getting big on YouTube? A charity stream with creators.",
-   "ref": "https://www.tubefilter.com/2026/09/15/taskmaster-charity-fundraising-stream-twitch-creators/"
   }
  ]
 }

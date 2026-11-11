@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-11-11T01:21:43Z",
+ "generated_at": "2026-11-11T10:49:17Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -10,7 +10,7 @@
     [
      "freshness",
      "ok",
-     "0.1 h old, limit 14 h"
+     "0.0 h old, limit 14 h"
     ],
     [
      "sources",
@@ -20,17 +20,17 @@
     [
      "site",
      "ok",
-     "1199 ms"
+     "148 ms"
     ]
    ],
-   "data_age_h": 0.1,
-   "changed_age_h": 0.1,
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "arxiv",
      "ok": true,
      "fails": 0,
-     "items": 127
+     "items": 133
     },
     {
      "id": "github",
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "12.4 h old, limit 50 h"
+     "21.9 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,11 +77,11 @@
     [
      "site",
      "ok",
-     "981 ms"
+     "209 ms"
     ]
    ],
-   "data_age_h": 12.4,
-   "changed_age_h": 61.9,
+   "data_age_h": 21.9,
+   "changed_age_h": 71.3,
    "sources": [
     {
      "id": "cmdstore",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "12.4 h old, limit 50 h"
+     "21.9 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "612 ms"
+     "325 ms"
     ]
    ],
-   "data_age_h": 12.4,
+   "data_age_h": 21.9,
    "changed_age_h": null,
    "sources": [
     {
@@ -168,7 +168,7 @@
     [
      "freshness",
      "ok",
-     "0.1 h old, limit 14 h"
+     "0.0 h old, limit 14 h"
     ],
     [
      "sources",
@@ -178,11 +178,11 @@
     [
      "site",
      "ok",
-     "830 ms"
+     "315 ms"
     ]
    ],
-   "data_age_h": 0.1,
-   "changed_age_h": 0.1,
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "meta-newsroom",
@@ -217,7 +217,7 @@
     {
      "id": "youtube-blog",
      "ok": false,
-     "fails": 58,
+     "fails": 59,
      "items": 0
     },
     {
@@ -247,7 +247,7 @@
     [
      "site",
      "ok",
-     "628 ms"
+     "275 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -256,7 +256,7 @@
     {
      "id": "board",
      "ok": false,
-     "fails": 58,
+     "fails": 59,
      "items": 0
     },
     {
@@ -269,7 +269,7 @@
      "id": "lane-charts",
      "ok": true,
      "fails": 0,
-     "items": 20
+     "items": 10
     },
     {
      "id": "lane-gtrends",
@@ -323,7 +323,7 @@
      "id": "lane-reddit_rss",
      "ok": true,
      "fails": 0,
-     "items": 12
+     "items": 24
     },
     {
      "id": "lane-steam",
@@ -340,26 +340,26 @@
     {
      "id": "lane-tiktok",
      "ok": false,
-     "fails": 58,
+     "fails": 59,
      "items": 0
     },
     {
      "id": "lane-wiki",
      "ok": true,
      "fails": 0,
-     "items": 0
+     "items": 15
     },
     {
      "id": "lane-x",
      "ok": false,
-     "fails": 58,
+     "fails": 59,
      "items": 0
     },
     {
      "id": "lane-youtube_rss",
      "ok": true,
      "fails": 0,
-     "items": 72
+     "items": 80
     }
    ],
    "state": "warn"
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "12.4 h old, limit 50 h"
+     "21.8 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "839 ms"
+     "396 ms"
     ]
    ],
-   "data_age_h": 12.4,
-   "changed_age_h": 12.4,
+   "data_age_h": 21.8,
+   "changed_age_h": 21.9,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "12.4 h old, limit 50 h"
+     "21.8 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "624 ms"
+     "273 ms"
     ]
    ],
-   "data_age_h": 12.4,
+   "data_age_h": 21.8,
    "changed_age_h": null,
    "sources": [
     {
@@ -496,11 +496,11 @@
     [
      "site",
      "ok",
-     "797 ms"
+     "431 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "changed_age_h": 9.5,
    "sources": [
     {
      "id": "bat",
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "532 ms"
+     "274 ms"
     ]
    ],
    "state": "ok"
@@ -548,7 +548,7 @@
     [
      "site",
      "ok",
-     "571 ms"
+     "333 ms"
     ],
     [
      "health",
@@ -557,7 +557,7 @@
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "changed_age_h": 9.5,
    "sources": [
     {
      "id": "liquipedia",
@@ -591,11 +591,11 @@
     [
      "site",
      "ok",
-     "616 ms"
+     "273 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 23.8,
+   "changed_age_h": 33.2,
    "sources": [
     {
      "id": "store",

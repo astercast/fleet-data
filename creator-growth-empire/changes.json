@@ -1,6 +1,63 @@
 {
  "changes": [
   {
+   "id": "cw-x-adds-video-clipping-80640e",
+   "platform": "other",
+   "title": "X adds video clipping",
+   "summary": "<p>The option allows users to share shorter snippets of creator content while still giving credit and allowing both posters to earn monetary rewards.</p>",
+   "detected_at": "2026-11-11T10:46:36Z",
+   "announced_at": "2026-11-10T23:24:39Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/x-adds-video-clipping/874341/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/x-adds-video-clipping/874341/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "tt-tiktok-tests-shopping-subscriptions-e707c9",
+   "platform": "tiktok",
+   "title": "TikTok tests shopping subscriptions",
+   "summary": "<p>The company invited select users in the U.S. to join its TikTok Shop Plus program, which will cost about $10 a month after a free trial period.</p>",
+   "detected_at": "2026-11-11T10:46:36Z",
+   "announced_at": "2026-11-10T22:46:54Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/tiktok-tests-shopping-subscriptions/874337/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/tiktok-tests-shopping-subscriptions/874337/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "cw-reddit-tests-ai-compiled-product-reviews-1096eb",
+   "platform": "other",
+   "title": "Reddit tests AI-compiled product reviews",
+   "summary": "<p>The new feature is designed to help users get recommendations and information by converting platform comments into overviews.</p>",
+   "detected_at": "2026-11-11T10:46:36Z",
+   "announced_at": "2026-11-10T19:25:40Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/reddit-tests-ai-compiled-product-reviews/874336/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/reddit-tests-ai-compiled-product-reviews/874336/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "tt-tiktok-shop-plus-is-a-subscription-tier-that-unl-a2dbc1",
    "platform": "tiktok",
    "title": "TikTok Shop Plus is a subscription tier that unlocks shopping perks for $9.99 per month",
@@ -1616,7 +1673,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-11T01:17:19Z",
+ "generated_at": "2026-11-11T10:46:36Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-11",
  "version": "1.7.0"
