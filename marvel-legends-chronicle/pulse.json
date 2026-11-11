@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-10T12:57:30Z",
+ "generated_at": "2026-11-11T12:07:58Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-08T11:30:06Z",
+ "last_data_change_at": "2026-11-11T12:07:57Z",
  "sources": [
   {
    "id": "cmdstore",
    "label": "CMDStore catalog",
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
-   "items": 62,
-   "checked_at": "2026-11-10T12:57:27Z",
-   "last_ok_at": "2026-11-10T12:57:27Z",
+   "items": 61,
+   "checked_at": "2026-11-11T12:07:54Z",
+   "last_ok_at": "2026-11-11T12:07:54Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "items": 58,
-   "checked_at": "2026-11-10T12:57:30Z",
-   "last_ok_at": "2026-11-10T12:57:30Z",
+   "checked_at": "2026-11-11T12:07:58Z",
+   "last_ok_at": "2026-11-11T12:07:58Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-10T12:57:30Z",
-   "last_ok_at": "2026-11-10T12:57:30Z",
+   "checked_at": "2026-11-11T12:07:58Z",
+   "last_ok_at": "2026-11-11T12:07:58Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -45,14 +45,38 @@
    "label": "ToyArena catalog",
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
-   "items": 48,
-   "checked_at": "2026-11-10T12:57:30Z",
-   "last_ok_at": "2026-11-10T12:57:30Z",
+   "items": 52,
+   "checked_at": "2026-11-11T12:07:57Z",
+   "last_ok_at": "2026-11-11T12:07:57Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-11T12:07:57Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Avengers Doomsday Mister Fantsitc and H.E.R.B.I.E Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-avengers-doomsday-mister-fantsitc-and-h-e-r-b-i-e-action-figure"
+  },
+  {
+   "at": "2026-11-11T12:07:57Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Avengers Doomsday The Thing Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-avengers-doomsday-the-thing-action-figure"
+  },
+  {
+   "at": "2026-11-11T12:07:57Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Vintage Retro Series The Uncanny X-Men Cypher Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-vintage-retro-series-the-uncanny-x-men-cypher-action-figure"
+  },
+  {
+   "at": "2026-11-11T12:07:57Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Secret War Retro Doctor Doom Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-secret-war-retro-doctor-doom-action-figure"
+  },
   {
    "at": "2026-11-08T11:30:06Z",
    "kind": "story",
@@ -388,30 +412,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure Magic The Gathering Wave 2 - Malice (Sue Storm)",
    "ref": "https://cmdstore.com/products/marvel-legends-avengers-magic-the-gathering-wave-2-malice-sue-storm-5010996411396"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure Magic The Gathering Wave 2 - Captain America (Avengers Twilight)",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-magic-the-gathering-wave-2-captain-america-avengers-twilight-5010996411327"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure Magic The Gathering Wave 2 - Doctor Doom 2099",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-magic-the-gathering-wave-2-doctor-doom-2099-5010996411372"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Fantastic Four 6 Inch Action Figure Multi-Pack - Mole Man & Moloids",
-   "ref": "https://cmdstore.com/products/marvel-legends-fantastic-four-multi-pack-mole-man-moloids-5010996411228"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure 2-Pack - Vision & Scarlet Witch",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-2-pack-vision-scarlet-witch-5010996434753"
   }
  ]
 }

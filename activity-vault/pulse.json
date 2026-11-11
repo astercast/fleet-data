@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-10T12:58:34Z",
+ "generated_at": "2026-11-11T12:08:59Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-10T12:57:31Z",
+ "last_data_change_at": "2026-11-11T12:07:59Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 65,
-   "checked_at": "2026-11-10T12:58:34Z",
-   "last_ok_at": "2026-11-10T12:58:34Z",
+   "items": 67,
+   "checked_at": "2026-11-11T12:08:59Z",
+   "last_ok_at": "2026-11-11T12:08:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-10T12:57:34Z",
-   "last_ok_at": "2026-11-10T12:57:34Z",
+   "checked_at": "2026-11-11T12:08:03Z",
+   "last_ok_at": "2026-11-11T12:08:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-10T12:57:33Z",
-   "last_ok_at": "2026-11-10T12:57:33Z",
+   "checked_at": "2026-11-11T12:08:01Z",
+   "last_ok_at": "2026-11-11T12:08:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-10T12:57:34Z",
-   "last_ok_at": "2026-11-10T12:57:34Z",
+   "checked_at": "2026-11-11T12:08:03Z",
+   "last_ok_at": "2026-11-11T12:08:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-10T12:57:33Z",
-   "last_ok_at": "2026-11-10T12:57:33Z",
+   "checked_at": "2026-11-11T12:08:01Z",
+   "last_ok_at": "2026-11-11T12:08:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-10T12:57:33Z",
-   "last_ok_at": "2026-11-10T12:57:33Z",
+   "checked_at": "2026-11-11T12:08:01Z",
+   "last_ok_at": "2026-11-11T12:08:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,49 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-10T12:57:31Z",
-   "last_ok_at": "2026-11-10T12:57:31Z",
+   "checked_at": "2026-11-11T12:07:59Z",
+   "last_ok_at": "2026-11-11T12:07:59Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-11T12:07:59Z",
+   "kind": "post",
+   "title": "Silly Word Workshop Printable Activity Kit: Invent Words Like Roald Dahl",
+   "ref": "https://www.weareteachers.com/silly-word-workshop-printable/?utm_source=rss&utm_medium=rss&utm_campaign=silly-word-workshop-printable"
+  },
+  {
+   "at": "2026-11-11T12:08:01Z",
+   "kind": "post",
+   "title": "Sticker Tracing Hanukkah Activity for the Kids",
+   "ref": "https://handsonaswegrow.com/sticker-activity-hanukkah/"
+  },
+  {
+   "at": "2026-11-11T12:08:01Z",
+   "kind": "post",
+   "title": "Gumdrop Molecules: A Fun Chemistry STEM Activity for Kids",
+   "ref": "https://teachbesideme.com/gumdrop-molecules-a-fun-chemistry-stem-activity-for-kids/"
+  },
+  {
+   "at": "2026-11-11T12:08:01Z",
+   "kind": "post",
+   "title": "Minnesota Geography for Kids: Printable State Learning Pack",
+   "ref": "https://teachbesideme.com/minnesota-geography-for-kids-printable-state-learning-pack/"
+  },
+  {
+   "at": "2026-11-11T12:08:01Z",
+   "kind": "post",
+   "title": "Christmas Art Projects Inspired by Famous Artists",
+   "ref": "https://littlebinsforlittlehands.com/christmas-art-projects/"
+  },
+  {
+   "at": "2026-11-11T12:08:58Z",
+   "kind": "photo-candidate",
+   "title": "Partner Portrait Interviews",
+   "ref": "https://commons.wikimedia.org/wiki/File:Ed_Carlson.jpg"
+  },
   {
    "at": "2026-11-10T12:57:31Z",
    "kind": "post",
@@ -403,36 +439,6 @@
    "kind": "post",
    "title": "Halloween Treat Bag Printable – Franken-Treats!",
    "ref": "https://kidsactivitiesblog.com/47860/halloween-treat-bag-printable/"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "5 Not So Scary Halloween Kids Food Ideas",
-   "ref": "https://kidsactivitiesblog.com/18984/halloween-food-ideas-snack/"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "Bat Craft Ideas for the Perfect Halloween Craft",
-   "ref": "https://kidsactivitiesblog.com/7663/bat-crafts/"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "Fun Halloween Trivia Printables",
-   "ref": "https://kidsactivitiesblog.com/310869/fun-halloween-trivia-printables/"
-  },
-  {
-   "at": "2026-11-01T11:29:47Z",
-   "kind": "photo-candidate",
-   "title": "Big Mirror Face, Copy My Face",
-   "ref": "https://commons.wikimedia.org/wiki/File:After_nice_discussion_of_Adaptive_Optics_with_UC_California_Santa_Cruz_Professor,_I_post_blurry_image_taken_through_bug_screen_of_my_motel_room._Demonstrates_looking_through_turbulent_atmosphere._(33876740791).jpg"
-  },
-  {
-   "at": "2026-10-31T10:35:17Z",
-   "kind": "post",
-   "title": "Free Printable Thanksgiving Activities for Kids",
-   "ref": "https://littlebinsforlittlehands.com/thanksgiving-printable-counting-activity/"
   }
  ]
 }

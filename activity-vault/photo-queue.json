@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-10T12:58:34Z",
+ "generated_at": "2026-11-11T12:08:59Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -717,6 +717,28 @@
    "activity_id": "teach-back-to-the-youngers",
    "activity_name": "Teach-Back to the Youngers",
    "queued_at": "2026-11-10T12:58:33Z"
+  },
+  {
+   "commons_title": "File:Ed Carlson.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ed_Carlson.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ed_Carlson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Carl-Schmidt&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Carl-Schmidt (page does not exist)\">Carl-Schmidt</a>",
+   "licence": "CC BY-SA 3.0",
+   "status": "pending",
+   "activity_id": "partner-portrait-interviews",
+   "activity_name": "Partner Portrait Interviews",
+   "queued_at": "2026-11-11T12:08:58Z"
+  },
+  {
+   "commons_title": "File:Gay art homosexual painter raphael perez interview resume artist statement articles אמנים ישראלים.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Gay_art_homosexual_painter_raphael_perez_interview_resume_artist_statement_articles_%D7%90%D7%9E%D7%A0%D7%99%D7%9D_%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Gay_art_homosexual_painter_raphael_perez_interview_resume_artist_statement_articles_%D7%90%D7%9E%D7%A0%D7%99%D7%9D_%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D.jpg/500px-Gay_art_homosexual_painter_raphael_perez_interview_resume_artist_statement_articles_%D7%90%D7%9E%D7%A0%D7%99%D7%9D_%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "Raphael Perez  Israeli Artist",
+   "licence": "CC BY 2.0",
+   "status": "pending",
+   "activity_id": "partner-portrait-interviews",
+   "activity_name": "Partner Portrait Interviews",
+   "queued_at": "2026-11-11T12:08:58Z"
   }
  ]
 }
