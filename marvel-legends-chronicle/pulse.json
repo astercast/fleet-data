@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-11T12:07:58Z",
+ "generated_at": "2026-11-12T13:13:56Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-11T12:07:57Z",
+ "last_data_change_at": "2026-11-12T13:13:56Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 61,
-   "checked_at": "2026-11-11T12:07:54Z",
-   "last_ok_at": "2026-11-11T12:07:54Z",
+   "checked_at": "2026-11-12T13:13:52Z",
+   "last_ok_at": "2026-11-12T13:13:52Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 58,
-   "checked_at": "2026-11-11T12:07:58Z",
-   "last_ok_at": "2026-11-11T12:07:58Z",
+   "items": 60,
+   "checked_at": "2026-11-12T13:13:56Z",
+   "last_ok_at": "2026-11-12T13:13:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-11T12:07:58Z",
-   "last_ok_at": "2026-11-11T12:07:58Z",
+   "checked_at": "2026-11-12T13:13:56Z",
+   "last_ok_at": "2026-11-12T13:13:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -45,14 +45,56 @@
    "label": "ToyArena catalog",
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
-   "items": 52,
-   "checked_at": "2026-11-11T12:07:57Z",
-   "last_ok_at": "2026-11-11T12:07:57Z",
+   "items": 57,
+   "checked_at": "2026-11-12T13:13:56Z",
+   "last_ok_at": "2026-11-12T13:13:56Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-12T13:13:56Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Spider-Man: No Way Home Scorpion Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-spider-man-no-way-home-scorpion-action-figure"
+  },
+  {
+   "at": "2026-11-12T13:13:56Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Avengers Doomsday Invisible Woman and Human Torch Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-avengers-doomsday-invisible-woman-and-human-torch-action-figure"
+  },
+  {
+   "at": "2026-11-12T13:13:56Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends '97 X-Men Apocalypse Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-97-x-men-apocalypse-action-figure"
+  },
+  {
+   "at": "2026-11-12T13:13:56Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Avengers Doomsday Magneto Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-avengers-doomsday-magneto-action-figure"
+  },
+  {
+   "at": "2026-11-12T13:13:56Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Spider-Man: No Way Home Spider-Man Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-spider-man-no-way-home-spider-man-action-figure"
+  },
+  {
+   "at": "2026-11-12T13:13:56Z",
+   "kind": "story",
+   "title": "Hasbro Pulse Announces New Marvel Legends Fanstream - LaughingPlace.com",
+   "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamc4TG83Z0VrLW1DRjdZRnFyUU5FOC1KakE2c080M1RONGpmNWN5emRTeUlGaTlualZwWHk5ZVJCWnpWOWx6U0E1dUt5bEhYaEd3eTQ3U0hkdXRxdXJFZFJDS2ZPakgwOXNBcWY2R3g1OVpSM2YyakpwdjN0ejJJa3NxV1JJeTFZWUdvVWJrQXZLYVpFMkVDZGZXdWo1QURJZ0E0?oc=5"
+  },
+  {
+   "at": "2026-11-12T13:13:56Z",
+   "kind": "story",
+   "title": "New 'Spider-Man: Across the Spider-Verse' Marvel Legends Swing into this Multiverse - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmFDYm5wQ1BZNmJNckVzemdySlFtYVhrVkVCbmh3Rm9zbm50SDRZTmZrS0tyMXFhQ25vS3V1QXRDd2szRC1fal92a0ZoeVRGbXBXaC1yWW5WOHI2U2ZpOGhwVEN0NDRZYlZMMGNFcFlNMlQtZ2tCVVRWSC1XLWpLUm1TUUstYWoxWjBKWWJRQQ?oc=5"
+  },
   {
    "at": "2026-11-11T12:07:57Z",
    "kind": "catalog",
@@ -370,48 +412,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends X-Men Movie 6 Inch Action Figure - Mystique",
    "ref": "https://cmdstore.com/products/marvel-legends-x-men-movie-mystique-5010993722204"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends X-Men 97' 7 Inch Action Figure Deluxe - Beast",
-   "ref": "https://cmdstore.com/products/marvel-legends-x-men-97-deluxe-beast-5010996448019"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Gamerverse 6 Inch Action Figure 2-Pack - Wolverine vs Psylocke (Pre-Order Ships Dec. 2026)",
-   "ref": "https://cmdstore.com/products/marvel-legends-gamerverse-2-pack-wolverine-vs-psylocke-5010996411532"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Gamerverse 6 Inch Action Figure 2-Pack - Iron Man vs Spiral",
-   "ref": "https://cmdstore.com/products/marvel-legends-gamerverse-2-pack-iron-man-vs-spiral-5010996352514"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Web Splat Spider-Man (Pre-Order Ships Dec. 2026)",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-web-splat-spider-man-5010994158477"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man Exclusive - Venom (Pre-Order Ships Dec. 2026)",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-exclusive-venom-5010993882762"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Spider-Man 6 Inch Action Figure Maximum Series - Symbiote Spider-Man (Pre-Order Ships Oct. 2026)",
-   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-maximum-series-symbiote-spider-man-5010996411471"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure Magic The Gathering Wave 2 - Malice (Sue Storm)",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-magic-the-gathering-wave-2-malice-sue-storm-5010996411396"
   }
  ]
 }

@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-11T12:08:59Z",
+ "generated_at": "2026-11-12T13:14:57Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-11T12:07:59Z",
+ "last_data_change_at": "2026-11-12T13:13:58Z",
  "sources": [
   {
    "id": "commons-photo-scout",
@@ -13,8 +13,8 @@
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
    "items": 67,
-   "checked_at": "2026-11-11T12:08:59Z",
-   "last_ok_at": "2026-11-11T12:08:59Z",
+   "checked_at": "2026-11-12T13:14:57Z",
+   "last_ok_at": "2026-11-12T13:14:57Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-11T12:08:03Z",
-   "last_ok_at": "2026-11-11T12:08:03Z",
+   "checked_at": "2026-11-12T13:14:01Z",
+   "last_ok_at": "2026-11-12T13:14:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-11T12:08:01Z",
-   "last_ok_at": "2026-11-11T12:08:01Z",
+   "checked_at": "2026-11-12T13:13:59Z",
+   "last_ok_at": "2026-11-12T13:13:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-11T12:08:03Z",
-   "last_ok_at": "2026-11-11T12:08:03Z",
+   "checked_at": "2026-11-12T13:14:01Z",
+   "last_ok_at": "2026-11-12T13:14:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-11T12:08:01Z",
-   "last_ok_at": "2026-11-11T12:08:01Z",
+   "checked_at": "2026-11-12T13:14:00Z",
+   "last_ok_at": "2026-11-12T13:14:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-11T12:08:01Z",
-   "last_ok_at": "2026-11-11T12:08:01Z",
+   "checked_at": "2026-11-12T13:13:59Z",
+   "last_ok_at": "2026-11-12T13:13:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,73 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-11T12:07:59Z",
-   "last_ok_at": "2026-11-11T12:07:59Z",
+   "checked_at": "2026-11-12T13:13:58Z",
+   "last_ok_at": "2026-11-12T13:13:58Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-12T13:13:58Z",
+   "kind": "post",
+   "title": "20 Balloon Experiments to Make Your Lessons Really Pop",
+   "ref": "https://www.weareteachers.com/balloon-experiments/?utm_source=rss&utm_medium=rss&utm_campaign=balloon-experiments"
+  },
+  {
+   "at": "2026-11-12T13:13:59Z",
+   "kind": "post",
+   "title": "24 Snowman Crafts Easy for Toddlers & Preschoolers to Make",
+   "ref": "https://handsonaswegrow.com/24-snowman-crafts-kids/"
+  },
+  {
+   "at": "2026-11-12T13:13:59Z",
+   "kind": "post",
+   "title": "Second Grade Sight Word Handwriting Worksheets",
+   "ref": "https://teachbesideme.com/second-grade-sight-word-handwriting-worksheets/"
+  },
+  {
+   "at": "2026-11-12T13:13:59Z",
+   "kind": "post",
+   "title": "Free Printable Place Value Charts for Whole Numbers and Decimals",
+   "ref": "https://teachbesideme.com/free-printable-place-value-charts/"
+  },
+  {
+   "at": "2026-11-12T13:14:00Z",
+   "kind": "post",
+   "title": "Jumping Tinsel Static Electricity Experiment",
+   "ref": "https://littlebinsforlittlehands.com/jumping-tinsel-christmas-static-electricity-science-experiment/"
+  },
+  {
+   "at": "2026-11-12T13:14:00Z",
+   "kind": "post",
+   "title": "Recycled Cardboard Christmas Tree Craft (Easy Stamping Art)",
+   "ref": "https://littlebinsforlittlehands.com/stamped-christmas-tree-craft/"
+  },
+  {
+   "at": "2026-11-12T13:14:00Z",
+   "kind": "post",
+   "title": "Paper Strip Christmas Tree",
+   "ref": "https://littlebinsforlittlehands.com/paper-strip-christmas-tree/"
+  },
+  {
+   "at": "2026-11-12T13:14:00Z",
+   "kind": "post",
+   "title": "November Science Activities for Kids",
+   "ref": "https://littlebinsforlittlehands.com/november-science-activities/"
+  },
+  {
+   "at": "2026-11-12T13:14:00Z",
+   "kind": "post",
+   "title": "Easy STEM Activities for Elementary Kids (Grades K–5)",
+   "ref": "https://littlebinsforlittlehands.com/early-elementary-stem-projects-kids/"
+  },
+  {
+   "at": "2026-11-12T13:14:01Z",
+   "kind": "post",
+   "title": "Free Printable Veterans Day Coloring Pages",
+   "ref": "https://kidsactivitiesblog.com/310970/free-printable-veterans-day-coloring-pages/"
+  },
   {
    "at": "2026-11-11T12:07:59Z",
    "kind": "post",
@@ -385,60 +445,6 @@
    "kind": "photo-candidate",
    "title": "Big Cloud Lying, Picture Names",
    "ref": "https://commons.wikimedia.org/wiki/File:Big_Thomson_Mesa,_Capitol_Reef_National_Park,_Utah.jpg"
-  },
-  {
-   "at": "2026-11-02T12:52:10Z",
-   "kind": "photo-candidate",
-   "title": "Big Water Painting, Fence Picture",
-   "ref": "https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "Thanksgiving Worksheets",
-   "ref": "https://littlebinsforlittlehands.com/thanksgiving-worksheets/"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "Leftover Halloween Candy Preschool Guessing Game",
-   "ref": "https://kidsactivitiesblog.com/19395/halloween-activity-2/"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "13+ Things to do With Leftover Halloween Candy",
-   "ref": "https://kidsactivitiesblog.com/29605/top-10-things-to-do-with-halloween-candy/"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "Free Printable November Calendar",
-   "ref": "https://kidsactivitiesblog.com/248398/november-calendar/"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "Let’s Make Scary Cute Ghost Slime",
-   "ref": "https://kidsactivitiesblog.com/96399/ghost-slime/"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "Vroom! Crash! Painting with Monster Trucks – Simple Art Project for Preschool",
-   "ref": "https://kidsactivitiesblog.com/17537/monster-trucks-math-and-art/"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "Let’s Have Some Halloween Fun with the Toilet Paper Mummy Game",
-   "ref": "https://kidsactivitiesblog.com/19941/halloween-game/"
-  },
-  {
-   "at": "2026-11-01T11:28:49Z",
-   "kind": "post",
-   "title": "Halloween Treat Bag Printable – Franken-Treats!",
-   "ref": "https://kidsactivitiesblog.com/47860/halloween-treat-bag-printable/"
   }
  ]
 }
