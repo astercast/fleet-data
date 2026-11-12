@@ -187,8 +187,12 @@
   "manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
   "melmass/ltxv-loras",
   "mlboydaisuke/LTX-Video-2B-CoreAI",
+  "moonbox-ai/hyperflow-h3-flash-GGUF",
+  "moonbox-ai/hyperflow-h3-flash-MLX",
+  "moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
   "my-app-s/Wan2.2-TI2V-5B-GGUF",
   "neonforestmist/LTX_Storybook_Anime_Style_LoRa",
+  "neonforestmist/Minimax_H3_Monet_Style_LoRA",
   "nvidia/Wan2.2-T2V-A14B-Diffusers-FP8",
   "nvidia/Wan2.2-T2V-A14B-Diffusers-NVFP4",
   "nynxz/MiniMax-H3-PTD-LoRAs",
@@ -400,7 +404,8 @@
   "tag:github.com,2008:Repository/498011141/v0.40.0",
   "tag:github.com,2008:Repository/498011141/v0.41.0",
   "tag:github.com,2008:Repository/498011141/v0.42.0",
-  "tag:github.com,2008:Repository/498011141/v0.42.1"
+  "tag:github.com,2008:Repository/498011141/v0.42.1",
+  "tag:github.com,2008:Repository/498011141/v0.43.0"
  ],
  "gh-comfyui": [
   "tag:github.com,2008:Repository/589831718/v0.42.1",

@@ -1,7 +1,57 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-12T02:16:43Z",
+ "generated_at": "2026-11-12T10:57:23Z",
  "items": [
+  {
+   "id": "gh-diffusers-v0.43.0",
+   "at": "2026-11-12T06:38:33Z",
+   "model": "diffusers",
+   "title": "diffusers release: Diffusers 0.43.0: MiniMax-H3-Image, Pika H3 Flex, P-H3-Image, Kandinsky S2V, and PAN 2",
+   "url": "https://github.com/huggingface/diffusers/releases/tag/v0.43.0",
+   "kind": "release",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-moonbox-ai/hyperflow-h3-flash-GGUF",
+   "at": "2026-11-12T06:14:40Z",
+   "model": "moonbox-ai/hyperflow-h3-flash-GGUF",
+   "title": "New text-to-video model listed on Hugging Face: moonbox-ai/hyperflow-h3-flash-GGUF",
+   "url": "https://huggingface.co/moonbox-ai/hyperflow-h3-flash-GGUF",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
+   "at": "2026-11-12T06:14:22Z",
+   "model": "moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
+   "title": "New text-to-video model listed on Hugging Face: moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
+   "url": "https://huggingface.co/moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-moonbox-ai/hyperflow-h3-flash-MLX",
+   "at": "2026-11-12T06:11:38Z",
+   "model": "moonbox-ai/hyperflow-h3-flash-MLX",
+   "title": "New text-to-video model listed on Hugging Face: moonbox-ai/hyperflow-h3-flash-MLX",
+   "url": "https://huggingface.co/moonbox-ai/hyperflow-h3-flash-MLX",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-neonforestmist/Minimax_H3_Monet_Style_LoRA",
+   "at": "2026-11-12T04:31:04Z",
+   "model": "neonforestmist/Minimax_H3_Monet_Style_LoRA",
+   "title": "New text-to-video model listed on Hugging Face: neonforestmist/Minimax_H3_Monet_Style_LoRA",
+   "url": "https://huggingface.co/neonforestmist/Minimax_H3_Monet_Style_LoRA",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-12",
    "at": "2026-11-12T02:16:37+00:00",
@@ -1449,56 +1499,6 @@
    "title": "Seedance 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://cellcog.ai/blog/seedance-2-5-pricing/",
    "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-lvladikov/LTX-2.5-Stage1-Distill-2step-LoRA",
-   "at": "2026-11-10T00:27:59Z",
-   "model": "lvladikov/LTX-2.5-Stage1-Distill-2step-LoRA",
-   "title": "New text-to-video model listed on Hugging Face: lvladikov/LTX-2.5-Stage1-Distill-2step-LoRA",
-   "url": "https://huggingface.co/lvladikov/LTX-2.5-Stage1-Distill-2step-LoRA",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-smartypantsnet/FastWan2.2-TI2V-5B-mlx-bf16",
-   "at": "2026-11-09T23:18:42Z",
-   "model": "smartypantsnet/FastWan2.2-TI2V-5B-mlx-bf16",
-   "title": "New text-to-video model listed on Hugging Face: smartypantsnet/FastWan2.2-TI2V-5B-mlx-bf16",
-   "url": "https://huggingface.co/smartypantsnet/FastWan2.2-TI2V-5B-mlx-bf16",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-avginit-cycle2",
-   "at": "2026-11-09T23:07:20Z",
-   "model": "ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-avginit-cycle2",
-   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-avginit-cycle2",
-   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-avginit-cycle2",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-init0",
-   "at": "2026-11-09T23:03:08Z",
-   "model": "ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-init0",
-   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-init0",
-   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-init0",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-avginit-cycle12",
-   "at": "2026-11-09T22:58:22Z",
-   "model": "ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-avginit-cycle12",
-   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-avginit-cycle12",
-   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg-avginit-cycle12",
-   "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }
