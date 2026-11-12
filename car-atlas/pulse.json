@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-11T19:37:13Z",
+ "generated_at": "2026-11-12T02:19:27Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-11T19:37:13Z",
+ "last_data_change_at": "2026-11-12T02:19:27Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 72,
-   "checked_at": "2026-11-11T19:37:11Z",
-   "last_ok_at": "2026-11-11T19:37:11Z",
+   "items": 36,
+   "checked_at": "2026-11-12T02:19:27Z",
+   "last_ok_at": "2026-11-12T02:19:27Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,37 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12426,
-   "checked_at": "2026-11-11T19:37:13Z",
-   "last_ok_at": "2026-11-11T19:37:13Z",
+   "checked_at": "2026-11-12T02:19:27Z",
+   "last_ok_at": "2026-11-12T02:19:27Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-12T02:19:27Z",
+   "kind": "sale",
+   "title": "15k-Mile 2010 BMW M3 Convertible",
+   "ref": "https://bringatrailer.com/listing/2010-bmw-m3-convertible-13/"
+  },
+  {
+   "at": "2026-11-12T02:19:27Z",
+   "kind": "sale",
+   "title": "1964 Chevrolet Corvette Coupe L76 327/365 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1964-chevrolet-corvette-393/"
+  },
+  {
+   "at": "2026-11-12T02:19:27Z",
+   "kind": "sale",
+   "title": "V6-Powered 1964 Jeep CJ-5",
+   "ref": "https://bringatrailer.com/listing/1964-jeep-cj-5-14/"
+  },
+  {
+   "at": "2026-11-12T02:19:27Z",
+   "kind": "sale",
+   "title": "40k-Mile 2016 Dodge Challenger SRT Hellcat 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2016-dodge-challenger-srt-hellcat-95/"
+  },
   {
    "at": "2026-11-11T19:37:13Z",
    "kind": "sale",
@@ -366,30 +390,6 @@
    "kind": "sale",
    "title": "1,776cc-Powered 1965 Volkswagen Beetle",
    "ref": "https://bringatrailer.com/listing/1965-volkswagen-beetle-156/"
-  },
-  {
-   "at": "2026-11-08T00:31:39Z",
-   "kind": "sale",
-   "title": "1970 Ford Mustang Hardtop 302",
-   "ref": "https://bringatrailer.com/listing/1970-ford-mustang-200/"
-  },
-  {
-   "at": "2026-11-07T19:28:21Z",
-   "kind": "sale",
-   "title": "30-Years-Owned 1972 Volkswagen Super Beetle",
-   "ref": "https://bringatrailer.com/listing/1972-volkswagen-super-beetle-sedan-17/"
-  },
-  {
-   "at": "2026-11-07T19:28:21Z",
-   "kind": "sale",
-   "title": "1985 Jeep CJ-7 Laredo 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1985-jeep-cj-7-129/"
-  },
-  {
-   "at": "2026-11-07T19:28:21Z",
-   "kind": "sale",
-   "title": "Coyote-Powered 1965 Ford Mustang Fastback 6-Speed",
-   "ref": "https://bringatrailer.com/listing/1965-ford-mustang-1021/"
   }
  ]
 }
