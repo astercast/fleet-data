@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-12T10:57:25Z",
+ "generated_at": "2026-11-12T19:53:21Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-12T10:57:24Z",
+ "last_data_change_at": "2026-11-12T19:53:21Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-12T10:57:23Z",
-   "last_ok_at": "2026-11-12T10:57:23Z",
+   "checked_at": "2026-11-12T19:53:18Z",
+   "last_ok_at": "2026-11-12T19:53:18Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-12T10:57:23Z",
-   "last_ok_at": "2026-11-12T10:57:23Z",
+   "checked_at": "2026-11-12T19:53:19Z",
+   "last_ok_at": "2026-11-12T19:53:19Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-12T10:57:25Z",
-   "last_ok_at": "2026-11-12T10:57:25Z",
+   "checked_at": "2026-11-12T19:53:21Z",
+   "last_ok_at": "2026-11-12T19:53:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-12T10:57:23Z",
-   "last_ok_at": "2026-11-12T10:57:23Z",
+   "checked_at": "2026-11-12T19:53:19Z",
+   "last_ok_at": "2026-11-12T19:53:19Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-12T10:57:24Z",
-   "last_ok_at": "2026-11-12T10:57:24Z",
+   "checked_at": "2026-11-12T19:53:19Z",
+   "last_ok_at": "2026-11-12T19:53:19Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-12T10:57:23Z",
+   "checked_at": "2026-11-12T19:53:18Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 62
+   "fails_in_a_row": 63
   },
   {
    "id": "ypp-help",
@@ -79,24 +79,30 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-12T10:57:25Z",
-   "last_ok_at": "2026-11-12T10:57:25Z",
+   "checked_at": "2026-11-12T19:53:21Z",
+   "last_ok_at": "2026-11-12T19:53:21Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
+   "at": "2026-11-12T19:53:21Z",
+   "kind": "source-changed",
+   "title": "TikTok Newsroom page changed",
+   "ref": "https://newsroom.tiktok.com/en-us/"
+  },
+  {
+   "at": "2026-11-12T19:53:21Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
+  {
    "at": "2026-11-12T10:57:24Z",
    "kind": "change",
    "title": "Meta publishes explainer on Your Algorithm controls",
    "ref": "https://www.socialmediatoday.com/news/meta-publishes-explainer-on-your-algorithm-controls/874460/"
-  },
-  {
-   "at": "2026-11-12T10:57:25Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
   },
   {
    "at": "2026-11-11T10:46:37Z",
@@ -127,12 +133,6 @@
    "kind": "change",
    "title": "The Hot 100 flows through social media, so Billboard is bringing YouTube data back into its charts",
    "ref": "https://www.tubefilter.com/2026/11/10/billboard-youtube-returns-to-hot-100-chart/"
-  },
-  {
-   "at": "2026-11-11T01:17:24Z",
-   "kind": "source-changed",
-   "title": "TikTok Newsroom page changed",
-   "ref": "https://newsroom.tiktok.com/en-us/"
   },
   {
    "at": "2026-11-10T11:03:06Z",
@@ -433,12 +433,6 @@
    "kind": "change",
    "title": "Meta hit with $25 billion fine over privacy breaches",
    "ref": "https://www.socialmediatoday.com/news/meta-hit-with-25-billion-fine-over-privacy-breaches/833798/"
-  },
-  {
-   "at": "2026-10-25T06:46:22Z",
-   "kind": "change",
-   "title": "Meta adds users and revenue as AI costs climb",
-   "ref": "https://www.socialmediatoday.com/news/meta-adds-users-and-revenue-as-ai-costs-climb/833671/"
   }
  ]
 }

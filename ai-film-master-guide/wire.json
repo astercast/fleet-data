@@ -1,7 +1,97 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-12T10:57:23Z",
+ "generated_at": "2026-11-12T19:53:18Z",
  "items": [
+  {
+   "id": "hf-romainkh14/brimkern-ltx-BRIK",
+   "at": "2026-11-12T18:12:59Z",
+   "model": "romainkh14/brimkern-ltx-BRIK",
+   "title": "New text-to-video model listed on Hugging Face: romainkh14/brimkern-ltx-BRIK",
+   "url": "https://huggingface.co/romainkh14/brimkern-ltx-BRIK",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-GuanjieChen/Skip-DiT",
+   "at": "2026-11-12T17:08:02Z",
+   "model": "GuanjieChen/Skip-DiT",
+   "title": "New text-to-video model listed on Hugging Face: GuanjieChen/Skip-DiT",
+   "url": "https://huggingface.co/GuanjieChen/Skip-DiT",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
+   "at": "2026-11-12T13:51:18Z",
+   "model": "intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
+   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
+   "url": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-manateelazycat/MiniMax-H3-Duo-AIPod",
+   "at": "2026-11-12T13:45:11Z",
+   "model": "manateelazycat/MiniMax-H3-Duo-AIPod",
+   "title": "New text-to-video model listed on Hugging Face: manateelazycat/MiniMax-H3-Duo-AIPod",
+   "url": "https://huggingface.co/manateelazycat/MiniMax-H3-Duo-AIPod",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Mrbizarro/ltx-2.5-mlx-q8",
+   "at": "2026-11-12T13:12:07Z",
+   "model": "Mrbizarro/ltx-2.5-mlx-q8",
+   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-q8",
+   "url": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-q8",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Mrbizarro/ltx-2.5-mlx-hq",
+   "at": "2026-11-12T13:12:07Z",
+   "model": "Mrbizarro/ltx-2.5-mlx-hq",
+   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-hq",
+   "url": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-hq",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Mrbizarro/ltx-2.5-mlx-q4",
+   "at": "2026-11-12T13:12:04Z",
+   "model": "Mrbizarro/ltx-2.5-mlx-q4",
+   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-q4",
+   "url": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-q4",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Mrbizarro/ltx-2.3-mlx-q4-1.1",
+   "at": "2026-11-12T13:11:26Z",
+   "model": "Mrbizarro/ltx-2.3-mlx-q4-1.1",
+   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.3-mlx-q4-1.1",
+   "url": "https://huggingface.co/Mrbizarro/ltx-2.3-mlx-q4-1.1",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Denovarix/Deno",
+   "at": "2026-11-12T12:14:27Z",
+   "model": "Denovarix/Deno",
+   "title": "New text-to-video model listed on Hugging Face: Denovarix/Deno",
+   "url": "https://huggingface.co/Denovarix/Deno",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "gh-diffusers-v0.43.0",
    "at": "2026-11-12T06:38:33Z",
@@ -1408,96 +1498,6 @@
    "model": "Luma App / Ray 3.2",
    "title": "Luma App / Ray 3.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://magichour.ai/blog/kling-vs-pika-vs-luma",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-MiniMax H3-2026-11-10",
-   "at": "2026-11-10T01:28:25+00:00",
-   "model": "MiniMax H3",
-   "title": "MiniMax H3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://pixo.video/blog/what-is-minimax-h3",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Hailuo 02 / 2.3-2026-11-10",
-   "at": "2026-11-10T01:28:19+00:00",
-   "model": "Hailuo 02 / 2.3",
-   "title": "Hailuo 02 / 2.3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://magichour.ai/blog/hailuo-23-pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 3.0 / 3.0 Prime-2026-11-10",
-   "at": "2026-11-10T01:28:10+00:00",
-   "model": "Wan 3.0 / 3.0 Prime",
-   "title": "Wan 3.0 / 3.0 Prime: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.makeinfluencer.ai/guides/best-ai-video-generators-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Sora 2 / Pro / Max-2026-11-10",
-   "at": "2026-11-10T01:27:43+00:00",
-   "model": "Sora 2 / Pro / Max",
-   "title": "Sora 2 / Pro / Max: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://dev.to/stimlau/sora-vs-runway-openai-killed-sora-now-what-2692",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1 Fast / Veo 3-2026-11-10",
-   "at": "2026-11-10T01:27:39+00:00",
-   "model": "Veo 3.1 Fast / Veo 3",
-   "title": "Veo 3.1 Fast / Veo 3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://mer.vin/2026/09/which-ai-video-models-actually-take-a-first-and-last-frame/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1-2026-11-10",
-   "at": "2026-11-10T01:27:29+00:00",
-   "model": "Veo 3.1",
-   "title": "Veo 3.1: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Kling 3.0-2026-11-10",
-   "at": "2026-11-10T01:27:20+00:00",
-   "model": "Kling 3.0",
-   "title": "Kling 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 3.0-2026-11-10",
-   "at": "2026-11-10T01:27:13+00:00",
-   "model": "Seedance 3.0",
-   "title": "Seedance 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.highonfilms.com/seedance-3-0-provider-checks/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 2.5-2026-11-10",
-   "at": "2026-11-10T01:27:07+00:00",
-   "model": "Seedance 2.5",
-   "title": "Seedance 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://cellcog.ai/blog/seedance-2-5-pricing/",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"

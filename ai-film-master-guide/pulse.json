@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-12T10:57:23Z",
+ "generated_at": "2026-11-12T19:53:18Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-12T10:57:23Z",
+ "last_data_change_at": "2026-11-12T19:53:18Z",
  "sources": [
   {
    "id": "arxiv",
@@ -13,8 +13,8 @@
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
    "items": 133,
-   "checked_at": "2026-11-12T10:57:20Z",
-   "last_ok_at": "2026-11-12T10:57:20Z",
+   "checked_at": "2026-11-12T19:53:15Z",
+   "last_ok_at": "2026-11-12T19:53:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-12T10:57:23Z",
-   "last_ok_at": "2026-11-12T10:57:23Z",
+   "checked_at": "2026-11-12T19:53:18Z",
+   "last_ok_at": "2026-11-12T19:53:18Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-12T10:57:20Z",
-   "last_ok_at": "2026-11-12T10:57:20Z",
+   "checked_at": "2026-11-12T19:53:15Z",
+   "last_ok_at": "2026-11-12T19:53:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-12T10:57:20Z",
-   "last_ok_at": "2026-11-12T10:57:20Z",
+   "checked_at": "2026-11-12T19:53:16Z",
+   "last_ok_at": "2026-11-12T19:53:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,67 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-12T10:57:20Z",
-   "last_ok_at": "2026-11-12T10:57:20Z",
+   "checked_at": "2026-11-12T19:53:15Z",
+   "last_ok_at": "2026-11-12T19:53:15Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-12T19:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: romainkh14/brimkern-ltx-BRIK",
+   "ref": "https://huggingface.co/romainkh14/brimkern-ltx-BRIK"
+  },
+  {
+   "at": "2026-11-12T19:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: GuanjieChen/Skip-DiT",
+   "ref": "https://huggingface.co/GuanjieChen/Skip-DiT"
+  },
+  {
+   "at": "2026-11-12T19:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
+   "ref": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound"
+  },
+  {
+   "at": "2026-11-12T19:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: manateelazycat/MiniMax-H3-Duo-AIPod",
+   "ref": "https://huggingface.co/manateelazycat/MiniMax-H3-Duo-AIPod"
+  },
+  {
+   "at": "2026-11-12T19:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-q8",
+   "ref": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-q8"
+  },
+  {
+   "at": "2026-11-12T19:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-hq",
+   "ref": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-hq"
+  },
+  {
+   "at": "2026-11-12T19:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-q4",
+   "ref": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-q4"
+  },
+  {
+   "at": "2026-11-12T19:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.3-mlx-q4-1.1",
+   "ref": "https://huggingface.co/Mrbizarro/ltx-2.3-mlx-q4-1.1"
+  },
+  {
+   "at": "2026-11-12T19:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Denovarix/Deno",
+   "ref": "https://huggingface.co/Denovarix/Deno"
+  },
   {
    "at": "2026-11-12T10:57:23Z",
    "kind": "new-model",
@@ -369,60 +423,6 @@
    "kind": "new-model",
    "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-Perfect-Hands-Eyes-Anatomy",
    "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-Perfect-Hands-Eyes-Anatomy"
-  },
-  {
-   "at": "2026-11-11T10:46:36Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-InstaGirl-TikTok-DeepFocus",
-   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-InstaGirl-TikTok-DeepFocus"
-  },
-  {
-   "at": "2026-11-11T10:46:36Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-Niji-Semireal-Aesthetic",
-   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-Niji-Semireal-Aesthetic"
-  },
-  {
-   "at": "2026-11-11T10:46:36Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-True-POV-Interactive",
-   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-True-POV-Interactive"
-  },
-  {
-   "at": "2026-11-11T10:46:36Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-Spatial-And-Hand-Grip-Master",
-   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-Spatial-And-Hand-Grip-Master"
-  },
-  {
-   "at": "2026-11-11T10:46:36Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: S3ckn11g0r/CROWN-H3-VFX-Combat-Boost",
-   "ref": "https://huggingface.co/S3ckn11g0r/CROWN-H3-VFX-Combat-Boost"
-  },
-  {
-   "at": "2026-11-11T10:46:36Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: krishgolcha/minsky-01-videogen",
-   "ref": "https://huggingface.co/krishgolcha/minsky-01-videogen"
-  },
-  {
-   "at": "2026-11-11T10:46:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: UGG: Unified Generative Geometry Model",
-   "ref": "http://arxiv.org/abs/2611.14440v1"
-  },
-  {
-   "at": "2026-11-11T10:46:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: OnlyAct: Extracting Action Representations from Foundation Models for World Models",
-   "ref": "http://arxiv.org/abs/2611.14420v1"
-  },
-  {
-   "at": "2026-11-11T10:46:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: TaoMate-R1: Temporal Role Specialization for Streaming Multi-Reference Video Generation",
-   "ref": "http://arxiv.org/abs/2611.14307v1"
   }
  ]
 }

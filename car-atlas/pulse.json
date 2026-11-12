@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-12T10:59:41Z",
+ "generated_at": "2026-11-12T19:56:39Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-12T02:19:27Z",
+ "last_data_change_at": "2026-11-12T19:56:39Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-12T10:59:38Z",
-   "last_ok_at": "2026-11-12T10:59:38Z",
+   "items": 72,
+   "checked_at": "2026-11-12T19:56:37Z",
+   "last_ok_at": "2026-11-12T19:56:37Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,79 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12426,
-   "checked_at": "2026-11-12T10:59:41Z",
-   "last_ok_at": "2026-11-12T10:59:41Z",
+   "checked_at": "2026-11-12T19:56:39Z",
+   "last_ok_at": "2026-11-12T19:56:39Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "2016 Porsche Cayenne S E-Hybrid",
+   "ref": "https://bringatrailer.com/listing/2016-porsche-cayenne-s-e-hybrid-11/"
+  },
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "1969 Chevrolet Camaro Z/28 Coupe 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1969-chevrolet-camaro-z-28-311/"
+  },
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "One-Owner 2000 Plymouth Prowler w/Trailer",
+   "ref": "https://bringatrailer.com/listing/2000-plymouth-prowler-113/"
+  },
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "2021 Ford Mustang Mach 1 Premium 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2021-ford-mustang-mach-1-21/"
+  },
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "2016 Land Rover Range Rover Td6 Diesel",
+   "ref": "https://bringatrailer.com/listing/2016-land-rover-range-rover-194/"
+  },
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "302-Powered, GT350-Style 1967 Ford Mustang Convertible",
+   "ref": "https://bringatrailer.com/listing/1967-ford-mustang-convertible-73/"
+  },
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "1973 Chevrolet Corvette Coupe L82 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1973-chevrolet-corvette-coupe-101/"
+  },
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "1998 Land Rover Discovery LE",
+   "ref": "https://bringatrailer.com/listing/1998-land-rover-discovery-44/"
+  },
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "25-Years-Owned 1991 Saab 900 SE Turbo Convertible 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1991-saab-900-6/"
+  },
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "2003 Toyota Land Cruiser UZJ100",
+   "ref": "https://bringatrailer.com/listing/2003-toyota-land-cruiser-59/"
+  },
+  {
+   "at": "2026-11-12T19:56:39Z",
+   "kind": "sale",
+   "title": "1999 Porsche 911 Carrera Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/1999-porsche-911-carrera-46-2/"
+  },
   {
    "at": "2026-11-12T02:19:27Z",
    "kind": "sale",
@@ -324,72 +390,6 @@
    "kind": "sale",
    "title": "1974 Jaguar E-Type Series III Roadster V12 4-Speed",
    "ref": "https://bringatrailer.com/listing/1974-jaguar-e-type-series-iii-roadster-v12-47/"
-  },
-  {
-   "at": "2026-11-08T22:04:06Z",
-   "kind": "sale",
-   "title": "1999 Jeep Wrangler Sahara 4.0 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1999-jeep-wrangler-118/"
-  },
-  {
-   "at": "2026-11-08T17:59:54Z",
-   "kind": "sale",
-   "title": "528 Hemi–Powered 1969 Dodge Charger 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1969-dodge-charger-89/"
-  },
-  {
-   "at": "2026-11-08T00:31:39Z",
-   "kind": "sale",
-   "title": "1967 Chevrolet Corvette Convertible 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1967-chevrolet-corvette-convertible-355-2/"
-  },
-  {
-   "at": "2026-11-08T00:31:39Z",
-   "kind": "sale",
-   "title": "1983 DeLorean DMC-12 5-Speed Project",
-   "ref": "https://bringatrailer.com/listing/1983-delorean-dmc-12-52/"
-  },
-  {
-   "at": "2026-11-08T00:31:39Z",
-   "kind": "sale",
-   "title": "45k-Mile 2010 Cadillac Escalade Premium",
-   "ref": "https://bringatrailer.com/listing/2010-cadillac-escalade-12/"
-  },
-  {
-   "at": "2026-11-08T00:31:39Z",
-   "kind": "sale",
-   "title": "1969 Pontiac GTO Hardtop",
-   "ref": "https://bringatrailer.com/listing/1969-pontiac-gto-137/"
-  },
-  {
-   "at": "2026-11-08T00:31:39Z",
-   "kind": "sale",
-   "title": "1989 Porsche 911 Carrera 4 Coupe 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1989-porsche-911-carrera-4-coupe-58/"
-  },
-  {
-   "at": "2026-11-08T00:31:39Z",
-   "kind": "sale",
-   "title": "Original-Owner 17k-Mile 2000 Honda S2000",
-   "ref": "https://bringatrailer.com/listing/2000-honda-s2000-290/"
-  },
-  {
-   "at": "2026-11-08T00:31:39Z",
-   "kind": "sale",
-   "title": "2011 Porsche Cayenne Turbo",
-   "ref": "https://bringatrailer.com/listing/2011-porsche-cayenne-turbo-60/"
-  },
-  {
-   "at": "2026-11-08T00:31:39Z",
-   "kind": "sale",
-   "title": "35k-Mile 2002 Chevrolet Corvette Z06",
-   "ref": "https://bringatrailer.com/listing/2002-chevrolet-corvette-z06-189/"
-  },
-  {
-   "at": "2026-11-08T00:31:39Z",
-   "kind": "sale",
-   "title": "1,776cc-Powered 1965 Volkswagen Beetle",
-   "ref": "https://bringatrailer.com/listing/1965-volkswagen-beetle-156/"
   }
  ]
 }
