@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-13T01:49:16Z",
+ "generated_at": "2026-11-13T10:53:18Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-13T01:49:16Z",
+ "last_data_change_at": "2026-11-13T10:53:18Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
-   "items": 133,
-   "checked_at": "2026-11-13T01:49:14Z",
-   "last_ok_at": "2026-11-13T01:49:14Z",
+   "items": 147,
+   "checked_at": "2026-11-13T10:53:15Z",
+   "last_ok_at": "2026-11-13T10:53:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-13T01:49:16Z",
-   "last_ok_at": "2026-11-13T01:49:16Z",
+   "checked_at": "2026-11-13T10:53:18Z",
+   "last_ok_at": "2026-11-13T10:53:18Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-13T01:49:14Z",
-   "last_ok_at": "2026-11-13T01:49:14Z",
+   "checked_at": "2026-11-13T10:53:15Z",
+   "last_ok_at": "2026-11-13T10:53:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-13T01:49:14Z",
-   "last_ok_at": "2026-11-13T01:49:14Z",
+   "checked_at": "2026-11-13T10:53:16Z",
+   "last_ok_at": "2026-11-13T10:53:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,133 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-13T01:49:14Z",
-   "last_ok_at": "2026-11-13T01:49:14Z",
+   "checked_at": "2026-11-13T10:53:15Z",
+   "last_ok_at": "2026-11-13T10:53:15Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Neurobrix/CogVideoX-2b-nbx",
+   "ref": "https://huggingface.co/Neurobrix/CogVideoX-2b-nbx"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Neurobrix/Allegro-nbx",
+   "ref": "https://huggingface.co/Neurobrix/Allegro-nbx"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Neurobrix/Open-Sora-v2-nbx",
+   "ref": "https://huggingface.co/Neurobrix/Open-Sora-v2-nbx"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Neurobrix/mochi-1-preview-nbx",
+   "ref": "https://huggingface.co/Neurobrix/mochi-1-preview-nbx"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Neurobrix/Wan2.1-T2V-1.3B-Diffusers-nbx",
+   "ref": "https://huggingface.co/Neurobrix/Wan2.1-T2V-1.3B-Diffusers-nbx"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Neurobrix/SANA-Video_2B_720p_diffusers-nbx",
+   "ref": "https://huggingface.co/Neurobrix/SANA-Video_2B_720p_diffusers-nbx"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+   "ref": "http://arxiv.org/abs/2611.17336v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: K2V: Generative Keyframing For Physically Plausible Video Generation",
+   "ref": "http://arxiv.org/abs/2611.17324v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Spatial Foundry: A Multimodal Dataset for Spatial Intelligence",
+   "ref": "http://arxiv.org/abs/2611.17318v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: TokenStream: Multi-Subject Personalized Video Generation with Token-wise LoRA and Guided Attention",
+   "ref": "http://arxiv.org/abs/2611.16897v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+   "ref": "http://arxiv.org/abs/2611.16748v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: VBot Exo2Ego Policy: Lightweight Data Collection and Exocentric-to-Egocentric Video Generation",
+   "ref": "http://arxiv.org/abs/2611.16417v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: BWM-Forge: Agentic World Programming for Embodied Intelligence",
+   "ref": "http://arxiv.org/abs/2611.16221v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+   "ref": "http://arxiv.org/abs/2611.16217v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: TRACE: Trajectory Synchronization for Training-Free Resolution Extension in Video Generation",
+   "ref": "http://arxiv.org/abs/2611.15983v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+   "ref": "http://arxiv.org/abs/2611.15789v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: CoCode-World: Shared 3D Proxy Representation for Multi-Player World Models",
+   "ref": "http://arxiv.org/abs/2611.15602v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: From Concepts to Interactions: Dynamic Graph Semantic Recomposition for Safe Visual Generation",
+   "ref": "http://arxiv.org/abs/2611.15149v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: From Seeing to Remembering: Brain-Informed Agentic Text-to-Video Generation for Enhancing Memorability",
+   "ref": "http://arxiv.org/abs/2611.15107v1"
+  },
+  {
+   "at": "2026-11-13T10:53:18Z",
+   "kind": "paper",
+   "title": "New arXiv paper: BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+   "ref": "http://arxiv.org/abs/2611.14815v1"
+  },
   {
    "at": "2026-11-13T01:49:16Z",
    "kind": "price-signal",
@@ -303,90 +423,6 @@
    "kind": "release",
    "title": "comfyui release: v0.45.3",
    "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.3"
-  },
-  {
-   "at": "2026-11-12T19:53:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: romainkh14/brimkern-ltx-BRIK",
-   "ref": "https://huggingface.co/romainkh14/brimkern-ltx-BRIK"
-  },
-  {
-   "at": "2026-11-12T19:53:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: GuanjieChen/Skip-DiT",
-   "ref": "https://huggingface.co/GuanjieChen/Skip-DiT"
-  },
-  {
-   "at": "2026-11-12T19:53:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
-   "ref": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound"
-  },
-  {
-   "at": "2026-11-12T19:53:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: manateelazycat/MiniMax-H3-Duo-AIPod",
-   "ref": "https://huggingface.co/manateelazycat/MiniMax-H3-Duo-AIPod"
-  },
-  {
-   "at": "2026-11-12T19:53:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-q8",
-   "ref": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-q8"
-  },
-  {
-   "at": "2026-11-12T19:53:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-hq",
-   "ref": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-hq"
-  },
-  {
-   "at": "2026-11-12T19:53:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-q4",
-   "ref": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-q4"
-  },
-  {
-   "at": "2026-11-12T19:53:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.3-mlx-q4-1.1",
-   "ref": "https://huggingface.co/Mrbizarro/ltx-2.3-mlx-q4-1.1"
-  },
-  {
-   "at": "2026-11-12T19:53:18Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Denovarix/Deno",
-   "ref": "https://huggingface.co/Denovarix/Deno"
-  },
-  {
-   "at": "2026-11-12T10:57:23Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: moonbox-ai/hyperflow-h3-flash-GGUF",
-   "ref": "https://huggingface.co/moonbox-ai/hyperflow-h3-flash-GGUF"
-  },
-  {
-   "at": "2026-11-12T10:57:23Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
-   "ref": "https://huggingface.co/moonbox-ai/hyperflow-h3-flash-ref2va-GGUF"
-  },
-  {
-   "at": "2026-11-12T10:57:23Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: moonbox-ai/hyperflow-h3-flash-MLX",
-   "ref": "https://huggingface.co/moonbox-ai/hyperflow-h3-flash-MLX"
-  },
-  {
-   "at": "2026-11-12T10:57:23Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: neonforestmist/Minimax_H3_Monet_Style_LoRA",
-   "ref": "https://huggingface.co/neonforestmist/Minimax_H3_Monet_Style_LoRA"
-  },
-  {
-   "at": "2026-11-12T10:57:23Z",
-   "kind": "release",
-   "title": "diffusers release: Diffusers 0.43.0: MiniMax-H3-Image, Pika H3 Flex, P-H3-Image, Kandinsky S2V, and PAN 2",
-   "ref": "https://github.com/huggingface/diffusers/releases/tag/v0.43.0"
   }
  ]
 }
