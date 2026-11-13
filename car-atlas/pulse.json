@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-13T10:55:49Z",
+ "generated_at": "2026-11-13T19:39:53Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-13T01:52:36Z",
+ "last_data_change_at": "2026-11-13T19:39:53Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-13T10:55:46Z",
-   "last_ok_at": "2026-11-13T10:55:46Z",
+   "items": 65,
+   "checked_at": "2026-11-13T19:39:52Z",
+   "last_ok_at": "2026-11-13T19:39:52Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,14 +23,68 @@
    "label": "NHTSA vPIC make names",
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
-   "items": 12426,
-   "checked_at": "2026-11-13T10:55:49Z",
-   "last_ok_at": "2026-11-13T10:55:49Z",
+   "items": 12427,
+   "checked_at": "2026-11-13T19:39:53Z",
+   "last_ok_at": "2026-11-13T19:39:53Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-13T19:39:53Z",
+   "kind": "sale",
+   "title": "1987 Porsche 911 Carrera Targa G50",
+   "ref": "https://bringatrailer.com/listing/1987-porsche-911-carrera-targa-146/"
+  },
+  {
+   "at": "2026-11-13T19:39:53Z",
+   "kind": "sale",
+   "title": "1976 Toyota Corolla Deluxe Liftback",
+   "ref": "https://bringatrailer.com/listing/1976-toyota-corolla-6/"
+  },
+  {
+   "at": "2026-11-13T19:39:53Z",
+   "kind": "sale",
+   "title": "16k-Mile 1988 Chevrolet Corvette Callaway Twin Turbo Convertible 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1988-chevrolet-corvette-callaway-twin-turbo-9/"
+  },
+  {
+   "at": "2026-11-13T19:39:53Z",
+   "kind": "sale",
+   "title": "Lingenfelter-Modified 2019 Chevrolet Corvette Z06 Coupe 2LZ",
+   "ref": "https://bringatrailer.com/listing/2019-chevrolet-corvette-z06-coupe-63/"
+  },
+  {
+   "at": "2026-11-13T19:39:53Z",
+   "kind": "sale",
+   "title": "2006 BMW M3 Competition Package Coupe 6-Speed Conversion",
+   "ref": "https://bringatrailer.com/listing/2006-bmw-m3-coupe-208/"
+  },
+  {
+   "at": "2026-11-13T19:39:53Z",
+   "kind": "sale",
+   "title": "30-Years-Family-Owned 1994 Dodge Viper RT/10",
+   "ref": "https://bringatrailer.com/listing/1994-dodge-viper-rt-10-116/"
+  },
+  {
+   "at": "2026-11-13T19:39:53Z",
+   "kind": "sale",
+   "title": "502-Powered 1957 Chevrolet Bel Air 2-Door Hardtop",
+   "ref": "https://bringatrailer.com/listing/1957-chevrolet-bel-air-388/"
+  },
+  {
+   "at": "2026-11-13T19:39:53Z",
+   "kind": "sale",
+   "title": "23-Years-Owned 1962 Chevrolet Corvette 327/250 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1962-chevrolet-corvette-420/"
+  },
+  {
+   "at": "2026-11-13T19:39:53Z",
+   "kind": "sale",
+   "title": "1994 Jeep Wrangler Sahara 4.0 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1994-jeep-wrangler-83/"
+  },
   {
    "at": "2026-11-13T01:52:36Z",
    "kind": "sale",
@@ -336,60 +390,6 @@
    "kind": "sale",
    "title": "2017 Porsche 911 Turbo Cabriolet",
    "ref": "https://bringatrailer.com/listing/2017-porsche-911-turbo-cabriolet-7/"
-  },
-  {
-   "at": "2026-11-10T01:34:23Z",
-   "kind": "sale",
-   "title": "48k-Mile 2012 Porsche Cayenne",
-   "ref": "https://bringatrailer.com/listing/2012-porsche-cayenne-33/"
-  },
-  {
-   "at": "2026-11-10T01:34:23Z",
-   "kind": "sale",
-   "title": "Original-Owner 2004 Toyota Land Cruiser UZJ100",
-   "ref": "https://bringatrailer.com/listing/2004-toyota-land-cruiser-102/"
-  },
-  {
-   "at": "2026-11-10T01:34:23Z",
-   "kind": "sale",
-   "title": "1,915-Powered 1968 Volkswagen Beetle Convertible",
-   "ref": "https://bringatrailer.com/listing/1968-volkswagen-beetle-117/"
-  },
-  {
-   "at": "2026-11-10T01:34:23Z",
-   "kind": "sale",
-   "title": "2013 BMW M3 Coupe Competition Package",
-   "ref": "https://bringatrailer.com/listing/2013-bmw-m3-coupe-185/"
-  },
-  {
-   "at": "2026-11-10T01:34:23Z",
-   "kind": "sale",
-   "title": "29k-Mile 1996 Ford Mustang SVT Cobra Mystic Coupe 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1996-ford-mustang-svt-cobra-coupe-57/"
-  },
-  {
-   "at": "2026-11-10T01:34:23Z",
-   "kind": "sale",
-   "title": "313-Mile 2022 Ford Mustang Shelby GT500 Heritage Edition Carbon Fiber Track Pack",
-   "ref": "https://bringatrailer.com/listing/2022-ford-mustang-shelby-gt500-heritage-edition-93/"
-  },
-  {
-   "at": "2026-11-08T22:04:06Z",
-   "kind": "sale",
-   "title": "40-Years-Owned 1964.5 Ford Mustang Coupe 260",
-   "ref": "https://bringatrailer.com/listing/1964-ford-mustang-98/"
-  },
-  {
-   "at": "2026-11-08T22:04:06Z",
-   "kind": "sale",
-   "title": "One-Owner 2014 Cadillac Escalade Platinum AWD",
-   "ref": "https://bringatrailer.com/listing/2014-cadillac-escalade-8/"
-  },
-  {
-   "at": "2026-11-08T22:04:06Z",
-   "kind": "sale",
-   "title": "Turbocharged 2006 Porsche 911 Carrera S Cabriolet 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2006-porsche-911-carrera-s-cabriolet-47-2/"
   }
  ]
 }

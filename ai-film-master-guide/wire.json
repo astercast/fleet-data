@@ -1,7 +1,17 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-13T10:53:18Z",
+ "generated_at": "2026-11-13T19:36:46Z",
  "items": [
+  {
+   "id": "hf-rahmanbazarov/LTX-Video-int8-ov",
+   "at": "2026-11-13T17:23:50Z",
+   "model": "rahmanbazarov/LTX-Video-int8-ov",
+   "title": "New text-to-video model listed on Hugging Face: rahmanbazarov/LTX-Video-int8-ov",
+   "url": "https://huggingface.co/rahmanbazarov/LTX-Video-int8-ov",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-Neurobrix/CogVideoX-2b-nbx",
    "at": "2026-11-13T09:45:49Z",
@@ -1488,16 +1498,6 @@
    "model": "Midjourney V1 Video",
    "title": "Midjourney V1 Video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://www.krea.ai/blog/is-midjourney-free-pricing-video-and-free-alternatives-in-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Grok Imagine Video 1.5-2026-11-11",
-   "at": "2026-11-11T01:14:20+00:00",
-   "model": "Grok Imagine Video 1.5",
-   "title": "Grok Imagine Video 1.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://venice.ai/models/grok-imagine-1-5-lite",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
