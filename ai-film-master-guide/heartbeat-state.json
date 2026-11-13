@@ -198,6 +198,9 @@
   "moonbox-ai/hyperflow-h3-flash-GGUF",
   "moonbox-ai/hyperflow-h3-flash-MLX",
   "moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
+  "moonbox-dev/hyperflow-h3-flash-GGUF",
+  "moonbox-dev/hyperflow-h3-flash-MLX",
+  "moonbox-dev/hyperflow-h3-flash-ref2va-GGUF",
   "my-app-s/Wan2.2-TI2V-5B-GGUF",
   "neonforestmist/LTX_Storybook_Anime_Style_LoRa",
   "neonforestmist/Minimax_H3_Monet_Style_LoRA",
@@ -430,6 +433,7 @@
   "tag:github.com,2008:Repository/589831718/v0.44.2",
   "tag:github.com,2008:Repository/589831718/v0.45.0",
   "tag:github.com,2008:Repository/589831718/v0.45.1",
-  "tag:github.com,2008:Repository/589831718/v0.45.2"
+  "tag:github.com,2008:Repository/589831718/v0.45.2",
+  "tag:github.com,2008:Repository/589831718/v0.45.3"
  ]
 }

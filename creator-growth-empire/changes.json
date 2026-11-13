@@ -1,6 +1,63 @@
 {
  "changes": [
   {
+   "id": "yt-top-5-branded-videos-of-the-week-golf-is-happeni-27d881",
+   "platform": "youtube",
+   "title": "Top 5 Branded Videos of the Week: Golf is happening",
+   "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for t he ranking. And–as the name up […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-11-13T01:49:16Z",
+   "announced_at": "2026-11-12T23:30:09Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/12/top-5-branded-videos-zack-d-films-barstool-sports-bob-internet-invitational/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/12/top-5-branded-videos-zack-d-films-barstool-sports-bob-internet-invitational/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-which-social-platforms-do-americans-use-to-commu-2be1dd",
+   "platform": "youtube",
+   "title": "Which social platforms do Americans use to communicate? Depends who you ask.",
+   "summary": "The Pew Research Center has delivered its annual report on U.S. social media usage, and as per usual, there are some revealing trends lurking within the demographic data. YouTube is still the most ubiquitous social platform among Americans, but beyond the top spot, the rankings differ depending on factors like age, gender, household income, and political orientation. In last year's Pew report, the top-ranked finishers were the platforms that best reached older Americans, and in 2026, that trend ",
+   "detected_at": "2026-11-13T01:49:16Z",
+   "announced_at": "2026-11-12T23:18:51Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/12/pew-research-center-us-social-media-usage-2026/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/12/pew-research-center-us-social-media-usage-2026/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-mark-vins-reef-to-ridge-premiered-at-tiff-now-po-6e4763",
+   "platform": "youtube",
+   "title": "Mark Vins’ ‘Reef to Ridge’ premiered at TIFF. Now pocket.watch is on board as its distributor.",
+   "summary": "After building brands alongside some of YouTube's biggest kid-friendly stars, pocket.watch is increasing its presence in the world of film distribution. The creator media company has come on board as the exclusive worldwide distributor and sales agent for Reef to Ridge, a nature documentary directed by Brave Wilderness Co-Founder and CEO Mark Vins. Reef to Ridge takes viewers to the Galapagos Islands, where Vins and his crew explore unique habitats, encounter endangered species, and discuss the ",
+   "detected_at": "2026-11-13T01:49:16Z",
+   "announced_at": "2026-11-12T22:32:48Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/12/reef-to-ridge-mark-vins-brave-wilderness-pocket-watch/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/12/reef-to-ridge-mark-vins-brave-wilderness-pocket-watch/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "fb-meta-publishes-explainer-on-your-algorithm-contr-f78f89",
    "platform": "facebook",
    "title": "Meta publishes explainer on Your Algorithm controls",
@@ -1692,8 +1749,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-12T10:57:23Z",
+ "generated_at": "2026-11-13T01:49:16Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "version": "1.7.0"
 }

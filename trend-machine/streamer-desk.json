@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T08:37:36.815Z",
+ "generated_at": "2026-11-13T01:52:32.972Z",
  "curated_at": "2026-10-13",
  "method": "Hand-curated for the Streamer Desk (wave 29 / rotation 12) from ordinary web search on 2026-10-13. Directory facts carry at least one credible source each; drama-timeline entries carry two or more independent sources per event or are not printed as verified. Rosters are dated claims ('as of'), never eternal facts. No viewership or follower numbers are printed unless a source states them for a dated event. Wave 34 (rotation 13) follow-through: three items carried by the research streamer beat (multi-source-verified in its rounds through 2026-10-13) were added, the Jynxzi tournament and Kyedae return events and the Esports Awards 2026 nominees update; the beat's held single-source items (TwitchCon safety withdrawals, ComplexCon suspensions, a FaZe/100 Thieves event item) were NOT promoted.",
  "sourcing_standard": {
@@ -21,7 +21,7 @@
   "unverified": 2,
   "drama_source_domains": 8,
   "events": 9,
-  "events_upcoming": 2,
+  "events_upcoming": 1,
   "events_past": 7,
   "feeds_skip_by_design": 3
  },
@@ -1178,7 +1178,7 @@
     }
    ],
    "start": "2026-11-13",
-   "status": "upcoming"
+   "status": "happening-now"
   },
   {
    "end": "2027-01-09",
