@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-12T13:14:57Z",
+ "generated_at": "2026-11-13T12:36:42Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-12T13:13:58Z",
+ "last_data_change_at": "2026-11-13T12:35:49Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 67,
-   "checked_at": "2026-11-12T13:14:57Z",
-   "last_ok_at": "2026-11-12T13:14:57Z",
+   "items": 69,
+   "checked_at": "2026-11-13T12:36:42Z",
+   "last_ok_at": "2026-11-13T12:36:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-12T13:14:01Z",
-   "last_ok_at": "2026-11-12T13:14:01Z",
+   "checked_at": "2026-11-13T12:35:51Z",
+   "last_ok_at": "2026-11-13T12:35:51Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-12T13:13:59Z",
-   "last_ok_at": "2026-11-12T13:13:59Z",
+   "checked_at": "2026-11-13T12:35:49Z",
+   "last_ok_at": "2026-11-13T12:35:49Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-12T13:14:01Z",
-   "last_ok_at": "2026-11-12T13:14:01Z",
+   "checked_at": "2026-11-13T12:35:50Z",
+   "last_ok_at": "2026-11-13T12:35:50Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-12T13:14:00Z",
-   "last_ok_at": "2026-11-12T13:14:00Z",
+   "checked_at": "2026-11-13T12:35:49Z",
+   "last_ok_at": "2026-11-13T12:35:49Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-12T13:13:59Z",
-   "last_ok_at": "2026-11-12T13:13:59Z",
+   "checked_at": "2026-11-13T12:35:49Z",
+   "last_ok_at": "2026-11-13T12:35:49Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,103 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-12T13:13:58Z",
-   "last_ok_at": "2026-11-12T13:13:58Z",
+   "checked_at": "2026-11-13T12:35:48Z",
+   "last_ok_at": "2026-11-13T12:35:48Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-13T12:35:49Z",
+   "kind": "post",
+   "title": "Fibonacci Day Activities for Kids (Free Printables)",
+   "ref": "https://littlebinsforlittlehands.com/fibonacci-sequence-for-kids/"
+  },
+  {
+   "at": "2026-11-13T12:35:49Z",
+   "kind": "post",
+   "title": "Fibonacci Sequence Worksheets for Kids (Free Printable)",
+   "ref": "https://littlebinsforlittlehands.com/fibonacci-sequence-worksheets/"
+  },
+  {
+   "at": "2026-11-13T12:35:49Z",
+   "kind": "post",
+   "title": "Matisse Christmas Tree Art (Free Printable)",
+   "ref": "https://littlebinsforlittlehands.com/henri-matisse-collage/"
+  },
+  {
+   "at": "2026-11-13T12:35:49Z",
+   "kind": "post",
+   "title": "Dancing Cranberry Experiment",
+   "ref": "https://littlebinsforlittlehands.com/dancing-cranberry-experiment/"
+  },
+  {
+   "at": "2026-11-13T12:35:49Z",
+   "kind": "post",
+   "title": "Printable Gratitude Ornaments for Kids",
+   "ref": "https://littlebinsforlittlehands.com/printable-gratitude-ornaments-kids/"
+  },
+  {
+   "at": "2026-11-13T12:35:49Z",
+   "kind": "post",
+   "title": "15 Christmas Tree Crafts",
+   "ref": "https://littlebinsforlittlehands.com/christmas-tree-crafts/"
+  },
+  {
+   "at": "2026-11-13T12:35:49Z",
+   "kind": "post",
+   "title": "Christmas Tree Outlines for Crafts",
+   "ref": "https://littlebinsforlittlehands.com/christmas-tree-outline/"
+  },
+  {
+   "at": "2026-11-13T12:35:50Z",
+   "kind": "post",
+   "title": "Best Thanksgiving Doodles Coloring Pages (Free Printable!)",
+   "ref": "https://kidsactivitiesblog.com/157196/thanksgiving-doodles/"
+  },
+  {
+   "at": "2026-11-13T12:35:50Z",
+   "kind": "post",
+   "title": "Easy-to-Make Stained Glass Christmas Cookies Recipe",
+   "ref": "https://kidsactivitiesblog.com/61419/cookies-christmas/"
+  },
+  {
+   "at": "2026-11-13T12:35:50Z",
+   "kind": "post",
+   "title": "Truffula Tree Paper Plate Craft",
+   "ref": "https://kidsactivitiesblog.com/81480/truffula-tree-paper-plate-craft/"
+  },
+  {
+   "at": "2026-11-13T12:35:50Z",
+   "kind": "post",
+   "title": "15+ Gratitude Activities for Kids",
+   "ref": "https://kidsactivitiesblog.com/48222/gratitude/"
+  },
+  {
+   "at": "2026-11-13T12:35:50Z",
+   "kind": "post",
+   "title": "Winter Silhouette Art Project for Kids",
+   "ref": "https://kidsactivitiesblog.com/287688/winter-silhouette-art/"
+  },
+  {
+   "at": "2026-11-13T12:35:50Z",
+   "kind": "post",
+   "title": "Super Easy Thanksgiving Coloring Sheets Even Toddlers Can Color",
+   "ref": "https://kidsactivitiesblog.com/20538/thanksgiving-coloring-page/"
+  },
+  {
+   "at": "2026-11-13T12:35:50Z",
+   "kind": "post",
+   "title": "25+ Fun Thanksgiving Crafts & Activities for 3 Year Olds",
+   "ref": "https://kidsactivitiesblog.com/48178/thanksgiving-activities-3-year-olds/"
+  },
+  {
+   "at": "2026-11-13T12:36:41Z",
+   "kind": "photo-candidate",
+   "title": "One-Room Documentary Crew",
+   "ref": "https://commons.wikimedia.org/wiki/File:The_Bulwark_and_other_ships_at_Queen%27s_Wharf_in_Port_Adelaide,_1878(GN01804).jpg"
+  },
   {
    "at": "2026-11-12T13:13:58Z",
    "kind": "post",
@@ -349,102 +439,6 @@
    "kind": "post",
    "title": "40 Thanksgiving Crafts for Kids to Really Show Their Thanks",
    "ref": "https://handsonaswegrow.com/thanksgiving-crafts-kids/"
-  },
-  {
-   "at": "2026-11-04T12:30:20Z",
-   "kind": "post",
-   "title": "Apple Taste Test Activity with Printable Worksheets",
-   "ref": "https://teachbesideme.com/apple-taste-test-printable/"
-  },
-  {
-   "at": "2026-11-04T12:30:22Z",
-   "kind": "post",
-   "title": "Funny Thanksgiving Jokes Your Kids Will Gobble Up",
-   "ref": "https://kidsactivitiesblog.com/183426/thanksgiving-jokes-kids/"
-  },
-  {
-   "at": "2026-11-04T12:31:28Z",
-   "kind": "photo-candidate",
-   "title": "Big New Friend Room Tour",
-   "ref": "https://commons.wikimedia.org/wiki/File:Letter_signed_Sara,_Intervale,_N.H.,_to_(Ernst_Filsinger),_New_York_City,_July_23,_1926_-_DPLA_-_afb76b820e4a31e470d599fed60abe20_(page_1).jpg"
-  },
-  {
-   "at": "2026-11-03T12:19:54Z",
-   "kind": "post",
-   "title": "New Year Goals Tracker (Free Printable)",
-   "ref": "https://www.weareteachers.com/new-year-goals-template/?utm_source=rss&utm_medium=rss&utm_campaign=new-year-goals-template"
-  },
-  {
-   "at": "2026-11-03T12:19:56Z",
-   "kind": "post",
-   "title": "Guess How Many in the Jar Estimation + Free Printables",
-   "ref": "https://teachbesideme.com/guess-how-many-in-the-jar-estimation-free-printables/"
-  },
-  {
-   "at": "2026-11-03T12:19:56Z",
-   "kind": "post",
-   "title": "25 Fun Science Experiments for Kids at Home",
-   "ref": "https://kidsactivitiesblog.com/50127/fun-science-activities/"
-  },
-  {
-   "at": "2026-11-03T12:19:56Z",
-   "kind": "post",
-   "title": "STEM Activity: Let’s Build A Book Bridge!",
-   "ref": "https://kidsactivitiesblog.com/293627/stem-activity-lets-build-a-book-bridge/"
-  },
-  {
-   "at": "2026-11-03T12:19:56Z",
-   "kind": "post",
-   "title": "Drawing Cartoon Faces Art Project for Kids",
-   "ref": "https://kidsactivitiesblog.com/287315/cartoon-faces-art/"
-  },
-  {
-   "at": "2026-11-03T12:19:56Z",
-   "kind": "post",
-   "title": "I Spy Worksheets For Pizza Lovers",
-   "ref": "https://kidsactivitiesblog.com/285628/i-spy-worksheets/"
-  },
-  {
-   "at": "2026-11-03T12:19:56Z",
-   "kind": "post",
-   "title": "60+ Free Thanksgiving Printables – Holiday Decor, Kids Activities, Games & More",
-   "ref": "https://kidsactivitiesblog.com/48583/thanksgiving-printables/"
-  },
-  {
-   "at": "2026-11-03T12:19:56Z",
-   "kind": "post",
-   "title": "20+ Easy Crafts Kids Can Make With Only 2-3 Supplies",
-   "ref": "https://kidsactivitiesblog.com/76681/20-simple-crafts-kids-can-make-with-only-2-3-supplies/"
-  },
-  {
-   "at": "2026-11-03T12:19:56Z",
-   "kind": "post",
-   "title": "How To Draw A Turkey Easy Printable Lesson For Kids",
-   "ref": "https://kidsactivitiesblog.com/167060/how-to-draw-a-turkey/"
-  },
-  {
-   "at": "2026-11-03T12:19:56Z",
-   "kind": "post",
-   "title": "30+ November Holidays (+Free Printable Calendar)",
-   "ref": "https://kidsactivitiesblog.com/287859/november-special-holidays/"
-  },
-  {
-   "at": "2026-11-02T12:51:04Z",
-   "kind": "post",
-   "title": "Cranberry Science Experiments and Activities for Kids",
-   "ref": "https://littlebinsforlittlehands.com/cranberry-science-sensory-play/"
-  },
-  {
-   "at": "2026-11-02T12:51:04Z",
-   "kind": "post",
-   "title": "Free Printable Thanksgiving Name Game",
-   "ref": "https://kidsactivitiesblog.com/310906/free-printable-thanksgiving-name-game/"
-  },
-  {
-   "at": "2026-11-02T12:52:08Z",
-   "kind": "photo-candidate",
-   "title": "Big Cloud Lying, Picture Names",
-   "ref": "https://commons.wikimedia.org/wiki/File:Big_Thomson_Mesa,_Capitol_Reef_National_Park,_Utah.jpg"
   }
  ]
 }

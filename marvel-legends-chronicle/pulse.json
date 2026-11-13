@@ -1,9 +1,9 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-12T13:13:56Z",
+ "generated_at": "2026-11-13T12:35:47Z",
  "stale_after_h": 26,
- "healthy": true,
- "sources_ok": 4,
+ "healthy": false,
+ "sources_ok": 3,
  "sources_total": 4,
  "last_data_change_at": "2026-11-12T13:13:56Z",
  "sources": [
@@ -12,9 +12,9 @@
    "label": "CMDStore catalog",
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
-   "items": 61,
-   "checked_at": "2026-11-12T13:13:52Z",
-   "last_ok_at": "2026-11-12T13:13:52Z",
+   "items": 59,
+   "checked_at": "2026-11-13T12:35:15Z",
+   "last_ok_at": "2026-11-13T12:35:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -22,12 +22,12 @@
    "id": "gnews",
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
-   "ok": true,
+   "ok": false,
    "items": 60,
-   "checked_at": "2026-11-12T13:13:56Z",
+   "checked_at": "2026-11-13T12:35:47Z",
    "last_ok_at": "2026-11-12T13:13:56Z",
-   "error": null,
-   "fails_in_a_row": 0
+   "error": "http 503",
+   "fails_in_a_row": 1
   },
   {
    "id": "preorders",
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-12T13:13:56Z",
-   "last_ok_at": "2026-11-12T13:13:56Z",
+   "checked_at": "2026-11-13T12:35:47Z",
+   "last_ok_at": "2026-11-13T12:35:47Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 57,
-   "checked_at": "2026-11-12T13:13:56Z",
-   "last_ok_at": "2026-11-12T13:13:56Z",
+   "checked_at": "2026-11-13T12:35:19Z",
+   "last_ok_at": "2026-11-13T12:35:19Z",
    "error": null,
    "fails_in_a_row": 0
   }
