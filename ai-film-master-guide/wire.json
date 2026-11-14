@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-14T01:27:18Z",
+ "generated_at": "2026-11-14T10:09:57Z",
  "items": [
+  {
+   "id": "hf-neurarank/NEUVY-FUSION-VIDEO-NFV1",
+   "at": "2026-11-14T09:13:45Z",
+   "model": "neurarank/NEUVY-FUSION-VIDEO-NFV1",
+   "title": "New text-to-video model listed on Hugging Face: neurarank/NEUVY-FUSION-VIDEO-NFV1",
+   "url": "https://huggingface.co/neurarank/NEUVY-FUSION-VIDEO-NFV1",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-7.3-Sovereign-Godmode",
+   "at": "2026-11-14T06:34:18Z",
+   "model": "the123manaic/Sega-Video-7.3-Sovereign-Godmode",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-7.3-Sovereign-Godmode",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-7.3-Sovereign-Godmode",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-14",
    "at": "2026-11-14T01:27:12+00:00",
@@ -1478,26 +1498,6 @@
    "model": "",
    "title": "New arXiv paper: TRACE: Trajectory Synchronization for Training-Free Resolution Extension in Video Generation",
    "url": "http://arxiv.org/abs/2611.15983v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-starrysproutkids/NAVA",
-   "at": "2026-11-11T19:45:33Z",
-   "model": "starrysproutkids/NAVA",
-   "title": "New text-to-video model listed on Hugging Face: starrysproutkids/NAVA",
-   "url": "https://huggingface.co/starrysproutkids/NAVA",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.15789v1",
-   "at": "2026-11-11T18:02:07Z",
-   "model": "",
-   "title": "New arXiv paper: VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
-   "url": "http://arxiv.org/abs/2611.15789v1",
    "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
