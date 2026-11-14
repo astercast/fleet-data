@@ -1,7 +1,17 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-14T10:09:57Z",
+ "generated_at": "2026-11-14T17:59:31Z",
  "items": [
+  {
+   "id": "hf-MeissonFlow/Mei",
+   "at": "2026-11-14T13:02:56Z",
+   "model": "MeissonFlow/Mei",
+   "title": "New text-to-video model listed on Hugging Face: MeissonFlow/Mei",
+   "url": "https://huggingface.co/MeissonFlow/Mei",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-neurarank/NEUVY-FUSION-VIDEO-NFV1",
    "at": "2026-11-14T09:13:45Z",
@@ -1489,16 +1499,6 @@
    "title": "New text-to-video model listed on Hugging Face: caikybaldo999/zyvideo-1.1",
    "url": "https://huggingface.co/caikybaldo999/zyvideo-1.1",
    "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.15983v1",
-   "at": "2026-11-11T20:34:36Z",
-   "model": "",
-   "title": "New arXiv paper: TRACE: Trajectory Synchronization for Training-Free Resolution Extension in Video Generation",
-   "url": "http://arxiv.org/abs/2611.15983v1",
-   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }
