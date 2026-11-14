@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-13T12:36:42Z",
+ "generated_at": "2026-11-14T11:44:52Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-13T12:35:49Z",
+ "last_data_change_at": "2026-11-14T11:43:58Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 69,
-   "checked_at": "2026-11-13T12:36:42Z",
-   "last_ok_at": "2026-11-13T12:36:42Z",
+   "items": 73,
+   "checked_at": "2026-11-14T11:44:52Z",
+   "last_ok_at": "2026-11-14T11:44:52Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-13T12:35:51Z",
-   "last_ok_at": "2026-11-13T12:35:51Z",
+   "checked_at": "2026-11-14T11:44:00Z",
+   "last_ok_at": "2026-11-14T11:44:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-13T12:35:49Z",
-   "last_ok_at": "2026-11-13T12:35:49Z",
+   "checked_at": "2026-11-14T11:43:59Z",
+   "last_ok_at": "2026-11-14T11:43:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-13T12:35:50Z",
-   "last_ok_at": "2026-11-13T12:35:50Z",
+   "checked_at": "2026-11-14T11:44:00Z",
+   "last_ok_at": "2026-11-14T11:44:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-13T12:35:49Z",
-   "last_ok_at": "2026-11-13T12:35:49Z",
+   "checked_at": "2026-11-14T11:43:59Z",
+   "last_ok_at": "2026-11-14T11:43:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-13T12:35:49Z",
-   "last_ok_at": "2026-11-13T12:35:49Z",
+   "checked_at": "2026-11-14T11:43:59Z",
+   "last_ok_at": "2026-11-14T11:43:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,43 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-13T12:35:48Z",
-   "last_ok_at": "2026-11-13T12:35:48Z",
+   "checked_at": "2026-11-14T11:43:58Z",
+   "last_ok_at": "2026-11-14T11:43:58Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-14T11:43:58Z",
+   "kind": "post",
+   "title": "Operation Classroom Reset: Free Printable Student Cleanup Activity",
+   "ref": "https://www.weareteachers.com/classroom-clean-up-activity/?utm_source=rss&utm_medium=rss&utm_campaign=classroom-clean-up-activity"
+  },
+  {
+   "at": "2026-11-14T11:43:59Z",
+   "kind": "post",
+   "title": "Kandinsky Christmas Tree Cutout",
+   "ref": "https://littlebinsforlittlehands.com/christmas-tree-cutout/"
+  },
+  {
+   "at": "2026-11-14T11:43:59Z",
+   "kind": "post",
+   "title": "Milk and Vinegar Christmas Ornaments",
+   "ref": "https://littlebinsforlittlehands.com/milk-and-vinegar-christmas-ornaments/"
+  },
+  {
+   "at": "2026-11-14T11:44:49Z",
+   "kind": "photo-candidate",
+   "title": "Spectrum Line Introductions",
+   "ref": "https://commons.wikimedia.org/wiki/File:Captain_H.C._Gray_Balloon_Basket_-_DPLA_-_bab59faf69932dc71a2a98720256a9ed_(page_1).jpg"
+  },
+  {
+   "at": "2026-11-14T11:44:51Z",
+   "kind": "photo-candidate",
+   "title": "Growing Degree-Day Ledger",
+   "ref": "https://commons.wikimedia.org/wiki/File:St_Andrew%27s_church_-_C17_ledger_slab_-_geograph.org.uk_-_828771.jpg"
+  },
   {
    "at": "2026-11-13T12:35:49Z",
    "kind": "post",
@@ -403,42 +433,6 @@
    "kind": "post",
    "title": "Wrapping Paper Snowflakes",
    "ref": "https://handsonaswegrow.com/wrapping-paper-snowflakes/"
-  },
-  {
-   "at": "2026-11-06T12:26:28Z",
-   "kind": "post",
-   "title": "Stay Organized This Holiday Season with a Fall Recipe Binder Printable",
-   "ref": "https://kidsactivitiesblog.com/310930/stay-organized-this-holiday-season-with-a-fall-recipe-binder-printable/"
-  },
-  {
-   "at": "2026-11-05T12:43:44Z",
-   "kind": "post",
-   "title": "All About Michigan Worksheets (Free Printables)",
-   "ref": "https://www.weareteachers.com/all-about-michigan-worksheets/?utm_source=rss&utm_medium=rss&utm_campaign=all-about-michigan-worksheets"
-  },
-  {
-   "at": "2026-11-05T12:43:45Z",
-   "kind": "post",
-   "title": "Play Dough Turkey Color Match Quick and Easy Activity for Kids",
-   "ref": "https://handsonaswegrow.com/play-dough-turkey-color-match-activity/"
-  },
-  {
-   "at": "2026-11-05T12:43:45Z",
-   "kind": "post",
-   "title": "Free Printable Multiplication Charts (1–10 and 1–12)",
-   "ref": "https://teachbesideme.com/multiplication-chart-printable/"
-  },
-  {
-   "at": "2026-11-05T12:44:40Z",
-   "kind": "photo-candidate",
-   "title": "Big Choose Your Colour Corner",
-   "ref": "https://commons.wikimedia.org/wiki/File:Discrete_dynamic_in_case_of_complex_quadratic_polynomial.gif"
-  },
-  {
-   "at": "2026-11-04T12:30:19Z",
-   "kind": "post",
-   "title": "40 Thanksgiving Crafts for Kids to Really Show Their Thanks",
-   "ref": "https://handsonaswegrow.com/thanksgiving-crafts-kids/"
   }
  ]
 }

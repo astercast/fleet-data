@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-13T12:36:42Z",
+ "generated_at": "2026-11-14T11:44:52Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -761,6 +761,50 @@
    "activity_id": "one-room-documentary-crew",
    "activity_name": "One-Room Documentary Crew",
    "queued_at": "2026-11-13T12:36:41Z"
+  },
+  {
+   "commons_title": "File:Captain H.C. Gray Balloon Basket - DPLA - bab59faf69932dc71a2a98720256a9ed (page 1).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Captain_H.C._Gray_Balloon_Basket_-_DPLA_-_bab59faf69932dc71a2a98720256a9ed_(page_1).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Captain_H.C._Gray_Balloon_Basket_-_DPLA_-_bab59faf69932dc71a2a98720256a9ed_%28page_1%29.jpg/500px-Captain_H.C._Gray_Balloon_Basket_-_DPLA_-_bab59faf69932dc71a2a98720256a9ed_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "",
+   "licence": "CC0",
+   "status": "pending",
+   "activity_id": "spectrum-line-introductions",
+   "activity_name": "Spectrum Line Introductions",
+   "queued_at": "2026-11-14T11:44:49Z"
+  },
+  {
+   "commons_title": "File:PIA02144.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:PIA02144.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/PIA02144.jpg/500px-PIA02144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "NASA/JPL-Caltech/UMD",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "spectrum-line-introductions",
+   "activity_name": "Spectrum Line Introductions",
+   "queued_at": "2026-11-14T11:44:49Z"
+  },
+  {
+   "commons_title": "File:St Andrew's church - C17 ledger slab - geograph.org.uk - 828771.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:St_Andrew%27s_church_-_C17_ledger_slab_-_geograph.org.uk_-_828771.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/St_Andrew%27s_church_-_C17_ledger_slab_-_geograph.org.uk_-_828771.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/14840\">Evelyn Simak</a>",
+   "licence": "CC BY-SA 2.0",
+   "status": "pending",
+   "activity_id": "growing-degree-day-ledger",
+   "activity_name": "Growing Degree-Day Ledger",
+   "queued_at": "2026-11-14T11:44:51Z"
+  },
+  {
+   "commons_title": "File:St Andrew's church - memorial - geograph.org.uk - 828754.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:St_Andrew%27s_church_-_memorial_-_geograph.org.uk_-_828754.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/St_Andrew%27s_church_-_memorial_-_geograph.org.uk_-_828754.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/14840\">Evelyn Simak</a>",
+   "licence": "CC BY-SA 2.0",
+   "status": "pending",
+   "activity_id": "growing-degree-day-ledger",
+   "activity_name": "Growing Degree-Day Ledger",
+   "queued_at": "2026-11-14T11:44:51Z"
   }
  ]
 }

@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-13T12:35:47Z",
+ "generated_at": "2026-11-14T11:43:56Z",
  "stale_after_h": 26,
- "healthy": false,
- "sources_ok": 3,
+ "healthy": true,
+ "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-12T13:13:56Z",
+ "last_data_change_at": "2026-11-14T11:43:56Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 59,
-   "checked_at": "2026-11-13T12:35:15Z",
-   "last_ok_at": "2026-11-13T12:35:15Z",
+   "checked_at": "2026-11-14T11:43:55Z",
+   "last_ok_at": "2026-11-14T11:43:55Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -22,12 +22,12 @@
    "id": "gnews",
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
-   "ok": false,
-   "items": 60,
-   "checked_at": "2026-11-13T12:35:47Z",
-   "last_ok_at": "2026-11-12T13:13:56Z",
-   "error": "http 503",
-   "fails_in_a_row": 1
+   "ok": true,
+   "items": 59,
+   "checked_at": "2026-11-14T11:43:56Z",
+   "last_ok_at": "2026-11-14T11:43:56Z",
+   "error": null,
+   "fails_in_a_row": 0
   },
   {
    "id": "preorders",
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-13T12:35:47Z",
-   "last_ok_at": "2026-11-13T12:35:47Z",
+   "checked_at": "2026-11-14T11:43:56Z",
+   "last_ok_at": "2026-11-14T11:43:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,79 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 57,
-   "checked_at": "2026-11-13T12:35:19Z",
-   "last_ok_at": "2026-11-13T12:35:19Z",
+   "checked_at": "2026-11-14T11:43:56Z",
+   "last_ok_at": "2026-11-14T11:43:56Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "story",
+   "title": "Young Readers Line 'Marvel Legends' Kicks Off with T'Challa's Origins in 'Black Panther Legends' - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1hvNEllOTZVUXYxTFZyaHZBT0ZUMkd1Y1VrbjVpd2hyQ2Zvdld0OENOa1JhMHo5aWwwYnVaVUxYMnExejUweFNDMzdhYVp6RHh0cncwajZnR2hhbkRSU3FkRm16RmUyRnRRTEQ1eHcySW9VQ21Ndk8zX3E2cWxva1loVTBXS2pvTHE1WUtTTzVmQUdFSHN4MkpaV2tTSm1MR25NSFdKRlQxdFk?oc=5"
+  },
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "story",
+   "title": "Marvel Legends: Retro Spider-Man Figures and More Coming Soon - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTJLbm9RdkZGeHBTWWFxUWJCTTJ2Z0FRWE1KdFppSlctUmk5b1ExRnVjeExhd0RrbzlKTHBjNkUtal9maTVxWU5GMFBHMUJLNllFRngxVll5bUtMcXJNbDNrc3Q0dWhHa1RBb1dfbnBSdWlQVG5mdkZ1R0laNVItaDRxOWZSa3UtUUYtZVh4eHNNQ3ly?oc=5"
+  },
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "story",
+   "title": "Marvel Legends HasLab Announces the Engine of Vengeance - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnBTZHRLWkhOSWdYSWZVSEE0cXU0WlUwUFk3aDRUUVdqdE5NVDY1clRMNGR1elhJWjBxRkFGVmpEdnpUalZqQXBIWXlnVV92X1NaTkNqLVQyTjVyWFZjQm50Y1dDd195UkxaaW5wOTNOcm4xNWtMRnpNMUgzTTJpNVhvMFloc1RicnZvMGRlWkp0Q2lC?oc=5"
+  },
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "story",
+   "title": "'The Marvels': Hasbro Reveals New Marvel Legends Series - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVFBuQWphWE5pQXJ0SVNZZlF5ZXpLTWtWUzZoSDEyR1p3Y1dUVXpUZjFPOXJpYWFyMkRCLXlia19lOVlHTE43SWFMMWEzSnV0X1ZXcF9BS3ZzVndYN3B4clJxQXd3Z0FPQWExRl92T2p5N0FJOWtMTUs1S2JYRFYwbzBPZzJWTF9Vc3RZZUJhWF9WZXgxMGlDcVdzNjNDNktFbTdF?oc=5"
+  },
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "story",
+   "title": "Hasbro Reveals Marvel Legends Figures for Weapon X, Guardian, and More at Fan Expo Canada - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzhXT0dqamtaUFVQOUdQR1Y0azA0d2JQOS1kWW05Y1Rod1gwT19FZGJwMFFHeGNQVEptQmIzamtvd0xSY0tIS3MyUEFBbnlfakNJcWRiMFBRSEFpd1paeUNKQTdpd1poeEVud2J0ODJmVXU5a3pqUDZLVVZQa0pkLURlZ3ZxaFh0QldDTW04TnRRRmhkNzZMMGxadFRodzZfS2w4?oc=5"
+  },
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "story",
+   "title": "Hasbro Pulse Fan Fest: New Marvel Legends Include Thor, the Eye of Agamotto, and Retro Figures - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdGtNdzBlekVYdzR5UW5aSVVKenUwdE5NZ0FzSEk4RHNHUXZIc05WZmlxdUdsX19xU3hSSHVneklmUVR2d2Y1R2hoRDRhcHk4ZTRhU0k3Sm0xS1VUbFJPZnAwUm1kVF9PWC1wQlo0N3FsSGQ2YUVhMDQ4S0xta0tvdmZlQlh0NFFpMU5uUUd3?oc=5"
+  },
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "story",
+   "title": "Hasbro PulseCon Reveals New Marvel Legends and Retro Figures - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tZXhFc0hMTDhKcFpyWF9JQ3J6R2g5V2xxRjNCM2pYVml0ZXE5dFJBZ2hHb0VyVjhEY1ZmUW9vbnduaVN6enlfckd0bTlUNkxrblpNa1FwVEJ1VS1LczF3d1BfbjdUdl9jSG1DMWJEVzVlcExSMjJrMDQxVDg2Vnc?oc=5"
+  },
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "story",
+   "title": "'Guardians of the Galaxy Vol. 3': Blast off with new Marvel Legends - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnFDTnpkWDVXQkstZlU4dGQ3bEE2a1lGSzZFc2Eycmh3ckFpVkw0LTBnUkFaekZtd1VXdU9ld05IaWdGclFjd1EyYmtDVXFnT1JlVzZoX3JvV25pXzY2ODZ4NDdFUjROUGVaejRpZWFscXE5RWw1cXdNak54bWpjS2cwRGZXUXND?oc=5"
+  },
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "story",
+   "title": "Hasbro Reveals 'Captain Marvel' Marvel Legends Figures - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1FJbXNHZWVuQlpOYWprcUh0S2ZzQ0dQdGlkRDhKZThBZ3FQeWplb3BRTk1Gam5nWHFJVmRtZnJtZ1IteTRmWFdDSEdlNWIxaXVNOXdhLVJCYkZ6Y09ra0luZlZnMHMxUXRFRk5kdlZqd21RZEg3eW9ERllGaGFUZ2JlUjdKNFVJSURxV2ZIQ3hTblU?oc=5"
+  },
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "story",
+   "title": "Marvel Legends: First Look at Six Arm Spider-Man and Puma Figures - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGJvOFBfc09ISzRYcXVwWkludmZPMG9CeElEeHM5R3piVGd3eGtnM2k4bmdmenZ1QnF2ZlhEZkw3eFAzT2k0bkFFZmRvQm5hOG12cGYwc1VaZnRpclc2UVpiUTdNWU9Kb1dELUZYVWVOWXVUSkozNE84Qjk1ZWxXbjZ2YVNrZmR2VXc4ZF9WQlhVRG9DWGZmQUtvdlp2ZGFuamxj?oc=5"
+  },
+  {
+   "at": "2026-11-14T11:43:56Z",
+   "kind": "preorder",
+   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
+   "ref": "radar.html"
+  },
   {
    "at": "2026-11-12T13:13:56Z",
    "kind": "catalog",
@@ -346,72 +412,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends Gamerverse 6 Inch Action Figure 2-Pack Exclusive - Psylocke vs Thanos (Sub-Standard Packaging)",
    "ref": "https://cmdstore.com/products/marvel-legends-gamerverse-2-pack-exclusive-psylocke-vs-thanos-5010996313201dmg"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Comics Inspired 6 Inch Action Figure Wave 1 - Daken (Wolverine) (Sub-Standard Packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-comics-inspired-wave-1-daken-wolverine-5010996290953dmg"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Avengers 6 Inch Action Figure Deluxe - MODOK (Shelf Wear Packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-avengers-deluxe-modok-5010993792528dmg"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends 6 Inch Action Figure Series 6 - Green Phoenix With Comic",
-   "ref": "https://cmdstore.com/products/marvel-legends-action-figures-series-6-green-phoenix-with-comic"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Smythe (Pre-Order Ships Jan. 2027)",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-smythe-5010996472946"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Aunt May (Pre-Order Ships Jan. 2027)",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-aunt-may-5010996472960"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Maximum Carnage (Pre-Order Ships Jan. 2027)",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-maximum-carnage-5010996472922"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man - Mary Jane Watson (Pre-Order Ships Jan. 2027)",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-mary-jane-watson-5010996472984"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Spider-Man 6 Inch Action Figure Holiday Special - Christmas Spider-Man (Pre-Order Ships Dec. 2026)",
-   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-holiday-special-christmas-spider-man-5010996411495"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Spider-Man 6 Inch Action Figure Exclusive - Spider-Man No Way Home",
-   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-exclusive-spider-man-no-way-home-5010996414939"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure X-Men Exclusive - Cypher",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-x-men-exclusive-cypher-5010996451972"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends X-Men Movie 6 Inch Action Figure - Mystique",
-   "ref": "https://cmdstore.com/products/marvel-legends-x-men-movie-mystique-5010993722204"
   }
  ]
 }
