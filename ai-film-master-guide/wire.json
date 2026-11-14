@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-14T17:59:31Z",
+ "generated_at": "2026-11-14T22:19:13Z",
  "items": [
+  {
+   "id": "hf-mmiiguell10/LTX-2.5-int8-comfy",
+   "at": "2026-11-14T20:57:52Z",
+   "model": "mmiiguell10/LTX-2.5-int8-comfy",
+   "title": "New text-to-video model listed on Hugging Face: mmiiguell10/LTX-2.5-int8-comfy",
+   "url": "https://huggingface.co/mmiiguell10/LTX-2.5-int8-comfy",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-infosave/FastH3-4-step-Preview-v1-VSA-cmf",
+   "at": "2026-11-14T20:31:56Z",
+   "model": "infosave/FastH3-4-step-Preview-v1-VSA-cmf",
+   "title": "New text-to-video model listed on Hugging Face: infosave/FastH3-4-step-Preview-v1-VSA-cmf",
+   "url": "https://huggingface.co/infosave/FastH3-4-step-Preview-v1-VSA-cmf",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-MeissonFlow/Mei",
    "at": "2026-11-14T13:02:56Z",
@@ -1478,26 +1498,6 @@
    "model": "wirkung/Origami-H3",
    "title": "New text-to-video model listed on Hugging Face: wirkung/Origami-H3",
    "url": "https://huggingface.co/wirkung/Origami-H3",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-caikybaldo999/zyvideo-1.2",
-   "at": "2026-11-11T23:22:37Z",
-   "model": "caikybaldo999/zyvideo-1.2",
-   "title": "New text-to-video model listed on Hugging Face: caikybaldo999/zyvideo-1.2",
-   "url": "https://huggingface.co/caikybaldo999/zyvideo-1.2",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-caikybaldo999/zyvideo-1.1",
-   "at": "2026-11-11T20:49:19Z",
-   "model": "caikybaldo999/zyvideo-1.1",
-   "title": "New text-to-video model listed on Hugging Face: caikybaldo999/zyvideo-1.1",
-   "url": "https://huggingface.co/caikybaldo999/zyvideo-1.1",
    "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"
