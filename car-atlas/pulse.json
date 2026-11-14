@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-13T19:39:53Z",
+ "generated_at": "2026-11-14T01:30:27Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-13T19:39:53Z",
+ "last_data_change_at": "2026-11-14T01:30:27Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 65,
-   "checked_at": "2026-11-13T19:39:52Z",
-   "last_ok_at": "2026-11-13T19:39:52Z",
+   "items": 36,
+   "checked_at": "2026-11-14T01:30:26Z",
+   "last_ok_at": "2026-11-14T01:30:26Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,91 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12427,
-   "checked_at": "2026-11-13T19:39:53Z",
-   "last_ok_at": "2026-11-13T19:39:53Z",
+   "checked_at": "2026-11-14T01:30:27Z",
+   "last_ok_at": "2026-11-14T01:30:27Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "1966 Oldsmobile Toronado Deluxe",
+   "ref": "https://bringatrailer.com/listing/1966-oldsmobile-toronado-53/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "AWE Tuning-Modified Slate Grey 2014 Porsche 911 Turbo S Coupe",
+   "ref": "https://bringatrailer.com/listing/2014-porsche-911-turbo-s-coupe-67/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "45k-Mile 1991 Chevrolet Corvette ZR-1",
+   "ref": "https://bringatrailer.com/listing/1991-chevrolet-corvette-zr-1-75/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "1970 Chevrolet Corvette Convertible LS5 454/390 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1970-chevrolet-corvette-convertible-58/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "1997 Land Rover Defender 90 NAS",
+   "ref": "https://bringatrailer.com/listing/1997-land-rover-defender-90-nas-195/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "34k-Mile 2016 Porsche 911 Carrera Coupe Black Edition 7-Speed",
+   "ref": "https://bringatrailer.com/listing/2016-porsche-911-carrera-18/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "20-Years-Owned Supercharged 2005 Lotus Elise",
+   "ref": "https://bringatrailer.com/listing/2005-lotus-elise-297/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "1956 Willys CJ-5",
+   "ref": "https://bringatrailer.com/listing/1956-jeep-cj-5-10/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "37k-Mile 2016 Porsche 911 Carrera Cabriolet 7-Speed",
+   "ref": "https://bringatrailer.com/listing/2016-porsche-911-carrera-cabriolet-6/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "1969 BMW 2002 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1969-bmw-2002-41/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "11k-Mile 2008 Toyota Camry LE",
+   "ref": "https://bringatrailer.com/listing/2008-toyota-camry-8/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "Modified 2021 Jeep Wrangler Unlimited Rubicon 392",
+   "ref": "https://bringatrailer.com/listing/2021-jeep-wrangler-unlimited-all-trims-23/"
+  },
+  {
+   "at": "2026-11-14T01:30:27Z",
+   "kind": "sale",
+   "title": "15k-Mile 2019 Land Rover Range Rover HSE",
+   "ref": "https://bringatrailer.com/listing/2019-land-rover-range-rover-hse-2/"
+  },
   {
    "at": "2026-11-13T19:39:53Z",
    "kind": "sale",
@@ -312,84 +390,6 @@
    "kind": "sale",
    "title": "18k-Mile 1999 Porsche 911 Carrera Cabriolet 6-Speed",
    "ref": "https://bringatrailer.com/listing/1999-porsche-911-carrera-cabriolet-183/"
-  },
-  {
-   "at": "2026-11-11T19:37:13Z",
-   "kind": "sale",
-   "title": "2015 Porsche Cayenne Diesel",
-   "ref": "https://bringatrailer.com/listing/2015-porsche-cayenne-diesel-192/"
-  },
-  {
-   "at": "2026-11-11T19:37:13Z",
-   "kind": "sale",
-   "title": "12k-Mile 2021 Toyota Land Cruiser URJ200 Heritage Edition",
-   "ref": "https://bringatrailer.com/listing/2021-toyota-land-cruiser-101/"
-  },
-  {
-   "at": "2026-11-11T19:37:13Z",
-   "kind": "sale",
-   "title": "31k-Mile, Supercharged 2002 Honda S2000",
-   "ref": "https://bringatrailer.com/listing/2002-honda-s2000-253-2-2/"
-  },
-  {
-   "at": "2026-11-11T19:37:13Z",
-   "kind": "sale",
-   "title": "350-Equipped 1963 Chevrolet Corvette Split-Window Coupe Project",
-   "ref": "https://bringatrailer.com/listing/1963-chevrolet-corvette-coupe-282/"
-  },
-  {
-   "at": "2026-11-11T01:21:31Z",
-   "kind": "sale",
-   "title": "42k-Mile 1994 Mazda RX-7 R2 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1994-mazda-rx-7-r2-2/"
-  },
-  {
-   "at": "2026-11-11T01:21:31Z",
-   "kind": "sale",
-   "title": "1988 Jeep Grand Wagoneer",
-   "ref": "https://bringatrailer.com/listing/1988-jeep-grand-wagoneer-181/"
-  },
-  {
-   "at": "2026-11-11T01:21:31Z",
-   "kind": "sale",
-   "title": "2003 Ford Mustang SVT Cobra Convertible",
-   "ref": "https://bringatrailer.com/listing/2003-ford-mustang-svt-cobra-convertible-59/"
-  },
-  {
-   "at": "2026-11-11T01:21:31Z",
-   "kind": "sale",
-   "title": "2009 Audi A4 Avant 2.0T",
-   "ref": "https://bringatrailer.com/listing/2009-audi-a4-b8-10/"
-  },
-  {
-   "at": "2026-11-11T01:21:31Z",
-   "kind": "sale",
-   "title": "2001 Porsche 911 Carrera 4 Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2001-porsche-911-carrera-4-coupe-36/"
-  },
-  {
-   "at": "2026-11-11T01:21:31Z",
-   "kind": "sale",
-   "title": "2010 Subaru Forester 2.5X 5-Speed",
-   "ref": "https://bringatrailer.com/listing/2010-subaru-forester-12/"
-  },
-  {
-   "at": "2026-11-11T01:21:31Z",
-   "kind": "sale",
-   "title": "29-Years-Owned 1971 Chevrolet Corvette Convertible 454 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1971-chevrolet-corvette-convertible-48/"
-  },
-  {
-   "at": "2026-11-11T01:21:31Z",
-   "kind": "sale",
-   "title": "10k-Mile 2014 Nissan GT-R Premium",
-   "ref": "https://bringatrailer.com/listing/2014-nissan-gt-r-premium-11/"
-  },
-  {
-   "at": "2026-11-10T01:34:23Z",
-   "kind": "sale",
-   "title": "2017 Porsche 911 Turbo Cabriolet",
-   "ref": "https://bringatrailer.com/listing/2017-porsche-911-turbo-cabriolet-7/"
   }
  ]
 }

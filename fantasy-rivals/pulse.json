@@ -1,36 +1,48 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-13T19:40:17Z",
+ "generated_at": "2026-11-14T01:30:28Z",
  "stale_after_h": 30,
- "healthy": false,
- "sources_ok": 0,
+ "healthy": true,
+ "sources_ok": 1,
  "sources_total": 1,
- "last_data_change_at": "2026-11-13T01:52:37Z",
+ "last_data_change_at": "2026-11-14T01:30:28Z",
  "sources": [
   {
    "id": "liquipedia",
    "label": "Liquipedia pages",
    "url": "https://liquipedia.net/marvelrivals/",
-   "ok": false,
+   "ok": true,
    "items": 6,
-   "checked_at": "2026-11-13T19:40:17Z",
-   "last_ok_at": "2026-11-13T10:55:49Z",
-   "error": "http 429",
-   "fails_in_a_row": 1
+   "checked_at": "2026-11-14T01:30:28Z",
+   "last_ok_at": "2026-11-14T01:30:28Z",
+   "error": null,
+   "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-14T01:30:28Z",
+   "kind": "source",
+   "title": "Source page edited: MR Ignite/2026/Grand Finals (check results)",
+   "ref": "MR Ignite/2026/Grand Finals"
+  },
+  {
+   "at": "2026-11-14T01:30:28Z",
+   "kind": "source",
+   "title": "Source page edited: MR Ignite/2026/Mid Season Finals (check results)",
+   "ref": "MR Ignite/2026/Mid Season Finals"
+  },
+  {
+   "at": "2026-11-14T01:30:28Z",
+   "kind": "state",
+   "title": "Season status changed for 2026-11-14",
+   "ref": null
+  },
   {
    "at": "2026-11-13T01:52:37Z",
    "kind": "state",
    "title": "Season status changed for 2026-11-13",
    "ref": null
-  },
-  {
-   "at": "2026-11-12T02:19:28Z",
-   "kind": "source",
-   "title": "Source page edited: MR Ignite/2026/Grand Finals (check results)",
-   "ref": "MR Ignite/2026/Grand Finals"
   },
   {
    "at": "2026-11-12T02:19:28Z",

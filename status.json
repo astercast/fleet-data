@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-11-13T19:40:23Z",
+ "generated_at": "2026-11-14T01:30:36Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -20,7 +20,7 @@
     [
      "site",
      "ok",
-     "126 ms"
+     "159 ms"
     ]
    ],
    "data_age_h": 0.1,
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "7.1 h old, limit 50 h"
+     "12.9 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,11 +77,11 @@
     [
      "site",
      "ok",
-     "627 ms"
+     "683 ms"
     ]
    ],
-   "data_age_h": 7.1,
-   "changed_age_h": 30.4,
+   "data_age_h": 12.9,
+   "changed_age_h": 36.3,
    "sources": [
     {
      "id": "cmdstore",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "7.1 h old, limit 50 h"
+     "12.9 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "371 ms"
+     "445 ms"
     ]
    ],
-   "data_age_h": 7.1,
+   "data_age_h": 12.9,
    "changed_age_h": null,
    "sources": [
     {
@@ -178,7 +178,7 @@
     [
      "site",
      "ok",
-     "403 ms"
+     "493 ms"
     ]
    ],
    "data_age_h": 0.1,
@@ -217,7 +217,7 @@
     {
      "id": "youtube-blog",
      "ok": false,
-     "fails": 66,
+     "fails": 67,
      "items": 0
     },
     {
@@ -247,7 +247,7 @@
     [
      "site",
      "ok",
-     "295 ms"
+     "253 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -256,7 +256,7 @@
     {
      "id": "board",
      "ok": false,
-     "fails": 66,
+     "fails": 67,
      "items": 0
     },
     {
@@ -269,7 +269,7 @@
      "id": "lane-charts",
      "ok": true,
      "fails": 0,
-     "items": 20
+     "items": 30
     },
     {
      "id": "lane-gtrends",
@@ -281,7 +281,7 @@
      "id": "lane-hn",
      "ok": true,
      "fails": 0,
-     "items": 50
+     "items": 49
     },
     {
      "id": "lane-lemmy",
@@ -299,7 +299,7 @@
      "id": "lane-netflix",
      "ok": true,
      "fails": 0,
-     "items": 0
+     "items": 20
     },
     {
      "id": "lane-news",
@@ -340,19 +340,19 @@
     {
      "id": "lane-tiktok",
      "ok": false,
-     "fails": 66,
+     "fails": 67,
      "items": 0
     },
     {
      "id": "lane-wiki",
      "ok": true,
      "fails": 0,
-     "items": 15
+     "items": 0
     },
     {
      "id": "lane-x",
      "ok": false,
-     "fails": 66,
+     "fails": 67,
      "items": 0
     },
     {
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "7.1 h old, limit 50 h"
+     "12.9 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "620 ms"
+     "687 ms"
     ]
    ],
-   "data_age_h": 7.1,
-   "changed_age_h": 7.1,
+   "data_age_h": 12.9,
+   "changed_age_h": 12.9,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "7.1 h old, limit 50 h"
+     "12.9 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "285 ms"
+     "436 ms"
     ]
    ],
-   "data_age_h": 7.1,
+   "data_age_h": 12.9,
    "changed_age_h": null,
    "sources": [
     {
@@ -496,7 +496,7 @@
     [
      "site",
      "ok",
-     "410 ms"
+     "513 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -506,7 +506,7 @@
      "id": "bat",
      "ok": true,
      "fails": 0,
-     "items": 65
+     "items": 36
     },
     {
      "id": "nhtsa-vpic",
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "571 ms"
+     "501 ms"
     ]
    ],
    "state": "ok"
@@ -542,13 +542,13 @@
     ],
     [
      "sources",
-     "fail",
-     "down: liquipedia"
+     "ok",
+     "all ok"
     ],
     [
      "site",
      "ok",
-     "372 ms"
+     "443 ms"
     ],
     [
      "health",
@@ -557,16 +557,16 @@
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 17.8,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "liquipedia",
-     "ok": false,
-     "fails": 1,
+     "ok": true,
+     "fails": 0,
      "items": 6
     }
    ],
-   "state": "fail"
+   "state": "ok"
   },
   {
    "site": "sonny-angel-archive",
@@ -591,11 +591,11 @@
     [
      "site",
      "ok",
-     "247 ms"
+     "358 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 48.1,
+   "changed_age_h": 53.9,
    "sources": [
     {
      "id": "store",
