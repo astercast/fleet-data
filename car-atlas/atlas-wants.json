@@ -1,6 +1,6 @@
 {
  "format": "atlas-wants/1",
- "generated_at": "2026-11-15T06:18:51Z",
+ "generated_at": "2026-11-15T16:22:28Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -74,8 +74,8 @@
   },
   {
    "key": "Hummer H3T",
-   "sold": 0,
-   "bidTo": 1
+   "sold": 1,
+   "bidTo": 0
   },
   {
    "key": "Land Rover lr4",
@@ -421,7 +421,7 @@
    "ended": "2026-11-14",
    "noreserve": false,
    "house": "Bring a Trailer",
-   "status": "bid-to",
+   "status": "sold",
    "matched": false,
    "wantsKey": "Hummer H3T"
   },

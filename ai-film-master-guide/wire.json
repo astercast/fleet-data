@@ -1,7 +1,17 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-15T06:15:29Z",
+ "generated_at": "2026-11-15T16:19:40Z",
  "items": [
+  {
+   "id": "hf-Dante0411/HunyuanVideo",
+   "at": "2026-11-15T08:35:01Z",
+   "model": "Dante0411/HunyuanVideo",
+   "title": "New text-to-video model listed on Hugging Face: Dante0411/HunyuanVideo",
+   "url": "https://huggingface.co/Dante0411/HunyuanVideo",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-15",
    "at": "2026-11-15T06:15:23+00:00",
@@ -1489,16 +1499,6 @@
    "title": "New arXiv paper: WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
    "url": "http://arxiv.org/abs/2611.16217v1",
    "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Act-Two-2026-11-12",
-   "at": "2026-11-12T02:16:37+00:00",
-   "model": "Runway Act-Two",
-   "title": "Runway Act-Two: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://aivideos.eu/blog/runway-act-one-vs-heygen-ai-actor-direction",
-   "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }
