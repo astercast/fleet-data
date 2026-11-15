@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-14T11:43:56Z",
+ "generated_at": "2026-11-15T12:14:23Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-14T11:43:56Z",
+ "last_data_change_at": "2026-11-15T12:14:23Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 59,
-   "checked_at": "2026-11-14T11:43:55Z",
-   "last_ok_at": "2026-11-14T11:43:55Z",
+   "checked_at": "2026-11-15T12:14:20Z",
+   "last_ok_at": "2026-11-15T12:14:20Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "items": 59,
-   "checked_at": "2026-11-14T11:43:56Z",
-   "last_ok_at": "2026-11-14T11:43:56Z",
+   "checked_at": "2026-11-15T12:14:23Z",
+   "last_ok_at": "2026-11-15T12:14:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-14T11:43:56Z",
-   "last_ok_at": "2026-11-14T11:43:56Z",
+   "checked_at": "2026-11-15T12:14:23Z",
+   "last_ok_at": "2026-11-15T12:14:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,25 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 57,
-   "checked_at": "2026-11-14T11:43:56Z",
-   "last_ok_at": "2026-11-14T11:43:56Z",
+   "checked_at": "2026-11-15T12:14:23Z",
+   "last_ok_at": "2026-11-15T12:14:23Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-15T12:14:23Z",
+   "kind": "story",
+   "title": "Marvel legends assemble to inspire next generation of engineering super heroes! - GOV.UK",
+   "ref": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDk2S0dQVDhPOHZ6RFVYa0lLWmJCcEVublA4WFZzNmJLbFpEWTZhWkVIdFFpdGFXdTFlM0VPeE5ScDVrVFdjaDR4QTZ5SWRSMzhOOTF1bzhzQUV0NmRfU20tMEVnN013dzlJSVR4NjRpazJKcXd2MUZ6UkdkRV9RUVJ2WnpqNFFteEpSUXpDTXZfVFlMT2V1Q0tBYThKYzR1bFlCY1pIMGxILUgyODZDdTlGdw?oc=5"
+  },
+  {
+   "at": "2026-11-15T12:14:23Z",
+   "kind": "preorder",
+   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
+   "ref": "radar.html"
+  },
   {
    "at": "2026-11-14T11:43:56Z",
    "kind": "story",
@@ -112,12 +124,6 @@
    "kind": "story",
    "title": "Marvel Legends: First Look at Six Arm Spider-Man and Puma Figures - Marvel.com",
    "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGJvOFBfc09ISzRYcXVwWkludmZPMG9CeElEeHM5R3piVGd3eGtnM2k4bmdmenZ1QnF2ZlhEZkw3eFAzT2k0bkFFZmRvQm5hOG12cGYwc1VaZnRpclc2UVpiUTdNWU9Kb1dELUZYVWVOWXVUSkozNE84Qjk1ZWxXbjZ2YVNrZmR2VXc4ZF9WQlhVRG9DWGZmQUtvdlp2ZGFuamxj?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "preorder",
-   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
-   "ref": "radar.html"
   },
   {
    "at": "2026-11-12T13:13:56Z",
@@ -400,18 +406,6 @@
    "kind": "story",
    "title": "Marvel Legends Marvels Box Build-A-Figure Wave Preorder - Toy Habits",
    "ref": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUxqV0cyc0g1MzlNdFBoZXpuSXJFUDdhVlo2TXNXZGVLY3V5VkxQQ1pZMG1NcWl6YjdvT1IwY3ZvdEp0Qmd2T1BtUkZscFVWS3loZzJBVmVzcnRlcXhDVkNvcmpsYzkzeEk4Q2M2QTBpTEc0SlJoYTZKYXdIRklBc2hBaEI?oc=5"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Spider-Man Wave 3 - Chasm (Shelf Wear Packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-spider-man-wave-3-chasm-5010994181284dmg"
-  },
-  {
-   "at": "2026-10-25T13:24:38Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Gamerverse 6 Inch Action Figure 2-Pack Exclusive - Psylocke vs Thanos (Sub-Standard Packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-gamerverse-2-pack-exclusive-psylocke-vs-thanos-5010996313201dmg"
   }
  ]
 }

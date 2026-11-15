@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-14T11:44:52Z",
+ "generated_at": "2026-11-15T12:15:24Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-14T11:43:58Z",
+ "last_data_change_at": "2026-11-15T12:15:20Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 73,
-   "checked_at": "2026-11-14T11:44:52Z",
-   "last_ok_at": "2026-11-14T11:44:52Z",
+   "items": 77,
+   "checked_at": "2026-11-15T12:15:24Z",
+   "last_ok_at": "2026-11-15T12:15:24Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-14T11:44:00Z",
-   "last_ok_at": "2026-11-14T11:44:00Z",
+   "checked_at": "2026-11-15T12:14:26Z",
+   "last_ok_at": "2026-11-15T12:14:26Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-14T11:43:59Z",
-   "last_ok_at": "2026-11-14T11:43:59Z",
+   "checked_at": "2026-11-15T12:14:25Z",
+   "last_ok_at": "2026-11-15T12:14:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-14T11:44:00Z",
-   "last_ok_at": "2026-11-14T11:44:00Z",
+   "checked_at": "2026-11-15T12:14:26Z",
+   "last_ok_at": "2026-11-15T12:14:26Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-14T11:43:59Z",
-   "last_ok_at": "2026-11-14T11:43:59Z",
+   "checked_at": "2026-11-15T12:14:26Z",
+   "last_ok_at": "2026-11-15T12:14:26Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-14T11:43:59Z",
-   "last_ok_at": "2026-11-14T11:43:59Z",
+   "checked_at": "2026-11-15T12:14:26Z",
+   "last_ok_at": "2026-11-15T12:14:26Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,25 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-14T11:43:58Z",
-   "last_ok_at": "2026-11-14T11:43:58Z",
+   "checked_at": "2026-11-15T12:14:25Z",
+   "last_ok_at": "2026-11-15T12:14:25Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-15T12:15:20Z",
+   "kind": "photo-candidate",
+   "title": "Microclimate Map Survey",
+   "ref": "https://commons.wikimedia.org/wiki/File:Complete_map_of_1,000%2B_cave-entrances_on_Mars.png"
+  },
+  {
+   "at": "2026-11-15T12:15:23Z",
+   "kind": "photo-candidate",
+   "title": "Personal Map Introductions",
+   "ref": "https://commons.wikimedia.org/wiki/File:Coesfeld,_Lette,_Windm%C3%BChle_--_2015_--_5768.jpg"
+  },
   {
    "at": "2026-11-14T11:43:58Z",
    "kind": "post",
@@ -421,18 +433,6 @@
    "kind": "post",
    "title": "Free Printable Thanksgiving Placemats for Kids to Color",
    "ref": "https://kidsactivitiesblog.com/61361/free-printable-placemats/"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "100+ Fun Quiet Time Games and Activities For Kids",
-   "ref": "https://kidsactivitiesblog.com/60561/quiet-time-activities/"
-  },
-  {
-   "at": "2026-11-06T12:26:27Z",
-   "kind": "post",
-   "title": "Wrapping Paper Snowflakes",
-   "ref": "https://handsonaswegrow.com/wrapping-paper-snowflakes/"
   }
  ]
 }

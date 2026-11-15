@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-14T11:44:52Z",
+ "generated_at": "2026-11-15T12:15:24Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -805,6 +805,50 @@
    "activity_id": "growing-degree-day-ledger",
    "activity_name": "Growing Degree-Day Ledger",
    "queued_at": "2026-11-14T11:44:51Z"
+  },
+  {
+   "commons_title": "File:Complete map of 1,000+ cave-entrances on Mars.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Complete_map_of_1,000%2B_cave-entrances_on_Mars.png",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Complete_map_of_1%2C000%2B_cave-entrances_on_Mars.png/500px-Complete_map_of_1%2C000%2B_cave-entrances_on_Mars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "USGS Astrogeology Science Center",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "microclimate-map-survey",
+   "activity_name": "Microclimate Map Survey",
+   "queued_at": "2026-11-15T12:15:20Z"
+  },
+  {
+   "commons_title": "File:Running Through Paris Heat (153178 - oli2 20240607 lrg).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Running_Through_Paris_Heat_(153178_-_oli2_20240607_lrg).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Running_Through_Paris_Heat_%28153178_-_oli2_20240607_lrg%29.jpg/500px-Running_Through_Paris_Heat_%28153178_-_oli2_20240607_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "NASA Earth Observatory images by Wanmei Liang and Michala Garrison, using VIIRS Land Surface Temperature data, marathon route from Github, and Landsat data from the U.S. Geological Survey. Story by Adam Voiland.",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "microclimate-map-survey",
+   "activity_name": "Microclimate Map Survey",
+   "queued_at": "2026-11-15T12:15:20Z"
+  },
+  {
+   "commons_title": "File:Coesfeld, Lette, Windmühle -- 2015 -- 5768.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Coesfeld,_Lette,_Windm%C3%BChle_--_2015_--_5768.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Coesfeld%2C_Lette%2C_Windm%C3%BChle_--_2015_--_5768.jpg/500px-Coesfeld%2C_Lette%2C_Windm%C3%BChle_--_2015_--_5768.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+   "licence": "CC BY-SA 4.0",
+   "status": "pending",
+   "activity_id": "personal-map-introductions",
+   "activity_name": "Personal Map Introductions",
+   "queued_at": "2026-11-15T12:15:23Z"
+  },
+  {
+   "commons_title": "File:Customary of Our Lady Walsingham.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Customary_of_Our_Lady_Walsingham.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Customary_of_Our_Lady_Walsingham.jpg/500px-Customary_of_Our_Lady_Walsingham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a href=\"//commons.wikimedia.org/wiki/User:Pbritti\" title=\"User:Pbritti\">Pbritti</a>",
+   "licence": "CC BY-SA 4.0",
+   "status": "pending",
+   "activity_id": "personal-map-introductions",
+   "activity_name": "Personal Map Introductions",
+   "queued_at": "2026-11-15T12:15:23Z"
   }
  ]
 }
