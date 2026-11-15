@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-15T16:19:40Z",
+ "generated_at": "2026-11-15T22:47:39Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-15T16:19:40Z",
+ "last_data_change_at": "2026-11-15T22:47:39Z",
  "sources": [
   {
    "id": "arxiv",
@@ -13,8 +13,8 @@
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
    "items": 147,
-   "checked_at": "2026-11-15T16:19:38Z",
-   "last_ok_at": "2026-11-15T16:19:38Z",
+   "checked_at": "2026-11-15T22:47:37Z",
+   "last_ok_at": "2026-11-15T22:47:37Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-15T16:19:40Z",
-   "last_ok_at": "2026-11-15T16:19:40Z",
+   "checked_at": "2026-11-15T22:47:39Z",
+   "last_ok_at": "2026-11-15T22:47:39Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-15T16:19:37Z",
-   "last_ok_at": "2026-11-15T16:19:37Z",
+   "checked_at": "2026-11-15T22:47:36Z",
+   "last_ok_at": "2026-11-15T22:47:36Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-15T16:19:38Z",
-   "last_ok_at": "2026-11-15T16:19:38Z",
+   "checked_at": "2026-11-15T22:47:37Z",
+   "last_ok_at": "2026-11-15T22:47:37Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,157 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-15T16:19:37Z",
-   "last_ok_at": "2026-11-15T16:19:37Z",
+   "checked_at": "2026-11-15T22:47:36Z",
+   "last_ok_at": "2026-11-15T22:47:36Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
+   "ref": "https://huggingface.co/TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Comfy-Org/PAN2",
+   "ref": "https://huggingface.co/Comfy-Org/PAN2"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.0-Singularity-X",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-6.0-Singularity-X"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.1-Singularity",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-5.1-Singularity"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.2-Supernova",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-5.2-Supernova"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.8-Omega-Crown",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-6.8-Omega-Crown"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.9-Transcendence",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-6.9-Transcendence"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.3-Hyper-Sol",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-6.3-Hyper-Sol"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.2-Aetherius",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-6.2-Aetherius"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.5-Astral-Prime",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-6.5-Astral-Prime"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.6-Valkyrie",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-5.6-Valkyrie"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.3-Chronos",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-5.3-Chronos"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.1-Sol",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-6.1-Sol"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.5-Hyperion",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-5.5-Hyperion"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-7.2-Apex-Godmode",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-7.2-Apex-Godmode"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-7.1-Omniverse-Sol",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-7.1-Omniverse-Sol"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-7.0-Singularity-Infinity",
+   "ref": "https://huggingface.co/the123manaic/Sega-Video-7.0-Singularity-Infinity"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: TechnoBaptist/LongCat-Video",
+   "ref": "https://huggingface.co/TechnoBaptist/LongCat-Video"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: EliovpAI/LTX-2.5-FP8-Paiton-RDNA4",
+   "ref": "https://huggingface.co/EliovpAI/LTX-2.5-FP8-Paiton-RDNA4"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: EliovpAI/MiniMax-H3-FP8-Paiton-RDNA4",
+   "ref": "https://huggingface.co/EliovpAI/MiniMax-H3-FP8-Paiton-RDNA4"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: BennyDaBall/HyperFlow-H3-Flash-NVFP4-ComfyUI",
+   "ref": "https://huggingface.co/BennyDaBall/HyperFlow-H3-Flash-NVFP4-ComfyUI"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-collection-wanneg-init1",
+   "ref": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-collection-wanneg-init1"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-u5-collection-wanneg-init1",
+   "ref": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-u5-collection-wanneg-init1"
+  },
+  {
+   "at": "2026-11-15T22:47:39Z",
+   "kind": "release",
+   "title": "comfyui release: v0.45.4",
+   "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.4"
+  },
   {
    "at": "2026-11-15T16:19:40Z",
    "kind": "new-model",
@@ -279,48 +423,6 @@
    "kind": "price-signal",
    "title": "Topaz Astra: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.topazlabs.com/astra"
-  },
-  {
-   "at": "2026-11-15T06:15:29Z",
-   "kind": "price-signal",
-   "title": "Runway Act-Two: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "ref": "https://aivideos.eu/blog/runway-act-one-vs-heygen-ai-actor-direction"
-  },
-  {
-   "at": "2026-11-15T06:15:29Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Raretutor/RT_Magic_Lora",
-   "ref": "https://huggingface.co/Raretutor/RT_Magic_Lora"
-  },
-  {
-   "at": "2026-11-14T22:19:13Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: mmiiguell10/LTX-2.5-int8-comfy",
-   "ref": "https://huggingface.co/mmiiguell10/LTX-2.5-int8-comfy"
-  },
-  {
-   "at": "2026-11-14T22:19:13Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: infosave/FastH3-4-step-Preview-v1-VSA-cmf",
-   "ref": "https://huggingface.co/infosave/FastH3-4-step-Preview-v1-VSA-cmf"
-  },
-  {
-   "at": "2026-11-14T17:59:31Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: MeissonFlow/Mei",
-   "ref": "https://huggingface.co/MeissonFlow/Mei"
-  },
-  {
-   "at": "2026-11-14T10:09:57Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: neurarank/NEUVY-FUSION-VIDEO-NFV1",
-   "ref": "https://huggingface.co/neurarank/NEUVY-FUSION-VIDEO-NFV1"
-  },
-  {
-   "at": "2026-11-14T10:09:57Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-7.3-Sovereign-Godmode",
-   "ref": "https://huggingface.co/the123manaic/Sega-Video-7.3-Sovereign-Godmode"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-15T16:22:28Z",
+ "generated_at": "2026-11-15T22:50:32Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-14T22:21:56Z",
+ "last_data_change_at": "2026-11-15T22:50:32Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-15T16:22:27Z",
-   "last_ok_at": "2026-11-15T16:22:27Z",
+   "items": 72,
+   "checked_at": "2026-11-15T22:50:31Z",
+   "last_ok_at": "2026-11-15T22:50:31Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,49 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12427,
-   "checked_at": "2026-11-15T16:22:28Z",
-   "last_ok_at": "2026-11-15T16:22:28Z",
+   "checked_at": "2026-11-15T22:50:32Z",
+   "last_ok_at": "2026-11-15T22:50:32Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-15T22:50:32Z",
+   "kind": "sale",
+   "title": "1973 Dodge Challenger",
+   "ref": "https://bringatrailer.com/listing/1973-dodge-challenger-47/"
+  },
+  {
+   "at": "2026-11-15T22:50:32Z",
+   "kind": "sale",
+   "title": "2011 Toyota Land Cruiser URJ200",
+   "ref": "https://bringatrailer.com/listing/2011-toyota-land-cruiser-15/"
+  },
+  {
+   "at": "2026-11-15T22:50:32Z",
+   "kind": "sale",
+   "title": "37-Years-Owned 1988 Jeep Grand Wagoneer",
+   "ref": "https://bringatrailer.com/listing/1988-jeep-grand-wagoneer-180/"
+  },
+  {
+   "at": "2026-11-15T22:50:32Z",
+   "kind": "sale",
+   "title": "51-Years-Owned 1973 Chevrolet Corvette Convertible",
+   "ref": "https://bringatrailer.com/listing/1973-chevrolet-corvette-convertible-29/"
+  },
+  {
+   "at": "2026-11-15T22:50:32Z",
+   "kind": "sale",
+   "title": "2018 Jeep Wrangler Unlimited Sport",
+   "ref": "https://bringatrailer.com/listing/2018-jeep-wrangler-unlimited-jk-series-10/"
+  },
+  {
+   "at": "2026-11-15T22:50:32Z",
+   "kind": "sale",
+   "title": "1998 Toyota Tacoma Limited XtraCab V6 4×4",
+   "ref": "https://bringatrailer.com/listing/1998-toyota-tacoma-57/"
+  },
   {
    "at": "2026-11-14T22:21:56Z",
    "kind": "sale",
@@ -354,42 +390,6 @@
    "kind": "sale",
    "title": "1973 Chevrolet Corvette Coupe L82 4-Speed",
    "ref": "https://bringatrailer.com/listing/1973-chevrolet-corvette-coupe-101/"
-  },
-  {
-   "at": "2026-11-12T19:56:39Z",
-   "kind": "sale",
-   "title": "1998 Land Rover Discovery LE",
-   "ref": "https://bringatrailer.com/listing/1998-land-rover-discovery-44/"
-  },
-  {
-   "at": "2026-11-12T19:56:39Z",
-   "kind": "sale",
-   "title": "25-Years-Owned 1991 Saab 900 SE Turbo Convertible 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1991-saab-900-6/"
-  },
-  {
-   "at": "2026-11-12T19:56:39Z",
-   "kind": "sale",
-   "title": "2003 Toyota Land Cruiser UZJ100",
-   "ref": "https://bringatrailer.com/listing/2003-toyota-land-cruiser-59/"
-  },
-  {
-   "at": "2026-11-12T19:56:39Z",
-   "kind": "sale",
-   "title": "1999 Porsche 911 Carrera Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/1999-porsche-911-carrera-46-2/"
-  },
-  {
-   "at": "2026-11-12T02:19:27Z",
-   "kind": "sale",
-   "title": "15k-Mile 2010 BMW M3 Convertible",
-   "ref": "https://bringatrailer.com/listing/2010-bmw-m3-convertible-13/"
-  },
-  {
-   "at": "2026-11-12T02:19:27Z",
-   "kind": "sale",
-   "title": "1964 Chevrolet Corvette Coupe L76 327/365 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1964-chevrolet-corvette-393/"
   }
  ]
 }

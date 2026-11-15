@@ -1,7 +1,247 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-15T16:19:40Z",
+ "generated_at": "2026-11-15T22:47:39Z",
  "items": [
+  {
+   "id": "hf-TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
+   "at": "2026-11-15T22:35:47Z",
+   "model": "TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
+   "title": "New text-to-video model listed on Hugging Face: TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
+   "url": "https://huggingface.co/TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Comfy-Org/PAN2",
+   "at": "2026-11-15T22:02:20Z",
+   "model": "Comfy-Org/PAN2",
+   "title": "New text-to-video model listed on Hugging Face: Comfy-Org/PAN2",
+   "url": "https://huggingface.co/Comfy-Org/PAN2",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-6.0-Singularity-X",
+   "at": "2026-11-15T21:32:07Z",
+   "model": "the123manaic/Sega-Video-6.0-Singularity-X",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.0-Singularity-X",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-6.0-Singularity-X",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-5.1-Singularity",
+   "at": "2026-11-15T21:32:07Z",
+   "model": "the123manaic/Sega-Video-5.1-Singularity",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.1-Singularity",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-5.1-Singularity",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-5.2-Supernova",
+   "at": "2026-11-15T21:32:07Z",
+   "model": "the123manaic/Sega-Video-5.2-Supernova",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.2-Supernova",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-5.2-Supernova",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-6.8-Omega-Crown",
+   "at": "2026-11-15T21:32:06Z",
+   "model": "the123manaic/Sega-Video-6.8-Omega-Crown",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.8-Omega-Crown",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-6.8-Omega-Crown",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-6.9-Transcendence",
+   "at": "2026-11-15T21:32:06Z",
+   "model": "the123manaic/Sega-Video-6.9-Transcendence",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.9-Transcendence",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-6.9-Transcendence",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-6.3-Hyper-Sol",
+   "at": "2026-11-15T21:32:06Z",
+   "model": "the123manaic/Sega-Video-6.3-Hyper-Sol",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.3-Hyper-Sol",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-6.3-Hyper-Sol",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-6.2-Aetherius",
+   "at": "2026-11-15T21:32:06Z",
+   "model": "the123manaic/Sega-Video-6.2-Aetherius",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.2-Aetherius",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-6.2-Aetherius",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-6.5-Astral-Prime",
+   "at": "2026-11-15T21:32:06Z",
+   "model": "the123manaic/Sega-Video-6.5-Astral-Prime",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.5-Astral-Prime",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-6.5-Astral-Prime",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-5.6-Valkyrie",
+   "at": "2026-11-15T21:32:06Z",
+   "model": "the123manaic/Sega-Video-5.6-Valkyrie",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.6-Valkyrie",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-5.6-Valkyrie",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-5.3-Chronos",
+   "at": "2026-11-15T21:32:06Z",
+   "model": "the123manaic/Sega-Video-5.3-Chronos",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.3-Chronos",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-5.3-Chronos",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-6.1-Sol",
+   "at": "2026-11-15T21:32:06Z",
+   "model": "the123manaic/Sega-Video-6.1-Sol",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.1-Sol",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-6.1-Sol",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-5.5-Hyperion",
+   "at": "2026-11-15T21:32:06Z",
+   "model": "the123manaic/Sega-Video-5.5-Hyperion",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.5-Hyperion",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-5.5-Hyperion",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-7.2-Apex-Godmode",
+   "at": "2026-11-15T21:32:05Z",
+   "model": "the123manaic/Sega-Video-7.2-Apex-Godmode",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-7.2-Apex-Godmode",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-7.2-Apex-Godmode",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-7.1-Omniverse-Sol",
+   "at": "2026-11-15T21:32:05Z",
+   "model": "the123manaic/Sega-Video-7.1-Omniverse-Sol",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-7.1-Omniverse-Sol",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-7.1-Omniverse-Sol",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-the123manaic/Sega-Video-7.0-Singularity-Infinity",
+   "at": "2026-11-15T21:32:05Z",
+   "model": "the123manaic/Sega-Video-7.0-Singularity-Infinity",
+   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-7.0-Singularity-Infinity",
+   "url": "https://huggingface.co/the123manaic/Sega-Video-7.0-Singularity-Infinity",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-TechnoBaptist/LongCat-Video",
+   "at": "2026-11-15T21:21:16Z",
+   "model": "TechnoBaptist/LongCat-Video",
+   "title": "New text-to-video model listed on Hugging Face: TechnoBaptist/LongCat-Video",
+   "url": "https://huggingface.co/TechnoBaptist/LongCat-Video",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-EliovpAI/LTX-2.5-FP8-Paiton-RDNA4",
+   "at": "2026-11-15T20:54:21Z",
+   "model": "EliovpAI/LTX-2.5-FP8-Paiton-RDNA4",
+   "title": "New text-to-video model listed on Hugging Face: EliovpAI/LTX-2.5-FP8-Paiton-RDNA4",
+   "url": "https://huggingface.co/EliovpAI/LTX-2.5-FP8-Paiton-RDNA4",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-EliovpAI/MiniMax-H3-FP8-Paiton-RDNA4",
+   "at": "2026-11-15T20:36:21Z",
+   "model": "EliovpAI/MiniMax-H3-FP8-Paiton-RDNA4",
+   "title": "New text-to-video model listed on Hugging Face: EliovpAI/MiniMax-H3-FP8-Paiton-RDNA4",
+   "url": "https://huggingface.co/EliovpAI/MiniMax-H3-FP8-Paiton-RDNA4",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-BennyDaBall/HyperFlow-H3-Flash-NVFP4-ComfyUI",
+   "at": "2026-11-15T20:03:43Z",
+   "model": "BennyDaBall/HyperFlow-H3-Flash-NVFP4-ComfyUI",
+   "title": "New text-to-video model listed on Hugging Face: BennyDaBall/HyperFlow-H3-Flash-NVFP4-ComfyUI",
+   "url": "https://huggingface.co/BennyDaBall/HyperFlow-H3-Flash-NVFP4-ComfyUI",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-collection-wanneg-init1",
+   "at": "2026-11-15T17:26:22Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-collection-wanneg-init1",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-collection-wanneg-init1",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-collection-wanneg-init1",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ducvh5/wan21-a5b5x4c5-tm-u5-collection-wanneg-init1",
+   "at": "2026-11-15T17:24:50Z",
+   "model": "ducvh5/wan21-a5b5x4c5-tm-u5-collection-wanneg-init1",
+   "title": "New text-to-video model listed on Hugging Face: ducvh5/wan21-a5b5x4c5-tm-u5-collection-wanneg-init1",
+   "url": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-u5-collection-wanneg-init1",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "gh-comfyui-v0.45.4",
+   "at": "2026-11-15T17:00:36Z",
+   "model": "comfyui",
+   "title": "comfyui release: v0.45.4",
+   "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.4",
+   "kind": "release",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-Dante0411/HunyuanVideo",
    "at": "2026-11-15T08:35:01Z",
@@ -1258,246 +1498,6 @@
    "model": "",
    "title": "New arXiv paper: Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
    "url": "http://arxiv.org/abs/2611.17336v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.17324v1",
-   "at": "2026-11-12T18:59:09Z",
-   "model": "",
-   "title": "New arXiv paper: K2V: Generative Keyframing For Physically Plausible Video Generation",
-   "url": "http://arxiv.org/abs/2611.17324v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.17318v1",
-   "at": "2026-11-12T18:58:36Z",
-   "model": "",
-   "title": "New arXiv paper: Spatial Foundry: A Multimodal Dataset for Spatial Intelligence",
-   "url": "http://arxiv.org/abs/2611.17318v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-romainkh14/brimkern-ltx-BRIK",
-   "at": "2026-11-12T18:12:59Z",
-   "model": "romainkh14/brimkern-ltx-BRIK",
-   "title": "New text-to-video model listed on Hugging Face: romainkh14/brimkern-ltx-BRIK",
-   "url": "https://huggingface.co/romainkh14/brimkern-ltx-BRIK",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-GuanjieChen/Skip-DiT",
-   "at": "2026-11-12T17:08:02Z",
-   "model": "GuanjieChen/Skip-DiT",
-   "title": "New text-to-video model listed on Hugging Face: GuanjieChen/Skip-DiT",
-   "url": "https://huggingface.co/GuanjieChen/Skip-DiT",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.16897v1",
-   "at": "2026-11-12T14:54:14Z",
-   "model": "",
-   "title": "New arXiv paper: TokenStream: Multi-Subject Personalized Video Generation with Token-wise LoRA and Guided Attention",
-   "url": "http://arxiv.org/abs/2611.16897v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
-   "at": "2026-11-12T13:51:18Z",
-   "model": "intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
-   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
-   "url": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-manateelazycat/MiniMax-H3-Duo-AIPod",
-   "at": "2026-11-12T13:45:11Z",
-   "model": "manateelazycat/MiniMax-H3-Duo-AIPod",
-   "title": "New text-to-video model listed on Hugging Face: manateelazycat/MiniMax-H3-Duo-AIPod",
-   "url": "https://huggingface.co/manateelazycat/MiniMax-H3-Duo-AIPod",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Mrbizarro/ltx-2.5-mlx-q8",
-   "at": "2026-11-12T13:12:07Z",
-   "model": "Mrbizarro/ltx-2.5-mlx-q8",
-   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-q8",
-   "url": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-q8",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Mrbizarro/ltx-2.5-mlx-hq",
-   "at": "2026-11-12T13:12:07Z",
-   "model": "Mrbizarro/ltx-2.5-mlx-hq",
-   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-hq",
-   "url": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-hq",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Mrbizarro/ltx-2.5-mlx-q4",
-   "at": "2026-11-12T13:12:04Z",
-   "model": "Mrbizarro/ltx-2.5-mlx-q4",
-   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.5-mlx-q4",
-   "url": "https://huggingface.co/Mrbizarro/ltx-2.5-mlx-q4",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Mrbizarro/ltx-2.3-mlx-q4-1.1",
-   "at": "2026-11-12T13:11:26Z",
-   "model": "Mrbizarro/ltx-2.3-mlx-q4-1.1",
-   "title": "New text-to-video model listed on Hugging Face: Mrbizarro/ltx-2.3-mlx-q4-1.1",
-   "url": "https://huggingface.co/Mrbizarro/ltx-2.3-mlx-q4-1.1",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.16748v1",
-   "at": "2026-11-12T12:59:35Z",
-   "model": "",
-   "title": "New arXiv paper: PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
-   "url": "http://arxiv.org/abs/2611.16748v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Denovarix/Deno",
-   "at": "2026-11-12T12:14:27Z",
-   "model": "Denovarix/Deno",
-   "title": "New text-to-video model listed on Hugging Face: Denovarix/Deno",
-   "url": "https://huggingface.co/Denovarix/Deno",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.16417v1",
-   "at": "2026-11-12T07:27:47Z",
-   "model": "",
-   "title": "New arXiv paper: VBot Exo2Ego Policy: Lightweight Data Collection and Exocentric-to-Egocentric Video Generation",
-   "url": "http://arxiv.org/abs/2611.16417v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "gh-diffusers-v0.43.0",
-   "at": "2026-11-12T06:38:33Z",
-   "model": "diffusers",
-   "title": "diffusers release: Diffusers 0.43.0: MiniMax-H3-Image, Pika H3 Flex, P-H3-Image, Kandinsky S2V, and PAN 2",
-   "url": "https://github.com/huggingface/diffusers/releases/tag/v0.43.0",
-   "kind": "release",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-moonbox-dev/hyperflow-h3-flash-GGUF",
-   "at": "2026-11-12T06:14:40Z",
-   "model": "moonbox-dev/hyperflow-h3-flash-GGUF",
-   "title": "New text-to-video model listed on Hugging Face: moonbox-dev/hyperflow-h3-flash-GGUF",
-   "url": "https://huggingface.co/moonbox-dev/hyperflow-h3-flash-GGUF",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-moonbox-ai/hyperflow-h3-flash-GGUF",
-   "at": "2026-11-12T06:14:40Z",
-   "model": "moonbox-ai/hyperflow-h3-flash-GGUF",
-   "title": "New text-to-video model listed on Hugging Face: moonbox-ai/hyperflow-h3-flash-GGUF",
-   "url": "https://huggingface.co/moonbox-ai/hyperflow-h3-flash-GGUF",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-moonbox-dev/hyperflow-h3-flash-ref2va-GGUF",
-   "at": "2026-11-12T06:14:22Z",
-   "model": "moonbox-dev/hyperflow-h3-flash-ref2va-GGUF",
-   "title": "New text-to-video model listed on Hugging Face: moonbox-dev/hyperflow-h3-flash-ref2va-GGUF",
-   "url": "https://huggingface.co/moonbox-dev/hyperflow-h3-flash-ref2va-GGUF",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
-   "at": "2026-11-12T06:14:22Z",
-   "model": "moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
-   "title": "New text-to-video model listed on Hugging Face: moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
-   "url": "https://huggingface.co/moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-moonbox-dev/hyperflow-h3-flash-MLX",
-   "at": "2026-11-12T06:11:38Z",
-   "model": "moonbox-dev/hyperflow-h3-flash-MLX",
-   "title": "New text-to-video model listed on Hugging Face: moonbox-dev/hyperflow-h3-flash-MLX",
-   "url": "https://huggingface.co/moonbox-dev/hyperflow-h3-flash-MLX",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-moonbox-ai/hyperflow-h3-flash-MLX",
-   "at": "2026-11-12T06:11:38Z",
-   "model": "moonbox-ai/hyperflow-h3-flash-MLX",
-   "title": "New text-to-video model listed on Hugging Face: moonbox-ai/hyperflow-h3-flash-MLX",
-   "url": "https://huggingface.co/moonbox-ai/hyperflow-h3-flash-MLX",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-neonforestmist/Minimax_H3_Monet_Style_LoRA",
-   "at": "2026-11-12T04:31:04Z",
-   "model": "neonforestmist/Minimax_H3_Monet_Style_LoRA",
-   "title": "New text-to-video model listed on Hugging Face: neonforestmist/Minimax_H3_Monet_Style_LoRA",
-   "url": "https://huggingface.co/neonforestmist/Minimax_H3_Monet_Style_LoRA",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.16221v1",
-   "at": "2026-11-12T03:14:48Z",
-   "model": "",
-   "title": "New arXiv paper: BWM-Forge: Agentic World Programming for Embodied Intelligence",
-   "url": "http://arxiv.org/abs/2611.16221v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.16217v1",
-   "at": "2026-11-12T03:09:18Z",
-   "model": "",
-   "title": "New arXiv paper: WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
-   "url": "http://arxiv.org/abs/2611.16217v1",
    "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
