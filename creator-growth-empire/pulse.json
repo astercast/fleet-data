@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-14T22:19:16Z",
+ "generated_at": "2026-11-15T06:15:32Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-14T22:19:16Z",
+ "last_data_change_at": "2026-11-15T06:15:32Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-14T22:19:14Z",
-   "last_ok_at": "2026-11-14T22:19:14Z",
+   "checked_at": "2026-11-15T06:15:29Z",
+   "last_ok_at": "2026-11-15T06:15:29Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-14T22:19:14Z",
-   "last_ok_at": "2026-11-14T22:19:14Z",
+   "checked_at": "2026-11-15T06:15:30Z",
+   "last_ok_at": "2026-11-15T06:15:30Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-14T22:19:15Z",
-   "last_ok_at": "2026-11-14T22:19:15Z",
+   "checked_at": "2026-11-15T06:15:31Z",
+   "last_ok_at": "2026-11-15T06:15:31Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-14T22:19:14Z",
-   "last_ok_at": "2026-11-14T22:19:14Z",
+   "checked_at": "2026-11-15T06:15:30Z",
+   "last_ok_at": "2026-11-15T06:15:30Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-14T22:19:14Z",
-   "last_ok_at": "2026-11-14T22:19:14Z",
+   "checked_at": "2026-11-15T06:15:30Z",
+   "last_ok_at": "2026-11-15T06:15:30Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-14T22:19:14Z",
+   "checked_at": "2026-11-15T06:15:29Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 70
+   "fails_in_a_row": 71
   },
   {
    "id": "ypp-help",
@@ -79,15 +79,15 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-14T22:19:16Z",
-   "last_ok_at": "2026-11-14T22:19:16Z",
+   "checked_at": "2026-11-15T06:15:32Z",
+   "last_ok_at": "2026-11-15T06:15:32Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
-   "at": "2026-11-14T22:19:16Z",
+   "at": "2026-11-15T06:15:32Z",
    "kind": "source-changed",
    "title": "YouTube Partner Program help page page changed",
    "ref": "https://support.google.com/youtube/answer/72851"
