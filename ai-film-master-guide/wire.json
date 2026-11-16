@@ -1,7 +1,77 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-16T06:13:40Z",
+ "generated_at": "2026-11-16T19:34:38Z",
  "items": [
+  {
+   "id": "hf-ReDiverse/ReDiverse-Pika-H3-Flex",
+   "at": "2026-11-16T19:29:24Z",
+   "model": "ReDiverse/ReDiverse-Pika-H3-Flex",
+   "title": "New text-to-video model listed on Hugging Face: ReDiverse/ReDiverse-Pika-H3-Flex",
+   "url": "https://huggingface.co/ReDiverse/ReDiverse-Pika-H3-Flex",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-orz99/PAN2",
+   "at": "2026-11-16T19:06:32Z",
+   "model": "orz99/PAN2",
+   "title": "New text-to-video model listed on Hugging Face: orz99/PAN2",
+   "url": "https://huggingface.co/orz99/PAN2",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ReDiverse/ReDiverse-MiniMax-H3",
+   "at": "2026-11-16T17:30:21Z",
+   "model": "ReDiverse/ReDiverse-MiniMax-H3",
+   "title": "New text-to-video model listed on Hugging Face: ReDiverse/ReDiverse-MiniMax-H3",
+   "url": "https://huggingface.co/ReDiverse/ReDiverse-MiniMax-H3",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ReDiverse/ReDiverse-Wan2.1",
+   "at": "2026-11-16T17:30:20Z",
+   "model": "ReDiverse/ReDiverse-Wan2.1",
+   "title": "New text-to-video model listed on Hugging Face: ReDiverse/ReDiverse-Wan2.1",
+   "url": "https://huggingface.co/ReDiverse/ReDiverse-Wan2.1",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-AcademiaSD/LTX25-NF4-for-LoRA-Training",
+   "at": "2026-11-16T17:19:24Z",
+   "model": "AcademiaSD/LTX25-NF4-for-LoRA-Training",
+   "title": "New text-to-video model listed on Hugging Face: AcademiaSD/LTX25-NF4-for-LoRA-Training",
+   "url": "https://huggingface.co/AcademiaSD/LTX25-NF4-for-LoRA-Training",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-enoky/sumi-e-ltx-2.5-lora",
+   "at": "2026-11-16T12:58:20Z",
+   "model": "enoky/sumi-e-ltx-2.5-lora",
+   "title": "New text-to-video model listed on Hugging Face: enoky/sumi-e-ltx-2.5-lora",
+   "url": "https://huggingface.co/enoky/sumi-e-ltx-2.5-lora",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-E5M3-AutoRound",
+   "at": "2026-11-16T10:03:28Z",
+   "model": "intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-E5M3-AutoRound",
+   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-E5M3-AutoRound",
+   "url": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-E5M3-AutoRound",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-16",
    "at": "2026-11-16T06:13:33+00:00",
@@ -1429,76 +1499,6 @@
    "title": "New arXiv paper: Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
    "url": "http://arxiv.org/abs/2611.18550v1",
    "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-rahmanbazarov/LTX-Video-int8-ov",
-   "at": "2026-11-13T17:23:50Z",
-   "model": "rahmanbazarov/LTX-Video-int8-ov",
-   "title": "New text-to-video model listed on Hugging Face: rahmanbazarov/LTX-Video-int8-ov",
-   "url": "https://huggingface.co/rahmanbazarov/LTX-Video-int8-ov",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Neurobrix/CogVideoX-2b-nbx",
-   "at": "2026-11-13T09:45:49Z",
-   "model": "Neurobrix/CogVideoX-2b-nbx",
-   "title": "New text-to-video model listed on Hugging Face: Neurobrix/CogVideoX-2b-nbx",
-   "url": "https://huggingface.co/Neurobrix/CogVideoX-2b-nbx",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.17938v1",
-   "at": "2026-11-13T09:21:46Z",
-   "model": "",
-   "title": "New arXiv paper: Measured from the feed: the unsustainable growth of AI video generation",
-   "url": "http://arxiv.org/abs/2611.17938v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Neurobrix/Allegro-nbx",
-   "at": "2026-11-13T08:25:21Z",
-   "model": "Neurobrix/Allegro-nbx",
-   "title": "New text-to-video model listed on Hugging Face: Neurobrix/Allegro-nbx",
-   "url": "https://huggingface.co/Neurobrix/Allegro-nbx",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Neurobrix/Open-Sora-v2-nbx",
-   "at": "2026-11-13T08:25:09Z",
-   "model": "Neurobrix/Open-Sora-v2-nbx",
-   "title": "New text-to-video model listed on Hugging Face: Neurobrix/Open-Sora-v2-nbx",
-   "url": "https://huggingface.co/Neurobrix/Open-Sora-v2-nbx",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Neurobrix/mochi-1-preview-nbx",
-   "at": "2026-11-13T08:25:08Z",
-   "model": "Neurobrix/mochi-1-preview-nbx",
-   "title": "New text-to-video model listed on Hugging Face: Neurobrix/mochi-1-preview-nbx",
-   "url": "https://huggingface.co/Neurobrix/mochi-1-preview-nbx",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Neurobrix/Wan2.1-T2V-1.3B-Diffusers-nbx",
-   "at": "2026-11-13T08:24:54Z",
-   "model": "Neurobrix/Wan2.1-T2V-1.3B-Diffusers-nbx",
-   "title": "New text-to-video model listed on Hugging Face: Neurobrix/Wan2.1-T2V-1.3B-Diffusers-nbx",
-   "url": "https://huggingface.co/Neurobrix/Wan2.1-T2V-1.3B-Diffusers-nbx",
-   "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T22:50:23.362Z",
- "refresh_at": "2026-11-15T22:48:53.867800+00:00",
+ "generated_at": "2026-11-16T19:37:31.116Z",
+ "refresh_at": "2026-11-16T19:35:58.684499+00:00",
  "method": "Lanes: one row per fetcher wired into pipeline/refresh.sh. The 16 file-writing lanes read pipeline/out/<lane>.json. Hit count is that file's array length, source labels are the hits' own recorded `source` values, and freshness compares the file's newest fetched_at (or, for an empty file, its write time) with data/trends.json's generated_at from the same refresh. TikTok and X write no file and are skip-by-design. Movers: per topic, latest stored velocity vs the latest stored point at or before 1h earlier, over the live velocity store merged with the resolution archive (scripts/resolution-lib.js mergeHistory); only pairs spanning 0.5 to 3h count, and the real span is published per mover. The YouTube (Invidious / direct) lane is retired (2026-10-13, DATAOPS-001): out of the refresh loop, stored file deleted, shown with its reason and no hits.",
  "honesty": "Zero invented data: a lane that recorded nothing says so, a file the latest refresh did not rewrite is labeled stale-skip with its hits excluded from the current total, skip-by-design lanes claim no hits, and movers are computed only from stored snapshot points. A topic with no ~1h pair is not a mover, however hot it looks.",
  "provenance": {
@@ -16,7 +16,7 @@
   "lanes_stale_skip": 0,
   "lanes_skip_by_design": 2,
   "lanes_retired": 1,
-  "current_hits": 479,
+  "current_hits": 491,
   "stale_hits_excluded": 0,
   "topics_live": 408,
   "movers_with_hour_pair": 0,
@@ -36,8 +36,8 @@
    "sources": [
     "google-trends"
    ],
-   "newest_fetched_at": "2026-11-15T22:47:42.756110+00:00",
-   "file_written_at": "2026-11-15T22:47:42.755Z",
+   "newest_fetched_at": "2026-11-16T19:34:42.686552+00:00",
+   "file_written_at": "2026-11-16T19:34:42.687Z",
    "detail": "Google Trends daily RSS (US)."
   },
   {
@@ -55,8 +55,8 @@
     "gnews-technology",
     "gnews-top"
    ],
-   "newest_fetched_at": "2026-11-15T22:47:43.653499+00:00",
-   "file_written_at": "2026-11-15T22:47:43.654Z",
+   "newest_fetched_at": "2026-11-16T19:34:44.582379+00:00",
+   "file_written_at": "2026-11-16T19:34:44.582Z",
    "detail": "Google News RSS: top / tech / entertainment / sports / AI feeds."
   },
   {
@@ -79,8 +79,8 @@
     "gnews-q:world news",
     "gnews-top"
    ],
-   "newest_fetched_at": "2026-11-15T22:47:55.650747+00:00",
-   "file_written_at": "2026-11-15T22:47:56.652Z",
+   "newest_fetched_at": "2026-11-16T19:34:57.255377+00:00",
+   "file_written_at": "2026-11-16T19:34:58.256Z",
    "detail": "Google News RSS topic searches."
   },
   {
@@ -93,7 +93,7 @@
    "current_hits": 0,
    "sources": [],
    "newest_fetched_at": null,
-   "file_written_at": "2026-11-15T22:47:56.837Z",
+   "file_written_at": "2026-11-16T19:34:58.566Z",
    "detail": "Reddit public JSON (r/popular, r/memes, r/gaming, r/Music, r/tiktok). PIPELINE.md records this lane as often 403 from datacenters, it skips gracefully; an empty rewritten file is the degraded record, never faked."
   },
   {
@@ -102,13 +102,14 @@
    "fetcher": "pipeline/fetch_reddit_rss.py",
    "output_file": "pipeline/out/reddit_rss.json",
    "status": "live",
-   "hits": 12,
-   "current_hits": 12,
+   "hits": 24,
+   "current_hits": 24,
    "sources": [
-    "reddit-rss:r/news"
+    "reddit-rss:r/news",
+    "reddit-rss:r/television"
    ],
-   "newest_fetched_at": "2026-11-15T22:47:57.253248+00:00",
-   "file_written_at": "2026-11-15T22:47:59.519Z",
+   "newest_fetched_at": "2026-11-16T19:35:01.763291+00:00",
+   "file_written_at": "2026-11-16T19:35:04.215Z",
    "detail": "Reddit subreddit RSS feeds, the lane that carries Reddit when the direct JSON lane is degraded."
   },
   {
@@ -122,8 +123,8 @@
    "sources": [
     "hackernews"
    ],
-   "newest_fetched_at": "2026-11-15T22:48:06.740264+00:00",
-   "file_written_at": "2026-11-15T22:48:06.741Z",
+   "newest_fetched_at": "2026-11-16T19:35:10.914989+00:00",
+   "file_written_at": "2026-11-16T19:35:10.916Z",
    "detail": "Hacker News top/best stories (public Firebase API)."
   },
   {
@@ -137,8 +138,8 @@
    "sources": [
     "mastodon-trends"
    ],
-   "newest_fetched_at": "2026-11-15T22:48:07.832856+00:00",
-   "file_written_at": "2026-11-15T22:48:07.833Z",
+   "newest_fetched_at": "2026-11-16T19:35:12.144717+00:00",
+   "file_written_at": "2026-11-16T19:35:12.145Z",
    "detail": "Mastodon fediverse trending hashtags (/api/v1/trends/tags, repaired wave 20)."
   },
   {
@@ -152,8 +153,8 @@
    "sources": [
     "bluesky-trending"
    ],
-   "newest_fetched_at": "2026-11-15T22:48:08.125813+00:00",
-   "file_written_at": "2026-11-15T22:48:08.126Z",
+   "newest_fetched_at": "2026-11-16T19:35:12.327027+00:00",
+   "file_written_at": "2026-11-16T19:35:12.327Z",
    "detail": "Bluesky trending topics (keyless public API)."
   },
   {
@@ -167,8 +168,8 @@
    "sources": [
     "lemmy-hot"
    ],
-   "newest_fetched_at": "2026-11-15T22:48:08.603525+00:00",
-   "file_written_at": "2026-11-15T22:48:08.604Z",
+   "newest_fetched_at": "2026-11-16T19:35:12.903425+00:00",
+   "file_written_at": "2026-11-16T19:35:12.903Z",
    "detail": "Lemmy fediverse hot posts (lemmy.world public API, keyless). Added 2026-10-24 freshness widening: a second fediverse lane alongside Mastodon/Bluesky."
   },
   {
@@ -180,11 +181,11 @@
    "hits": 20,
    "current_hits": 20,
    "sources": [
-    "apple-music-chart",
-    "apple-podcasts-chart"
+    "apple-appstore-chart",
+    "apple-music-chart"
    ],
-   "newest_fetched_at": "2026-11-15T22:48:31.115878+00:00",
-   "file_written_at": "2026-11-15T22:48:31.116Z",
+   "newest_fetched_at": "2026-11-16T19:35:15.581473+00:00",
+   "file_written_at": "2026-11-16T19:35:35.628Z",
    "detail": "Completeness build B1 (2026-10-15): the board's first chart lane. Apple Marketing Tools keyless JSON feeds: US most-played songs, top free apps, top podcasts, 10 rows each. Evidence type: makeable (categories music / tech / culture), a chart row is something to make, never straight news. The fetcher saves an empty file on total failure, so the lane reads degraded rather than posing as live."
   },
   {
@@ -198,8 +199,8 @@
    "sources": [
     "wikipedia-most-read"
    ],
-   "newest_fetched_at": "2026-11-15T22:48:31.278237+00:00",
-   "file_written_at": "2026-11-15T22:48:31.279Z",
+   "newest_fetched_at": "2026-11-16T19:35:35.866019+00:00",
+   "file_written_at": "2026-11-16T19:35:35.866Z",
    "detail": "Completeness build B2 (2026-10-15): lookup interest, the previous day's most-read English Wikipedia articles with view counts (Wikimedia REST API, keyless, one request). Evidence type: news (category news, listed apart on the board like other straight news). Housekeeping pages are filtered out by the fetcher; on failure it saves an empty file, so the lane reads degraded rather than posing as live."
   },
   {
@@ -212,7 +213,7 @@
    "current_hits": 0,
    "sources": [],
    "newest_fetched_at": null,
-   "file_written_at": "2026-11-15T22:48:32.549Z",
+   "file_written_at": "2026-11-16T19:35:36.714Z",
    "detail": "Completeness build B3 (2026-10-15): streaming charts. Netflix's official all-weeks global TSV (903,899 bytes measured 2026-10-15), newest week only, top 5 of each of the four global charts, 20 hits at most. Evidence type: makeable (category entertainment). The fetcher saves an empty file on failure, so the lane reads degraded rather than posing as live."
   },
   {
@@ -248,8 +249,8 @@
     "yt-rss:VEVO",
     "yt-rss:pewdiepie"
    ],
-   "newest_fetched_at": "2026-11-15T22:48:42.412648+00:00",
-   "file_written_at": "2026-11-15T22:48:43.413Z",
+   "newest_fetched_at": "2026-11-16T19:35:46.579510+00:00",
+   "file_written_at": "2026-11-16T19:35:47.580Z",
    "detail": "YouTube channel RSS with channel-page fallback, the lane that carries YouTube."
   },
   {
@@ -266,8 +267,8 @@
     "gnews-q:Twitch streamer",
     "gnews-q:streamer subathon OR TwitchCon"
    ],
-   "newest_fetched_at": "2026-11-15T22:48:47.813816+00:00",
-   "file_written_at": "2026-11-15T22:48:48.814Z",
+   "newest_fetched_at": "2026-11-16T19:35:52.374518+00:00",
+   "file_written_at": "2026-11-16T19:35:53.375Z",
    "detail": "Wave 29: the Streamer Desk's live lane: Google News RSS searches for the streamer beat (Twitch streamers, the Desk's houses, tentpole events). Headlines only: this lane feeds the beat's news sense, never the Desk's directory facts, those are curated and sourced in data/streamer_desk.json. The fetcher saves an empty file on total failure, so the lane reads degraded rather than posing as live."
   },
   {
@@ -281,8 +282,8 @@
    "sources": [
     "steam"
    ],
-   "newest_fetched_at": "2026-11-15T22:48:53.783860+00:00",
-   "file_written_at": "2026-11-15T22:48:53.783Z",
+   "newest_fetched_at": "2026-11-16T19:35:58.610389+00:00",
+   "file_written_at": "2026-11-16T19:35:58.610Z",
    "detail": "Completeness wave (2026-10-15): Steam's keyless ISteamChartsService weekly rollup, names resolved via the store appdetails endpoint; the player-count lane. The fetcher ran natively on 2026-10-15 and its stored output is that run (25 games, Counter-Strike 2 on top at 1,280,126 peak players; the API rollup and Steam's official most-played chart agree at the top). The lane reads stale-skip only against the board's 2026-10-13 snapshot anchor: real hits, dated, excluded from the current total until the next full refresh."
   },
   {
