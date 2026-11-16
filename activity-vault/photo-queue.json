@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-15T12:15:24Z",
+ "generated_at": "2026-11-16T13:08:46Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -849,6 +849,17 @@
    "activity_id": "personal-map-introductions",
    "activity_name": "Personal Map Introductions",
    "queued_at": "2026-11-15T12:15:23Z"
+  },
+  {
+   "commons_title": "File:Dedication of a Church in the New York Times on August 20, 1877.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Dedication_of_a_Church_in_the_New_York_Times_on_August_20,_1877.png",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dedication_of_a_Church_in_the_New_York_Times_on_August_20%2C_1877.png/500px-Dedication_of_a_Church_in_the_New_York_Times_on_August_20%2C_1877.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "first-rounds-singing-circle",
+   "activity_name": "First Rounds: Singing in Canon",
+   "queued_at": "2026-11-16T13:08:42Z"
   }
  ]
 }

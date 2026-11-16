@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-15T12:14:23Z",
+ "generated_at": "2026-11-16T13:07:48Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-15T12:14:23Z",
+ "last_data_change_at": "2026-11-16T13:07:48Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 59,
-   "checked_at": "2026-11-15T12:14:20Z",
-   "last_ok_at": "2026-11-15T12:14:20Z",
+   "checked_at": "2026-11-16T13:07:44Z",
+   "last_ok_at": "2026-11-16T13:07:44Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 59,
-   "checked_at": "2026-11-15T12:14:23Z",
-   "last_ok_at": "2026-11-15T12:14:23Z",
+   "items": 60,
+   "checked_at": "2026-11-16T13:07:48Z",
+   "last_ok_at": "2026-11-16T13:07:48Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-15T12:14:23Z",
-   "last_ok_at": "2026-11-15T12:14:23Z",
+   "checked_at": "2026-11-16T13:07:48Z",
+   "last_ok_at": "2026-11-16T13:07:48Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,24 +46,30 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 57,
-   "checked_at": "2026-11-15T12:14:23Z",
-   "last_ok_at": "2026-11-15T12:14:23Z",
+   "checked_at": "2026-11-16T13:07:47Z",
+   "last_ok_at": "2026-11-16T13:07:47Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
+   "at": "2026-11-16T13:07:48Z",
+   "kind": "story",
+   "title": "Marvel Legends Maximum Series Thor Unboxing and Figure Review - YouTube",
+   "ref": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44c3VzQmxic242MzdndnliSFU2UXB3N01ZVFhXdW1NZFhQNkUwRnpobWtsMXBhRlRldUo5b1hoZkM2ZTA1REpSTWQ0cVlIUUUzWDRSdHJrQ19WN0ZB?oc=5"
+  },
+  {
+   "at": "2026-11-16T13:07:48Z",
+   "kind": "preorder",
+   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
+   "ref": "radar.html"
+  },
+  {
    "at": "2026-11-15T12:14:23Z",
    "kind": "story",
    "title": "Marvel legends assemble to inspire next generation of engineering super heroes! - GOV.UK",
    "ref": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDk2S0dQVDhPOHZ6RFVYa0lLWmJCcEVublA4WFZzNmJLbFpEWTZhWkVIdFFpdGFXdTFlM0VPeE5ScDVrVFdjaDR4QTZ5SWRSMzhOOTF1bzhzQUV0NmRfU20tMEVnN013dzlJSVR4NjRpazJKcXd2MUZ6UkdkRV9RUVJ2WnpqNFFteEpSUXpDTXZfVFlMT2V1Q0tBYThKYzR1bFlCY1pIMGxILUgyODZDdTlGdw?oc=5"
-  },
-  {
-   "at": "2026-11-15T12:14:23Z",
-   "kind": "preorder",
-   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
-   "ref": "radar.html"
   },
   {
    "at": "2026-11-14T11:43:56Z",
@@ -400,12 +406,6 @@
    "kind": "story",
    "title": "Henry Cavill’s Wolverine Gets Marvel Legends Figure As MCU Rumors Continue - Cosmic Book News",
    "ref": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN2FLSGVNSVVfMVE0ZnM5SG5EQjctS2xVTDU2aFlNUE1iaDlVbEpYY3Q3VnRfUWllMWpYXzRXX1RiS2RLVTN6TDJXdmh4bDJCQlBLTVZCajhtQzJlUXMzdjRNMGJfRTI2X1Rxd3N0SjVpcVNZcDEw?oc=5"
-  },
-  {
-   "at": "2026-10-26T10:29:41Z",
-   "kind": "story",
-   "title": "Marvel Legends Marvels Box Build-A-Figure Wave Preorder - Toy Habits",
-   "ref": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUxqV0cyc0g1MzlNdFBoZXpuSXJFUDdhVlo2TXNXZGVLY3V5VkxQQ1pZMG1NcWl6YjdvT1IwY3ZvdEp0Qmd2T1BtUkZscFVWS3loZzJBVmVzcnRlcXhDVkNvcmpsYzkzeEk4Q2M2QTBpTEc0SlJoYTZKYXdIRklBc2hBaEI?oc=5"
   }
  ]
 }
