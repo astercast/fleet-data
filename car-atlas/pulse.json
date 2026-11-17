@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-16T19:37:42Z",
+ "generated_at": "2026-11-17T03:47:48Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-16T19:37:42Z",
+ "last_data_change_at": "2026-11-17T03:47:48Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 69,
-   "checked_at": "2026-11-16T19:37:39Z",
-   "last_ok_at": "2026-11-16T19:37:39Z",
+   "items": 36,
+   "checked_at": "2026-11-17T03:47:47Z",
+   "last_ok_at": "2026-11-17T03:47:47Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,61 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12430,
-   "checked_at": "2026-11-16T19:37:42Z",
-   "last_ok_at": "2026-11-16T19:37:42Z",
+   "checked_at": "2026-11-17T03:47:48Z",
+   "last_ok_at": "2026-11-17T03:47:48Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-17T03:47:48Z",
+   "kind": "sale",
+   "title": "1997 Jeep Grand Cherokee 5.2 Limited 4×4",
+   "ref": "https://bringatrailer.com/listing/1997-jeep-grand-cherokee-23/"
+  },
+  {
+   "at": "2026-11-17T03:47:48Z",
+   "kind": "sale",
+   "title": "1990 Jaguar XJ-S V12 Convertible",
+   "ref": "https://bringatrailer.com/listing/1990-jaguar-xj-s-v12-convertible-57/"
+  },
+  {
+   "at": "2026-11-17T03:47:48Z",
+   "kind": "sale",
+   "title": "13k-Mile 2012 Porsche 911 Carrera Coupe Black Edition 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2012-porsche-911-997-carrera-coupe-12/"
+  },
+  {
+   "at": "2026-11-17T03:47:48Z",
+   "kind": "sale",
+   "title": "2002 Toyota Tacoma SR5 Xtracab TRD V6 4&#215;4 5-Speed",
+   "ref": "https://bringatrailer.com/listing/2002-toyota-tacoma-92-2/"
+  },
+  {
+   "at": "2026-11-17T03:47:48Z",
+   "kind": "sale",
+   "title": "2005 BMW X5 4.4i",
+   "ref": "https://bringatrailer.com/listing/2005-bmw-x5-52/"
+  },
+  {
+   "at": "2026-11-17T03:47:48Z",
+   "kind": "sale",
+   "title": "2015 Volvo V60 T6 R-Design",
+   "ref": "https://bringatrailer.com/listing/2015-volvo-v60-15/"
+  },
+  {
+   "at": "2026-11-17T03:47:48Z",
+   "kind": "sale",
+   "title": "1969 Chevrolet Camaro Z/28 Coupe 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1969-chevrolet-camaro-z-28-303-2/"
+  },
+  {
+   "at": "2026-11-17T03:47:48Z",
+   "kind": "sale",
+   "title": "Ram Jet 350-Powered 1964 Chevrolet Corvette Convertible",
+   "ref": "https://bringatrailer.com/listing/1964-chevrolet-corvette-394/"
+  },
   {
    "at": "2026-11-16T19:37:42Z",
    "kind": "sale",
@@ -342,54 +390,6 @@
    "kind": "sale",
    "title": "1987 Porsche 911 Carrera Targa G50",
    "ref": "https://bringatrailer.com/listing/1987-porsche-911-carrera-targa-146/"
-  },
-  {
-   "at": "2026-11-13T19:39:53Z",
-   "kind": "sale",
-   "title": "1976 Toyota Corolla Deluxe Liftback",
-   "ref": "https://bringatrailer.com/listing/1976-toyota-corolla-6/"
-  },
-  {
-   "at": "2026-11-13T19:39:53Z",
-   "kind": "sale",
-   "title": "16k-Mile 1988 Chevrolet Corvette Callaway Twin Turbo Convertible 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1988-chevrolet-corvette-callaway-twin-turbo-9/"
-  },
-  {
-   "at": "2026-11-13T19:39:53Z",
-   "kind": "sale",
-   "title": "Lingenfelter-Modified 2019 Chevrolet Corvette Z06 Coupe 2LZ",
-   "ref": "https://bringatrailer.com/listing/2019-chevrolet-corvette-z06-coupe-63/"
-  },
-  {
-   "at": "2026-11-13T19:39:53Z",
-   "kind": "sale",
-   "title": "2006 BMW M3 Competition Package Coupe 6-Speed Conversion",
-   "ref": "https://bringatrailer.com/listing/2006-bmw-m3-coupe-208/"
-  },
-  {
-   "at": "2026-11-13T19:39:53Z",
-   "kind": "sale",
-   "title": "30-Years-Family-Owned 1994 Dodge Viper RT/10",
-   "ref": "https://bringatrailer.com/listing/1994-dodge-viper-rt-10-116/"
-  },
-  {
-   "at": "2026-11-13T19:39:53Z",
-   "kind": "sale",
-   "title": "502-Powered 1957 Chevrolet Bel Air 2-Door Hardtop",
-   "ref": "https://bringatrailer.com/listing/1957-chevrolet-bel-air-388/"
-  },
-  {
-   "at": "2026-11-13T19:39:53Z",
-   "kind": "sale",
-   "title": "23-Years-Owned 1962 Chevrolet Corvette 327/250 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1962-chevrolet-corvette-420/"
-  },
-  {
-   "at": "2026-11-13T19:39:53Z",
-   "kind": "sale",
-   "title": "1994 Jeep Wrangler Sahara 4.0 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1994-jeep-wrangler-83/"
   }
  ]
 }

@@ -241,6 +241,7 @@
   "pmczip/MiniMaxH3_RefMod",
   "rahmanbazarov/LTX-Video-int8-ov",
   "rajivmeduri/LTX-2.3-uncensored-v1.4-FP8",
+  "rkcth/Wan-2.2-TI2V-5B-Radiance-BF16",
   "romainkh14/brimkern-ltx-BRIK",
   "rzgar/TaoMate-HD-preview-T2V-Comfy",
   "sanjeevkumar70550932/LTX-Video-0.9.7-distilled",
@@ -450,7 +451,11 @@
   "http://arxiv.org/abs/2611.17336v1",
   "http://arxiv.org/abs/2611.17785v1",
   "http://arxiv.org/abs/2611.17938v1",
-  "http://arxiv.org/abs/2611.18550v1"
+  "http://arxiv.org/abs/2611.18550v1",
+  "http://arxiv.org/abs/2611.18822v1",
+  "http://arxiv.org/abs/2611.18866v1",
+  "http://arxiv.org/abs/2611.19215v1",
+  "http://arxiv.org/abs/2611.19559v1"
  ],
  "hn": [
   "14950122",
@@ -499,6 +504,7 @@
   "tag:github.com,2008:Repository/589831718/v0.45.1",
   "tag:github.com,2008:Repository/589831718/v0.45.2",
   "tag:github.com,2008:Repository/589831718/v0.45.3",
-  "tag:github.com,2008:Repository/589831718/v0.45.4"
+  "tag:github.com,2008:Repository/589831718/v0.45.4",
+  "tag:github.com,2008:Repository/589831718/v0.45.5"
  ]
 }
