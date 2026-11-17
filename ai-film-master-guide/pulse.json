@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-17T03:45:22Z",
+ "generated_at": "2026-11-17T15:57:21Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-17T03:45:22Z",
+ "last_data_change_at": "2026-11-17T15:57:21Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
-   "items": 154,
-   "checked_at": "2026-11-17T03:45:18Z",
-   "last_ok_at": "2026-11-17T03:45:18Z",
+   "items": 165,
+   "checked_at": "2026-11-17T15:57:18Z",
+   "last_ok_at": "2026-11-17T15:57:18Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-17T03:45:22Z",
-   "last_ok_at": "2026-11-17T03:45:22Z",
+   "checked_at": "2026-11-17T15:57:21Z",
+   "last_ok_at": "2026-11-17T15:57:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-17T03:45:17Z",
-   "last_ok_at": "2026-11-17T03:45:17Z",
+   "checked_at": "2026-11-17T15:57:18Z",
+   "last_ok_at": "2026-11-17T15:57:18Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-17T03:45:18Z",
-   "last_ok_at": "2026-11-17T03:45:18Z",
+   "checked_at": "2026-11-17T15:57:18Z",
+   "last_ok_at": "2026-11-17T15:57:18Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,121 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-17T03:45:17Z",
-   "last_ok_at": "2026-11-17T03:45:17Z",
+   "checked_at": "2026-11-17T15:57:17Z",
+   "last_ok_at": "2026-11-17T15:57:17Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Dorotheou/Wan2.2-T2V-A14B",
+   "ref": "https://huggingface.co/Dorotheou/Wan2.2-T2V-A14B"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Statite/StrideAR",
+   "ref": "https://huggingface.co/Statite/StrideAR"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: QrusherZA/H3_Turbo_ComfyUI",
+   "ref": "https://huggingface.co/QrusherZA/H3_Turbo_ComfyUI"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ZY-Dijkstra/Disen-Forcing",
+   "ref": "https://huggingface.co/ZY-Dijkstra/Disen-Forcing"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: LiqunMa/speed",
+   "ref": "https://huggingface.co/LiqunMa/speed"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Xylolabs/Wan2.2-UMT5-Tenstorrent-Tensix-Components",
+   "ref": "https://huggingface.co/Xylolabs/Wan2.2-UMT5-Tenstorrent-Tensix-Components"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: SimpleTuner/minimax-h3-image-training-assistant",
+   "ref": "https://huggingface.co/SimpleTuner/minimax-h3-image-training-assistant"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Reference Forcing: Long Video Generation with Region-Guided Drift Correction",
+   "ref": "http://arxiv.org/abs/2611.21559v1"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+   "ref": "http://arxiv.org/abs/2611.21373v1"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos",
+   "ref": "http://arxiv.org/abs/2611.21339v1"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection",
+   "ref": "http://arxiv.org/abs/2611.21114v1"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: ScoutCache: Efficient Few-Step Autoregressive Video Diffusion via Conditional Readout and Selective Caching",
+   "ref": "http://arxiv.org/abs/2611.21038v1"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Sparse Attention for Visual Generation: Toward Algorithm-System Co-Design",
+   "ref": "http://arxiv.org/abs/2611.21029v1"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: SciWorldBench: Do Video World Models Really Understand Scientific Experiments?",
+   "ref": "http://arxiv.org/abs/2611.20899v1"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: QASK-Edit: Adaptive Sparse Attention Across Queries and Key Sources for Efficient Video Editing",
+   "ref": "http://arxiv.org/abs/2611.20704v1"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: VAHBench: A Harness Benchmark for Agentic Long-Video Generation",
+   "ref": "http://arxiv.org/abs/2611.20535v1"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: BlockAlign: Preference Optimization for Trajectory-Distilled Video Generation",
+   "ref": "http://arxiv.org/abs/2611.20351v1"
+  },
+  {
+   "at": "2026-11-17T15:57:21Z",
+   "kind": "paper",
+   "title": "New arXiv paper: PoCoAttn: Position-Content Collaborative Sparse Attention for Fast and High-Fidelity Video Generation",
+   "ref": "http://arxiv.org/abs/2611.20307v1"
+  },
   {
    "at": "2026-11-17T03:45:22Z",
    "kind": "price-signal",
@@ -315,48 +423,6 @@
    "kind": "release",
    "title": "comfyui release: v0.45.5",
    "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.5"
-  },
-  {
-   "at": "2026-11-16T19:34:38Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: ReDiverse/ReDiverse-Pika-H3-Flex",
-   "ref": "https://huggingface.co/ReDiverse/ReDiverse-Pika-H3-Flex"
-  },
-  {
-   "at": "2026-11-16T19:34:38Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: orz99/PAN2",
-   "ref": "https://huggingface.co/orz99/PAN2"
-  },
-  {
-   "at": "2026-11-16T19:34:38Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: ReDiverse/ReDiverse-MiniMax-H3",
-   "ref": "https://huggingface.co/ReDiverse/ReDiverse-MiniMax-H3"
-  },
-  {
-   "at": "2026-11-16T19:34:38Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: ReDiverse/ReDiverse-Wan2.1",
-   "ref": "https://huggingface.co/ReDiverse/ReDiverse-Wan2.1"
-  },
-  {
-   "at": "2026-11-16T19:34:38Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: AcademiaSD/LTX25-NF4-for-LoRA-Training",
-   "ref": "https://huggingface.co/AcademiaSD/LTX25-NF4-for-LoRA-Training"
-  },
-  {
-   "at": "2026-11-16T19:34:38Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: enoky/sumi-e-ltx-2.5-lora",
-   "ref": "https://huggingface.co/enoky/sumi-e-ltx-2.5-lora"
-  },
-  {
-   "at": "2026-11-16T19:34:38Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-E5M3-AutoRound",
-   "ref": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-E5M3-AutoRound"
   }
  ]
 }

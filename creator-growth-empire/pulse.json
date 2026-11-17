@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-17T03:45:24Z",
+ "generated_at": "2026-11-17T15:57:24Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-17T03:45:23Z",
+ "last_data_change_at": "2026-11-17T15:57:22Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-17T03:45:23Z",
-   "last_ok_at": "2026-11-17T03:45:23Z",
+   "checked_at": "2026-11-17T15:57:21Z",
+   "last_ok_at": "2026-11-17T15:57:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-17T03:45:23Z",
-   "last_ok_at": "2026-11-17T03:45:23Z",
+   "checked_at": "2026-11-17T15:57:22Z",
+   "last_ok_at": "2026-11-17T15:57:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-17T03:45:24Z",
-   "last_ok_at": "2026-11-17T03:45:24Z",
+   "checked_at": "2026-11-17T15:57:23Z",
+   "last_ok_at": "2026-11-17T15:57:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-17T03:45:23Z",
-   "last_ok_at": "2026-11-17T03:45:23Z",
+   "checked_at": "2026-11-17T15:57:22Z",
+   "last_ok_at": "2026-11-17T15:57:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-17T03:45:23Z",
-   "last_ok_at": "2026-11-17T03:45:23Z",
+   "checked_at": "2026-11-17T15:57:22Z",
+   "last_ok_at": "2026-11-17T15:57:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-17T03:45:22Z",
+   "checked_at": "2026-11-17T15:57:21Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 76
+   "fails_in_a_row": 77
   },
   {
    "id": "ypp-help",
@@ -79,13 +79,31 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-17T03:45:24Z",
-   "last_ok_at": "2026-11-17T03:45:24Z",
+   "checked_at": "2026-11-17T15:57:24Z",
+   "last_ok_at": "2026-11-17T15:57:24Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-17T15:57:22Z",
+   "kind": "change",
+   "title": "An Update on the Content We Recommend on Instagram in India",
+   "ref": "https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/"
+  },
+  {
+   "at": "2026-11-17T15:57:23Z",
+   "kind": "source-changed",
+   "title": "TikTok Newsroom page changed",
+   "ref": "https://newsroom.tiktok.com/en-us/"
+  },
+  {
+   "at": "2026-11-17T15:57:24Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
   {
    "at": "2026-11-17T03:45:23Z",
    "kind": "change",
@@ -103,18 +121,6 @@
    "kind": "change",
    "title": "Instagram adds Amazon affiliate links",
    "ref": "https://www.socialmediatoday.com/news/instagram-adds-amazon-affiliate-links/874817/"
-  },
-  {
-   "at": "2026-11-17T03:45:24Z",
-   "kind": "source-changed",
-   "title": "TikTok Newsroom page changed",
-   "ref": "https://newsroom.tiktok.com/en-us/"
-  },
-  {
-   "at": "2026-11-17T03:45:24Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
   },
   {
    "at": "2026-11-16T06:13:41Z",
@@ -427,12 +433,6 @@
    "kind": "change",
    "title": "Meta delays business terms update over data scraping concerns",
    "ref": "https://www.socialmediatoday.com/news/meta-delays-business-terms-update-over-data-scraping-concerns/833905/"
-  },
-  {
-   "at": "2026-10-25T11:17:39Z",
-   "kind": "change",
-   "title": "Meta hit with $25B fine over privacy breaches",
-   "ref": "https://www.socialmediatoday.com/news/meta-hit-with-25b-fine-over-privacy-breaches/833798/"
   }
  ]
 }

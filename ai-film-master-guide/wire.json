@@ -1,7 +1,67 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-17T03:45:22Z",
+ "generated_at": "2026-11-17T15:57:21Z",
  "items": [
+  {
+   "id": "hf-Dorotheou/Wan2.2-T2V-A14B",
+   "at": "2026-11-17T14:42:24Z",
+   "model": "Dorotheou/Wan2.2-T2V-A14B",
+   "title": "New text-to-video model listed on Hugging Face: Dorotheou/Wan2.2-T2V-A14B",
+   "url": "https://huggingface.co/Dorotheou/Wan2.2-T2V-A14B",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Statite/StrideAR",
+   "at": "2026-11-17T13:44:21Z",
+   "model": "Statite/StrideAR",
+   "title": "New text-to-video model listed on Hugging Face: Statite/StrideAR",
+   "url": "https://huggingface.co/Statite/StrideAR",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-QrusherZA/H3_Turbo_ComfyUI",
+   "at": "2026-11-17T10:45:41Z",
+   "model": "QrusherZA/H3_Turbo_ComfyUI",
+   "title": "New text-to-video model listed on Hugging Face: QrusherZA/H3_Turbo_ComfyUI",
+   "url": "https://huggingface.co/QrusherZA/H3_Turbo_ComfyUI",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-ZY-Dijkstra/Disen-Forcing",
+   "at": "2026-11-17T10:00:50Z",
+   "model": "ZY-Dijkstra/Disen-Forcing",
+   "title": "New text-to-video model listed on Hugging Face: ZY-Dijkstra/Disen-Forcing",
+   "url": "https://huggingface.co/ZY-Dijkstra/Disen-Forcing",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-LiqunMa/speed",
+   "at": "2026-11-17T08:49:52Z",
+   "model": "LiqunMa/speed",
+   "title": "New text-to-video model listed on Hugging Face: LiqunMa/speed",
+   "url": "https://huggingface.co/LiqunMa/speed",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Xylolabs/Wan2.2-UMT5-Tenstorrent-Tensix-Components",
+   "at": "2026-11-17T08:43:55Z",
+   "model": "Xylolabs/Wan2.2-UMT5-Tenstorrent-Tensix-Components",
+   "title": "New text-to-video model listed on Hugging Face: Xylolabs/Wan2.2-UMT5-Tenstorrent-Tensix-Components",
+   "url": "https://huggingface.co/Xylolabs/Wan2.2-UMT5-Tenstorrent-Tensix-Components",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-17",
    "at": "2026-11-17T03:45:15+00:00",
@@ -383,6 +443,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "hf-SimpleTuner/minimax-h3-image-training-assistant",
+   "at": "2026-11-17T00:29:08Z",
+   "model": "SimpleTuner/minimax-h3-image-training-assistant",
+   "title": "New text-to-video model listed on Hugging Face: SimpleTuner/minimax-h3-image-training-assistant",
+   "url": "https://huggingface.co/SimpleTuner/minimax-h3-image-training-assistant",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-ReDiverse/ReDiverse-Pika-H3-Flex",
    "at": "2026-11-16T19:29:24Z",
    "model": "ReDiverse/ReDiverse-Pika-H3-Flex",
@@ -399,6 +469,16 @@
    "title": "New text-to-video model listed on Hugging Face: orz99/PAN2",
    "url": "https://huggingface.co/orz99/PAN2",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.21559v1",
+   "at": "2026-11-16T18:39:47Z",
+   "model": "",
+   "title": "New arXiv paper: Reference Forcing: Long Video Generation with Region-Guided Drift Correction",
+   "url": "http://arxiv.org/abs/2611.21559v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -433,6 +513,36 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.21373v1",
+   "at": "2026-11-16T16:36:14Z",
+   "model": "",
+   "title": "New arXiv paper: WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+   "url": "http://arxiv.org/abs/2611.21373v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.21339v1",
+   "at": "2026-11-16T16:21:07Z",
+   "model": "",
+   "title": "New arXiv paper: MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos",
+   "url": "http://arxiv.org/abs/2611.21339v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.21114v1",
+   "at": "2026-11-16T13:59:03Z",
+   "model": "",
+   "title": "New arXiv paper: VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection",
+   "url": "http://arxiv.org/abs/2611.21114v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-enoky/sumi-e-ltx-2.5-lora",
    "at": "2026-11-16T12:58:20Z",
    "model": "enoky/sumi-e-ltx-2.5-lora",
@@ -443,12 +553,52 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.21038v1",
+   "at": "2026-11-16T12:57:16Z",
+   "model": "",
+   "title": "New arXiv paper: ScoutCache: Efficient Few-Step Autoregressive Video Diffusion via Conditional Readout and Selective Caching",
+   "url": "http://arxiv.org/abs/2611.21038v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.21029v1",
+   "at": "2026-11-16T12:48:15Z",
+   "model": "",
+   "title": "New arXiv paper: Sparse Attention for Visual Generation: Toward Algorithm-System Co-Design",
+   "url": "http://arxiv.org/abs/2611.21029v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.20899v1",
+   "at": "2026-11-16T11:09:07Z",
+   "model": "",
+   "title": "New arXiv paper: SciWorldBench: Do Video World Models Really Understand Scientific Experiments?",
+   "url": "http://arxiv.org/abs/2611.20899v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-E5M3-AutoRound",
    "at": "2026-11-16T10:03:28Z",
    "model": "intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-E5M3-AutoRound",
    "title": "New text-to-video model listed on Hugging Face: intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-E5M3-AutoRound",
    "url": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-E5M3-AutoRound",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.20704v1",
+   "at": "2026-11-16T08:12:44Z",
+   "model": "",
+   "title": "New arXiv paper: QASK-Edit: Adaptive Sparse Attention Across Queries and Key Sources for Efficient Video Editing",
+   "url": "http://arxiv.org/abs/2611.20704v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -813,12 +963,42 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.20535v1",
+   "at": "2026-11-16T05:11:08Z",
+   "model": "",
+   "title": "New arXiv paper: VAHBench: A Harness Benchmark for Agentic Long-Video Generation",
+   "url": "http://arxiv.org/abs/2611.20535v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-yang29/afd-baseline-checkpoints",
    "at": "2026-11-16T02:57:30Z",
    "model": "yang29/afd-baseline-checkpoints",
    "title": "New text-to-video model listed on Hugging Face: yang29/afd-baseline-checkpoints",
    "url": "https://huggingface.co/yang29/afd-baseline-checkpoints",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.20351v1",
+   "at": "2026-11-16T00:28:08Z",
+   "model": "",
+   "title": "New arXiv paper: BlockAlign: Preference Optimization for Trajectory-Distilled Video Generation",
+   "url": "http://arxiv.org/abs/2611.20351v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.20307v1",
+   "at": "2026-11-15T23:10:35Z",
+   "model": "",
+   "title": "New arXiv paper: PoCoAttn: Position-Content Collaborative Sparse Attention for Fast and High-Fidelity Video Generation",
+   "url": "http://arxiv.org/abs/2611.20307v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -1319,186 +1499,6 @@
    "title": "Marketing Studio video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://higgsfield.ai/pricing",
    "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Pika 2.5-2026-11-15",
-   "at": "2026-11-15T06:13:22+00:00",
-   "model": "Pika 2.5",
-   "title": "Pika 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://alphasignal.ai/news/pika-rebuilds-into-a-full-creative-studio-routing-across-seven-ai-tools",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Luma App / Ray 3.2-2026-11-15",
-   "at": "2026-11-15T06:13:16+00:00",
-   "model": "Luma App / Ray 3.2",
-   "title": "Luma App / Ray 3.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://magichour.ai/blog/kling-vs-pika-vs-luma",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-MiniMax H3-2026-11-15",
-   "at": "2026-11-15T06:13:01+00:00",
-   "model": "MiniMax H3",
-   "title": "MiniMax H3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://pixo.video/blog/what-is-minimax-h3",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Hailuo 02 / 2.3-2026-11-15",
-   "at": "2026-11-15T06:12:51+00:00",
-   "model": "Hailuo 02 / 2.3",
-   "title": "Hailuo 02 / 2.3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://magichour.ai/blog/hailuo-23-pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 3.0 / 3.0 Prime-2026-11-15",
-   "at": "2026-11-15T06:12:43+00:00",
-   "model": "Wan 3.0 / 3.0 Prime",
-   "title": "Wan 3.0 / 3.0 Prime: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.makeinfluencer.ai/guides/best-ai-video-generators-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Sora 2 / Pro / Max-2026-11-15",
-   "at": "2026-11-15T06:12:34+00:00",
-   "model": "Sora 2 / Pro / Max",
-   "title": "Sora 2 / Pro / Max: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://dev.to/stimlau/sora-vs-runway-openai-killed-sora-now-what-2692",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1 Fast / Veo 3-2026-11-15",
-   "at": "2026-11-15T06:12:29+00:00",
-   "model": "Veo 3.1 Fast / Veo 3",
-   "title": "Veo 3.1 Fast / Veo 3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://mer.vin/2026/09/which-ai-video-models-actually-take-a-first-and-last-frame/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1-2026-11-15",
-   "at": "2026-11-15T06:12:19+00:00",
-   "model": "Veo 3.1",
-   "title": "Veo 3.1: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Kling 3.0-2026-11-15",
-   "at": "2026-11-15T06:12:09+00:00",
-   "model": "Kling 3.0",
-   "title": "Kling 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 3.0-2026-11-15",
-   "at": "2026-11-15T06:12:02+00:00",
-   "model": "Seedance 3.0",
-   "title": "Seedance 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.highonfilms.com/seedance-3-0-provider-checks/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 2.5-2026-11-15",
-   "at": "2026-11-15T06:11:57+00:00",
-   "model": "Seedance 2.5",
-   "title": "Seedance 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://cellcog.ai/blog/seedance-2-5-pricing/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Raretutor/RT_Magic_Lora",
-   "at": "2026-11-15T05:31:37Z",
-   "model": "Raretutor/RT_Magic_Lora",
-   "title": "New text-to-video model listed on Hugging Face: Raretutor/RT_Magic_Lora",
-   "url": "https://huggingface.co/Raretutor/RT_Magic_Lora",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-mmiiguell10/LTX-2.5-int8-comfy",
-   "at": "2026-11-14T20:57:52Z",
-   "model": "mmiiguell10/LTX-2.5-int8-comfy",
-   "title": "New text-to-video model listed on Hugging Face: mmiiguell10/LTX-2.5-int8-comfy",
-   "url": "https://huggingface.co/mmiiguell10/LTX-2.5-int8-comfy",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-infosave/FastH3-4-step-Preview-v1-VSA-cmf",
-   "at": "2026-11-14T20:31:56Z",
-   "model": "infosave/FastH3-4-step-Preview-v1-VSA-cmf",
-   "title": "New text-to-video model listed on Hugging Face: infosave/FastH3-4-step-Preview-v1-VSA-cmf",
-   "url": "https://huggingface.co/infosave/FastH3-4-step-Preview-v1-VSA-cmf",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.19559v1",
-   "at": "2026-11-14T18:42:57Z",
-   "model": "",
-   "title": "New arXiv paper: ResWAM: Learning What Changes, Not What Stays, for World-Action Models",
-   "url": "http://arxiv.org/abs/2611.19559v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-MeissonFlow/Mei",
-   "at": "2026-11-14T13:02:56Z",
-   "model": "MeissonFlow/Mei",
-   "title": "New text-to-video model listed on Hugging Face: MeissonFlow/Mei",
-   "url": "https://huggingface.co/MeissonFlow/Mei",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-neurarank/NEUVY-FUSION-VIDEO-NFV1",
-   "at": "2026-11-14T09:13:45Z",
-   "model": "neurarank/NEUVY-FUSION-VIDEO-NFV1",
-   "title": "New text-to-video model listed on Hugging Face: neurarank/NEUVY-FUSION-VIDEO-NFV1",
-   "url": "https://huggingface.co/neurarank/NEUVY-FUSION-VIDEO-NFV1",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.19215v1",
-   "at": "2026-11-14T07:14:23Z",
-   "model": "",
-   "title": "New arXiv paper: Mem2Fair: Online Fairness Control for Text-to-Video Generation via Fair Memory",
-   "url": "http://arxiv.org/abs/2611.19215v1",
-   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }

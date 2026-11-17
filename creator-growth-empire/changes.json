@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "fb-an-update-on-the-content-we-recommend-on-instagr-3878cb",
+   "platform": "facebook",
+   "title": "An Update on the Content We Recommend on Instagram in India",
+   "summary": "We've strengthened the default protections behind what Instagram recommends in India to reduce unwanted content and improve people’s experience on Instagram. This work has been guided by what our users told us they want from their recommendations. The post An Update on the Content We Recommend on Instagram in India appeared first on Meta Newsroom .",
+   "detected_at": "2026-11-17T15:57:21Z",
+   "announced_at": "2026-11-17T03:58:09Z",
+   "effective_at": null,
+   "source_url": "https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/",
+   "sources": [
+    {
+     "name": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "verified",
+   "affects": []
+  },
+  {
    "id": "yt-top-50-most-viewed-youtube-channels-worldwide-we-7a7603",
    "platform": "youtube",
    "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 11/15/2026",
@@ -1863,7 +1882,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-17T03:45:22Z",
+ "generated_at": "2026-11-17T15:57:21Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-17",
  "version": "1.7.0"
