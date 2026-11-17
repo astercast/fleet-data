@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-16T13:08:46Z",
+ "generated_at": "2026-11-17T13:51:00Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-16T13:07:50Z",
+ "last_data_change_at": "2026-11-17T13:50:00Z",
  "sources": [
   {
    "id": "commons-photo-scout",
@@ -13,8 +13,8 @@
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
    "items": 78,
-   "checked_at": "2026-11-16T13:08:46Z",
-   "last_ok_at": "2026-11-16T13:08:46Z",
+   "checked_at": "2026-11-17T13:51:00Z",
+   "last_ok_at": "2026-11-17T13:51:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-16T13:07:51Z",
-   "last_ok_at": "2026-11-16T13:07:51Z",
+   "checked_at": "2026-11-17T13:50:02Z",
+   "last_ok_at": "2026-11-17T13:50:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-16T13:07:50Z",
-   "last_ok_at": "2026-11-16T13:07:50Z",
+   "checked_at": "2026-11-17T13:50:00Z",
+   "last_ok_at": "2026-11-17T13:50:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-16T13:07:51Z",
-   "last_ok_at": "2026-11-16T13:07:51Z",
+   "checked_at": "2026-11-17T13:50:02Z",
+   "last_ok_at": "2026-11-17T13:50:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-16T13:07:50Z",
-   "last_ok_at": "2026-11-16T13:07:50Z",
+   "checked_at": "2026-11-17T13:50:01Z",
+   "last_ok_at": "2026-11-17T13:50:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-16T13:07:50Z",
-   "last_ok_at": "2026-11-16T13:07:50Z",
+   "checked_at": "2026-11-17T13:50:00Z",
+   "last_ok_at": "2026-11-17T13:50:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,31 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-16T13:07:49Z",
-   "last_ok_at": "2026-11-16T13:07:49Z",
+   "checked_at": "2026-11-17T13:49:59Z",
+   "last_ok_at": "2026-11-17T13:49:59Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-17T13:50:00Z",
+   "kind": "post",
+   "title": "Absolutely Cute Polar Bear Craft to Make Right Now",
+   "ref": "https://handsonaswegrow.com/polar-bear-craft/"
+  },
+  {
+   "at": "2026-11-17T13:50:00Z",
+   "kind": "post",
+   "title": "Thanksgiving Pattern Block Mats: Fun Printable Math Activity for Kids",
+   "ref": "https://teachbesideme.com/thanksgiving-pattern-block-mats-fun-printable-math-activity-for-kids/"
+  },
+  {
+   "at": "2026-11-17T13:50:00Z",
+   "kind": "post",
+   "title": "A Christmas Carol Activities: An Interactive Literary Investigation",
+   "ref": "https://teachbesideme.com/a-christmas-carol-activities-an-interactive-literary-investigation/"
+  },
   {
    "at": "2026-11-16T13:07:50Z",
    "kind": "post",
@@ -427,24 +445,6 @@
    "kind": "post",
    "title": "Festive Thanksgiving Table Decor You Can Print and Craft",
    "ref": "https://kidsactivitiesblog.com/308612/festive-thanksgiving-table-decor-you-can-print-and-craft/"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "Ridiculously Easy Ways to Make Your Artificial Christmas Tree Look Fuller",
-   "ref": "https://kidsactivitiesblog.com/78910/how-to-make-your-christmas-tree-look-fuller/"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "20 Adorable Christmas Elf Craft Ideas, Activities & Treats",
-   "ref": "https://kidsactivitiesblog.com/78883/20-elf-crafts-treats/"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "Free Printable Thanksgiving Placemats for Kids to Color",
-   "ref": "https://kidsactivitiesblog.com/61361/free-printable-placemats/"
   }
  ]
 }

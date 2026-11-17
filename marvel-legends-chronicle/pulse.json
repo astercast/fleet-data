@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-16T13:07:48Z",
+ "generated_at": "2026-11-17T13:49:57Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-16T13:07:48Z",
+ "last_data_change_at": "2026-11-17T13:49:54Z",
  "sources": [
   {
    "id": "cmdstore",
    "label": "CMDStore catalog",
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
-   "items": 59,
-   "checked_at": "2026-11-16T13:07:44Z",
-   "last_ok_at": "2026-11-16T13:07:44Z",
+   "items": 60,
+   "checked_at": "2026-11-17T13:49:54Z",
+   "last_ok_at": "2026-11-17T13:49:54Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 60,
-   "checked_at": "2026-11-16T13:07:48Z",
-   "last_ok_at": "2026-11-16T13:07:48Z",
+   "items": 67,
+   "checked_at": "2026-11-17T13:49:57Z",
+   "last_ok_at": "2026-11-17T13:49:57Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-16T13:07:48Z",
-   "last_ok_at": "2026-11-16T13:07:48Z",
+   "checked_at": "2026-11-17T13:49:57Z",
+   "last_ok_at": "2026-11-17T13:49:57Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,24 +46,84 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 57,
-   "checked_at": "2026-11-16T13:07:47Z",
-   "last_ok_at": "2026-11-16T13:07:47Z",
+   "checked_at": "2026-11-17T13:49:57Z",
+   "last_ok_at": "2026-11-17T13:49:57Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
+   "at": "2026-11-17T13:49:54Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends X-Men 97' 7 Inch Action Figure Deluxe - Beast (Shelf Wear Packaging)",
+   "ref": "https://cmdstore.com/products/marvel-legends-x-men-97-deluxe-beast-5010996448019dmg"
+  },
+  {
+   "at": "2026-11-17T13:49:57Z",
+   "kind": "story",
+   "title": "Secret Wars Doctor Doom highlights Hasbro’s latest Marvel Legends reveals - Comics Beat",
+   "ref": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVhqU1NHQXR2Um40QnpSM3VNNFNmY3V5MlpDQTRtWi1sOUhpenlWWUdydzVSRnBhd3ZVeDlaLWRWSm9QTFhjU1p2d0MxczI0UGhkN0VjQXVGbnIzS09CU09BY1M0TzlKbGU0RlNuTFpDRDNfQWM0ZlFBNGlPaTVrOVJhTzUyQ3V4ZDZUMFFCdXgta3pHdXRDV0NOaEpzaDBC?oc=5"
+  },
+  {
+   "at": "2026-11-17T13:49:57Z",
+   "kind": "story",
+   "title": "Hasbro Reveals New Marvel Legends Secret Wars and Ghost Rider Figures - LaughingPlace.com",
+   "ref": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnE5OWlQVWVjYVFINHE4RVdaQ18xMTB3dDBKdkVnaXVOdFJwMHl6bExXdEpvREI4czR5anhIZWlmYnkyb1V2SlpZckIxNGo2S29HM0xyclBSanFjSG9ZWTFLY0RYSEJQZ3pBVG5vbF9nWFFPSm9GX0lJVHQ2Rk1nYXQ5MWJySFp1QkFPZGdlV3A0Q281bURONDRpVzd0NmNZcVdWUTdpbFdsSnBoemxpNGF5aw?oc=5"
+  },
+  {
+   "at": "2026-11-17T13:49:57Z",
+   "kind": "story",
+   "title": "Marvel Legends Series Secret Wars Doctor Doom and Superior Iron Man & The Maker 2-pack unveiled by Hasbro - Flickering Myth",
+   "ref": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOGthUFc0SHpYNzBTT0pqN3dZVlZEYW1zTldUYWE4c1puX0ZEMDJ6eVNJT05yNk85ZGtaZ0FHdmdlLXdGY0ozN0VxQmxUMzNUSFNiSzN4Slp3cXYxSVFocDhuQ3M5eHFqbm5wNFZtdF96eWMtVHJkS0o4a3BPU0tleGRhRy1pUWVwdkdlRDNkOTBsR0VZdlBRUng2ckEwSEQ3S1Ztb1FuQWtmZnpYNm41ZFpUaDVhQU5QbzJHeXZzOExfVUQtQ0ZiMngyV2JvbEEz?oc=5"
+  },
+  {
+   "at": "2026-11-17T13:49:57Z",
+   "kind": "story",
+   "title": "Hasbro Unveils ‘Secret Wars’ God Emperor Doctor Doom, Retro X-Men Wave, and WWII Ghost Rider ’44 - Murphy's Multiverse",
+   "ref": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM081SWNzU0RzOURJbGtES1d2NUVPNzdmY283bGtOSkpuTGRUY0lrSDFHNnk0SEtiTnVFY3FpNGQ0enNoS2sza21ZRndBSEh4dDNCNGI0VnVjajN1V2xTZmF6M3FUdkotRUNjaWt6NFNWVmpveTA3aUpXc2RWNkJaM1BTNGlDZkNpNFpIZ3F5RGdtN1ljd2QwMFlMV1o4aDJ5b0E?oc=5"
+  },
+  {
+   "at": "2026-11-17T13:49:57Z",
+   "kind": "story",
+   "title": "Hasbro Pulse Marvel Fanstream Fall 2026 - Toy Habits",
+   "ref": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLc0dDWkFSRHlnWVpCLWxoal9FcW1oaWk0U2ZrS0JGV0JuT2FPX1BmOGJMWjV2Z0ptOGNiNWs5b3YyandRWkVtZHJKazRpZGpzd2pSWGVZWFlQVmZuTkRoMmZmdHg0QWJ6UldpRGpsSQ?oc=5"
+  },
+  {
+   "at": "2026-11-17T13:49:57Z",
+   "kind": "story",
+   "title": "WWII Ghost Rider joins Hasbro's Marvel Legends Series with Hellhunters figure & motorcycle set - Flickering Myth",
+   "ref": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOWo5T2dkZFVlU3JIMTlOams2ekhBa0U3UENfNnc2eDFScmhZU0diLUJRSDhIMUJEQnNpTk10NzRVYUl0eXZuVVdKYnZaZDZOSW1hRWhNVFVlS05uclpHVkE0V2FWT2RfOU5PMXhXaXhVR0hob00wa0pLcG11WWRjOXJxRWpUdmg2VUkwQ2hhYThrdkRKTWxSR0ZyNnFKbmthSDJlUklxZ1c0UDFnNE5CdFVhOWxTOWIyUzRNdmU3Ukg1LVl5YnVCczRSaWItYWMzNEdKRA?oc=5"
+  },
+  {
+   "at": "2026-11-17T13:49:57Z",
+   "kind": "story",
+   "title": "New Marvel Legends and More Hasbro Reveals From New York Comic Con 2018 - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWm45X2FGYWktbS1XUlV5OXdPSXF0UWpzekpKOWRPdkpxUmRJMFczX3pYa01JdW9tdUY1d1JNOUxuVF9NODBMZFdtZExXcktTV3ZfRlVyalp1Q29oMHBKdmxxOEJ3NEVKYnFwVXpoR1BYVHZJTjFKb0hDWmFzMWlYd09HMW1XWHFYUjNvYXM1QW5yX1d0SERWbVZDSkJnclo1?oc=5"
+  },
+  {
+   "at": "2026-11-17T13:49:57Z",
+   "kind": "story",
+   "title": "Marvel Legends 'Black Panther' Wave 2 Figures Now Available for Pre-Order - Marvel.com",
+   "ref": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGYxMTlKSDJlNkhxR3BiSnhPbU9CcUdoMk5NRzJDYWg2MVJlTjZ1SGlDMktCQ2dRSDNjeEUtcVFCOU1IT3NTVlRodVVzWXROb29QQVlvcHBTMklEXzdNY1RrS0tLd29GbFFLOHh6cFEtTDVxQmtTWnZHaElsYTBIczUxWVdfZ1Z1b0Ztd3Q2ekpIeXVWU1FoajlFa2tRM0dRby1sTVNGNUZKZHBS?oc=5"
+  },
+  {
+   "at": "2026-11-17T13:49:57Z",
+   "kind": "story",
+   "title": "Marvel Legends Doctor Doom, WWII Ghost Rider: when preorders open - Pirates and Princesses",
+   "ref": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnBMUzNnTE5wZUZaQ3JIVXp3dHVlM1RFenVhMnd4YTFKTm0zNXFsTzY3TEFlcFRLSy00QzVjT1pxX3MzNVZPQ1pGVXlYZU5qWWJkRzRLZHNpV1Fzd1lNM3dnUUtLUnNOWThMelF2RkRDcVl1aC02YWt3OXl3ZzEwbV9vdk00ZVRFRFViT1FSRmdrWGh4dXo3LUdMSERyZw?oc=5"
+  },
+  {
+   "at": "2026-11-17T13:49:57Z",
+   "kind": "preorder",
+   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
+   "ref": "radar.html"
+  },
+  {
    "at": "2026-11-16T13:07:48Z",
    "kind": "story",
    "title": "Marvel Legends Maximum Series Thor Unboxing and Figure Review - YouTube",
    "ref": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44c3VzQmxic242MzdndnliSFU2UXB3N01ZVFhXdW1NZFhQNkUwRnpobWtsMXBhRlRldUo5b1hoZkM2ZTA1REpSTWQ0cVlIUUUzWDRSdHJrQ19WN0ZB?oc=5"
-  },
-  {
-   "at": "2026-11-16T13:07:48Z",
-   "kind": "preorder",
-   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
-   "ref": "radar.html"
   },
   {
    "at": "2026-11-15T12:14:23Z",
@@ -346,66 +406,6 @@
    "kind": "story",
    "title": "Marvel Legends Secret Wars Daredevil review (2026) - Lyles Movie Files",
    "ref": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44dXl6bUl0VmZJNnZlWXZock4tbVJpdkpxOTRjc3MzM29OckJUTEYwa0gwMmw3bDhHRUZuY0NvTlpEMXRhaDdJbURnQ2htWTE5OExHa3JRVGUyclU4c2N6SzFKU0FSMUhLZzFnZllwVFdCTU1EWEdsRw?oc=5"
-  },
-  {
-   "at": "2026-10-28T10:48:09Z",
-   "kind": "story",
-   "title": "Connor Storrie in Talks to Join Ryan Gosling in Marvel’s ‘Ghost Rider’ - The Hollywood Reporter",
-   "ref": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanhhOW85VGM3cTlwclJfNHhkczZNSHltWnBBdE5lcFhIMVB0TTlIN1E0RG1KbHd6dUk4N1N1dFZEdk9uM1E5VnI3QWRzTWFTS3Q0WFhlMzNNTmtOdDl6MmlXZlFTNkxfd2dUYjBlUS1rc2NQekhVMzZGdTJ6b3BxUTNndFVwQmpIOFFGdEtLdkhIcTFMZHVYRVVlS2NXTDNTS3ItOU96MWlnSU0xZlJLZw?oc=5"
-  },
-  {
-   "at": "2026-10-28T10:48:09Z",
-   "kind": "story",
-   "title": "Hasbro's Marvel Legends Series X-Men '97 Bolivar Trask and Bastion Nimrod 2-pack launches pre-orders - Flickering Myth",
-   "ref": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNW1yb0ZyUEtmTXVvRndLT09IMWx6VUlzVHg4QlM4dkVTQlBVQkd2WF8wUFg5UnBMYlgwVmZxWk1pNEhBOFo4SWtudWJIczhqSmpDdm5IUWh0QnNrSVNjRkpPa3JlZ0QxVU5QSWJGcGl2bzJVNTV2ak9nT1Y2V2t0bEp0LUhid2JQWlhVNENndzVIZFRHU19KTmpfTDJ1U0w0UFdYODhVckhWb0NHNWtoRTEtVTZxM0dLTkF6QzFjNTBpN1VpdjZ0ZTBR?oc=5"
-  },
-  {
-   "at": "2026-10-28T10:48:09Z",
-   "kind": "story",
-   "title": "Prepare for Maximum Carnage with Hasbro’s Next Marvel Legends Figure - Bleeding Cool News",
-   "ref": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVW1HS2g3Yi1BOFVabWtPYktoV1d2UjlzeUNpQzlzdWJHcldPQS1mRHk1NE9oanFjSDhGQnRsTjNqQi1VVDVManpGQktGdkZTN1VkXzNnRFIxajY2aG5TbnVXZmNlYnM4SThKNDVmZmhheURDSXo2MHlReWo3SWljYmpFeVR6YWthQlRGR3JzbDRGX1dHN1Jwenc1VXFqamlyWFRTTURIMlZIQQ?oc=5"
-  },
-  {
-   "at": "2026-10-28T10:48:09Z",
-   "kind": "story",
-   "title": "Avengers: Doomsday Hasbro Marvel Toys Reveal X-Men and Captain America’s New Looks (Exclusive) - People.com",
-   "ref": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOU9LUElJeUZRRjhVeGtDVk5DZ1pyb1VvTDdTbnR2ejVoSkNpR2RSZTQ2dWpaQjdHRVlEbWpxc1R5ODFuTDllUGhMWTlGcFJza1JZRUUzZko0bTBBVVZOeS1QNG9BZjlPUmZtM2ZLYVN2RWZoRjdDaEpvb0xzM0hRMDR6RFNidDlQYW4tSWpuWDdnS0JpeGlEd2ZvZ1Q4UXpyd2hnWXMtOXByZHgyNXV6N2J2dnhwOXpiNEdRdjBtUFlDaEY0NklYbUR1T0R6M3dRS1kxVQ?oc=5"
-  },
-  {
-   "at": "2026-10-28T10:48:09Z",
-   "kind": "preorder",
-   "title": "Drop window opens soon: Astonishing X-Men, Cyclops & Wolverine 2-pack (reissue)",
-   "ref": "radar.html"
-  },
-  {
-   "at": "2026-10-27T10:02:04Z",
-   "kind": "story",
-   "title": "New Marvel Legends X-Men '97 Beast Coming Soon from Hasbro - Bleeding Cool News",
-   "ref": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkVJUS1KdWxyU2t1VHpfMzhxSDE2YUpXUWNqLTlabHllSFowWldIemQycjcwTWhaMlR2czF5NmsyWS1rcFgyNHlBV0E3RjgtUTJfSUNoNFRjRFlZMUtyN05vZjFlYks1aGhEMndkUWlocTJLeDF3M050Q29HWEdZT2lLM1FuVWZ1ODNaaGxwd0MxNlRLUXF1YU1iTlA?oc=5"
-  },
-  {
-   "at": "2026-10-27T10:02:04Z",
-   "kind": "story",
-   "title": "This Iron Man Helmet Could Be the Ultimate Marvel Collectible (& There's a Good Reason Why) - ComicBook.com",
-   "ref": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc2haOGk4eXVDRjdDQWNwWWNNR3hORjlIQVBkdnhlZlhuRDJ1OFc1N0VMdVEwQ1BlRnZ2SHNxNnAwTnM3VFB6SG03WEdsaWZXeHJrVUhUZm9hTmdPY2J4REtkZjVWTHA0RlJwLTdJWnlWVkZpLTV6SFZmZGdpTWUzd3dBVUx0bFpYQVFmUHljZS1TUUF1RGpYTm5iTFpFb2Zxa1MxeUxyRXdweHlzd1hZdEpndUsySk80bGMxeXVZWFRDczZHNWc?oc=5"
-  },
-  {
-   "at": "2026-10-27T10:02:04Z",
-   "kind": "story",
-   "title": "16 Marvel Action Figures Collectors Want - Go2Tutors",
-   "ref": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSC1rSGtKaUdLN3I0SnJvMWZMb3NSWG1hQWZnVi00S2hYUUZqQWk3UjhlNThJejNlZU43QTc4ZDFUbVVESW1wUlE5aVB5Z3JqdnFJaTQ3d2Y3TTdXeUdJN1JWU1pPb19Sb290RWtNb3Q?oc=5"
-  },
-  {
-   "at": "2026-10-26T10:29:41Z",
-   "kind": "story",
-   "title": "Here are All the \"Avengers: Doomsday\" Toys Your Kids Will Want This Holiday Season - LaughingPlace.com",
-   "ref": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDQzTzNQZzRENUVIN1B6TDVhUE9nZGs5UWdBOW5xZE9Wak9WUHFITTJaOHFwM1BEcVhwQWpHN1JOMkNwdUNGNGViTnpVQ3hET2gwWVpOY2h2Zk9JM2habWkzVV80WVE3akI3WGZsdTJuVEpjMVZoMTNxckNRNEVObFNiaTVKanRD?oc=5"
-  },
-  {
-   "at": "2026-10-26T10:29:41Z",
-   "kind": "story",
-   "title": "Henry Cavill’s Wolverine Gets Marvel Legends Figure As MCU Rumors Continue - Cosmic Book News",
-   "ref": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN2FLSGVNSVVfMVE0ZnM5SG5EQjctS2xVTDU2aFlNUE1iaDlVbEpYY3Q3VnRfUWllMWpYXzRXX1RiS2RLVTN6TDJXdmh4bDJCQlBLTVZCajhtQzJlUXMzdjRNMGJfRTI2X1Rxd3N0SjVpcVNZcDEw?oc=5"
   }
  ]
 }
