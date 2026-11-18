@@ -1,6 +1,63 @@
 {
  "changes": [
   {
+   "id": "fb-our-approach-to-updating-our-commercial-terms-of-747dbf",
+   "platform": "facebook",
+   "title": "Our Approach to Updating Our Commercial Terms of Service",
+   "summary": "We recently announced that the proposed updates to our commercial terms of service have been put on hold and that we will revise those proposed changes after a deeper consultation with stakeholders. We made this decision after hearing concerns from news publishers and other stakeholders about how the proposed updates apply to our web crawlers. Meta follows the industry standard robots.txt mechanism as described in our web crawler developer doc. Today, we want to share more details on how we are ",
+   "detected_at": "2026-11-18T20:27:13Z",
+   "announced_at": "2026-11-18T18:01:47Z",
+   "effective_at": null,
+   "source_url": "https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/",
+   "sources": [
+    {
+     "name": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/"
+    }
+   ],
+   "category": "policy",
+   "confidence": "verified",
+   "affects": []
+  },
+  {
+   "id": "fb-meta-welcomes-loblaw-as-first-canadian-retail-pa-b0dfaa",
+   "platform": "facebook",
+   "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+   "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done. With participating Loblaw banners, Canadian shoppers can now ask Muse to help with meal planning, build their basket",
+   "detected_at": "2026-11-18T20:27:13Z",
+   "announced_at": "2026-11-18T14:07:00Z",
+   "effective_at": null,
+   "source_url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+   "sources": [
+    {
+     "name": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "verified",
+   "affects": []
+  },
+  {
+   "id": "yt-top-5-branded-videos-of-the-week-tech-physics-ch-d0d4b5",
+   "platform": "youtube",
+   "title": "Top 5 Branded Videos of the Week: Tech, physics, Christmas, oh my",
+   "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for t he ranking. And–as the name up […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-11-18T20:27:13Z",
+   "announced_at": "2026-11-18T20:00:29Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/18/top-5-branded-videos-veritasium-bikelife-mom-ryan-trahan-marques-brownlee/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/18/top-5-branded-videos-veritasium-bikelife-mom-ryan-trahan-marques-brownlee/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "cw-snapchat-shares-insight-into-luxury-shopping-tre-c00a2b",
    "platform": "other",
    "title": "Snapchat shares insight into luxury shopping trends",
@@ -1920,7 +1977,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-18T11:32:45Z",
+ "generated_at": "2026-11-18T20:27:13Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-18",
  "version": "1.7.0"

@@ -1,7 +1,47 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-18T11:32:45Z",
+ "generated_at": "2026-11-18T20:27:13Z",
  "items": [
+  {
+   "id": "hf-Russ1on/MiniMax-H3-Multishot-Workflow",
+   "at": "2026-11-18T17:27:16Z",
+   "model": "Russ1on/MiniMax-H3-Multishot-Workflow",
+   "title": "New text-to-video model listed on Hugging Face: Russ1on/MiniMax-H3-Multishot-Workflow",
+   "url": "https://huggingface.co/Russ1on/MiniMax-H3-Multishot-Workflow",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-pratikgx/FastFrames-S-MLX",
+   "at": "2026-11-18T17:04:59Z",
+   "model": "pratikgx/FastFrames-S-MLX",
+   "title": "New text-to-video model listed on Hugging Face: pratikgx/FastFrames-S-MLX",
+   "url": "https://huggingface.co/pratikgx/FastFrames-S-MLX",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Raretutor/MiniMax-H3-Dual-Turbo-Lora-ComfyUI",
+   "at": "2026-11-18T14:12:06Z",
+   "model": "Raretutor/MiniMax-H3-Dual-Turbo-Lora-ComfyUI",
+   "title": "New text-to-video model listed on Hugging Face: Raretutor/MiniMax-H3-Dual-Turbo-Lora-ComfyUI",
+   "url": "https://huggingface.co/Raretutor/MiniMax-H3-Dual-Turbo-Lora-ComfyUI",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-sony3021919/MiniMax-H3-Turbo-Lora",
+   "at": "2026-11-18T13:58:00Z",
+   "model": "sony3021919/MiniMax-H3-Turbo-Lora",
+   "title": "New text-to-video model listed on Hugging Face: sony3021919/MiniMax-H3-Turbo-Lora",
+   "url": "https://huggingface.co/sony3021919/MiniMax-H3-Turbo-Lora",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-mlx-community/FastFrames-S-bf16-mlx",
    "at": "2026-11-18T09:48:54Z",
@@ -1458,46 +1498,6 @@
    "model": "Hailuo 02 / 2.3",
    "title": "Hailuo 02 / 2.3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://magichour.ai/blog/hailuo-23-pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 3.0 / 3.0 Prime-2026-11-16",
-   "at": "2026-11-16T06:10:33+00:00",
-   "model": "Wan 3.0 / 3.0 Prime",
-   "title": "Wan 3.0 / 3.0 Prime: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.makeinfluencer.ai/guides/best-ai-video-generators-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Sora 2 / Pro / Max-2026-11-16",
-   "at": "2026-11-16T06:10:15+00:00",
-   "model": "Sora 2 / Pro / Max",
-   "title": "Sora 2 / Pro / Max: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://dev.to/stimlau/sora-vs-runway-openai-killed-sora-now-what-2692",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1 Fast / Veo 3-2026-11-16",
-   "at": "2026-11-16T06:10:11+00:00",
-   "model": "Veo 3.1 Fast / Veo 3",
-   "title": "Veo 3.1 Fast / Veo 3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://mer.vin/2026/09/which-ai-video-models-actually-take-a-first-and-last-frame/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1-2026-11-16",
-   "at": "2026-11-16T06:10:00+00:00",
-   "model": "Veo 3.1",
-   "title": "Veo 3.1: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
