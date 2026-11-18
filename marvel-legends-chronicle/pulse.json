@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-17T13:49:57Z",
+ "generated_at": "2026-11-18T13:25:00Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-17T13:49:54Z",
+ "last_data_change_at": "2026-11-18T13:25:00Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-17T13:49:54Z",
-   "last_ok_at": "2026-11-17T13:49:54Z",
+   "checked_at": "2026-11-18T13:24:56Z",
+   "last_ok_at": "2026-11-18T13:24:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 67,
-   "checked_at": "2026-11-17T13:49:57Z",
-   "last_ok_at": "2026-11-17T13:49:57Z",
+   "items": 65,
+   "checked_at": "2026-11-18T13:25:00Z",
+   "last_ok_at": "2026-11-18T13:25:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-17T13:49:57Z",
-   "last_ok_at": "2026-11-17T13:49:57Z",
+   "checked_at": "2026-11-18T13:25:00Z",
+   "last_ok_at": "2026-11-18T13:25:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,25 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 57,
-   "checked_at": "2026-11-17T13:49:57Z",
-   "last_ok_at": "2026-11-17T13:49:57Z",
+   "checked_at": "2026-11-18T13:24:59Z",
+   "last_ok_at": "2026-11-18T13:24:59Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-18T13:25:00Z",
+   "kind": "story",
+   "title": "Amazon Black Friday Sales 2026 Toy Sales - Toy Habits",
+   "ref": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PYm9INk5JWnJMSVlfcEZJNkp0dE5aYU9EYWhzQW52WnZlMk0yWndfWGRrNzVuek8tRmNmLVBRQ3AtcFIyY1BPWWtXc3JIc1dicWF3VEJRbVBWMlF5bXgxcGtnQUtPY0ktRUFpYjl1M04?oc=5"
+  },
+  {
+   "at": "2026-11-18T13:25:00Z",
+   "kind": "preorder",
+   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
+   "ref": "radar.html"
+  },
   {
    "at": "2026-11-17T13:49:54Z",
    "kind": "catalog",
@@ -112,12 +124,6 @@
    "kind": "story",
    "title": "Marvel Legends Doctor Doom, WWII Ghost Rider: when preorders open - Pirates and Princesses",
    "ref": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnBMUzNnTE5wZUZaQ3JIVXp3dHVlM1RFenVhMnd4YTFKTm0zNXFsTzY3TEFlcFRLSy00QzVjT1pxX3MzNVZPQ1pGVXlYZU5qWWJkRzRLZHNpV1Fzd1lNM3dnUUtLUnNOWThMelF2RkRDcVl1aC02YWt3OXl3ZzEwbV9vdk00ZVRFRFViT1FSRmdrWGh4dXo3LUdMSERyZw?oc=5"
-  },
-  {
-   "at": "2026-11-17T13:49:57Z",
-   "kind": "preorder",
-   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
-   "ref": "radar.html"
   },
   {
    "at": "2026-11-16T13:07:48Z",
@@ -400,12 +406,6 @@
    "kind": "story",
    "title": "Hasbro is Raising Marvel Legends and Star Wars: TBS Figures to $29.99 - Bleeding Cool News",
    "ref": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY1lkaTVla2xRY1NwYVFNdlVPaTM1R0JUS092Y1Y2cU5fWWtsLXJGU1duQmxpaDhuOTlhcjB0NHlPal9xMUdhU0NIYXZub3UtcG9aS0ZLNWxzSUpyQmdRa19xMGdnbGJCdjdLRWlrako4QkFvY1Vic3FFekRnSUc4NS00bFM5WEQ3akdUOF9sSTBKN3V0VVZZMk10S3hTZUNxNk5ycEVialNQdw?oc=5"
-  },
-  {
-   "at": "2026-10-28T10:48:09Z",
-   "kind": "story",
-   "title": "Marvel Legends Secret Wars Daredevil review (2026) - Lyles Movie Files",
-   "ref": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44dXl6bUl0VmZJNnZlWXZock4tbVJpdkpxOTRjc3MzM29OckJUTEYwa0gwMmw3bDhHRUZuY0NvTlpEMXRhaDdJbURnQ2htWTE5OExHa3JRVGUyclU4c2N6SzFKU0FSMUhLZzFnZllwVFdCTU1EWEdsRw?oc=5"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-17T13:51:00Z",
+ "generated_at": "2026-11-18T13:26:02Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-17T13:50:00Z",
+ "last_data_change_at": "2026-11-18T13:25:01Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 78,
-   "checked_at": "2026-11-17T13:51:00Z",
-   "last_ok_at": "2026-11-17T13:51:00Z",
+   "items": 80,
+   "checked_at": "2026-11-18T13:26:02Z",
+   "last_ok_at": "2026-11-18T13:26:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-17T13:50:02Z",
-   "last_ok_at": "2026-11-17T13:50:02Z",
+   "checked_at": "2026-11-18T13:25:05Z",
+   "last_ok_at": "2026-11-18T13:25:05Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-17T13:50:00Z",
-   "last_ok_at": "2026-11-17T13:50:00Z",
+   "checked_at": "2026-11-18T13:25:03Z",
+   "last_ok_at": "2026-11-18T13:25:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-17T13:50:02Z",
-   "last_ok_at": "2026-11-17T13:50:02Z",
+   "checked_at": "2026-11-18T13:25:04Z",
+   "last_ok_at": "2026-11-18T13:25:04Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-17T13:50:01Z",
-   "last_ok_at": "2026-11-17T13:50:01Z",
+   "checked_at": "2026-11-18T13:25:03Z",
+   "last_ok_at": "2026-11-18T13:25:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-17T13:50:00Z",
-   "last_ok_at": "2026-11-17T13:50:00Z",
+   "checked_at": "2026-11-18T13:25:03Z",
+   "last_ok_at": "2026-11-18T13:25:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,43 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-17T13:49:59Z",
-   "last_ok_at": "2026-11-17T13:49:59Z",
+   "checked_at": "2026-11-18T13:25:01Z",
+   "last_ok_at": "2026-11-18T13:25:01Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-18T13:25:01Z",
+   "kind": "post",
+   "title": "75 Easy Science Experiments To Do at Home or School",
+   "ref": "https://www.weareteachers.com/easy-science-experiments/?utm_source=rss&utm_medium=rss&utm_campaign=easy-science-experiments"
+  },
+  {
+   "at": "2026-11-18T13:25:01Z",
+   "kind": "post",
+   "title": "26 Satisfying Kinetic Sand Activities for Pre-K and Elementary School",
+   "ref": "https://www.weareteachers.com/kinetic-sand-activities/?utm_source=rss&utm_medium=rss&utm_campaign=kinetic-sand-activities"
+  },
+  {
+   "at": "2026-11-18T13:25:03Z",
+   "kind": "post",
+   "title": "Ring Toss Name Recognition Activity",
+   "ref": "https://handsonaswegrow.com/ring-toss-name-recognition/"
+  },
+  {
+   "at": "2026-11-18T13:25:04Z",
+   "kind": "post",
+   "title": "Cute and Festive Edible Turkey Craft",
+   "ref": "https://kidsactivitiesblog.com/310982/cute-and-festive-edible-turkey-craft/"
+  },
+  {
+   "at": "2026-11-18T13:26:01Z",
+   "kind": "photo-candidate",
+   "title": "Sharks and Minnows",
+   "ref": "https://commons.wikimedia.org/wiki/File:Agfa_Click_BW_1.JPG"
+  },
   {
    "at": "2026-11-17T13:50:00Z",
    "kind": "post",
@@ -409,42 +439,6 @@
    "kind": "post",
    "title": "Dinner’s Ready! A Thanksgiving Math Card Game for Kids",
    "ref": "https://teachbesideme.com/dinners-ready-a-thanksgiving-math-card-game-for-kids/"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "Winter Science Experiments and STEM Activities for Kids",
-   "ref": "https://littlebinsforlittlehands.com/winter-science-ideas-kids/"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "25 {Amazing} Toilet Paper Roll Crafts",
-   "ref": "https://kidsactivitiesblog.com/49918/toilet-paper-roll-crafts-2/"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "Paper Doll Printable: Design Your Own Paper Dolls",
-   "ref": "https://kidsactivitiesblog.com/62841/design-your-own-paper-dolls/"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "Drawing Cartoon Hands and Feet Art Project for Kids",
-   "ref": "https://kidsactivitiesblog.com/287441/drawing-cartoon-hands-and-feet-art/"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "I Spy Thanksgiving Worksheets For Kids of All Ages",
-   "ref": "https://kidsactivitiesblog.com/285642/i-spy-thanksgiving/"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "Festive Thanksgiving Table Decor You Can Print and Craft",
-   "ref": "https://kidsactivitiesblog.com/308612/festive-thanksgiving-table-decor-you-can-print-and-craft/"
   }
  ]
 }
