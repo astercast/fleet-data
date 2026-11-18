@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "cw-snapchat-shares-insight-into-luxury-shopping-tre-c00a2b",
+   "platform": "other",
+   "title": "Snapchat shares insight into luxury shopping trends",
+   "summary": "<p>A new study commissioned by the app found that 84% of its users said social media platforms made them feel close to the luxury universe.</p>",
+   "detected_at": "2026-11-18T11:32:45Z",
+   "announced_at": "2026-11-17T21:08:35Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/snapchat-shares-insight-into-luxury-shopping-trends/874984/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/snapchat-shares-insight-into-luxury-shopping-trends/874984/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "fb-muse-is-now-available-in-australia-the-world-s-f-610014",
    "platform": "facebook",
    "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
@@ -1901,7 +1920,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-18T00:57:35Z",
+ "generated_at": "2026-11-18T11:32:45Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-18",
  "version": "1.7.0"

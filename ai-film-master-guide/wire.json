@@ -1,7 +1,57 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-18T00:57:35Z",
+ "generated_at": "2026-11-18T11:32:45Z",
  "items": [
+  {
+   "id": "hf-mlx-community/FastFrames-S-bf16-mlx",
+   "at": "2026-11-18T09:48:54Z",
+   "model": "mlx-community/FastFrames-S-bf16-mlx",
+   "title": "New text-to-video model listed on Hugging Face: mlx-community/FastFrames-S-bf16-mlx",
+   "url": "https://huggingface.co/mlx-community/FastFrames-S-bf16-mlx",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Raretutor/RT_Magic_Loras",
+   "at": "2026-11-18T09:23:31Z",
+   "model": "Raretutor/RT_Magic_Loras",
+   "title": "New text-to-video model listed on Hugging Face: Raretutor/RT_Magic_Loras",
+   "url": "https://huggingface.co/Raretutor/RT_Magic_Loras",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-JinPLU/CaT-Movie",
+   "at": "2026-11-18T06:18:49Z",
+   "model": "JinPLU/CaT-Movie",
+   "title": "New text-to-video model listed on Hugging Face: JinPLU/CaT-Movie",
+   "url": "https://huggingface.co/JinPLU/CaT-Movie",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Kremon96/LTX-2.5-uncensored-v1.1-FP8",
+   "at": "2026-11-18T05:35:59Z",
+   "model": "Kremon96/LTX-2.5-uncensored-v1.1-FP8",
+   "title": "New text-to-video model listed on Hugging Face: Kremon96/LTX-2.5-uncensored-v1.1-FP8",
+   "url": "https://huggingface.co/Kremon96/LTX-2.5-uncensored-v1.1-FP8",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-hik45258/minimax-h3-wushu-action-lora",
+   "at": "2026-11-18T02:57:14Z",
+   "model": "hik45258/minimax-h3-wushu-action-lora",
+   "title": "New text-to-video model listed on Hugging Face: hik45258/minimax-h3-wushu-action-lora",
+   "url": "https://huggingface.co/hik45258/minimax-h3-wushu-action-lora",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-18",
    "at": "2026-11-18T00:57:29+00:00",
@@ -403,6 +453,26 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.23226v1",
+   "at": "2026-11-17T18:59:13Z",
+   "model": "",
+   "title": "New arXiv paper: FastFrames: Video Generation at Interactive Latency",
+   "url": "http://arxiv.org/abs/2611.23226v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.22925v1",
+   "at": "2026-11-17T15:23:57Z",
+   "model": "",
+   "title": "New arXiv paper: Code World Model 2.0: Towards Infinite Controllable Video Generation",
+   "url": "http://arxiv.org/abs/2611.22925v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-Dorotheou/Wan2.2-T2V-A14B",
    "at": "2026-11-17T14:42:24Z",
    "model": "Dorotheou/Wan2.2-T2V-A14B",
@@ -413,12 +483,42 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.22857v1",
+   "at": "2026-11-17T14:37:31Z",
+   "model": "",
+   "title": "New arXiv paper: Beyond Co-Generation: Rethinking Jointness in Joint Audio-Video Generation",
+   "url": "http://arxiv.org/abs/2611.22857v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-Statite/StrideAR",
    "at": "2026-11-17T13:44:21Z",
    "model": "Statite/StrideAR",
    "title": "New text-to-video model listed on Hugging Face: Statite/StrideAR",
    "url": "https://huggingface.co/Statite/StrideAR",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.22717v1",
+   "at": "2026-11-17T12:56:13Z",
+   "model": "",
+   "title": "New arXiv paper: PCRG: Training-Free Pruning and Caching of Reference Tokens for Video Generation",
+   "url": "http://arxiv.org/abs/2611.22717v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.22673v1",
+   "at": "2026-11-17T12:25:33Z",
+   "model": "",
+   "title": "New arXiv paper: FVScore: Specification-Driven Neuro-Symbolic Video Evaluation",
+   "url": "http://arxiv.org/abs/2611.22673v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -443,6 +543,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.22464v1",
+   "at": "2026-11-17T09:25:47Z",
+   "model": "",
+   "title": "New arXiv paper: MAVE: Reconstructing Editable 3D Blockouts from Film Shots",
+   "url": "http://arxiv.org/abs/2611.22464v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-LiqunMa/speed",
    "at": "2026-11-17T08:49:52Z",
    "model": "LiqunMa/speed",
@@ -459,6 +569,16 @@
    "title": "New text-to-video model listed on Hugging Face: Xylolabs/Wan2.2-UMT5-Tenstorrent-Tensix-Components",
    "url": "https://huggingface.co/Xylolabs/Wan2.2-UMT5-Tenstorrent-Tensix-Components",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.22287v1",
+   "at": "2026-11-17T06:40:08Z",
+   "model": "",
+   "title": "New arXiv paper: Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers",
+   "url": "http://arxiv.org/abs/2611.22287v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -853,6 +973,36 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.22001v1",
+   "at": "2026-11-16T23:31:41Z",
+   "model": "",
+   "title": "New arXiv paper: DreamFAR: Real-Time and Long-Horizon Interaction with Diverse Objects",
+   "url": "http://arxiv.org/abs/2611.22001v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.21907v1",
+   "at": "2026-11-16T21:21:27Z",
+   "model": "",
+   "title": "New arXiv paper: REEL: Brain-Guided Video Generation and Selection by Reranking Encoder Embeddings with Linear Decoding from fMRI data",
+   "url": "http://arxiv.org/abs/2611.21907v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.21851v1",
+   "at": "2026-11-16T20:16:08Z",
+   "model": "",
+   "title": "New arXiv paper: AR-WAM: efficient streaming world-action modeling for autonomous driving",
+   "url": "http://arxiv.org/abs/2611.21851v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-ReDiverse/ReDiverse-Pika-H3-Flex",
    "at": "2026-11-16T19:29:24Z",
    "model": "ReDiverse/ReDiverse-Pika-H3-Flex",
@@ -878,6 +1028,16 @@
    "model": "",
    "title": "New arXiv paper: Reference Forcing: Long Video Generation with Region-Guided Drift Correction",
    "url": "http://arxiv.org/abs/2611.21559v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.21479v2",
+   "at": "2026-11-16T17:51:44Z",
+   "model": "",
+   "title": "New arXiv paper: LynnReal-Hand: Unlocking World Interaction with Hand Control",
+   "url": "http://arxiv.org/abs/2611.21479v2",
    "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
@@ -949,6 +1109,16 @@
    "title": "New text-to-video model listed on Hugging Face: enoky/sumi-e-ltx-2.5-lora",
    "url": "https://huggingface.co/enoky/sumi-e-ltx-2.5-lora",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.21038v2",
+   "at": "2026-11-16T12:57:16Z",
+   "model": "",
+   "title": "New arXiv paper: ScoutCache: Efficient Few-Step Autoregressive Video Diffusion via Conditional Readout and Selective Caching",
+   "url": "http://arxiv.org/abs/2611.21038v2",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -1329,176 +1499,6 @@
    "title": "Veo 3.1: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
    "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Kling 3.0-2026-11-16",
-   "at": "2026-11-16T06:09:50+00:00",
-   "model": "Kling 3.0",
-   "title": "Kling 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 3.0-2026-11-16",
-   "at": "2026-11-16T06:09:41+00:00",
-   "model": "Seedance 3.0",
-   "title": "Seedance 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.highonfilms.com/seedance-3-0-provider-checks/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 2.5-2026-11-16",
-   "at": "2026-11-16T06:09:35+00:00",
-   "model": "Seedance 2.5",
-   "title": "Seedance 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://cellcog.ai/blog/seedance-2-5-pricing/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.20535v1",
-   "at": "2026-11-16T05:11:08Z",
-   "model": "",
-   "title": "New arXiv paper: VAHBench: A Harness Benchmark for Agentic Long-Video Generation",
-   "url": "http://arxiv.org/abs/2611.20535v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-yang29/afd-baseline-checkpoints",
-   "at": "2026-11-16T02:57:30Z",
-   "model": "yang29/afd-baseline-checkpoints",
-   "title": "New text-to-video model listed on Hugging Face: yang29/afd-baseline-checkpoints",
-   "url": "https://huggingface.co/yang29/afd-baseline-checkpoints",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.20351v1",
-   "at": "2026-11-16T00:28:08Z",
-   "model": "",
-   "title": "New arXiv paper: BlockAlign: Preference Optimization for Trajectory-Distilled Video Generation",
-   "url": "http://arxiv.org/abs/2611.20351v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.20307v1",
-   "at": "2026-11-15T23:10:35Z",
-   "model": "",
-   "title": "New arXiv paper: PoCoAttn: Position-Content Collaborative Sparse Attention for Fast and High-Fidelity Video Generation",
-   "url": "http://arxiv.org/abs/2611.20307v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
-   "at": "2026-11-15T22:35:47Z",
-   "model": "TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
-   "title": "New text-to-video model listed on Hugging Face: TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
-   "url": "https://huggingface.co/TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Comfy-Org/PAN2",
-   "at": "2026-11-15T22:02:20Z",
-   "model": "Comfy-Org/PAN2",
-   "title": "New text-to-video model listed on Hugging Face: Comfy-Org/PAN2",
-   "url": "https://huggingface.co/Comfy-Org/PAN2",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-the123manaic/Sega-Video-6.0-Singularity-X",
-   "at": "2026-11-15T21:32:07Z",
-   "model": "the123manaic/Sega-Video-6.0-Singularity-X",
-   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.0-Singularity-X",
-   "url": "https://huggingface.co/the123manaic/Sega-Video-6.0-Singularity-X",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-the123manaic/Sega-Video-5.1-Singularity",
-   "at": "2026-11-15T21:32:07Z",
-   "model": "the123manaic/Sega-Video-5.1-Singularity",
-   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.1-Singularity",
-   "url": "https://huggingface.co/the123manaic/Sega-Video-5.1-Singularity",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-the123manaic/Sega-Video-5.2-Supernova",
-   "at": "2026-11-15T21:32:07Z",
-   "model": "the123manaic/Sega-Video-5.2-Supernova",
-   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-5.2-Supernova",
-   "url": "https://huggingface.co/the123manaic/Sega-Video-5.2-Supernova",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-the123manaic/Sega-Video-6.8-Omega-Crown",
-   "at": "2026-11-15T21:32:06Z",
-   "model": "the123manaic/Sega-Video-6.8-Omega-Crown",
-   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.8-Omega-Crown",
-   "url": "https://huggingface.co/the123manaic/Sega-Video-6.8-Omega-Crown",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-the123manaic/Sega-Video-6.9-Transcendence",
-   "at": "2026-11-15T21:32:06Z",
-   "model": "the123manaic/Sega-Video-6.9-Transcendence",
-   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.9-Transcendence",
-   "url": "https://huggingface.co/the123manaic/Sega-Video-6.9-Transcendence",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-the123manaic/Sega-Video-6.3-Hyper-Sol",
-   "at": "2026-11-15T21:32:06Z",
-   "model": "the123manaic/Sega-Video-6.3-Hyper-Sol",
-   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.3-Hyper-Sol",
-   "url": "https://huggingface.co/the123manaic/Sega-Video-6.3-Hyper-Sol",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-the123manaic/Sega-Video-6.2-Aetherius",
-   "at": "2026-11-15T21:32:06Z",
-   "model": "the123manaic/Sega-Video-6.2-Aetherius",
-   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.2-Aetherius",
-   "url": "https://huggingface.co/the123manaic/Sega-Video-6.2-Aetherius",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-the123manaic/Sega-Video-6.5-Astral-Prime",
-   "at": "2026-11-15T21:32:06Z",
-   "model": "the123manaic/Sega-Video-6.5-Astral-Prime",
-   "title": "New text-to-video model listed on Hugging Face: the123manaic/Sega-Video-6.5-Astral-Prime",
-   "url": "https://huggingface.co/the123manaic/Sega-Video-6.5-Astral-Prime",
-   "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }

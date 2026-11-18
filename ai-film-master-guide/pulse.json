@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-18T00:57:35Z",
+ "generated_at": "2026-11-18T11:32:45Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-18T00:57:35Z",
+ "last_data_change_at": "2026-11-18T11:32:45Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
-   "items": 165,
-   "checked_at": "2026-11-18T00:57:32Z",
-   "last_ok_at": "2026-11-18T00:57:32Z",
+   "items": 177,
+   "checked_at": "2026-11-18T11:32:42Z",
+   "last_ok_at": "2026-11-18T11:32:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-18T00:57:35Z",
-   "last_ok_at": "2026-11-18T00:57:35Z",
+   "checked_at": "2026-11-18T11:32:45Z",
+   "last_ok_at": "2026-11-18T11:32:45Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-18T00:57:31Z",
-   "last_ok_at": "2026-11-18T00:57:31Z",
+   "checked_at": "2026-11-18T11:32:42Z",
+   "last_ok_at": "2026-11-18T11:32:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-18T00:57:32Z",
-   "last_ok_at": "2026-11-18T00:57:32Z",
+   "checked_at": "2026-11-18T11:32:42Z",
+   "last_ok_at": "2026-11-18T11:32:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,115 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-18T00:57:31Z",
-   "last_ok_at": "2026-11-18T00:57:31Z",
+   "checked_at": "2026-11-18T11:32:41Z",
+   "last_ok_at": "2026-11-18T11:32:41Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: mlx-community/FastFrames-S-bf16-mlx",
+   "ref": "https://huggingface.co/mlx-community/FastFrames-S-bf16-mlx"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Raretutor/RT_Magic_Loras",
+   "ref": "https://huggingface.co/Raretutor/RT_Magic_Loras"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: JinPLU/CaT-Movie",
+   "ref": "https://huggingface.co/JinPLU/CaT-Movie"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Kremon96/LTX-2.5-uncensored-v1.1-FP8",
+   "ref": "https://huggingface.co/Kremon96/LTX-2.5-uncensored-v1.1-FP8"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: hik45258/minimax-h3-wushu-action-lora",
+   "ref": "https://huggingface.co/hik45258/minimax-h3-wushu-action-lora"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: FastFrames: Video Generation at Interactive Latency",
+   "ref": "http://arxiv.org/abs/2611.23226v1"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Code World Model 2.0: Towards Infinite Controllable Video Generation",
+   "ref": "http://arxiv.org/abs/2611.22925v1"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Beyond Co-Generation: Rethinking Jointness in Joint Audio-Video Generation",
+   "ref": "http://arxiv.org/abs/2611.22857v1"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: PCRG: Training-Free Pruning and Caching of Reference Tokens for Video Generation",
+   "ref": "http://arxiv.org/abs/2611.22717v1"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: FVScore: Specification-Driven Neuro-Symbolic Video Evaluation",
+   "ref": "http://arxiv.org/abs/2611.22673v1"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: MAVE: Reconstructing Editable 3D Blockouts from Film Shots",
+   "ref": "http://arxiv.org/abs/2611.22464v1"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers",
+   "ref": "http://arxiv.org/abs/2611.22287v1"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: DreamFAR: Real-Time and Long-Horizon Interaction with Diverse Objects",
+   "ref": "http://arxiv.org/abs/2611.22001v1"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: REEL: Brain-Guided Video Generation and Selection by Reranking Encoder Embeddings with Linear Decoding from fMRI data",
+   "ref": "http://arxiv.org/abs/2611.21907v1"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: AR-WAM: efficient streaming world-action modeling for autonomous driving",
+   "ref": "http://arxiv.org/abs/2611.21851v1"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: LynnReal-Hand: Unlocking World Interaction with Hand Control",
+   "ref": "http://arxiv.org/abs/2611.21479v2"
+  },
+  {
+   "at": "2026-11-18T11:32:45Z",
+   "kind": "paper",
+   "title": "New arXiv paper: ScoutCache: Efficient Few-Step Autoregressive Video Diffusion via Conditional Readout and Selective Caching",
+   "ref": "http://arxiv.org/abs/2611.21038v2"
+  },
   {
    "at": "2026-11-18T00:57:35Z",
    "kind": "price-signal",
@@ -321,96 +423,6 @@
    "kind": "new-model",
    "title": "New text-to-video model listed on Hugging Face: QrusherZA/H3_Turbo_ComfyUI",
    "ref": "https://huggingface.co/QrusherZA/H3_Turbo_ComfyUI"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: ZY-Dijkstra/Disen-Forcing",
-   "ref": "https://huggingface.co/ZY-Dijkstra/Disen-Forcing"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: LiqunMa/speed",
-   "ref": "https://huggingface.co/LiqunMa/speed"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Xylolabs/Wan2.2-UMT5-Tenstorrent-Tensix-Components",
-   "ref": "https://huggingface.co/Xylolabs/Wan2.2-UMT5-Tenstorrent-Tensix-Components"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: SimpleTuner/minimax-h3-image-training-assistant",
-   "ref": "https://huggingface.co/SimpleTuner/minimax-h3-image-training-assistant"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Reference Forcing: Long Video Generation with Region-Guided Drift Correction",
-   "ref": "http://arxiv.org/abs/2611.21559v1"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
-   "ref": "http://arxiv.org/abs/2611.21373v1"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos",
-   "ref": "http://arxiv.org/abs/2611.21339v1"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection",
-   "ref": "http://arxiv.org/abs/2611.21114v1"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: ScoutCache: Efficient Few-Step Autoregressive Video Diffusion via Conditional Readout and Selective Caching",
-   "ref": "http://arxiv.org/abs/2611.21038v1"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Sparse Attention for Visual Generation: Toward Algorithm-System Co-Design",
-   "ref": "http://arxiv.org/abs/2611.21029v1"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: SciWorldBench: Do Video World Models Really Understand Scientific Experiments?",
-   "ref": "http://arxiv.org/abs/2611.20899v1"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: QASK-Edit: Adaptive Sparse Attention Across Queries and Key Sources for Efficient Video Editing",
-   "ref": "http://arxiv.org/abs/2611.20704v1"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: VAHBench: A Harness Benchmark for Agentic Long-Video Generation",
-   "ref": "http://arxiv.org/abs/2611.20535v1"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: BlockAlign: Preference Optimization for Trajectory-Distilled Video Generation",
-   "ref": "http://arxiv.org/abs/2611.20351v1"
-  },
-  {
-   "at": "2026-11-17T15:57:21Z",
-   "kind": "paper",
-   "title": "New arXiv paper: PoCoAttn: Position-Content Collaborative Sparse Attention for Fast and High-Fidelity Video Generation",
-   "ref": "http://arxiv.org/abs/2611.20307v1"
   }
  ]
 }
