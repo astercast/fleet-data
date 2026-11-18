@@ -129,6 +129,7 @@
   "Synin/Megan-VG",
   "TK3105/UniAVC",
   "TaoLiveAIGC/TaoMate-HD-preview",
+  "TechnoBaptist/FastFrames-L",
   "TechnoBaptist/LongCat-Video",
   "TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
   "Teriks/Kandinsky-5.0-T2V-Pro-sft-5s-GGUF",
@@ -153,6 +154,8 @@
   "addlabsviral/minimax-h3-flashgen-fused",
   "aifreak777/Wan2.2-TI2V-5B-FP8",
   "anyze/wan2.1-anime-lora",
+  "apple/FastFrames-L",
+  "apple/FastFrames-S",
   "axteam/Motif-Video-2B-FP8",
   "berryber09/FastH3-OmniRef-8step-pruned-w4a8",
   "caikybaldo999/zyvideo-1.1",
@@ -523,6 +526,7 @@
   "tag:github.com,2008:Repository/589831718/v0.45.2",
   "tag:github.com,2008:Repository/589831718/v0.45.3",
   "tag:github.com,2008:Repository/589831718/v0.45.4",
-  "tag:github.com,2008:Repository/589831718/v0.45.5"
+  "tag:github.com,2008:Repository/589831718/v0.45.5",
+  "tag:github.com,2008:Repository/589831718/v0.45.6"
  ]
 }

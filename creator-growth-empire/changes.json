@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "fb-muse-is-now-available-in-australia-the-world-s-f-610014",
+   "platform": "facebook",
+   "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+   "summary": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively. The post Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
+   "detected_at": "2026-11-18T00:57:35Z",
+   "announced_at": "2026-11-17T18:00:31Z",
+   "effective_at": null,
+   "source_url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+   "sources": [
+    {
+     "name": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "verified",
+   "affects": []
+  },
+  {
    "id": "fb-an-update-on-the-content-we-recommend-on-instagr-3878cb",
    "platform": "facebook",
    "title": "An Update on the Content We Recommend on Instagram in India",
@@ -1882,8 +1901,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-17T15:57:21Z",
+ "generated_at": "2026-11-18T00:57:35Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "version": "1.7.0"
 }
