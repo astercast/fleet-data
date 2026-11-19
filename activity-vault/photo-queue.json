@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-18T13:26:02Z",
+ "generated_at": "2026-11-19T13:53:25Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -882,6 +882,50 @@
    "activity_id": "sharks-and-minnows",
    "activity_name": "Sharks and Minnows",
    "queued_at": "2026-11-18T13:26:01Z"
+  },
+  {
+   "commons_title": "File:Hot dog with baked beans and potato salad.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hot_dog_with_baked_beans_and_potato_salad.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Hot_dog_with_baked_beans_and_potato_salad.jpg/500px-Hot_dog_with_baked_beans_and_potato_salad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/72949902@N00\">TheCulinaryGeek</a> from Chicago, USA",
+   "licence": "CC BY 2.0",
+   "status": "pending",
+   "activity_id": "hot-potato",
+   "activity_name": "Hot Potato",
+   "queued_at": "2026-11-19T13:53:21Z"
+  },
+  {
+   "commons_title": "File:Hot potato cold potato.jpeg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hot_potato_cold_potato.jpeg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Hot_potato_cold_potato.jpeg/500px-Hot_potato_cold_potato.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/35034346243@N01\">stu_spivack</a>",
+   "licence": "CC BY-SA 2.0",
+   "status": "pending",
+   "activity_id": "hot-potato",
+   "activity_name": "Hot Potato",
+   "queued_at": "2026-11-19T13:53:21Z"
+  },
+  {
+   "commons_title": "File:Follow the Leader, by Isaac Joseph Witham NML MMM 1984 506-001.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Follow_the_Leader,_by_Isaac_Joseph_Witham_NML_MMM_1984_506-001.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Follow_the_Leader%2C_by_Isaac_Joseph_Witham_NML_MMM_1984_506-001.jpg/500px-Follow_the_Leader%2C_by_Isaac_Joseph_Witham_NML_MMM_1984_506-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<bdi><a href=\"https://www.wikidata.org/wiki/Q21455482\" class=\"extiw\" title=\"d:Q21455482\"><span title=\"painter (1832–1901)\">Isaac Joseph Witham</span></a></bdi>",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "follow-the-leader",
+   "activity_name": "Follow the Leader",
+   "queued_at": "2026-11-19T13:53:24Z"
+  },
+  {
+   "commons_title": "File:Follow the Leader, by Joseph Witham.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Follow_the_Leader,_by_Joseph_Witham.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Follow_the_Leader%2C_by_Joseph_Witham.jpg/500px-Follow_the_Leader%2C_by_Joseph_Witham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<bdi><a href=\"https://www.wikidata.org/wiki/Q21455482\" class=\"extiw\" title=\"d:Q21455482\"><span title=\"painter (1832–1901)\">Isaac Joseph Witham</span></a></bdi>",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "follow-the-leader",
+   "activity_name": "Follow the Leader",
+   "queued_at": "2026-11-19T13:53:24Z"
   }
  ]
 }

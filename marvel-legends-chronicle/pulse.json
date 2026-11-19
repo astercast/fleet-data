@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-18T13:25:00Z",
+ "generated_at": "2026-11-19T13:52:19Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-18T13:25:00Z",
+ "last_data_change_at": "2026-11-19T13:52:16Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-18T13:24:56Z",
-   "last_ok_at": "2026-11-18T13:24:56Z",
+   "checked_at": "2026-11-19T13:52:16Z",
+   "last_ok_at": "2026-11-19T13:52:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 65,
-   "checked_at": "2026-11-18T13:25:00Z",
-   "last_ok_at": "2026-11-18T13:25:00Z",
+   "items": 68,
+   "checked_at": "2026-11-19T13:52:19Z",
+   "last_ok_at": "2026-11-19T13:52:19Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-18T13:25:00Z",
-   "last_ok_at": "2026-11-18T13:25:00Z",
+   "checked_at": "2026-11-19T13:52:19Z",
+   "last_ok_at": "2026-11-19T13:52:19Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,24 +46,72 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 57,
-   "checked_at": "2026-11-18T13:24:59Z",
-   "last_ok_at": "2026-11-18T13:24:59Z",
+   "checked_at": "2026-11-19T13:52:19Z",
+   "last_ok_at": "2026-11-19T13:52:19Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
+   "at": "2026-11-19T13:52:16Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Spider-Man 7 Inch Action Figure Deluxe - Venom Spider-Man (Pre-Order Ships March 2027)",
+   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-deluxe-venom-spider-man-5010996457387"
+  },
+  {
+   "at": "2026-11-19T13:52:19Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Avengers Doomsday Mister Fantastic and H.E.R.B.I.E Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-avengers-doomsday-mister-fantastic-and-h-e-r-b-i-e-action-figure"
+  },
+  {
+   "at": "2026-11-19T13:52:19Z",
+   "kind": "story",
+   "title": "Marvel Legends Series Venom (Spider-Man) action figure unveiled by Hasbro - Flickering Myth",
+   "ref": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUVmRUY2bkhxbUNhbXhQSDlzb1ZnSEtWLU9wa1YzYi1iY2tkbGJadFZCZU9QM05lTmhhZ2E5NS1HMHFCYllhODQtMFRPYmhVdk5pMExpLW1GMXMzMUVYbTdSNExNT0lReUpWTGlfeWJKX0NOYlF1Nm8wVFRUVVRjQW8wU0JmZk5KNzYzeUUwd1h4ei1nbFlrdTA3ZERYbFpHa3VqckxB?oc=5"
+  },
+  {
+   "at": "2026-11-19T13:52:19Z",
+   "kind": "story",
+   "title": "Hasbro Unveils Marvel Legends Superior Iron Man & The Maker 2-Pack - Bleeding Cool News",
+   "ref": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTVyYkVrSUJEWEpzQXBXcUpFWjBHT1NCSWdkUFk2TnJ4S2xDTGdOLUJhT29pbEZxTkJmOUJmbno3TzYzYlhWcFJfR3Bta21KTzYtYmp4QXFIQXlaTDNWN2hjRFRRVTNUQWZ4N0xQSm9jRFVUSkNKc0xCT2RBbTRNWDlqMGVwVmx0RG1ERm1rV3o2YzdRMmJoZk82V2RZNjk2S1pEdXR3?oc=5"
+  },
+  {
+   "at": "2026-11-19T13:52:19Z",
+   "kind": "story",
+   "title": "Ghost Rider Enters WWII with New Sgt. Sal Romero Marvel Legends - Bleeding Cool News",
+   "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGpodERzbUNoSFZFZGdmRHM2RlN6LWdRSmpvdzd2OVRFUDk1MmprcXdTX1BoazZKNFpKeXNyS1o3S3lGMlNsTjBrcnpHOHZ1dWotNzh2QVd0TGF4WWphSUtycktsdmRMSWNONzcyc19kaFZKUV9vX3FpenB4UVJRQU1idTFVVDIzVzk3cXcyaW43SjVjZnZyTHhmOTBTMThNQWdB?oc=5"
+  },
+  {
+   "at": "2026-11-19T13:52:19Z",
+   "kind": "story",
+   "title": "Marvel Legends unveils Superior Iron Man, The Maker and Ghost Rider on motorcycle - Foro3D",
+   "ref": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUtzaXF3MkN2UkFfZU5BMW1TaHFlY0p0WTM4djFBRUxmZi1Rd3F5UTlVQU9JTTZGWTRiay1XcnhKbWE0c20yUDVROUVmeGFUWWZOX2VTU1dobncxUGJhdHdnMHRJQlN2N3l4RVJrSjkxTDhyUkQ4elM4eVBMMmtZUHJuMVJkc01zN1ROdWNsZ0lGZS0zcmJFMDhHZUJMakFSb3ZLUG5vRE11YjZuY0RvRF93?oc=5"
+  },
+  {
+   "at": "2026-11-19T13:52:19Z",
+   "kind": "story",
+   "title": "Tons of Marvel Legends Figures Are Up To $40 Off With This Deal - ComicBook.com",
+   "ref": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2xwQ0E5aF95OHFWeTMtcE8xa3VneXVOY2lSVTlaYXduZnpGNnBweDVrTW5CTEtzRWQwLVJHSnB1X3JBSEhJZl9vUWtvNDQyUkxLV3dEVFNzWUdjeTNXdGdNQW9vakcwMVhJdmRRR1N1Nktka1N5LTBqREJmVGRQNHN2SkNtYkU?oc=5"
+  },
+  {
+   "at": "2026-11-19T13:52:19Z",
+   "kind": "story",
+   "title": "Marvel Legends Secret Wars Ice Man Figure Pre-0rders Launch Today - ComicBook.com",
+   "ref": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjJpZTd3d2V4TndfZmZHTDdHQmZOSzRwZW5nZ0RUa19rWkdmbVhxc2NxUWZ5OFF4MzRMNTR4LWtTcjJhZFh4ZTVxMEVpQ29OV0pXZzRiSl9ZV29hQUQzTU16MVJURnZvSVVRMFBVWDQ3OW1kUnFzR1lXTGxDMm5IQ1E4dmNER3ZEenFTbzRDYTNGN09LNFpV?oc=5"
+  },
+  {
+   "at": "2026-11-19T13:52:19Z",
+   "kind": "preorder",
+   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
+   "ref": "radar.html"
+  },
+  {
    "at": "2026-11-18T13:25:00Z",
    "kind": "story",
    "title": "Amazon Black Friday Sales 2026 Toy Sales - Toy Habits",
    "ref": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PYm9INk5JWnJMSVlfcEZJNkp0dE5aYU9EYWhzQW52WnZlMk0yWndfWGRrNzVuek8tRmNmLVBRQ3AtcFIyY1BPWWtXc3JIc1dicWF3VEJRbVBWMlF5bXgxcGtnQUtPY0ktRUFpYjl1M04?oc=5"
-  },
-  {
-   "at": "2026-11-18T13:25:00Z",
-   "kind": "preorder",
-   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
-   "ref": "radar.html"
   },
   {
    "at": "2026-11-17T13:49:54Z",
@@ -358,54 +406,6 @@
    "kind": "catalog",
    "title": "ToyArena: Marvel Legends The Amazing Spider-Man (Marvel Holiday Special) Action Figure",
    "ref": "https://toyarena.com/products/marvel-legends-the-amazing-spider-man-marvel-holiday-special-action-figure"
-  },
-  {
-   "at": "2026-10-30T11:01:06Z",
-   "kind": "story",
-   "title": "'Avengers: Doomsday' merch has dropped ahead of the movie's release: See the best finds, including action figures and LEGO sets - 6abc Philadelphia",
-   "ref": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajFVUHV5ekZNZC05Q3hvMnMzMXBwUXJrN3I2d3hIdkNtUkQ2SnZpOHNObmhyMGN0aDRBb01XMVNPdlFEN1F1QWs2NXFIUFJfTnlfWm5CTmR2ektDOE0xUnlqcjBvM1dmdzhSd05DZlVMd2I2MnBxeXgyTEZiZmtYS1hwalVGMjR1eHRQUWZmZ2lnbUFnNGhteG9KbmF5SFlhTmg2QWVtZkppM3F3c3ItMlJFQnlwd1VMaWNOUndBN00wNVJacjd6bGMtRHBnajM3MHpKV9IB2gFBVV95cUxOVTRDMEFiU21BN1YwSm1rZHhPVXQzMERnUjhQbXdsQXVGdmpjaUFFeEhOb2o2Xy1KTExoeHFRVEQ4WTVTSXcwUHFvZElFLXduUTRRSTdmR1NETmc0b1FNU1hlOWVvOFdGN205VDBfX2F4OEJkTGZObm9RcU9QWjhCZVoxVDlBMnFHSjNNbjVtOGl0X2FOdDFwdUZiUDdyNWU3N0thMWk5RDFFdW8wQW9yR1pfRGVKeHF5LW52THJpdVpocG1YdVdWNmE1X00zMW80RG1hTW1MZHBHQQ?oc=5"
-  },
-  {
-   "at": "2026-10-30T11:01:06Z",
-   "kind": "story",
-   "title": "X-Force Deadpool Returns with New Marvel Legends Concept Figure - Bleeding Cool News",
-   "ref": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVm9UMS1OdnFtQnd4WFZNeVJ6aXRsVW9nSGZPNUQtZzU4RzhyNjNaWThkRXZPYnVEeHBubWlqTmpmTktvcWlaY2IyMGZRVUZvRlAtekV6R0NxTDcxSzNBZ0VURjEzMHNsSVdrTWVMcWJFLThtblU5ajROX29SdTV4elh2T01DMVJGLTlUUVBQS3J0U3B1d3pOVzR2S0dJLTVjVlY3MA?oc=5"
-  },
-  {
-   "at": "2026-10-29T11:05:12Z",
-   "kind": "story",
-   "title": "\"Astonishing X-Men\" Marvel Legends Cyclops & Wolverine Figures Now Available for Pre-Order - LaughingPlace.com",
-   "ref": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanJ0ZTg3REgxTzNkLTNPRTk4MHEyNWVfMmVsT0YxRm1MX1R5a19CMnI1MTVfVHR4MzZiVnczX3JwN2pWQnplU3pUQ3lfbWgyOW1UeHRCcHlRREFkdXRBaTlkRmg3RXNXOE5fNGZZRW5hNXU3N041OWNhLUFhaGhObFFnQmhyWTFMUWJPV3FjVFRGQkJrc0ZQa0J6S3hTckdQR0E?oc=5"
-  },
-  {
-   "at": "2026-10-29T11:05:12Z",
-   "kind": "story",
-   "title": "Astonishing X-Men Marvel Legends Cyclops & Wolverine Two Pack Preorder - Toy Habits",
-   "ref": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMS11UEszbHI4LUpzTlBMWGxKaHBIWXltTUFHT2pQY2cyd0JOZWtNYkhhczJ2WlhHSlJYVzJyMERwRVpOOWZ1aE5zRGVzRERCbGdYRmZDeTRnWHUxMDZkajJkbDEyaXJ3aXV0QmlkX1cxejF5X1RHZnUyUXpDanRFblAtdERMdGliZ055eEJ5RjR3ck5zalE?oc=5"
-  },
-  {
-   "at": "2026-10-29T11:05:12Z",
-   "kind": "story",
-   "title": "Marvel Legends X-Men 97 Archangel review (2026) - Lyles Movie Files",
-   "ref": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ga3RlTnJmdzQyTXZZN0UyZl92VmFJMG1vN3FoR1UxYzVwZ0JFQjFxT0hvSFA4QzA1aXQzQWlHazRCUGFxZWtiODE1cktxRWgzM1h6bGhicU1zOE9rWFRMZHdTTG5hOFBLbENzdk9MWTVZNU9lMDExWVNhMk5jUQ?oc=5"
-  },
-  {
-   "at": "2026-10-28T10:48:01Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Anniversary 6 Inch Action Figure X-Men - Astonishing Wolverine Reissue (Open Box Shelf Wear Packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-anniversary-x-men-astonishing-wolverine-5010996244406dmg"
-  },
-  {
-   "at": "2026-10-28T10:48:01Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 8 Inch Action Figure X-Men Exclusive - Onslaught (Sub-Standard Packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-x-men-exclusive-onslaught-5010996411419dmg"
-  },
-  {
-   "at": "2026-10-28T10:48:09Z",
-   "kind": "story",
-   "title": "Hasbro is Raising Marvel Legends and Star Wars: TBS Figures to $29.99 - Bleeding Cool News",
-   "ref": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY1lkaTVla2xRY1NwYVFNdlVPaTM1R0JUS092Y1Y2cU5fWWtsLXJGU1duQmxpaDhuOTlhcjB0NHlPal9xMUdhU0NIYXZub3UtcG9aS0ZLNWxzSUpyQmdRa19xMGdnbGJCdjdLRWlrako4QkFvY1Vic3FFekRnSUc4NS00bFM5WEQ3akdUOF9sSTBKN3V0VVZZMk10S3hTZUNxNk5ycEVialNQdw?oc=5"
   }
  ]
 }

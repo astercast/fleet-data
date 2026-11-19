@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-18T13:26:02Z",
+ "generated_at": "2026-11-19T13:53:25Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-18T13:25:01Z",
+ "last_data_change_at": "2026-11-19T13:52:21Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 80,
-   "checked_at": "2026-11-18T13:26:02Z",
-   "last_ok_at": "2026-11-18T13:26:02Z",
+   "items": 84,
+   "checked_at": "2026-11-19T13:53:25Z",
+   "last_ok_at": "2026-11-19T13:53:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-18T13:25:05Z",
-   "last_ok_at": "2026-11-18T13:25:05Z",
+   "checked_at": "2026-11-19T13:52:23Z",
+   "last_ok_at": "2026-11-19T13:52:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-18T13:25:03Z",
-   "last_ok_at": "2026-11-18T13:25:03Z",
+   "checked_at": "2026-11-19T13:52:21Z",
+   "last_ok_at": "2026-11-19T13:52:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-18T13:25:04Z",
-   "last_ok_at": "2026-11-18T13:25:04Z",
+   "checked_at": "2026-11-19T13:52:23Z",
+   "last_ok_at": "2026-11-19T13:52:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-18T13:25:03Z",
-   "last_ok_at": "2026-11-18T13:25:03Z",
+   "checked_at": "2026-11-19T13:52:22Z",
+   "last_ok_at": "2026-11-19T13:52:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-18T13:25:03Z",
-   "last_ok_at": "2026-11-18T13:25:03Z",
+   "checked_at": "2026-11-19T13:52:22Z",
+   "last_ok_at": "2026-11-19T13:52:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,73 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-18T13:25:01Z",
-   "last_ok_at": "2026-11-18T13:25:01Z",
+   "checked_at": "2026-11-19T13:52:21Z",
+   "last_ok_at": "2026-11-19T13:52:21Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-19T13:52:21Z",
+   "kind": "post",
+   "title": "48 Santa Crafts for Kids & Toddlers that are Festive & Cute",
+   "ref": "https://handsonaswegrow.com/santa-crafts-kids/"
+  },
+  {
+   "at": "2026-11-19T13:52:22Z",
+   "kind": "post",
+   "title": "Snowflake Make 20 Addition Game: A Fun Winter Math Puzzle",
+   "ref": "https://teachbesideme.com/snowflake-make-20-addition-game-a-fun-winter-math-puzzle/"
+  },
+  {
+   "at": "2026-11-19T13:52:23Z",
+   "kind": "post",
+   "title": "Super Cute Fall DIY Tic Tac Toe Board",
+   "ref": "https://kidsactivitiesblog.com/287855/super-cute-fall-diy-tic-tac-toe-board/"
+  },
+  {
+   "at": "2026-11-19T13:52:23Z",
+   "kind": "post",
+   "title": "Quick & Easy Homemade Caramel Sauce Recipe",
+   "ref": "https://kidsactivitiesblog.com/182892/quick-easy-homemade-caramel-sauce-recipe/"
+  },
+  {
+   "at": "2026-11-19T13:52:23Z",
+   "kind": "post",
+   "title": "30 Festive Oreo Recipes That You Have To Make This Holiday Season!",
+   "ref": "https://kidsactivitiesblog.com/78475/holiday-oreo-recipes/"
+  },
+  {
+   "at": "2026-11-19T13:52:23Z",
+   "kind": "post",
+   "title": "Fluffy Snow Slime Recipe for Kids Winter Activity",
+   "ref": "https://kidsactivitiesblog.com/115061/fluffy-snow-slime/"
+  },
+  {
+   "at": "2026-11-19T13:52:23Z",
+   "kind": "post",
+   "title": "Make Thanksgiving Day Crafts With Turkey Feather Template",
+   "ref": "https://kidsactivitiesblog.com/285927/turkey-feather-template/"
+  },
+  {
+   "at": "2026-11-19T13:52:23Z",
+   "kind": "post",
+   "title": "Fun Orange Cup Turkey Craft For Kids",
+   "ref": "https://kidsactivitiesblog.com/308734/fun-orange-cup-turkey-craft-for-kids/"
+  },
+  {
+   "at": "2026-11-19T13:53:21Z",
+   "kind": "photo-candidate",
+   "title": "Hot Potato",
+   "ref": "https://commons.wikimedia.org/wiki/File:Hot_dog_with_baked_beans_and_potato_salad.jpg"
+  },
+  {
+   "at": "2026-11-19T13:53:24Z",
+   "kind": "photo-candidate",
+   "title": "Follow the Leader",
+   "ref": "https://commons.wikimedia.org/wiki/File:Follow_the_Leader,_by_Isaac_Joseph_Witham_NML_MMM_1984_506-001.jpg"
+  },
   {
    "at": "2026-11-18T13:25:01Z",
    "kind": "post",
@@ -373,72 +433,6 @@
    "kind": "photo-candidate",
    "title": "Partner Portrait Interviews",
    "ref": "https://commons.wikimedia.org/wiki/File:Ed_Carlson.jpg"
-  },
-  {
-   "at": "2026-11-10T12:57:31Z",
-   "kind": "post",
-   "title": "80 Exciting 5th Grade Science Projects, Demos & Experiments",
-   "ref": "https://www.weareteachers.com/5th-grade-science-projects/?utm_source=rss&utm_medium=rss&utm_campaign=5th-grade-science-projects"
-  },
-  {
-   "at": "2026-11-10T12:57:33Z",
-   "kind": "post",
-   "title": "25 Fun Christmas Science Experiments",
-   "ref": "https://littlebinsforlittlehands.com/christmas-science-activities-kids-top-10-christmas-ideas-kids/"
-  },
-  {
-   "at": "2026-11-10T12:57:34Z",
-   "kind": "post",
-   "title": "Roll A Story: Thanksgiving Edition",
-   "ref": "https://kidsactivitiesblog.com/310958/roll-a-story-thanksgiving-edition/"
-  },
-  {
-   "at": "2026-11-10T12:58:31Z",
-   "kind": "photo-candidate",
-   "title": "Midnight Around the World",
-   "ref": "https://commons.wikimedia.org/wiki/File:A_midnight_modern_conversation_-_DPLA_-_05a5ea6563960776d9ea200a2015a86a.jpg"
-  },
-  {
-   "at": "2026-11-10T12:58:33Z",
-   "kind": "photo-candidate",
-   "title": "Teach-Back to the Youngers",
-   "ref": "https://commons.wikimedia.org/wiki/File:An_Education_Volunteer_with_his_high_school_students_in_the_Philippines.jpg"
-  },
-  {
-   "at": "2026-11-09T13:19:57Z",
-   "kind": "post",
-   "title": "42 Simple Hanukkah Crafts for Kids to Celebrate! Dreidels, Menorahs & More!",
-   "ref": "https://handsonaswegrow.com/hanukkah-crafts-kids/"
-  },
-  {
-   "at": "2026-11-09T13:19:58Z",
-   "kind": "post",
-   "title": "Turkey Call Sound Science Experiment for Kids",
-   "ref": "https://littlebinsforlittlehands.com/turkey-call-science-experiment/"
-  },
-  {
-   "at": "2026-11-09T13:20:50Z",
-   "kind": "photo-candidate",
-   "title": "Hot Seat, Kind Questions",
-   "ref": "https://commons.wikimedia.org/wiki/File:College_Days_by_Naida_Muriel_Freudenberg_(1915-1998)_in_the_Jersey_Journal_on_April_26,_1930_(crop).png"
-  },
-  {
-   "at": "2026-11-08T11:30:12Z",
-   "kind": "post",
-   "title": "Experts Say, Giving Kids Too Many Christmas Gifts Is Actually Bad For Them",
-   "ref": "https://kidsactivitiesblog.com/183385/giving-kids-too-many-christmas-gifts/"
-  },
-  {
-   "at": "2026-11-07T11:18:55Z",
-   "kind": "post",
-   "title": "27 Fun Food Web and Food Chain Activities",
-   "ref": "https://www.weareteachers.com/food-webs/?utm_source=rss&utm_medium=rss&utm_campaign=food-webs"
-  },
-  {
-   "at": "2026-11-07T11:18:56Z",
-   "kind": "post",
-   "title": "Dinner’s Ready! A Thanksgiving Math Card Game for Kids",
-   "ref": "https://teachbesideme.com/dinners-ready-a-thanksgiving-math-card-game-for-kids/"
   }
  ]
 }
