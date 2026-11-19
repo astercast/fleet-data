@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-18T20:30:08Z",
+ "generated_at": "2026-11-19T02:36:43Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-18T20:30:08Z",
+ "last_data_change_at": "2026-11-19T02:36:43Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 72,
-   "checked_at": "2026-11-18T20:30:08Z",
-   "last_ok_at": "2026-11-18T20:30:08Z",
+   "checked_at": "2026-11-19T02:36:42Z",
+   "last_ok_at": "2026-11-19T02:36:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,61 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12436,
-   "checked_at": "2026-11-18T20:30:08Z",
-   "last_ok_at": "2026-11-18T20:30:08Z",
+   "checked_at": "2026-11-19T02:36:43Z",
+   "last_ok_at": "2026-11-19T02:36:43Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-19T02:36:43Z",
+   "kind": "sale",
+   "title": "2013 Volkswagen Beetle 2.5L Convertible",
+   "ref": "https://bringatrailer.com/listing/2013-volkswagen-beetle-2-5l-6/"
+  },
+  {
+   "at": "2026-11-19T02:36:43Z",
+   "kind": "sale",
+   "title": "2023 Volkswagen Golf GTI 40th Anniversary Edition 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2023-volkswagen-golf-gti/"
+  },
+  {
+   "at": "2026-11-19T02:36:43Z",
+   "kind": "sale",
+   "title": "7k-Mile 1977 Chevrolet Corvette",
+   "ref": "https://bringatrailer.com/listing/1977-chevrolet-corvette-182/"
+  },
+  {
+   "at": "2026-11-19T02:36:43Z",
+   "kind": "sale",
+   "title": "2023 Chevrolet Corvette Stingray Convertible 3LT Z51 70th Anniversary Edition",
+   "ref": "https://bringatrailer.com/listing/2023-chevrolet-corvette-stingray-convertible-130/"
+  },
+  {
+   "at": "2026-11-19T02:36:43Z",
+   "kind": "sale",
+   "title": "1964 Chevrolet Corvette Coupe 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1964-chevrolet-corvette-395/"
+  },
+  {
+   "at": "2026-11-19T02:36:43Z",
+   "kind": "sale",
+   "title": "Modified 2005 Subaru Impreza WRX STi",
+   "ref": "https://bringatrailer.com/listing/2005-subaru-impreza-wrx-sti-145/"
+  },
+  {
+   "at": "2026-11-19T02:36:43Z",
+   "kind": "sale",
+   "title": "9k-Mile 2014 Chevrolet Corvette Stingray Premiere Edition Convertible 3LT",
+   "ref": "https://bringatrailer.com/listing/2014-chevrolet-corvette-stingray-convertible-66/"
+  },
+  {
+   "at": "2026-11-19T02:36:43Z",
+   "kind": "sale",
+   "title": "2011 Cadillac Escalade Luxury AWD",
+   "ref": "https://bringatrailer.com/listing/2011-cadillac-escalade-13/"
+  },
   {
    "at": "2026-11-18T20:30:08Z",
    "kind": "sale",
@@ -342,54 +390,6 @@
    "kind": "sale",
    "title": "6k-Mile 2007 Toyota Camry Solara SLE V6 Coupe",
    "ref": "https://bringatrailer.com/listing/2007-toyota-camry-solara-4/"
-  },
-  {
-   "at": "2026-11-16T19:37:42Z",
-   "kind": "sale",
-   "title": "1998 Dodge Viper RT/10",
-   "ref": "https://bringatrailer.com/listing/1998-dodge-viper-rt-10-22/"
-  },
-  {
-   "at": "2026-11-16T19:37:42Z",
-   "kind": "sale",
-   "title": "1,500-Mile 2015 Dodge Challenger SRT Hellcat 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2015-dodge-challenger-srt-hellcat-118/"
-  },
-  {
-   "at": "2026-11-16T19:37:42Z",
-   "kind": "sale",
-   "title": "2013 Porsche Cayenne Turbo",
-   "ref": "https://bringatrailer.com/listing/2013-porsche-cayenne-turbo-37/"
-  },
-  {
-   "at": "2026-11-16T19:37:42Z",
-   "kind": "sale",
-   "title": "34k-Mile 2006 Pontiac GTO 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2006-pontiac-gto-129/"
-  },
-  {
-   "at": "2026-11-16T19:37:42Z",
-   "kind": "sale",
-   "title": "2013 Porsche Cayenne GTS",
-   "ref": "https://bringatrailer.com/listing/2013-porsche-cayenne-gts-100/"
-  },
-  {
-   "at": "2026-11-15T22:50:32Z",
-   "kind": "sale",
-   "title": "1973 Dodge Challenger",
-   "ref": "https://bringatrailer.com/listing/1973-dodge-challenger-47/"
-  },
-  {
-   "at": "2026-11-15T22:50:32Z",
-   "kind": "sale",
-   "title": "2011 Toyota Land Cruiser URJ200",
-   "ref": "https://bringatrailer.com/listing/2011-toyota-land-cruiser-15/"
-  },
-  {
-   "at": "2026-11-15T22:50:32Z",
-   "kind": "sale",
-   "title": "37-Years-Owned 1988 Jeep Grand Wagoneer",
-   "ref": "https://bringatrailer.com/listing/1988-jeep-grand-wagoneer-180/"
   }
  ]
 }

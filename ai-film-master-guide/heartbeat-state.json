@@ -5,6 +5,7 @@
   "AaronHuangWei/longlive2-global-query-only-ablation",
   "AaronHuangWei/longlive2-teacher-top10-full-context-ablation",
   "AbrahamPJ/fasth3-dense-v1-q4_0-gguf",
+  "AbrahamPJ/fasth3-dense-v1-q8_0-gguf",
   "AcademiaSD/LTX25-NF4-for-LoRA-Training",
   "AcademiaSD/Wan22-T2V-A14B-NF4-for-LoRA-Training",
   "Alextokenizin7873/LongCat-Video",
@@ -46,6 +47,7 @@
   "LiqunMa/speed",
   "Marcellus-Zhao/TTT2Reel-Wan2.2-TI2V-5B",
   "MeissonFlow/Mei",
+  "MiguelAiUser/sora-3",
   "Mohit5899/bhaav-e",
   "Mrbizarro/ltx-2.3-mlx-q4-1.1",
   "Mrbizarro/ltx-2.5-mlx-hq",
@@ -237,6 +239,7 @@
   "manateelazycat/Pika-H3-Flex-Turbo-LoRA-AIPod",
   "melmass/ltxv-loras",
   "mlboydaisuke/LTX-Video-2B-CoreAI",
+  "mlx-community/Causal-Forcing-PP-framewise-2step-bf16",
   "mlx-community/FastFrames-S-bf16-mlx",
   "mmiiguell10/LTX-2.5-int8-comfy",
   "moonbox-ai/hyperflow-h3-flash-GGUF",
@@ -548,6 +551,7 @@
   "tag:github.com,2008:Repository/589831718/v0.45.3",
   "tag:github.com,2008:Repository/589831718/v0.45.4",
   "tag:github.com,2008:Repository/589831718/v0.45.5",
-  "tag:github.com,2008:Repository/589831718/v0.45.6"
+  "tag:github.com,2008:Repository/589831718/v0.45.6",
+  "tag:github.com,2008:Repository/589831718/v0.46.0"
  ]
 }

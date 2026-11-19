@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-11-18T20:30:13Z",
+ "generated_at": "2026-11-19T02:36:47Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -14,13 +14,13 @@
     ],
     [
      "sources",
-     "ok",
-     "all ok"
+     "warn",
+     "down: arxiv"
     ],
     [
      "site",
      "ok",
-     "116 ms"
+     "61 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -28,8 +28,8 @@
    "sources": [
     {
      "id": "arxiv",
-     "ok": true,
-     "fails": 0,
+     "ok": false,
+     "fails": 1,
      "items": 177
     },
     {
@@ -57,7 +57,7 @@
      "items": 44
     }
    ],
-   "state": "ok"
+   "state": "warn"
   },
   {
    "site": "marvel-legends-chronicle",
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "7.1 h old, limit 50 h"
+     "13.2 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,11 +77,11 @@
     [
      "site",
      "ok",
-     "441 ms"
+     "87 ms"
     ]
    ],
-   "data_age_h": 7.1,
-   "changed_age_h": 7.1,
+   "data_age_h": 13.2,
+   "changed_age_h": 13.2,
    "sources": [
     {
      "id": "cmdstore",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "7.1 h old, limit 50 h"
+     "13.2 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "213 ms"
+     "120 ms"
     ]
    ],
-   "data_age_h": 7.1,
+   "data_age_h": 13.2,
    "changed_age_h": null,
    "sources": [
     {
@@ -178,7 +178,7 @@
     [
      "site",
      "ok",
-     "178 ms"
+     "144 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -217,7 +217,7 @@
     {
      "id": "youtube-blog",
      "ok": false,
-     "fails": 80,
+     "fails": 81,
      "items": 0
     },
     {
@@ -247,7 +247,7 @@
     [
      "site",
      "ok",
-     "68 ms"
+     "73 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -256,7 +256,7 @@
     {
      "id": "board",
      "ok": false,
-     "fails": 80,
+     "fails": 81,
      "items": 0
     },
     {
@@ -269,7 +269,7 @@
      "id": "lane-charts",
      "ok": true,
      "fails": 0,
-     "items": 20
+     "items": 10
     },
     {
      "id": "lane-gtrends",
@@ -281,7 +281,7 @@
      "id": "lane-hn",
      "ok": true,
      "fails": 0,
-     "items": 49
+     "items": 50
     },
     {
      "id": "lane-lemmy",
@@ -299,7 +299,7 @@
      "id": "lane-netflix",
      "ok": true,
      "fails": 0,
-     "items": 20
+     "items": 0
     },
     {
      "id": "lane-news",
@@ -340,19 +340,19 @@
     {
      "id": "lane-tiktok",
      "ok": false,
-     "fails": 80,
+     "fails": 81,
      "items": 0
     },
     {
      "id": "lane-wiki",
      "ok": true,
      "fails": 0,
-     "items": 15
+     "items": 0
     },
     {
      "id": "lane-x",
      "ok": false,
-     "fails": 80,
+     "fails": 81,
      "items": 0
     },
     {
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "7.1 h old, limit 50 h"
+     "13.2 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "366 ms"
+     "167 ms"
     ]
    ],
-   "data_age_h": 7.1,
-   "changed_age_h": 7.1,
+   "data_age_h": 13.2,
+   "changed_age_h": 13.2,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "7.1 h old, limit 50 h"
+     "13.2 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "142 ms"
+     "106 ms"
     ]
    ],
-   "data_age_h": 7.1,
+   "data_age_h": 13.2,
    "changed_age_h": null,
    "sources": [
     {
@@ -496,7 +496,7 @@
     [
      "site",
      "ok",
-     "296 ms"
+     "109 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "145 ms"
+     "155 ms"
     ]
    ],
    "state": "ok"
@@ -548,7 +548,7 @@
     [
      "site",
      "ok",
-     "153 ms"
+     "158 ms"
     ],
     [
      "health",
@@ -557,7 +557,7 @@
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 19.5,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "liquipedia",
@@ -591,11 +591,11 @@
     [
      "site",
      "ok",
-     "169 ms"
+     "152 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 40.7,
+   "changed_age_h": 46.8,
    "sources": [
     {
      "id": "store",
