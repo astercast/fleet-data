@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-11-19T02:36:47Z",
+ "generated_at": "2026-11-19T11:34:15Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -14,13 +14,13 @@
     ],
     [
      "sources",
-     "warn",
-     "down: arxiv"
+     "ok",
+     "all ok"
     ],
     [
      "site",
      "ok",
-     "61 ms"
+     "187 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -28,9 +28,9 @@
    "sources": [
     {
      "id": "arxiv",
-     "ok": false,
-     "fails": 1,
-     "items": 177
+     "ok": true,
+     "fails": 0,
+     "items": 189
     },
     {
      "id": "github",
@@ -57,7 +57,7 @@
      "items": 44
     }
    ],
-   "state": "warn"
+   "state": "ok"
   },
   {
    "site": "marvel-legends-chronicle",
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "13.2 h old, limit 50 h"
+     "22.2 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,11 +77,11 @@
     [
      "site",
      "ok",
-     "87 ms"
+     "226 ms"
     ]
    ],
-   "data_age_h": 13.2,
-   "changed_age_h": 13.2,
+   "data_age_h": 22.2,
+   "changed_age_h": 22.2,
    "sources": [
     {
      "id": "cmdstore",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "13.2 h old, limit 50 h"
+     "22.2 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "120 ms"
+     "263 ms"
     ]
    ],
-   "data_age_h": 13.2,
+   "data_age_h": 22.2,
    "changed_age_h": null,
    "sources": [
     {
@@ -178,7 +178,7 @@
     [
      "site",
      "ok",
-     "144 ms"
+     "265 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -217,7 +217,7 @@
     {
      "id": "youtube-blog",
      "ok": false,
-     "fails": 81,
+     "fails": 82,
      "items": 0
     },
     {
@@ -247,7 +247,7 @@
     [
      "site",
      "ok",
-     "73 ms"
+     "161 ms"
     ]
    ],
    "data_age_h": 0.0,
@@ -256,7 +256,7 @@
     {
      "id": "board",
      "ok": false,
-     "fails": 81,
+     "fails": 82,
      "items": 0
     },
     {
@@ -269,7 +269,7 @@
      "id": "lane-charts",
      "ok": true,
      "fails": 0,
-     "items": 10
+     "items": 20
     },
     {
      "id": "lane-gtrends",
@@ -305,13 +305,13 @@
      "id": "lane-news",
      "ok": true,
      "fails": 0,
-     "items": 75
+     "items": 60
     },
     {
      "id": "lane-news_search",
      "ok": true,
      "fails": 0,
-     "items": 100
+     "items": 80
     },
     {
      "id": "lane-reddit",
@@ -340,19 +340,19 @@
     {
      "id": "lane-tiktok",
      "ok": false,
-     "fails": 81,
+     "fails": 82,
      "items": 0
     },
     {
      "id": "lane-wiki",
      "ok": true,
      "fails": 0,
-     "items": 0
+     "items": 15
     },
     {
      "id": "lane-x",
      "ok": false,
-     "fails": 81,
+     "fails": 82,
      "items": 0
     },
     {
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "13.2 h old, limit 50 h"
+     "22.1 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "167 ms"
+     "347 ms"
     ]
    ],
-   "data_age_h": 13.2,
-   "changed_age_h": 13.2,
+   "data_age_h": 22.1,
+   "changed_age_h": 22.2,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "13.2 h old, limit 50 h"
+     "22.1 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "106 ms"
+     "225 ms"
     ]
    ],
-   "data_age_h": 13.2,
+   "data_age_h": 22.1,
    "changed_age_h": null,
    "sources": [
     {
@@ -496,17 +496,17 @@
     [
      "site",
      "ok",
-     "109 ms"
+     "389 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "changed_age_h": 9.0,
    "sources": [
     {
      "id": "bat",
      "ok": true,
      "fails": 0,
-     "items": 72
+     "items": 36
     },
     {
      "id": "nhtsa-vpic",
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "155 ms"
+     "236 ms"
     ]
    ],
    "state": "ok"
@@ -542,13 +542,13 @@
     ],
     [
      "sources",
-     "ok",
-     "all ok"
+     "fail",
+     "down: liquipedia"
     ],
     [
      "site",
      "ok",
-     "158 ms"
+     "279 ms"
     ],
     [
      "health",
@@ -557,16 +557,16 @@
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "changed_age_h": 9.0,
    "sources": [
     {
      "id": "liquipedia",
-     "ok": true,
-     "fails": 0,
+     "ok": false,
+     "fails": 1,
      "items": 6
     }
    ],
-   "state": "ok"
+   "state": "fail"
   },
   {
    "site": "sonny-angel-archive",
@@ -591,11 +591,11 @@
     [
      "site",
      "ok",
-     "152 ms"
+     "271 ms"
     ]
    ],
    "data_age_h": 0.0,
-   "changed_age_h": 46.8,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "store",

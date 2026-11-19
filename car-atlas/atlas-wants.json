@@ -1,6 +1,6 @@
 {
  "format": "atlas-wants/1",
- "generated_at": "2026-11-19T02:36:43Z",
+ "generated_at": "2026-11-19T11:33:47Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -13,39 +13,9 @@
    "bidTo": 3
   },
   {
-   "key": "Chevrolet c10",
-   "sold": 1,
-   "bidTo": 1
-  },
-  {
    "key": "Ford model",
    "sold": 1,
    "bidTo": 1
-  },
-  {
-   "key": "Years Owned",
-   "sold": 2,
-   "bidTo": 0
-  },
-  {
-   "key": "Audi q7",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "BMW 128i",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "BMW 2002tii",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "BMW 535xi",
-   "sold": 1,
-   "bidTo": 0
   },
   {
    "key": "BMW 740i",
@@ -58,16 +28,6 @@
    "bidTo": 0
   },
   {
-   "key": "Cadillac cts",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Chevrolet corvair",
-   "sold": 0,
-   "bidTo": 1
-  },
-  {
    "key": "Chevrolet corvette",
    "sold": 0,
    "bidTo": 1
@@ -78,39 +38,14 @@
    "bidTo": 1
   },
   {
-   "key": "Chevrolet suburban",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Dodge ram",
-   "sold": 0,
-   "bidTo": 1
-  },
-  {
    "key": "Evel Knievel",
    "sold": 1,
    "bidTo": 0
   },
   {
-   "key": "Ferrari 308",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Ferrari f430",
-   "sold": 0,
-   "bidTo": 1
-  },
-  {
    "key": "Ford f",
    "sold": 1,
    "bidTo": 0
-  },
-  {
-   "key": "Ford mustang",
-   "sold": 0,
-   "bidTo": 1
   },
   {
    "key": "Honda z50j",
@@ -148,11 +83,6 @@
    "bidTo": 0
   },
   {
-   "key": "Mercedes-Benz",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
    "key": "Mercedes-Benz 250s",
    "sold": 1,
    "bidTo": 0
@@ -161,11 +91,6 @@
    "key": "Mercedes-Benz 450sl",
    "sold": 1,
    "bidTo": 0
-  },
-  {
-   "key": "Mercedes-Benz g63",
-   "sold": 0,
-   "bidTo": 1
   },
   {
    "key": "Mercedes-Benz s450",
@@ -178,29 +103,9 @@
    "bidTo": 0
   },
   {
-   "key": "Mile 1992",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Mile 2005",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
    "key": "Noble M400",
    "sold": 1,
    "bidTo": 0
-  },
-  {
-   "key": "Oldsmobile 442",
-   "sold": 0,
-   "bidTo": 1
-  },
-  {
-   "key": "Plymouth sport",
-   "sold": 0,
-   "bidTo": 1
   },
   {
    "key": "Pontiac lemans",
@@ -211,31 +116,6 @@
    "key": "Porsche 718",
    "sold": 1,
    "bidTo": 0
-  },
-  {
-   "key": "Porsche 911s",
-   "sold": 0,
-   "bidTo": 1
-  },
-  {
-   "key": "Porsche 911sc",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Porsche panamera",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Rolls Royce",
-   "sold": 1,
-   "bidTo": 0
-  },
-  {
-   "key": "Subaru powered",
-   "sold": 0,
-   "bidTo": 1
   },
   {
    "key": "Suzuki Jimny",
@@ -589,318 +469,6 @@
    "status": "bid-to",
    "matched": false,
    "wantsKey": "BMW 740i"
-  },
-  {
-   "title": "LSX-Powered 1969 Oldsmobile 442 Holiday Coupe 5-Speed",
-   "url": "https://bringatrailer.com/listing/1969-oldsmobile-442-89/",
-   "price": 52250,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Oldsmobile 442"
-  },
-  {
-   "title": "30-Years-Owned 1972 BMW 2002tii Project",
-   "url": "https://bringatrailer.com/listing/1972-bmw-2002tii-140/",
-   "price": 16000,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "BMW 2002tii"
-  },
-  {
-   "title": "440 Max Wedge–Powered 1964 Plymouth Sport Fury Hardtop",
-   "url": "https://bringatrailer.com/listing/1964-plymouth-sport-fury-26/",
-   "price": 28000,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Plymouth sport"
-  },
-  {
-   "title": "1968 Porsche 911S Coupe 5-Speed",
-   "url": "https://bringatrailer.com/listing/1968-porsche-911s-17/",
-   "price": 85500,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Porsche 911s"
-  },
-  {
-   "title": "1967 Chevrolet C10 Pickup",
-   "url": "https://bringatrailer.com/listing/1967-chevrolet-c10-pickup-173/",
-   "price": 29500,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Chevrolet c10"
-  },
-  {
-   "title": "25k-Mile 2006 Ferrari F430 Spider 6-Speed Conversion",
-   "url": "https://bringatrailer.com/listing/2006-ferrari-f430-76/",
-   "price": 152000,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Ferrari f430"
-  },
-  {
-   "title": "37-Years-Owned 1,380cc-Powered 1967 Morris Mini Cooper S",
-   "url": "https://bringatrailer.com/listing/1967-morris-mini-cooper-s-4/",
-   "price": 16950,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Years Owned"
-  },
-  {
-   "title": "2008 BMW 535xi Sports Wagon",
-   "url": "https://bringatrailer.com/listing/2008-bmw-535xi-sports-wagon-39/",
-   "price": 10700,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "BMW 535xi"
-  },
-  {
-   "title": "2011 Porsche Panamera S",
-   "url": "https://bringatrailer.com/listing/2011-porsche-panamera-s-13/",
-   "price": 22500,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Porsche panamera"
-  },
-  {
-   "title": "383-Powered 1963 Chevrolet C10 Stepside Pickup",
-   "url": "https://bringatrailer.com/listing/1963-chevrolet-c10-pickup-89/",
-   "price": 26000,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Chevrolet c10"
-  },
-  {
-   "title": "2012 BMW 128i Coupe M Sport",
-   "url": "https://bringatrailer.com/listing/2012-bmw-128i-coupe-5/",
-   "price": 8500,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "BMW 128i"
-  },
-  {
-   "title": "2009 Chevrolet Suburban 1500 LTZ 4×4",
-   "url": "https://bringatrailer.com/listing/2009-chevrolet-suburban-1500-4/",
-   "price": 8200,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Chevrolet suburban"
-  },
-  {
-   "title": "2011 Cadillac CTS Sedan 3.0 6-Speed",
-   "url": "https://bringatrailer.com/listing/2011-cadillac-cts-12/",
-   "price": 8000,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Cadillac cts"
-  },
-  {
-   "title": "Modified, 19k-Mile 2013 Mercedes-Benz G63 AMG",
-   "url": "https://bringatrailer.com/listing/2013-mercedes-benz-g63-amg-40/",
-   "price": 58000,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Mercedes-Benz g63"
-  },
-  {
-   "title": "2000 Dodge Ram 3500 Quad Cab Dually 4×4 Cummins 5-Speed",
-   "url": "https://bringatrailer.com/listing/2000-dodge-ram-3500-8/",
-   "price": 0,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Dodge ram"
-  },
-  {
-   "title": "27-Years-Owned 1978 Ferrari 308 GTS",
-   "url": "https://bringatrailer.com/listing/1978-ferrari-308-gts-48/",
-   "price": 80000,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Ferrari 308"
-  },
-  {
-   "title": "23-Years-Owned 1957 Chrysler 300C Convertible",
-   "url": "https://bringatrailer.com/listing/1957-chrysler-300c-6-2/",
-   "price": 82000,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Years Owned"
-  },
-  {
-   "title": "968-Mile 2005 Harley-Davidson Road King Classic",
-   "url": "https://bringatrailer.com/listing/2005-harley-davidson-road-king-classic-3/",
-   "price": 5100,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Mile 2005"
-  },
-  {
-   "title": "43-Years-Owned 1981 Porsche 911SC Coupe",
-   "url": "https://bringatrailer.com/listing/1981-porsche-911sc-97/",
-   "price": 71429,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Porsche 911sc"
-  },
-  {
-   "title": "2016 Ford Mustang Shelby GT350",
-   "url": "https://bringatrailer.com/listing/2016-ford-mustang-shelby-gt350-90/",
-   "price": 44000,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": true,
-   "wantsKey": "Ford mustang"
-  },
-  {
-   "title": "Front LQ9-Powered 1966 Chevrolet Corvair Monza Coupe",
-   "url": "https://bringatrailer.com/listing/1966-chevrolet-corvair-500-sport-coupe-3/",
-   "price": 12000,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Chevrolet corvair"
-  },
-  {
-   "title": "Subaru-Powered Porsche 356 Speedster Replica",
-   "url": "https://bringatrailer.com/listing/porsche-356-replica-87/",
-   "price": 26250,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": false,
-   "wantsKey": "Subaru powered"
-  },
-  {
-   "title": "2015 Audi Q7 TDI Prestige S Line",
-   "url": "https://bringatrailer.com/listing/2015-audi-q7-67/",
-   "price": 18888,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Audi q7"
-  },
-  {
-   "title": "17×8″ AMG Aero I Wheels by AAC for Mercedes-Benz",
-   "url": "https://bringatrailer.com/listing/wheels-777/",
-   "price": 1700,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Mercedes-Benz"
-  },
-  {
-   "title": "25k-Mile 1992 Acura NSX",
-   "url": "https://bringatrailer.com/listing/1992-acura-nsx-138/",
-   "price": 73500,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Mile 1992"
-  },
-  {
-   "title": "1995 Rolls-Royce Silver Spur III Touring Limousine Project",
-   "url": "https://bringatrailer.com/listing/1995-rolls-royce-silver-spur-iii-touring-limousine-2/",
-   "price": 10618,
-   "currency": "USD",
-   "ended": "2026-11-18",
-   "noreserve": true,
-   "house": "Bring a Trailer",
-   "status": "sold",
-   "matched": false,
-   "wantsKey": "Rolls Royce"
   }
  ]
 }

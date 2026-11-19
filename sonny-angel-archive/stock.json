@@ -1,7 +1,7 @@
 {
  "format": "stock/1",
- "generated_at": "2026-11-17T03:48:11Z",
- "checked_at": "2026-11-17T03:48:11Z",
+ "generated_at": "2026-11-19T11:34:10Z",
+ "checked_at": "2026-11-19T11:34:10Z",
  "items": {
   "flower-gift": {
    "in_stock": false,
@@ -36,7 +36,7 @@
    "url": "https://sonnyangelusa.com/products/minifigure-fruit-series-2019"
   },
   "hippers-harvest": {
-   "in_stock": true,
+   "in_stock": false,
    "url": "https://sonnyangelusa.com/products/hippers-harvest-series"
   },
   "sweets": {
