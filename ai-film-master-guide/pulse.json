@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-19T11:31:17Z",
+ "generated_at": "2026-11-19T20:31:02Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-19T11:31:17Z",
+ "last_data_change_at": "2026-11-19T20:31:02Z",
  "sources": [
   {
    "id": "arxiv",
@@ -13,8 +13,8 @@
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
    "items": 189,
-   "checked_at": "2026-11-19T11:31:14Z",
-   "last_ok_at": "2026-11-19T11:31:14Z",
+   "checked_at": "2026-11-19T20:30:58Z",
+   "last_ok_at": "2026-11-19T20:30:58Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-19T11:31:17Z",
-   "last_ok_at": "2026-11-19T11:31:17Z",
+   "checked_at": "2026-11-19T20:31:02Z",
+   "last_ok_at": "2026-11-19T20:31:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-19T11:31:13Z",
-   "last_ok_at": "2026-11-19T11:31:13Z",
+   "checked_at": "2026-11-19T20:30:58Z",
+   "last_ok_at": "2026-11-19T20:30:58Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-19T11:31:15Z",
-   "last_ok_at": "2026-11-19T11:31:15Z",
+   "checked_at": "2026-11-19T20:31:00Z",
+   "last_ok_at": "2026-11-19T20:31:00Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,67 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-19T11:31:13Z",
-   "last_ok_at": "2026-11-19T11:31:13Z",
+   "checked_at": "2026-11-19T20:30:58Z",
+   "last_ok_at": "2026-11-19T20:30:58Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-19T20:31:02Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: gani3b/HunyuanVideo-1.5",
+   "ref": "https://huggingface.co/gani3b/HunyuanVideo-1.5"
+  },
+  {
+   "at": "2026-11-19T20:31:02Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ModelsLab/MiniMax-H3-Turbo-RL",
+   "ref": "https://huggingface.co/ModelsLab/MiniMax-H3-Turbo-RL"
+  },
+  {
+   "at": "2026-11-19T20:31:02Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Renedffd/ClipProj-MiniMax-H3",
+   "ref": "https://huggingface.co/Renedffd/ClipProj-MiniMax-H3"
+  },
+  {
+   "at": "2026-11-19T20:31:02Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Renedffd/DMAD",
+   "ref": "https://huggingface.co/Renedffd/DMAD"
+  },
+  {
+   "at": "2026-11-19T20:31:02Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Renedffd/Wan2.2-TI2V-5B",
+   "ref": "https://huggingface.co/Renedffd/Wan2.2-TI2V-5B"
+  },
+  {
+   "at": "2026-11-19T20:31:02Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Renedffd/FastFrames-L",
+   "ref": "https://huggingface.co/Renedffd/FastFrames-L"
+  },
+  {
+   "at": "2026-11-19T20:31:02Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-14B-OKD-v0.1",
+   "ref": "https://huggingface.co/H3-Tiny/H3-Tiny-14B-OKD-v0.1"
+  },
+  {
+   "at": "2026-11-19T20:31:02Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-17B-FewStep-v0.1",
+   "ref": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-FewStep-v0.1"
+  },
+  {
+   "at": "2026-11-19T20:31:02Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-17B-Pruned",
+   "ref": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-Pruned"
+  },
   {
    "at": "2026-11-19T11:31:17Z",
    "kind": "new-model",
@@ -369,60 +423,6 @@
    "kind": "price-signal",
    "title": "ElevenLabs Eleven v3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://aitoolblaze.com/blog/elevenlabs-review-2026"
-  },
-  {
-   "at": "2026-11-19T02:34:00Z",
-   "kind": "price-signal",
-   "title": "Suno v5.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "ref": "https://en.wikipedia.org/wiki/Suno"
-  },
-  {
-   "at": "2026-11-19T02:34:00Z",
-   "kind": "price-signal",
-   "title": "Lyria 3 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "ref": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/"
-  },
-  {
-   "at": "2026-11-19T02:34:00Z",
-   "kind": "price-signal",
-   "title": "Topaz Astra: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "ref": "https://www.topazlabs.com/astra"
-  },
-  {
-   "at": "2026-11-19T02:34:00Z",
-   "kind": "price-signal",
-   "title": "Runway Act-Two: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "ref": "https://aivideos.eu/blog/runway-act-one-vs-heygen-ai-actor-direction"
-  },
-  {
-   "at": "2026-11-19T02:34:00Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: AbrahamPJ/fasth3-dense-v1-q8_0-gguf",
-   "ref": "https://huggingface.co/AbrahamPJ/fasth3-dense-v1-q8_0-gguf"
-  },
-  {
-   "at": "2026-11-19T02:34:00Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: mlx-community/Causal-Forcing-PP-framewise-2step-bf16",
-   "ref": "https://huggingface.co/mlx-community/Causal-Forcing-PP-framewise-2step-bf16"
-  },
-  {
-   "at": "2026-11-19T02:34:00Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: MiguelAiUser/sora-3",
-   "ref": "https://huggingface.co/MiguelAiUser/sora-3"
-  },
-  {
-   "at": "2026-11-19T02:34:00Z",
-   "kind": "release",
-   "title": "comfyui release: v0.46.0",
-   "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.0"
-  },
-  {
-   "at": "2026-11-18T20:27:13Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Russ1on/MiniMax-H3-Multishot-Workflow",
-   "ref": "https://huggingface.co/Russ1on/MiniMax-H3-Multishot-Workflow"
   }
  ]
 }
