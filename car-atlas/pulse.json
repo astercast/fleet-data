@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-20T02:20:25Z",
+ "generated_at": "2026-11-20T11:27:38Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-20T02:20:25Z",
+ "last_data_change_at": "2026-11-20T11:27:38Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 72,
-   "checked_at": "2026-11-20T02:20:24Z",
-   "last_ok_at": "2026-11-20T02:20:24Z",
+   "items": 36,
+   "checked_at": "2026-11-20T11:27:37Z",
+   "last_ok_at": "2026-11-20T11:27:37Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,19 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12437,
-   "checked_at": "2026-11-20T02:20:25Z",
-   "last_ok_at": "2026-11-20T02:20:25Z",
+   "checked_at": "2026-11-20T11:27:38Z",
+   "last_ok_at": "2026-11-20T11:27:38Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-20T11:27:38Z",
+   "kind": "sale",
+   "title": "2004 Porsche 911 Turbo Cabriolet 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2004-porsche-911-turbo-cabriolet-241/"
+  },
   {
    "at": "2026-11-20T02:20:25Z",
    "kind": "sale",
@@ -384,12 +390,6 @@
    "kind": "sale",
    "title": "2005 Toyota Camry XLE",
    "ref": "https://bringatrailer.com/listing/2005-toyota-camry-6/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "12k-Mile 2012 Chevrolet Corvette ZR1 3ZR Centennial Special Edition",
-   "ref": "https://bringatrailer.com/listing/2013-chevrolet-corvette-zr1-13/"
   }
  ]
 }

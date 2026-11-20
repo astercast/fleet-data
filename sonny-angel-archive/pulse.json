@@ -1,9 +1,9 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-20T02:20:25Z",
+ "generated_at": "2026-11-20T11:27:46Z",
  "stale_after_h": 30,
- "healthy": true,
- "sources_ok": 1,
+ "healthy": false,
+ "sources_ok": 0,
  "sources_total": 1,
  "last_data_change_at": "2026-11-19T11:34:10Z",
  "sources": [
@@ -11,12 +11,12 @@
    "id": "store",
    "label": "Official USA store product list",
    "url": "https://sonnyangelusa.com",
-   "ok": true,
+   "ok": false,
    "items": 18,
-   "checked_at": "2026-11-20T02:20:25Z",
+   "checked_at": "2026-11-20T11:27:46Z",
    "last_ok_at": "2026-11-20T02:20:25Z",
-   "error": null,
-   "fails_in_a_row": 0
+   "error": "http 429",
+   "fails_in_a_row": 1
   }
  ],
  "changes": [

@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-20T02:17:45Z",
+ "generated_at": "2026-11-20T11:24:31Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-20T02:17:45Z",
+ "last_data_change_at": "2026-11-20T11:24:31Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
-   "items": 194,
-   "checked_at": "2026-11-20T02:17:42Z",
-   "last_ok_at": "2026-11-20T02:17:42Z",
+   "items": 211,
+   "checked_at": "2026-11-20T11:24:29Z",
+   "last_ok_at": "2026-11-20T11:24:29Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-20T02:17:45Z",
-   "last_ok_at": "2026-11-20T02:17:45Z",
+   "checked_at": "2026-11-20T11:24:31Z",
+   "last_ok_at": "2026-11-20T11:24:31Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-20T02:17:42Z",
-   "last_ok_at": "2026-11-20T02:17:42Z",
+   "checked_at": "2026-11-20T11:24:28Z",
+   "last_ok_at": "2026-11-20T11:24:28Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-20T02:17:43Z",
-   "last_ok_at": "2026-11-20T02:17:43Z",
+   "checked_at": "2026-11-20T11:24:29Z",
+   "last_ok_at": "2026-11-20T11:24:29Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,127 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-20T02:17:41Z",
-   "last_ok_at": "2026-11-20T02:17:41Z",
+   "checked_at": "2026-11-20T11:24:28Z",
+   "last_ok_at": "2026-11-20T11:24:28Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Agnes-AI/Agnes-Video-H3-MoE",
+   "ref": "https://huggingface.co/Agnes-AI/Agnes-Video-H3-MoE"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: DmitryDB/LTX-2.5-ComfyUI-Quants",
+   "ref": "https://huggingface.co/DmitryDB/LTX-2.5-ComfyUI-Quants"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Posterior Matching Distillation",
+   "ref": "http://arxiv.org/abs/2611.26629v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+   "ref": "http://arxiv.org/abs/2611.26617v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Coda-DaVinci: Reimagining Video Generation with Code2Video",
+   "ref": "http://arxiv.org/abs/2611.26595v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Plan4D: Generative Plannable 4D Worlds",
+   "ref": "http://arxiv.org/abs/2611.26516v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Visual Attribution Limits and Graded Provenance Auditing in Commercial Video-Generation APIs",
+   "ref": "http://arxiv.org/abs/2611.26508v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step",
+   "ref": "http://arxiv.org/abs/2611.26389v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Online Temporal Rotations for 2 Bit KV-Cache Quantization in Video Diffusion Transformers",
+   "ref": "http://arxiv.org/abs/2611.26334v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: FlexVSR: Continuous-Scale Super-Resolution for Streaming Video Generation",
+   "ref": "http://arxiv.org/abs/2611.26178v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: StreamEgo: Streaming Exocentric-to-Egocentric Video Generation",
+   "ref": "http://arxiv.org/abs/2611.26165v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: MultiBinder: Preventing Multi-Subject Identity Leakage in Personalized Video Generation",
+   "ref": "http://arxiv.org/abs/2611.26164v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Learning Reconstruction Errors as Spatiotemporal Evidence for AI-Generated Video Detection",
+   "ref": "http://arxiv.org/abs/2611.26116v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation",
+   "ref": "http://arxiv.org/abs/2611.26098v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Streaming-AAA: Streaming AAA Game Video Generation at High Resolution, High Frame Rate, and Low Latency",
+   "ref": "http://arxiv.org/abs/2611.26040v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: TrajCal: Trajectory-Calibrated Time Schedules for Few-Step Flow Sampling",
+   "ref": "http://arxiv.org/abs/2611.25847v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: ContextRenderer: Dynamic-Context Video Generation for Interactive Game Worlds",
+   "ref": "http://arxiv.org/abs/2611.25838v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: What One Sample Cannot See: Why Fewer Denoising Steps Can Score Higher on Physics Benchmarks",
+   "ref": "http://arxiv.org/abs/2611.25632v1"
+  },
+  {
+   "at": "2026-11-20T11:24:31Z",
+   "kind": "paper",
+   "title": "New arXiv paper: CaT-Movie: Balancing Global Planning and Local Rendering for Long Multi-Shot Video Generation",
+   "ref": "http://arxiv.org/abs/2611.25620v1"
+  },
   {
    "at": "2026-11-20T02:17:45Z",
    "kind": "price-signal",
@@ -309,120 +423,6 @@
    "kind": "paper",
    "title": "New arXiv paper: Zero to Four Views: Unified Panorama Generation and Preference RL for Unobserved Regions",
    "ref": "http://arxiv.org/abs/2611.25389v1"
-  },
-  {
-   "at": "2026-11-20T02:17:45Z",
-   "kind": "paper",
-   "title": "New arXiv paper: SceneAnything: Agentic Reconstruction of Large-Scale Mesh Scenes from a Single Video",
-   "ref": "http://arxiv.org/abs/2611.25340v1"
-  },
-  {
-   "at": "2026-11-20T02:17:45Z",
-   "kind": "paper",
-   "title": "New arXiv paper: VideoRNG: Relightable Neural Gaussians from Generative Video Models",
-   "ref": "http://arxiv.org/abs/2611.25338v1"
-  },
-  {
-   "at": "2026-11-20T02:17:45Z",
-   "kind": "paper",
-   "title": "New arXiv paper: PCRG: Training-Free Pruning and Caching of Reference Tokens for Video Generation",
-   "ref": "http://arxiv.org/abs/2611.22717v2"
-  },
-  {
-   "at": "2026-11-20T02:17:45Z",
-   "kind": "release",
-   "title": "comfyui release: v0.46.1",
-   "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.1"
-  },
-  {
-   "at": "2026-11-19T20:31:02Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: gani3b/HunyuanVideo-1.5",
-   "ref": "https://huggingface.co/gani3b/HunyuanVideo-1.5"
-  },
-  {
-   "at": "2026-11-19T20:31:02Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: ModelsLab/MiniMax-H3-Turbo-RL",
-   "ref": "https://huggingface.co/ModelsLab/MiniMax-H3-Turbo-RL"
-  },
-  {
-   "at": "2026-11-19T20:31:02Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Renedffd/ClipProj-MiniMax-H3",
-   "ref": "https://huggingface.co/Renedffd/ClipProj-MiniMax-H3"
-  },
-  {
-   "at": "2026-11-19T20:31:02Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Renedffd/DMAD",
-   "ref": "https://huggingface.co/Renedffd/DMAD"
-  },
-  {
-   "at": "2026-11-19T20:31:02Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Renedffd/Wan2.2-TI2V-5B",
-   "ref": "https://huggingface.co/Renedffd/Wan2.2-TI2V-5B"
-  },
-  {
-   "at": "2026-11-19T20:31:02Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Renedffd/FastFrames-L",
-   "ref": "https://huggingface.co/Renedffd/FastFrames-L"
-  },
-  {
-   "at": "2026-11-19T20:31:02Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-14B-OKD-v0.1",
-   "ref": "https://huggingface.co/H3-Tiny/H3-Tiny-14B-OKD-v0.1"
-  },
-  {
-   "at": "2026-11-19T20:31:02Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-17B-FewStep-v0.1",
-   "ref": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-FewStep-v0.1"
-  },
-  {
-   "at": "2026-11-19T20:31:02Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-17B-Pruned",
-   "ref": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-Pruned"
-  },
-  {
-   "at": "2026-11-19T11:31:17Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: woooooz/Nexus-Bidirectional-EgoNCE",
-   "ref": "https://huggingface.co/woooooz/Nexus-Bidirectional-EgoNCE"
-  },
-  {
-   "at": "2026-11-19T11:31:17Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: luyu1021/turbot2va-ovi",
-   "ref": "https://huggingface.co/luyu1021/turbot2va-ovi"
-  },
-  {
-   "at": "2026-11-19T11:31:17Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: goodmai/LingBot-Video-30B-A3B-PV-MACaQ-4bit-MXFP4-MLX",
-   "ref": "https://huggingface.co/goodmai/LingBot-Video-30B-A3B-PV-MACaQ-4bit-MXFP4-MLX"
-  },
-  {
-   "at": "2026-11-19T11:31:17Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: goodmai/Wan2.2-T2V-A14B-PV-MACaQ-4bit-MXFP4-MLX",
-   "ref": "https://huggingface.co/goodmai/Wan2.2-T2V-A14B-PV-MACaQ-4bit-MXFP4-MLX"
-  },
-  {
-   "at": "2026-11-19T11:31:17Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: goodmai/LTX-2-19B-Distilled-PV-MACaQ-4bit-MXFP4-MLX",
-   "ref": "https://huggingface.co/goodmai/LTX-2-19B-Distilled-PV-MACaQ-4bit-MXFP4-MLX"
-  },
-  {
-   "at": "2026-11-19T11:31:17Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: goodmai/Wan2.2-TI2V-5B-PV-MACaQ-4bit-MXFP4-MLX",
-   "ref": "https://huggingface.co/goodmai/Wan2.2-TI2V-5B-PV-MACaQ-4bit-MXFP4-MLX"
   }
  ]
 }
