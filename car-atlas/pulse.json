@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-19T20:33:47Z",
+ "generated_at": "2026-11-20T02:20:25Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-19T20:33:47Z",
+ "last_data_change_at": "2026-11-20T02:20:25Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 72,
-   "checked_at": "2026-11-19T20:33:45Z",
-   "last_ok_at": "2026-11-19T20:33:45Z",
+   "checked_at": "2026-11-20T02:20:24Z",
+   "last_ok_at": "2026-11-20T02:20:24Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,73 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12437,
-   "checked_at": "2026-11-19T20:33:47Z",
-   "last_ok_at": "2026-11-19T20:33:47Z",
+   "checked_at": "2026-11-20T02:20:25Z",
+   "last_ok_at": "2026-11-20T02:20:25Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-20T02:20:25Z",
+   "kind": "sale",
+   "title": "305-Powered 1975 Toyota Land Cruiser FJ40",
+   "ref": "https://bringatrailer.com/listing/1975-toyota-land-cruiser-fj40-112/"
+  },
+  {
+   "at": "2026-11-20T02:20:25Z",
+   "kind": "sale",
+   "title": "2021 Audi A4 Allroad Prestige",
+   "ref": "https://bringatrailer.com/listing/2021-audi-a4-allroad/"
+  },
+  {
+   "at": "2026-11-20T02:20:25Z",
+   "kind": "sale",
+   "title": "17-Mile 2023 Dodge Challenger SRT Demon 170",
+   "ref": "https://bringatrailer.com/listing/2023-dodge-challenger-srt-demon-170-280/"
+  },
+  {
+   "at": "2026-11-20T02:20:25Z",
+   "kind": "sale",
+   "title": "36k-Mile 2010 GMC Sierra 1500 SLT Extended Cab 4×4",
+   "ref": "https://bringatrailer.com/listing/2010-gmc-sierra-1500-2/"
+  },
+  {
+   "at": "2026-11-20T02:20:25Z",
+   "kind": "sale",
+   "title": "1,600-Mile 1994 Dodge Viper RT/10",
+   "ref": "https://bringatrailer.com/listing/1994-dodge-viper-rt-10-118/"
+  },
+  {
+   "at": "2026-11-20T02:20:25Z",
+   "kind": "sale",
+   "title": "1968 Ford Torino GT Fastback S-Code 390",
+   "ref": "https://bringatrailer.com/listing/1968-ford-torino-11/"
+  },
+  {
+   "at": "2026-11-20T02:20:25Z",
+   "kind": "sale",
+   "title": "Original-Owner, 24k-Mile 2014 Chevrolet Corvette Stingray Coupe 3LT 7-Speed",
+   "ref": "https://bringatrailer.com/listing/2014-chevrolet-corvette-stingray-coupe-98/"
+  },
+  {
+   "at": "2026-11-20T02:20:25Z",
+   "kind": "sale",
+   "title": "2006 Chevrolet Corvette Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2006-chevrolet-corvette-coupe-41/"
+  },
+  {
+   "at": "2026-11-20T02:20:25Z",
+   "kind": "sale",
+   "title": "2011 Porsche Cayenne S Hybrid",
+   "ref": "https://bringatrailer.com/listing/2011-porsche-cayenne-21/"
+  },
+  {
+   "at": "2026-11-20T02:20:25Z",
+   "kind": "sale",
+   "title": "40k-Mile 2006 Honda S2000",
+   "ref": "https://bringatrailer.com/listing/2006-honda-s2000-200/"
+  },
   {
    "at": "2026-11-19T20:33:47Z",
    "kind": "sale",
@@ -330,66 +390,6 @@
    "kind": "sale",
    "title": "12k-Mile 2012 Chevrolet Corvette ZR1 3ZR Centennial Special Edition",
    "ref": "https://bringatrailer.com/listing/2013-chevrolet-corvette-zr1-13/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "2014 Land Rover Range Rover Supercharged",
-   "ref": "https://bringatrailer.com/listing/2014-land-rover-range-rover-90/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "28k-Mile 2013 Porsche 911 Carrera Cabriolet 7-Speed",
-   "ref": "https://bringatrailer.com/listing/2013-porsche-911-carrera-cabriolet-22/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "8k-Mile 1999 Pontiac Firebird Trans Am 30th Anniversary Edition Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/1999-pontiac-firebird-trans-am-coupe-41/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "2024 Chevrolet Corvette Stingray Coupe 2LT Z51",
-   "ref": "https://bringatrailer.com/listing/2024-chevrolet-corvette-stingray-73/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "2018 Land Rover Discovery SE Td6 Diesel",
-   "ref": "https://bringatrailer.com/listing/2018-land-rover-discovery-4/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "Fuel-Injected, 351-Powered 1968 Ford Mustang Convertible 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1968-ford-mustang-412/"
-  },
-  {
-   "at": "2026-11-17T03:47:48Z",
-   "kind": "sale",
-   "title": "1997 Jeep Grand Cherokee 5.2 Limited 4×4",
-   "ref": "https://bringatrailer.com/listing/1997-jeep-grand-cherokee-23/"
-  },
-  {
-   "at": "2026-11-17T03:47:48Z",
-   "kind": "sale",
-   "title": "1990 Jaguar XJ-S V12 Convertible",
-   "ref": "https://bringatrailer.com/listing/1990-jaguar-xj-s-v12-convertible-57/"
-  },
-  {
-   "at": "2026-11-17T03:47:48Z",
-   "kind": "sale",
-   "title": "13k-Mile 2012 Porsche 911 Carrera Coupe Black Edition 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2012-porsche-911-997-carrera-coupe-12/"
-  },
-  {
-   "at": "2026-11-17T03:47:48Z",
-   "kind": "sale",
-   "title": "2002 Toyota Tacoma SR5 Xtracab TRD V6 4&#215;4 5-Speed",
-   "ref": "https://bringatrailer.com/listing/2002-toyota-tacoma-92-2/"
   }
  ]
 }

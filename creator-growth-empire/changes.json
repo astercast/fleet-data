@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "yt-youtube-says-it-won-t-terminate-russell-brand-s-1fda74",
+   "platform": "youtube",
+   "title": "YouTube says it won’t terminate Russell Brand’s channel after rape conviction",
+   "summary": "YouTube has come under fire in the past for how it handles content posted by people suspected of heinous crimes, but its policy has remained the same: It will only terminate a channel if someone is convicted in a court of law, and if their YouTube content is directly related to their crime. Now, the […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-11-20T02:17:45Z",
+   "announced_at": "2026-11-20T02:11:20Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/19/youtube-remove-russell-brand-channel-video-laura-gallacher/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/19/youtube-remove-russell-brand-channel-video-laura-gallacher/"
+    }
+   ],
+   "category": "legal",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "fb-meta-launches-shopping-platform-achados-in-brazi-3636e8",
+   "platform": "facebook",
+   "title": "Meta launches shopping platform Achados in Brazil",
+   "summary": "<p>The marketplace tool combines product listings from across the company&rsquo;s apps into a unified display.</p>",
+   "detected_at": "2026-11-20T02:17:45Z",
+   "announced_at": "2026-11-19T22:33:57Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/meta-launches-shopping-platform-achados-in-brazil/875290/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/meta-launches-shopping-platform-achados-in-brazil/875290/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "fb-our-approach-to-updating-our-commercial-terms-of-747dbf",
    "platform": "facebook",
    "title": "Our Approach to Updating Our Commercial Terms of Service",
@@ -1977,8 +2015,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-18T20:27:13Z",
+ "generated_at": "2026-11-20T02:17:45Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-18",
+ "updated": "2026-11-20",
  "version": "1.7.0"
 }

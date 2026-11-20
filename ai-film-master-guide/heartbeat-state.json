@@ -19,6 +19,7 @@
   "Comfy-Org/Causal-Forcing-Framewise",
   "Comfy-Org/HuMo",
   "Comfy-Org/PAN2",
+  "Dacav/Wan2.2-TI2V-5B",
   "Dante0411/HunyuanVideo",
   "Delcher/fewsteprl-wan21",
   "Denovarix/Deno",
@@ -66,6 +67,7 @@
   "Neurobrix/Wan2.1-T2V-1.3B-Diffusers-nbx",
   "Neurobrix/mochi-1-preview-nbx",
   "OliviaRossi/Minimax-H3-Hybrid-DMAD-PDMD",
+  "OpenVDN/vdn-minimax-h3-edge",
   "ParisNeo/MiniMax-H3-FL2VA-FP8",
   "PatiPix/FastWan2.2-TI2V-5B-GGUF",
   "PedroMarinhoDev/Hy-Nomas-ComfyUI",
@@ -267,6 +269,7 @@
   "neonforestmist/LTX_Storybook_Anime_Style_LoRa",
   "neonforestmist/Minimax_H3_Monet_Style_LoRA",
   "neurarank/NEUVY-FUSION-VIDEO-NFV1",
+  "neurarank/neuvy-avatar-ti2v",
   "nvidia/Wan2.2-T2V-A14B-Diffusers-FP8",
   "nvidia/Wan2.2-T2V-A14B-Diffusers-NVFP4",
   "nynxz/MiniMax-H3-PTD-LoRAs",
@@ -516,6 +519,7 @@
   "http://arxiv.org/abs/2611.22464v2",
   "http://arxiv.org/abs/2611.22673v1",
   "http://arxiv.org/abs/2611.22717v1",
+  "http://arxiv.org/abs/2611.22717v2",
   "http://arxiv.org/abs/2611.22857v1",
   "http://arxiv.org/abs/2611.22925v1",
   "http://arxiv.org/abs/2611.22925v2",
@@ -528,7 +532,11 @@
   "http://arxiv.org/abs/2611.24419v1",
   "http://arxiv.org/abs/2611.24731v1",
   "http://arxiv.org/abs/2611.24869v1",
-  "http://arxiv.org/abs/2611.24940v1"
+  "http://arxiv.org/abs/2611.24940v1",
+  "http://arxiv.org/abs/2611.25338v1",
+  "http://arxiv.org/abs/2611.25340v1",
+  "http://arxiv.org/abs/2611.25389v1",
+  "http://arxiv.org/abs/2611.25444v1"
  ],
  "hn": [
   "14950122",
@@ -580,6 +588,7 @@
   "tag:github.com,2008:Repository/589831718/v0.45.4",
   "tag:github.com,2008:Repository/589831718/v0.45.5",
   "tag:github.com,2008:Repository/589831718/v0.45.6",
-  "tag:github.com,2008:Repository/589831718/v0.46.0"
+  "tag:github.com,2008:Repository/589831718/v0.46.0",
+  "tag:github.com,2008:Repository/589831718/v0.46.1"
  ]
 }
