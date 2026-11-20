@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-20T11:27:38Z",
+ "generated_at": "2026-11-20T20:04:41Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-20T11:27:38Z",
+ "last_data_change_at": "2026-11-20T20:04:41Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-20T11:27:37Z",
-   "last_ok_at": "2026-11-20T11:27:37Z",
+   "items": 72,
+   "checked_at": "2026-11-20T20:04:40Z",
+   "last_ok_at": "2026-11-20T20:04:40Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,14 +23,92 @@
    "label": "NHTSA vPIC make names",
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
-   "items": 12437,
-   "checked_at": "2026-11-20T11:27:38Z",
-   "last_ok_at": "2026-11-20T11:27:38Z",
+   "items": 12440,
+   "checked_at": "2026-11-20T20:04:41Z",
+   "last_ok_at": "2026-11-20T20:04:41Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "Overland-Modified 2023 Jeep Wrangler 4-Door Rubicon",
+   "ref": "https://bringatrailer.com/listing/2023-jeep-wrangler-8/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "2023 Audi R8 V10 Performance Coupe Quattro",
+   "ref": "https://bringatrailer.com/listing/2023-audi-r8-v10-performance-coupe-quattro/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "1977 Ford Bronco Ranger 302",
+   "ref": "https://bringatrailer.com/listing/1977-ford-bronco-285/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "2008 Cadillac Escalade EXT AWD",
+   "ref": "https://bringatrailer.com/listing/2008-cadillac-escalade-ext-9/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "26-Years-Owned, RoW 1982 Porsche 911 Turbo",
+   "ref": "https://bringatrailer.com/listing/1982-porsche-911-turbo-12/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "2003 Porsche 911 Carrera Cabriolet 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2003-porsche-911-carrera-cabriolet-110/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "One-Owner, 140-Mile 2017 Ford Mustang Shelby GT350R",
+   "ref": "https://bringatrailer.com/listing/2017-ford-mustang-shelby-gt350r-71/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "1,600-Mile 1999 Dodge Viper GTS ACR",
+   "ref": "https://bringatrailer.com/listing/1999-dodge-viper-gts-26/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "2006 Porsche Cayenne S Titanium Edition",
+   "ref": "https://bringatrailer.com/listing/2006-porsche-cayenne-s-65/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "2010 Land Rover Range Rover Sport Supercharged",
+   "ref": "https://bringatrailer.com/listing/2010-land-rover-range-rover-sport-48/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "30k-Mile 2001 Honda S2000",
+   "ref": "https://bringatrailer.com/listing/2001-honda-s2000-257/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "Single-Family-Owned 1966 Pontiac Bonneville 4-Door Hardtop",
+   "ref": "https://bringatrailer.com/listing/1966-pontiac-bonneville-18/"
+  },
+  {
+   "at": "2026-11-20T20:04:41Z",
+   "kind": "sale",
+   "title": "2004 Volkswagen Passat GLS 1.8T Wagon 5-Speed",
+   "ref": "https://bringatrailer.com/listing/2004-volkswagen-passat-19/"
+  },
   {
    "at": "2026-11-20T11:27:38Z",
    "kind": "sale",
@@ -312,84 +390,6 @@
    "kind": "sale",
    "title": "27k-Mile 2016 Chevrolet Camaro 2SS Coupe",
    "ref": "https://bringatrailer.com/listing/2016-chevrolet-camaro-coupe-13/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "1999 Toyota Land Cruiser UZJ100 VX Limited",
-   "ref": "https://bringatrailer.com/listing/1999-toyota-land-cruiser-154/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "23k-Mile 2012 Porsche 911 Turbo S Cabriolet",
-   "ref": "https://bringatrailer.com/listing/2012-porsche-911-turbo-s-cabriolet-39/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "22k-Mile 2008 Ford Mustang Bullitt",
-   "ref": "https://bringatrailer.com/listing/2008-ford-mustang-bullitt-117/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "2001 Toyota Tacoma 4&#215;4 5-Speed",
-   "ref": "https://bringatrailer.com/listing/2001-toyota-tacoma-127/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "1979 MG MGB Roadster",
-   "ref": "https://bringatrailer.com/listing/1979-mg-mgb-roadster-75/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "26-Years-Owned 1974 Jaguar E-Type Series III Roadster V12 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1974-jaguar-e-type-series-iii-roadster-v12-49/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "350-Powered 1982 Mazda RX-7 6-Speed",
-   "ref": "https://bringatrailer.com/listing/1982-mazda-rx-7-60/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "178-Mile 2006 Chevrolet Corvette Z06 2LZ",
-   "ref": "https://bringatrailer.com/listing/2006-chevrolet-corvette-z06-106/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "1,800-Mile 2016 Ford Mustang Shelby GT350R",
-   "ref": "https://bringatrailer.com/listing/2016-ford-mustang-shelby-gt350r-44/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "1974 Pontiac Firebird Trans Am SD-455",
-   "ref": "https://bringatrailer.com/listing/1974-pontiac-firebird-trans-am-21/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "1998 Chevrolet K2500 HD Silverado 4×4",
-   "ref": "https://bringatrailer.com/listing/1998-chevrolet-k2500-pickup-11/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "1995 Toyota Land Cruiser HDJ80 VX Turbodiesel 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1995-toyota-land-cruiser-fzj80-102/"
-  },
-  {
-   "at": "2026-11-18T01:00:08Z",
-   "kind": "sale",
-   "title": "2005 Toyota Camry XLE",
-   "ref": "https://bringatrailer.com/listing/2005-toyota-camry-6/"
   }
  ]
 }

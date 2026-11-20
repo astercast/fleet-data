@@ -1,7 +1,77 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-20T11:24:31Z",
+ "generated_at": "2026-11-20T20:02:04Z",
  "items": [
+  {
+   "id": "hf-sanloxai/wan2.1-t2v-1.3b-crush-lora",
+   "at": "2026-11-20T19:39:24Z",
+   "model": "sanloxai/wan2.1-t2v-1.3b-crush-lora",
+   "title": "New text-to-video model listed on Hugging Face: sanloxai/wan2.1-t2v-1.3b-crush-lora",
+   "url": "https://huggingface.co/sanloxai/wan2.1-t2v-1.3b-crush-lora",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-fluxv1-fluxv1-unet",
+   "at": "2026-11-20T18:52:14Z",
+   "model": "RunningHubAI/rh-fluxv1-fluxv1-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-fluxv1-fluxv1-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-fluxv1-fluxv1-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-ltx2.3-lora",
+   "at": "2026-11-20T16:23:03Z",
+   "model": "RunningHubAI/rh-ltx2.3-lora",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-ltx2.3-lora",
+   "url": "https://huggingface.co/RunningHubAI/rh-ltx2.3-lora",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Wososo/LongCat-Video",
+   "at": "2026-11-20T15:54:08Z",
+   "model": "Wososo/LongCat-Video",
+   "title": "New text-to-video model listed on Hugging Face: Wososo/LongCat-Video",
+   "url": "https://huggingface.co/Wososo/LongCat-Video",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1",
+   "at": "2026-11-20T11:45:09Z",
+   "model": "H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1",
+   "url": "https://huggingface.co/H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-H3-Tiny/H3-Tiny-17B-FewStep-Ref2VA-v0.1",
+   "at": "2026-11-20T11:45:08Z",
+   "model": "H3-Tiny/H3-Tiny-17B-FewStep-Ref2VA-v0.1",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-17B-FewStep-Ref2VA-v0.1",
+   "url": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-FewStep-Ref2VA-v0.1",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-H3-Tiny/H3-Tiny-17B-Pruned-Ref2VA",
+   "at": "2026-11-20T11:45:07Z",
+   "model": "H3-Tiny/H3-Tiny-17B-Pruned-Ref2VA",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-17B-Pruned-Ref2VA",
+   "url": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-Pruned-Ref2VA",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-Agnes-AI/Agnes-Video-H3-MoE",
    "at": "2026-11-20T09:23:31Z",
@@ -1429,76 +1499,6 @@
    "title": "Adobe Firefly: source pages changed - queued for human review",
    "url": "https://news.adobe.com/news/2026/04/adobe-new-creative-agent",
    "kind": "source-change",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Aleph 2.0-2026-11-18",
-   "at": "2026-11-18T00:57:19+00:00",
-   "model": "Runway Aleph 2.0",
-   "title": "Runway Aleph 2.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.therundown.ai/tools/aleph",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Midjourney V8.2-2026-11-18",
-   "at": "2026-11-18T00:57:17+00:00",
-   "model": "Midjourney V8.2",
-   "title": "Midjourney V8.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://powerdrill.ai/blog/midjourney-v8-2-edit-model",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-GPT Image 2-2026-11-18",
-   "at": "2026-11-18T00:57:15+00:00",
-   "model": "GPT Image 2",
-   "title": "GPT Image 2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://memeburn.com/chatgpt-images-2-0-launches-with-better-text/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-FLUX.2-2026-11-18",
-   "at": "2026-11-18T00:57:13+00:00",
-   "model": "FLUX.2",
-   "title": "FLUX.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://en.wikipedia.org/wiki/Flux_(text-to-image_model)",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedream 5.0 Pro-2026-11-18",
-   "at": "2026-11-18T00:57:11+00:00",
-   "model": "Seedream 5.0 Pro",
-   "title": "Seedream 5.0 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://openrouter.ai/bytedance-seed/seedream-5-0-flash",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Nano Banana 2 and Pro-2026-11-18",
-   "at": "2026-11-18T00:57:09+00:00",
-   "model": "Nano Banana 2 and Pro",
-   "title": "Nano Banana 2 and Pro: source pages changed - queued for human review",
-   "url": "https://blog.google/innovation-and-ai/products/nano-banana-pro/",
-   "kind": "source-change",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 2.7-2026-11-18",
-   "at": "2026-11-18T00:57:04+00:00",
-   "model": "Wan 2.7",
-   "title": "Wan 2.7: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://poyo.ai/models/wan-2-7-video",
-   "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }
