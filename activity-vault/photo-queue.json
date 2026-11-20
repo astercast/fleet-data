@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-19T13:53:25Z",
+ "generated_at": "2026-11-20T13:35:16Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -926,6 +926,72 @@
    "activity_id": "follow-the-leader",
    "activity_name": "Follow the Leader",
    "queued_at": "2026-11-19T13:53:24Z"
+  },
+  {
+   "commons_title": "File:What's the time, Mr. Wolf^ - geograph.org.uk - 924060.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:What%27s_the_time,_Mr._Wolf%5E_-_geograph.org.uk_-_924060.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/What%27s_the_time%2C_Mr._Wolf%5E_-_geograph.org.uk_-_924060.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/21974\">Phillip Perry</a>",
+   "licence": "CC BY-SA 2.0",
+   "status": "pending",
+   "activity_id": "whats-the-time-mr-wolf",
+   "activity_name": "What's the Time, Mr Wolf?",
+   "queued_at": "2026-11-20T13:35:12Z"
+  },
+  {
+   "commons_title": "File:What's the time Mr Wolf^ - geograph.org.uk - 7481175.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:What%27s_the_time_Mr_Wolf%5E_-_geograph.org.uk_-_7481175.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/What%27s_the_time_Mr_Wolf%5E_-_geograph.org.uk_-_7481175.jpg/500px-What%27s_the_time_Mr_Wolf%5E_-_geograph.org.uk_-_7481175.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/6597\">Stephen Craven</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:What%27s_the_time_Mr_Wolf%5E_-_geograph.org.uk_-_7481175.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+   "licence": "CC BY-SA 2.0",
+   "status": "pending",
+   "activity_id": "whats-the-time-mr-wolf",
+   "activity_name": "What's the Time, Mr Wolf?",
+   "queued_at": "2026-11-20T13:35:12Z"
+  },
+  {
+   "commons_title": "File:20191221 JKT48 at JKT48 Joy Kick Tears HSF - Mutiara Azzahra (Muthe) (3).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:20191221_JKT48_at_JKT48_Joy_Kick_Tears_HSF_-_Mutiara_Azzahra_(Muthe)_(3).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/20191221_JKT48_at_JKT48_Joy_Kick_Tears_HSF_-_Mutiara_Azzahra_%28Muthe%29_%283%29.jpg/500px-20191221_JKT48_at_JKT48_Joy_Kick_Tears_HSF_-_Mutiara_Azzahra_%28Muthe%29_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a href=\"//commons.wikimedia.org/wiki/User:Hilmanasdf\" title=\"User:Hilmanasdf\">Hilmanasdf</a>",
+   "licence": "CC BY-SA 4.0",
+   "status": "pending",
+   "activity_id": "kick-the-can",
+   "activity_name": "Kick the Can",
+   "queued_at": "2026-11-20T13:35:14Z"
+  },
+  {
+   "commons_title": "File:Comets Kick up Dust in Helix Nebula (PIA09178).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Comets_Kick_up_Dust_in_Helix_Nebula_(PIA09178).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Comets_Kick_up_Dust_in_Helix_Nebula_%28PIA09178%29.jpg/500px-Comets_Kick_up_Dust_in_Helix_Nebula_%28PIA09178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "NASA/JPL-Caltech/Univ. of Ariz.",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "kick-the-can",
+   "activity_name": "Kick the Can",
+   "queued_at": "2026-11-20T13:35:14Z"
+  },
+  {
+   "commons_title": "File:Lady Gaga - Scheiße - Mayhem Ball (LA).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Lady_Gaga_-_Schei%C3%9Fe_-_Mayhem_Ball_(LA).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Lady_Gaga_-_Schei%C3%9Fe_-_Mayhem_Ball_%28LA%29.jpg/500px-Lady_Gaga_-_Schei%C3%9Fe_-_Mayhem_Ball_%28LA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "the CwE",
+   "licence": "CC BY 3.0",
+   "status": "pending",
+   "activity_id": "gaga-ball",
+   "activity_name": "Gaga Ball",
+   "queued_at": "2026-11-20T13:35:15Z"
+  },
+  {
+   "commons_title": "File:Lady Gaga performing Bad Romance on The Mayhem Ball, Los Angeles, July 2025.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Lady_Gaga_performing_Bad_Romance_on_The_Mayhem_Ball,_Los_Angeles,_July_2025.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Lady_Gaga_performing_Bad_Romance_on_The_Mayhem_Ball%2C_Los_Angeles%2C_July_2025.jpg/500px-Lady_Gaga_performing_Bad_Romance_on_The_Mayhem_Ball%2C_Los_Angeles%2C_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "kandl",
+   "licence": "CC BY 4.0",
+   "status": "pending",
+   "activity_id": "gaga-ball",
+   "activity_name": "Gaga Ball",
+   "queued_at": "2026-11-20T13:35:15Z"
   }
  ]
 }

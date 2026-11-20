@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-19T13:52:19Z",
+ "generated_at": "2026-11-20T13:34:16Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-19T13:52:16Z",
+ "last_data_change_at": "2026-11-20T13:34:16Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-19T13:52:16Z",
-   "last_ok_at": "2026-11-19T13:52:16Z",
+   "checked_at": "2026-11-20T13:34:10Z",
+   "last_ok_at": "2026-11-20T13:34:10Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 68,
-   "checked_at": "2026-11-19T13:52:19Z",
-   "last_ok_at": "2026-11-19T13:52:19Z",
+   "items": 69,
+   "checked_at": "2026-11-20T13:34:16Z",
+   "last_ok_at": "2026-11-20T13:34:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-19T13:52:19Z",
-   "last_ok_at": "2026-11-19T13:52:19Z",
+   "checked_at": "2026-11-20T13:34:16Z",
+   "last_ok_at": "2026-11-20T13:34:16Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,37 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 57,
-   "checked_at": "2026-11-19T13:52:19Z",
-   "last_ok_at": "2026-11-19T13:52:19Z",
+   "checked_at": "2026-11-20T13:34:14Z",
+   "last_ok_at": "2026-11-20T13:34:14Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-20T13:34:16Z",
+   "kind": "story",
+   "title": "Bow Before the New Marvel Legends God Emperor Doom - Bleeding Cool News",
+   "ref": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjVpbFVXQU5DV1RhZlZJb0czenFscVlBMHJtNjg1emI2UXZtd1FZVmNLVmh4UXJCNkxqWjdsajJaTGxhMUwxdkNoaGRCTjFhUUJiNWw3d3JGc29uZG4xMEUybWppSXRVdWd6X0k4MWVRcnU3WDZSV2MxQ2NiV3h4dkljd2wtQXdXX3JKemd2RS1obEk?oc=5"
+  },
+  {
+   "at": "2026-11-20T13:34:16Z",
+   "kind": "story",
+   "title": "Hasbro Marvel Legends Series Black Friday Deals launch on Amazon - Flickering Myth",
+   "ref": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXdkc0NkaTltNC1ac2RuR3kwVTZxMF9FUnRVQ1BPLXNFNkxxR2hqd0JPQU9wN3lubXBLTWxKOXJoRlpxQ1JiMkVIemx6T3BxSGhrSlpyellnbUtzSUpTS2FHd1BvZUdDc1J1c1ZQNXNUdGFaY2VKRkVraHp3S2c4QTZad3hkTzhOUEJYQ0l1T3JKUQ?oc=5"
+  },
+  {
+   "at": "2026-11-20T13:34:16Z",
+   "kind": "story",
+   "title": "Marvel Legends Anniversary Captain America and Wolverine Reissues Launch Today - ComicBook.com",
+   "ref": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVN2NVlnUGN5Rm9CcFJUMHhsYUFKbEJYM1NMbVg4WVRfbVlwUFlMSVBFNnNSSWgtRzBweHpRbmVrM05nZnFNRGFOSko3NnRVbVpMNmRfTWVqWjhZYWNfLUFFbVNteUE1UDBZX2JEbFgzWGFfNU9MdmU0dlA1OGY2Rktqb0ZUV05ybjlUak1CaTZabVN0M0JNSHFpTHNwN1gySHFsMFBhcVNCUQ?oc=5"
+  },
+  {
+   "at": "2026-11-20T13:34:16Z",
+   "kind": "preorder",
+   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
+   "ref": "radar.html"
+  },
   {
    "at": "2026-11-19T13:52:16Z",
    "kind": "catalog",
@@ -100,12 +124,6 @@
    "kind": "story",
    "title": "Marvel Legends Secret Wars Ice Man Figure Pre-0rders Launch Today - ComicBook.com",
    "ref": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjJpZTd3d2V4TndfZmZHTDdHQmZOSzRwZW5nZ0RUa19rWkdmbVhxc2NxUWZ5OFF4MzRMNTR4LWtTcjJhZFh4ZTVxMEVpQ29OV0pXZzRiSl9ZV29hQUQzTU16MVJURnZvSVVRMFBVWDQ3OW1kUnFzR1lXTGxDMm5IQ1E4dmNER3ZEenFTbzRDYTNGN09LNFpV?oc=5"
-  },
-  {
-   "at": "2026-11-19T13:52:19Z",
-   "kind": "preorder",
-   "title": "Drop window opens soon: X-Men '97, Bolivar Trask & Marvel's Bastion Nimrod 2-pack",
-   "ref": "radar.html"
   },
   {
    "at": "2026-11-18T13:25:00Z",
@@ -388,24 +406,6 @@
    "kind": "story",
    "title": "Shop Marvel Must Haves: Hasbro Marvel Legends Reveal Strange Tales Series - Marvel.com",
    "ref": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQXBiZHJVRUxuaGNrVzYyU0EySUdIUk1FM2pCLUlicmtRTGd1WHhDaXp4OGtxcTlONC1odlpDMVFIeXRQdU9YVkJtQ1hCdHZxRjRrYW01OGhTTk1mYWdQXzFvTzZ3UVppdGgwakw1X28xRjM1WWlvcjJ5UVFaWHlEREdCQUpOcjNUWm1YRTg1Z2plYV9oT05mQmdLbm5iTmplYWVWYWdUallFcThXLTNwQjNaYlpCcGFVRl9PZHlWNEs4Y0tVaFJB?oc=5"
-  },
-  {
-   "at": "2026-11-01T11:28:46Z",
-   "kind": "story",
-   "title": "Hasbro's Black Panther Marvel Legends Wave 2 Figures Coming in December - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVBMOWtiNS02cEszd2tudEt0WENFSzhPank3V3lEenpaN1ZGakhzZ2IwbkhtbUVUYmc2blBmT2dycUJ1VlQ0TVM1cm9XT0x5M1hIYkFfUnNtYUxEeGFaR1NmVERqMG5mRW94b3YyQ0pCeE55Vi02cFlWZ1g2bm1DZ0tzTnUzTkZoWmVhZXR1YnY1d19NOU85VUZ0WTRiT00wZllwUFdkR0FFcWxfVDFCeFVTanJRUmoybk4tdGRn?oc=5"
-  },
-  {
-   "at": "2026-10-31T10:35:14Z",
-   "kind": "story",
-   "title": "Hasbro Unveils Epic New MARVEL LEGENDS x MAGIC: THE GATHERING Collaboration - Get Your Comic On",
-   "ref": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVVpRZ1hVZFo2R3h3ZWVZQjkxMktXWEpzU2lTbFJxZlFHTWtNaVp4WkY3NDZub0MxQU95bmJqMWFxc1JyYmluemQyR0Fzd0pqd01kcHdMSURWaDJVOHd4UkNGYmt4Q3BTZ0x5ekJOUnR0cDNqZmJCcXBFSWVZcXdnOFJfakJTRzVDMXBMLXBaTkFoSGQ2ZXN4dlJfdnlDWjN4bG9kYWNhdG1nUElRYnFONUZXam45VmdWYVRvNQ?oc=5"
-  },
-  {
-   "at": "2026-10-30T11:01:06Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends The Amazing Spider-Man (Marvel Holiday Special) Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-the-amazing-spider-man-marvel-holiday-special-action-figure"
   }
  ]
 }
