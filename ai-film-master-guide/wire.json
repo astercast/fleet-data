@@ -1,7 +1,27 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-21T10:56:25Z",
+ "generated_at": "2026-11-21T19:08:23Z",
  "items": [
+  {
+   "id": "hf-tazmannner/Dispatch-H3-LoRA",
+   "at": "2026-11-21T14:55:03Z",
+   "model": "tazmannner/Dispatch-H3-LoRA",
+   "title": "New text-to-video model listed on Hugging Face: tazmannner/Dispatch-H3-LoRA",
+   "url": "https://huggingface.co/tazmannner/Dispatch-H3-LoRA",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-cyberdes-security/FastFrames-S-mobile-mlx",
+   "at": "2026-11-21T12:07:32Z",
+   "model": "cyberdes-security/FastFrames-S-mobile-mlx",
+   "title": "New text-to-video model listed on Hugging Face: cyberdes-security/FastFrames-S-mobile-mlx",
+   "url": "https://huggingface.co/cyberdes-security/FastFrames-S-mobile-mlx",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-SadikNawazAI/SADIK-VIDEO-AI",
    "at": "2026-11-21T08:36:52Z",
@@ -1478,26 +1498,6 @@
    "model": "Grok Imagine Video 1.5",
    "title": "Grok Imagine Video 1.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://theplanettools.ai/blog/xai-grok-imagine-video-1-5-image-to-video-native-audio-arena-june-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Marketing Studio video-2026-11-19",
-   "at": "2026-11-19T02:30:46+00:00",
-   "model": "Marketing Studio video",
-   "title": "Marketing Studio video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://higgsfield.ai/pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Pika 2.5-2026-11-19",
-   "at": "2026-11-19T02:30:37+00:00",
-   "model": "Pika 2.5",
-   "title": "Pika 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://alphasignal.ai/news/pika-rebuilds-into-a-full-creative-studio-routing-across-seven-ai-tools",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
