@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-20T13:35:16Z",
+ "generated_at": "2026-11-21T13:00:07Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-20T13:34:19Z",
+ "last_data_change_at": "2026-11-21T12:59:06Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 90,
-   "checked_at": "2026-11-20T13:35:16Z",
-   "last_ok_at": "2026-11-20T13:35:16Z",
+   "items": 96,
+   "checked_at": "2026-11-21T13:00:07Z",
+   "last_ok_at": "2026-11-21T13:00:07Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-20T13:34:20Z",
-   "last_ok_at": "2026-11-20T13:34:20Z",
+   "checked_at": "2026-11-21T12:59:08Z",
+   "last_ok_at": "2026-11-21T12:59:08Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-20T13:34:18Z",
-   "last_ok_at": "2026-11-20T13:34:18Z",
+   "checked_at": "2026-11-21T12:59:06Z",
+   "last_ok_at": "2026-11-21T12:59:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-20T13:34:20Z",
-   "last_ok_at": "2026-11-20T13:34:20Z",
+   "checked_at": "2026-11-21T12:59:07Z",
+   "last_ok_at": "2026-11-21T12:59:07Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-20T13:34:19Z",
-   "last_ok_at": "2026-11-20T13:34:19Z",
+   "checked_at": "2026-11-21T12:59:06Z",
+   "last_ok_at": "2026-11-21T12:59:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-20T13:34:19Z",
-   "last_ok_at": "2026-11-20T13:34:19Z",
+   "checked_at": "2026-11-21T12:59:06Z",
+   "last_ok_at": "2026-11-21T12:59:06Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,37 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-20T13:34:17Z",
-   "last_ok_at": "2026-11-20T13:34:17Z",
+   "checked_at": "2026-11-21T12:59:05Z",
+   "last_ok_at": "2026-11-21T12:59:05Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-21T12:59:06Z",
+   "kind": "post",
+   "title": "Thanksgiving Would You Rather Questions for Kids (Free Printable!)",
+   "ref": "https://teachbesideme.com/thanksgiving-would-you-rather-questions-for-kids-free-printable/"
+  },
+  {
+   "at": "2026-11-21T13:00:01Z",
+   "kind": "photo-candidate",
+   "title": "Go Fish",
+   "ref": "https://commons.wikimedia.org/wiki/File:4coloraces1.jpg"
+  },
+  {
+   "at": "2026-11-21T13:00:03Z",
+   "kind": "photo-candidate",
+   "title": "Shadow Tracing",
+   "ref": "https://commons.wikimedia.org/wiki/File:Glas-2000-enery.jpg"
+  },
+  {
+   "at": "2026-11-21T13:00:05Z",
+   "kind": "photo-candidate",
+   "title": "Weather Journal",
+   "ref": "https://commons.wikimedia.org/wiki/File:July_26,_2022_Weather_Prediction_Center_Day_1_Outlook.jpg"
+  },
   {
    "at": "2026-11-20T13:34:19Z",
    "kind": "post",
@@ -403,30 +427,6 @@
    "kind": "post",
    "title": "Jumping Tinsel Static Electricity Experiment",
    "ref": "https://littlebinsforlittlehands.com/jumping-tinsel-christmas-static-electricity-science-experiment/"
-  },
-  {
-   "at": "2026-11-12T13:14:00Z",
-   "kind": "post",
-   "title": "Recycled Cardboard Christmas Tree Craft (Easy Stamping Art)",
-   "ref": "https://littlebinsforlittlehands.com/stamped-christmas-tree-craft/"
-  },
-  {
-   "at": "2026-11-12T13:14:00Z",
-   "kind": "post",
-   "title": "Paper Strip Christmas Tree",
-   "ref": "https://littlebinsforlittlehands.com/paper-strip-christmas-tree/"
-  },
-  {
-   "at": "2026-11-12T13:14:00Z",
-   "kind": "post",
-   "title": "November Science Activities for Kids",
-   "ref": "https://littlebinsforlittlehands.com/november-science-activities/"
-  },
-  {
-   "at": "2026-11-12T13:14:00Z",
-   "kind": "post",
-   "title": "Easy STEM Activities for Elementary Kids (Grades K–5)",
-   "ref": "https://littlebinsforlittlehands.com/early-elementary-stem-projects-kids/"
   }
  ]
 }

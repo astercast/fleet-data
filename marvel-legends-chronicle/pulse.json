@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-20T13:34:16Z",
+ "generated_at": "2026-11-21T12:59:03Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-20T13:34:16Z",
+ "last_data_change_at": "2026-11-21T12:59:03Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-20T13:34:10Z",
-   "last_ok_at": "2026-11-20T13:34:10Z",
+   "checked_at": "2026-11-21T12:58:59Z",
+   "last_ok_at": "2026-11-21T12:58:59Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 69,
-   "checked_at": "2026-11-20T13:34:16Z",
-   "last_ok_at": "2026-11-20T13:34:16Z",
+   "items": 70,
+   "checked_at": "2026-11-21T12:59:03Z",
+   "last_ok_at": "2026-11-21T12:59:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-20T13:34:16Z",
-   "last_ok_at": "2026-11-20T13:34:16Z",
+   "checked_at": "2026-11-21T12:59:03Z",
+   "last_ok_at": "2026-11-21T12:59:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -45,14 +45,74 @@
    "label": "ToyArena catalog",
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
-   "items": 57,
-   "checked_at": "2026-11-20T13:34:14Z",
-   "last_ok_at": "2026-11-20T13:34:14Z",
+   "items": 65,
+   "checked_at": "2026-11-21T12:59:03Z",
+   "last_ok_at": "2026-11-21T12:59:03Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-21T12:59:03Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Daredevil Born Again Daredevil & Jessica Jones 2 Pack Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-daredevil-born-again-daredevil-jessica-jones-2-pack-action-figure"
+  },
+  {
+   "at": "2026-11-21T12:59:03Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Vintage Retro Series Mary Jane Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-vintage-retro-series-mary-jane-action-figure"
+  },
+  {
+   "at": "2026-11-21T12:59:03Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Vintage Retro Series Aunt May Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-vintage-retro-series-aunt-may-action-figure"
+  },
+  {
+   "at": "2026-11-21T12:59:03Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Vintage Retro Series '97 X-Men Vindicator Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-vintage-retro-series-97-x-men-vindicator-action-figure"
+  },
+  {
+   "at": "2026-11-21T12:59:03Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Vintage Retro Series '97 X-Men Polaris Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-vintage-retro-series-97-x-men-polaris-action-figure"
+  },
+  {
+   "at": "2026-11-21T12:59:03Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Vintage Retro Series '97 X-Men Havok (Season 2) Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-vintage-retro-series-97-x-men-havok-season-2-action-figure"
+  },
+  {
+   "at": "2026-11-21T12:59:03Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Vintage Retro Series '97 X-Men Jean Grey Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-vintage-retro-series-97-x-men-jean-grey-action-figure-1"
+  },
+  {
+   "at": "2026-11-21T12:59:03Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Vintage Retro Series '97 X-Men Cyclops (Season 2 X-Corps) Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-vintage-retro-series-97-x-men-cyclops-season-2-x-corps-action-figure"
+  },
+  {
+   "at": "2026-11-21T12:59:03Z",
+   "kind": "catalog",
+   "title": "ToyArena: Marvel Legends Vintage Retro Series '97 X-Men Death Gambit Action Figure",
+   "ref": "https://toyarena.com/products/marvel-legends-vintage-retro-series-97-x-men-death-gambit-action-figure"
+  },
+  {
+   "at": "2026-11-21T12:59:03Z",
+   "kind": "story",
+   "title": "Hasbro Unveils Spider-Man: Web of Venom #1 Marvel Legends Figure - Bleeding Cool News",
+   "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOG5xQzY3SnlZa05WeURWaXZGVkl0YUpNbGphZTdlb0NkN1hoN0xlaElkREk1U3JpWVdVb2dtOXdvR29NV1c0WVBRY2RVdU5UVXpWOHczbV85TDRXT0ZYWU9yU1FpdndhcXpKcE9QZEVYVE9OOGItVThfT2xQaVoxekJwSUJib29tcC1JTHE1dkVKUTQxazdkc0NNN2VXWUx6a3ZV?oc=5"
+  },
   {
    "at": "2026-11-20T13:34:16Z",
    "kind": "story",
@@ -352,60 +412,6 @@
    "kind": "catalog",
    "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Fantastic Four - Dr. Doom (Sub-Standard Packaging)",
    "ref": "https://cmdstore.com/products/marvel-legends-retro-fantastic-four-dr-doom-5010993753307dmg"
-  },
-  {
-   "at": "2026-11-07T11:18:49Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Brand New Day 6 Inch Action Figure - Spider-Man (Sub-Standard Packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-spider-man-day-spider-man-5010996404893dmg"
-  },
-  {
-   "at": "2026-11-05T12:43:42Z",
-   "kind": "story",
-   "title": "Bare-chested Wolverine gets his own Marvel Legends action figure - Comics Beat",
-   "ref": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRk5DQnZxRlFaS0lNcFhhTlVyYWtJLU5hX3Y1NkxsZHVENWN3YW1rOTQ3TFlrWHVCSHdmOTUwSk5Ld1NoeGxveGNJT2twdTZHMHFoWXNLVW9mTk56Q3ZjLTlydHFPOU9SR1kyRG44cEd3SG9uQUxfUVpMdHhmdVVMWVJDV0lyQQ?oc=5"
-  },
-  {
-   "at": "2026-11-04T12:30:15Z",
-   "kind": "story",
-   "title": "Review of the Wolverine action figure from the Marvel Legends Series by Hasbro - YouTube",
-   "ref": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12QWowRXRSLUZidjdTbHh2MTBaemUxWnY1cmZ4T0EwcndfQ0NKWkhxeGw3ME9jS3NudnNhaS16N0RjRnBuWmFrSnRteEZ0UG5nYnF3MTlkQ0wwSWo0?oc=5"
-  },
-  {
-   "at": "2026-11-04T12:30:15Z",
-   "kind": "story",
-   "title": "New Marvel Legends Figures Revealed For Avengers: Doomsday & X-Men '97 - IMDb",
-   "ref": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOWdlM2lVYWJmYXc1WmU2Y2l0YVNiVkFpMlpiODYxdDJUYTdPczZpNGlhSVNBWjVpTkhPOXFRUjFMSW8td1JiLWlaVGNFYUdSTHgxUUlwRXM3Q3hJNmI3ZlViNmlVdnc?oc=5"
-  },
-  {
-   "at": "2026-11-02T12:51:01Z",
-   "kind": "story",
-   "title": "Hasbro Marvel Legends Your Friendly Neighborhood Spider-Man & Rhino 2 Pack IN STOCK NOW - Toy Habits",
-   "ref": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUdMSDc4VGo1SHlndXotSFFTXzAtSHBNU3dOc3FIeFV0NjZwRzhFOWJ3UXdpVVM3RGJBbkJLYjNEeWREMHVuZHZiT3ZVY1ZqVm1CckpUNmVKMkl4TVB2VG9MMzhEa3NXd1hwaS1SZzJZcnBwcEVRWUtEVW1tckZOSzcwZ2lNdWo3UEFkRUd0czhPUmxlVmlTRmQ3S2xyV3Azck1uWE16dw?oc=5"
-  },
-  {
-   "at": "2026-11-02T12:51:01Z",
-   "kind": "story",
-   "title": "Marvel Legends Spider-Man vs. Rhino Figure Set Available Now - LaughingPlace.com",
-   "ref": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1pHcm5GNWttbW10eXJvb0RXdlo4dFpQZkNZcFJlNzBOQks2R1lJUWdWV2dYUTVISGpjek1Jb3VwRVRKUDVmRVhRUG5xeUZGcnVjeUd5UHZVSjZjWm9IeW8temRmclM1a0p2WE1qNG1uSmswcUtkNzh5SnlTaDhlTE9oRkhMS2RJQUdTb2lFYkRkYTdwRWc?oc=5"
-  },
-  {
-   "at": "2026-11-02T12:51:01Z",
-   "kind": "story",
-   "title": "Beast joins Hasbro’s X-Men ’97 Marvel Legends Series collection with new figure - Flickering Myth",
-   "ref": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3d1TGpjUVFZOHlySkFvYi1kUmZkdHF0SHdveXg5RV9OQnl2TVBWbE9iYjBRWllYcVNHV0VqcDBRQkdZVE9BRENrX01fem1LZ19CSzNBVG9nSk9rUEs3MV9xQlE0bC0wX09jdHFyeGluYUdjR0ZDNGhnNG0xZ2VJWHVYdmVQRDhGclg2Z2xCMVA3MktNcmJmczNfWmZST0l6Z1hhTUZYbDYzMU03MlE?oc=5"
-  },
-  {
-   "at": "2026-11-01T11:28:46Z",
-   "kind": "story",
-   "title": "Hasbro unveils new Marvel Legends Series Secret Wars action figures - Flickering Myth",
-   "ref": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjlEQ3FPRHc5bGg4UjhFSkxRanNJRVd1NDhTZkN3LTJtX2IyR2hkUzFYN2U0eHdENUtHWmZyMHRKT2NkYXN6bUNydFNhbnRlNncyd2QySER1UnI5dXZGRmxHeUFpU250dUpja1RGR2RWemNVRkhTNmhCSXRmaDVuLXJWQXFUTWxpRExwdm1IWDZDRDlNZTdIeDlkZ0Z6b05R?oc=5"
-  },
-  {
-   "at": "2026-11-01T11:28:46Z",
-   "kind": "story",
-   "title": "Shop Marvel Must Haves: Hasbro Marvel Legends Reveal Strange Tales Series - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQXBiZHJVRUxuaGNrVzYyU0EySUdIUk1FM2pCLUlicmtRTGd1WHhDaXp4OGtxcTlONC1odlpDMVFIeXRQdU9YVkJtQ1hCdHZxRjRrYW01OGhTTk1mYWdQXzFvTzZ3UVppdGgwakw1X28xRjM1WWlvcjJ5UVFaWHlEREdCQUpOcjNUWm1YRTg1Z2plYV9oT05mQmdLbm5iTmplYWVWYWdUallFcThXLTNwQjNaYlpCcGFVRl9PZHlWNEs4Y0tVaFJB?oc=5"
   }
  ]
 }
