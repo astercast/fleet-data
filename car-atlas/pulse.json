@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-20T20:04:41Z",
+ "generated_at": "2026-11-21T02:13:22Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-20T20:04:41Z",
+ "last_data_change_at": "2026-11-21T02:13:22Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 72,
-   "checked_at": "2026-11-20T20:04:40Z",
-   "last_ok_at": "2026-11-20T20:04:40Z",
+   "items": 36,
+   "checked_at": "2026-11-21T02:13:21Z",
+   "last_ok_at": "2026-11-21T02:13:21Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,61 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12440,
-   "checked_at": "2026-11-20T20:04:41Z",
-   "last_ok_at": "2026-11-20T20:04:41Z",
+   "checked_at": "2026-11-21T02:13:22Z",
+   "last_ok_at": "2026-11-21T02:13:22Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-21T02:13:22Z",
+   "kind": "sale",
+   "title": "1999 Toyota Land Cruiser UZJ100",
+   "ref": "https://bringatrailer.com/listing/1999-toyota-land-cruiser-156/"
+  },
+  {
+   "at": "2026-11-21T02:13:22Z",
+   "kind": "sale",
+   "title": "1974 Porsche 911 Coupe 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1974-porsche-911-coupe-46/"
+  },
+  {
+   "at": "2026-11-21T02:13:22Z",
+   "kind": "sale",
+   "title": "30-Years-Owned 1991 Mazda MX-5 Miata Special Edition 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1991-mazda-mx-5-miata-221/"
+  },
+  {
+   "at": "2026-11-21T02:13:22Z",
+   "kind": "sale",
+   "title": "2008 Chevrolet Silverado 2500HD LTZ Crew Cab Duramax 4×4",
+   "ref": "https://bringatrailer.com/listing/2008-chevrolet-silverado-2500hd-7/"
+  },
+  {
+   "at": "2026-11-21T02:13:22Z",
+   "kind": "sale",
+   "title": "1988 Toyota Land Cruiser FJ62",
+   "ref": "https://bringatrailer.com/listing/1988-toyota-land-cruiser-fj62-268/"
+  },
+  {
+   "at": "2026-11-21T02:13:22Z",
+   "kind": "sale",
+   "title": "10k-Mile 2009 Chevrolet Corvette ZR1",
+   "ref": "https://bringatrailer.com/listing/2009-chevrolet-corvette-zr1-74/"
+  },
+  {
+   "at": "2026-11-21T02:13:22Z",
+   "kind": "sale",
+   "title": "2012 Land Rover Range Rover Supercharged",
+   "ref": "https://bringatrailer.com/listing/2012-land-rover-range-rover-205/"
+  },
+  {
+   "at": "2026-11-21T02:13:22Z",
+   "kind": "sale",
+   "title": "2020 Ford Mustang Shelby GT350R Heritage Edition",
+   "ref": "https://bringatrailer.com/listing/2020-ford-mustang-shelby-gt350r-102/"
+  },
   {
    "at": "2026-11-20T20:04:41Z",
    "kind": "sale",
@@ -342,54 +390,6 @@
    "kind": "sale",
    "title": "2006 Land Rover Range Rover Sport Supercharged",
    "ref": "https://bringatrailer.com/listing/2006-land-rover-range-rover-sport-35/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "One-Family-Owned 2005 Saab 9-3 Arc",
-   "ref": "https://bringatrailer.com/listing/2005-saab-9-3-26/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "1969 Chevrolet Camaro Z/28 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1969-chevrolet-camaro-z-28-310/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "33-Mile 2023 Dodge Challenger SRT Demon 170",
-   "ref": "https://bringatrailer.com/listing/2023-dodge-challenger-srt-demon-170-279/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "6k-Mile 2024 Porsche 911 Carrera 4 Cabriolet",
-   "ref": "https://bringatrailer.com/listing/2024-porsche-911-carrera-4-cabriolet/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "Original-Owner 1990 Saab 900 Turbo Hatchback 5-Speed",
-   "ref": "https://bringatrailer.com/listing/1990-saab-900-turbo-6/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "42k-Mile 2011 Bentley Continental Flying Spur",
-   "ref": "https://bringatrailer.com/listing/2011-bentley-continental-flying-spur-5/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "2003 Jeep Wrangler X 4.0",
-   "ref": "https://bringatrailer.com/listing/2003-jeep-wrangler-177/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "27k-Mile 2016 Chevrolet Camaro 2SS Coupe",
-   "ref": "https://bringatrailer.com/listing/2016-chevrolet-camaro-coupe-13/"
   }
  ]
 }
