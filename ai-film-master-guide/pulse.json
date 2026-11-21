@@ -1,22 +1,22 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-21T02:10:57Z",
+ "generated_at": "2026-11-21T10:56:25Z",
  "stale_after_h": 26,
- "healthy": false,
- "sources_ok": 4,
+ "healthy": true,
+ "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-21T02:10:57Z",
+ "last_data_change_at": "2026-11-21T10:56:25Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
-   "ok": false,
+   "ok": true,
    "items": 211,
-   "checked_at": "2026-11-21T02:10:54Z",
-   "last_ok_at": "2026-11-20T20:02:00Z",
-   "error": "TimeoutError",
-   "fails_in_a_row": 1
+   "checked_at": "2026-11-21T10:56:23Z",
+   "last_ok_at": "2026-11-21T10:56:23Z",
+   "error": null,
+   "fails_in_a_row": 0
   },
   {
    "id": "github",
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-21T02:10:57Z",
-   "last_ok_at": "2026-11-21T02:10:57Z",
+   "checked_at": "2026-11-21T10:56:25Z",
+   "last_ok_at": "2026-11-21T10:56:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-21T02:09:47Z",
-   "last_ok_at": "2026-11-21T02:09:47Z",
+   "checked_at": "2026-11-21T10:56:23Z",
+   "last_ok_at": "2026-11-21T10:56:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-21T02:10:55Z",
-   "last_ok_at": "2026-11-21T02:10:55Z",
+   "checked_at": "2026-11-21T10:56:23Z",
+   "last_ok_at": "2026-11-21T10:56:23Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,31 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-21T02:09:47Z",
-   "last_ok_at": "2026-11-21T02:09:47Z",
+   "checked_at": "2026-11-21T10:56:23Z",
+   "last_ok_at": "2026-11-21T10:56:23Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-21T10:56:25Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: SadikNawazAI/SADIK-VIDEO-AI",
+   "ref": "https://huggingface.co/SadikNawazAI/SADIK-VIDEO-AI"
+  },
+  {
+   "at": "2026-11-21T10:56:25Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-wan2.1-i2v-480p-scaled-fp8-e4m3-lightx2v-4step-unet",
+   "ref": "https://huggingface.co/RunningHubAI/rh-wan2.1-i2v-480p-scaled-fp8-e4m3-lightx2v-4step-unet"
+  },
+  {
+   "at": "2026-11-21T10:56:25Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-ComfyUI",
+   "ref": "https://huggingface.co/H3-Tiny/H3-Tiny-ComfyUI"
+  },
   {
    "at": "2026-11-21T02:10:57Z",
    "kind": "price-signal",
@@ -405,24 +423,6 @@
    "kind": "paper",
    "title": "New arXiv paper: Learning Reconstruction Errors as Spatiotemporal Evidence for AI-Generated Video Detection",
    "ref": "http://arxiv.org/abs/2611.26116v1"
-  },
-  {
-   "at": "2026-11-20T11:24:31Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation",
-   "ref": "http://arxiv.org/abs/2611.26098v1"
-  },
-  {
-   "at": "2026-11-20T11:24:31Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Streaming-AAA: Streaming AAA Game Video Generation at High Resolution, High Frame Rate, and Low Latency",
-   "ref": "http://arxiv.org/abs/2611.26040v1"
-  },
-  {
-   "at": "2026-11-20T11:24:31Z",
-   "kind": "paper",
-   "title": "New arXiv paper: TrajCal: Trajectory-Calibrated Time Schedules for Few-Step Flow Sampling",
-   "ref": "http://arxiv.org/abs/2611.25847v1"
   }
  ]
 }

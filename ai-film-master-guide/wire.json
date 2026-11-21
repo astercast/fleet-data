@@ -1,7 +1,37 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-21T02:10:57Z",
+ "generated_at": "2026-11-21T10:56:25Z",
  "items": [
+  {
+   "id": "hf-SadikNawazAI/SADIK-VIDEO-AI",
+   "at": "2026-11-21T08:36:52Z",
+   "model": "SadikNawazAI/SADIK-VIDEO-AI",
+   "title": "New text-to-video model listed on Hugging Face: SadikNawazAI/SADIK-VIDEO-AI",
+   "url": "https://huggingface.co/SadikNawazAI/SADIK-VIDEO-AI",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-RunningHubAI/rh-wan2.1-i2v-480p-scaled-fp8-e4m3-lightx2v-4step-unet",
+   "at": "2026-11-21T07:24:03Z",
+   "model": "RunningHubAI/rh-wan2.1-i2v-480p-scaled-fp8-e4m3-lightx2v-4step-unet",
+   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-wan2.1-i2v-480p-scaled-fp8-e4m3-lightx2v-4step-unet",
+   "url": "https://huggingface.co/RunningHubAI/rh-wan2.1-i2v-480p-scaled-fp8-e4m3-lightx2v-4step-unet",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-H3-Tiny/H3-Tiny-ComfyUI",
+   "at": "2026-11-21T05:38:36Z",
+   "model": "H3-Tiny/H3-Tiny-ComfyUI",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-ComfyUI",
+   "url": "https://huggingface.co/H3-Tiny/H3-Tiny-ComfyUI",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-21",
    "at": "2026-11-21T02:09:44+00:00",
@@ -1468,36 +1498,6 @@
    "model": "Pika 2.5",
    "title": "Pika 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://alphasignal.ai/news/pika-rebuilds-into-a-full-creative-studio-routing-across-seven-ai-tools",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Luma App / Ray 3.2-2026-11-19",
-   "at": "2026-11-19T02:30:31+00:00",
-   "model": "Luma App / Ray 3.2",
-   "title": "Luma App / Ray 3.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://magichour.ai/blog/kling-vs-pika-vs-luma",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-MiniMax H3-2026-11-19",
-   "at": "2026-11-19T02:30:20+00:00",
-   "model": "MiniMax H3",
-   "title": "MiniMax H3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://pixo.video/blog/what-is-minimax-h3",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Hailuo 02 / 2.3-2026-11-19",
-   "at": "2026-11-19T02:30:13+00:00",
-   "model": "Hailuo 02 / 2.3",
-   "title": "Hailuo 02 / 2.3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://magichour.ai/blog/hailuo-23-pricing",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
