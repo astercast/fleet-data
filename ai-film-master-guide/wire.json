@@ -1,7 +1,107 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-22T01:12:19Z",
+ "generated_at": "2026-11-22T11:08:19Z",
  "items": [
+  {
+   "id": "hf-cgg507/MiniMax-H3-FP8-TP4",
+   "at": "2026-11-22T11:07:56Z",
+   "model": "cgg507/MiniMax-H3-FP8-TP4",
+   "title": "New text-to-video model listed on Hugging Face: cgg507/MiniMax-H3-FP8-TP4",
+   "url": "https://huggingface.co/cgg507/MiniMax-H3-FP8-TP4",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-H3-Tiny/MiniMax-H3-Tiny-ComfyUI",
+   "at": "2026-11-22T11:04:26Z",
+   "model": "H3-Tiny/MiniMax-H3-Tiny-ComfyUI",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/MiniMax-H3-Tiny-ComfyUI",
+   "url": "https://huggingface.co/H3-Tiny/MiniMax-H3-Tiny-ComfyUI",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-H3-Tiny/MiniMax-H3-Tiny-14B-OKD-Ref2VA-v0.1",
+   "at": "2026-11-22T11:04:25Z",
+   "model": "H3-Tiny/MiniMax-H3-Tiny-14B-OKD-Ref2VA-v0.1",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/MiniMax-H3-Tiny-14B-OKD-Ref2VA-v0.1",
+   "url": "https://huggingface.co/H3-Tiny/MiniMax-H3-Tiny-14B-OKD-Ref2VA-v0.1",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-H3-Tiny/MiniMax-H3-Tiny-17B-FewStep-Ref2VA-v0.1",
+   "at": "2026-11-22T11:04:23Z",
+   "model": "H3-Tiny/MiniMax-H3-Tiny-17B-FewStep-Ref2VA-v0.1",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/MiniMax-H3-Tiny-17B-FewStep-Ref2VA-v0.1",
+   "url": "https://huggingface.co/H3-Tiny/MiniMax-H3-Tiny-17B-FewStep-Ref2VA-v0.1",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-H3-Tiny/MiniMax-H3-Tiny-17B-Pruned-Ref2VA",
+   "at": "2026-11-22T11:04:19Z",
+   "model": "H3-Tiny/MiniMax-H3-Tiny-17B-Pruned-Ref2VA",
+   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/MiniMax-H3-Tiny-17B-Pruned-Ref2VA",
+   "url": "https://huggingface.co/H3-Tiny/MiniMax-H3-Tiny-17B-Pruned-Ref2VA",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-SyntheticMDProductions/ADAM-Video-LoRAs-Wan2.1-T2V-1.3B",
+   "at": "2026-11-22T05:15:05Z",
+   "model": "SyntheticMDProductions/ADAM-Video-LoRAs-Wan2.1-T2V-1.3B",
+   "title": "New text-to-video model listed on Hugging Face: SyntheticMDProductions/ADAM-Video-LoRAs-Wan2.1-T2V-1.3B",
+   "url": "https://huggingface.co/SyntheticMDProductions/ADAM-Video-LoRAs-Wan2.1-T2V-1.3B",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-SyntheticMDProductions/ADAM-Video-LoRAs-LTX-Video-2B-0.9.6-Dev",
+   "at": "2026-11-22T05:12:09Z",
+   "model": "SyntheticMDProductions/ADAM-Video-LoRAs-LTX-Video-2B-0.9.6-Dev",
+   "title": "New text-to-video model listed on Hugging Face: SyntheticMDProductions/ADAM-Video-LoRAs-LTX-Video-2B-0.9.6-Dev",
+   "url": "https://huggingface.co/SyntheticMDProductions/ADAM-Video-LoRAs-LTX-Video-2B-0.9.6-Dev",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-finaltv971/fastframes-l-mlx",
+   "at": "2026-11-22T02:44:57Z",
+   "model": "finaltv971/fastframes-l-mlx",
+   "title": "New text-to-video model listed on Hugging Face: finaltv971/fastframes-l-mlx",
+   "url": "https://huggingface.co/finaltv971/fastframes-l-mlx",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-yuribarreira/LTX-2.5-Distilled-MLX-Mixed-Calibrated",
+   "at": "2026-11-22T02:32:53Z",
+   "model": "yuribarreira/LTX-2.5-Distilled-MLX-Mixed-Calibrated",
+   "title": "New text-to-video model listed on Hugging Face: yuribarreira/LTX-2.5-Distilled-MLX-Mixed-Calibrated",
+   "url": "https://huggingface.co/yuribarreira/LTX-2.5-Distilled-MLX-Mixed-Calibrated",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-yuribarreira/LTX-2.5-Distilled-MLX-Q6",
+   "at": "2026-11-22T02:32:52Z",
+   "model": "yuribarreira/LTX-2.5-Distilled-MLX-Q6",
+   "title": "New text-to-video model listed on Hugging Face: yuribarreira/LTX-2.5-Distilled-MLX-Q6",
+   "url": "https://huggingface.co/yuribarreira/LTX-2.5-Distilled-MLX-Q6",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-22",
    "at": "2026-11-22T01:12:06+00:00",
@@ -1398,106 +1498,6 @@
    "model": "Renedffd/FastFrames-L",
    "title": "New text-to-video model listed on Hugging Face: Renedffd/FastFrames-L",
    "url": "https://huggingface.co/Renedffd/FastFrames-L",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.26389v1",
-   "at": "2026-11-19T16:43:42Z",
-   "model": "",
-   "title": "New arXiv paper: ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step",
-   "url": "http://arxiv.org/abs/2611.26389v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.26334v1",
-   "at": "2026-11-19T16:14:13Z",
-   "model": "",
-   "title": "New arXiv paper: Online Temporal Rotations for 2 Bit KV-Cache Quantization in Video Diffusion Transformers",
-   "url": "http://arxiv.org/abs/2611.26334v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.26178v1",
-   "at": "2026-11-19T14:29:45Z",
-   "model": "",
-   "title": "New arXiv paper: FlexVSR: Continuous-Scale Super-Resolution for Streaming Video Generation",
-   "url": "http://arxiv.org/abs/2611.26178v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.26165v1",
-   "at": "2026-11-19T14:18:24Z",
-   "model": "",
-   "title": "New arXiv paper: StreamEgo: Streaming Exocentric-to-Egocentric Video Generation",
-   "url": "http://arxiv.org/abs/2611.26165v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.26164v1",
-   "at": "2026-11-19T14:18:00Z",
-   "model": "",
-   "title": "New arXiv paper: MultiBinder: Preventing Multi-Subject Identity Leakage in Personalized Video Generation",
-   "url": "http://arxiv.org/abs/2611.26164v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.26116v1",
-   "at": "2026-11-19T13:45:14Z",
-   "model": "",
-   "title": "New arXiv paper: Learning Reconstruction Errors as Spatiotemporal Evidence for AI-Generated Video Detection",
-   "url": "http://arxiv.org/abs/2611.26116v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.26098v1",
-   "at": "2026-11-19T13:33:30Z",
-   "model": "",
-   "title": "New arXiv paper: Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation",
-   "url": "http://arxiv.org/abs/2611.26098v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.26040v1",
-   "at": "2026-11-19T12:50:47Z",
-   "model": "",
-   "title": "New arXiv paper: Streaming-AAA: Streaming AAA Game Video Generation at High Resolution, High Frame Rate, and Low Latency",
-   "url": "http://arxiv.org/abs/2611.26040v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-H3-Tiny/H3-Tiny-14B-OKD-v0.1",
-   "at": "2026-11-19T12:16:05Z",
-   "model": "H3-Tiny/H3-Tiny-14B-OKD-v0.1",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-14B-OKD-v0.1",
-   "url": "https://huggingface.co/H3-Tiny/H3-Tiny-14B-OKD-v0.1",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-H3-Tiny/H3-Tiny-17B-FewStep-v0.1",
-   "at": "2026-11-19T12:16:04Z",
-   "model": "H3-Tiny/H3-Tiny-17B-FewStep-v0.1",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-17B-FewStep-v0.1",
-   "url": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-FewStep-v0.1",
    "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"

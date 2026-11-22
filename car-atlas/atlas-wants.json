@@ -1,6 +1,6 @@
 {
  "format": "atlas-wants/1",
- "generated_at": "2026-11-22T01:14:59Z",
+ "generated_at": "2026-11-22T11:10:57Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -61,11 +61,6 @@
    "key": "Ferrari sf",
    "sold": 1,
    "bidTo": 0
-  },
-  {
-   "key": "Ford bronco",
-   "sold": 0,
-   "bidTo": 1
   },
   {
    "key": "Ford f",
@@ -424,18 +419,6 @@
    "status": "bid-to",
    "matched": false,
    "wantsKey": "Cadillac fleetwood"
-  },
-  {
-   "title": "1966 Ford Bronco Roadster Project",
-   "url": "https://bringatrailer.com/listing/1966-ford-bronco-310/",
-   "price": 8066,
-   "currency": "USD",
-   "ended": "2026-11-21",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": true,
-   "wantsKey": "Ford bronco"
   },
   {
    "title": "13k-Mile, One-Owner 1998 Chevrolet S-10 5-Speed",

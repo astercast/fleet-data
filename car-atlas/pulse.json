@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-22T01:14:59Z",
+ "generated_at": "2026-11-22T11:10:57Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-22T01:14:59Z",
+ "last_data_change_at": "2026-11-22T11:10:57Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 36,
-   "checked_at": "2026-11-22T01:14:56Z",
-   "last_ok_at": "2026-11-22T01:14:56Z",
+   "checked_at": "2026-11-22T11:10:55Z",
+   "last_ok_at": "2026-11-22T11:10:55Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,19 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12440,
-   "checked_at": "2026-11-22T01:14:59Z",
-   "last_ok_at": "2026-11-22T01:14:59Z",
+   "checked_at": "2026-11-22T11:10:57Z",
+   "last_ok_at": "2026-11-22T11:10:57Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-22T11:10:57Z",
+   "kind": "sale",
+   "title": "1966 Ford Bronco Roadster Project",
+   "ref": "https://bringatrailer.com/listing/1966-ford-bronco-310/"
+  },
   {
    "at": "2026-11-22T01:14:59Z",
    "kind": "sale",
@@ -384,12 +390,6 @@
    "kind": "sale",
    "title": "2023 Volkswagen Golf GTI 40th Anniversary Edition 6-Speed",
    "ref": "https://bringatrailer.com/listing/2023-volkswagen-golf-gti/"
-  },
-  {
-   "at": "2026-11-19T02:36:43Z",
-   "kind": "sale",
-   "title": "7k-Mile 1977 Chevrolet Corvette",
-   "ref": "https://bringatrailer.com/listing/1977-chevrolet-corvette-182/"
   }
  ]
 }
