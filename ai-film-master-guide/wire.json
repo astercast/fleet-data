@@ -1,7 +1,67 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-22T11:08:19Z",
+ "generated_at": "2026-11-22T19:31:23Z",
  "items": [
+  {
+   "id": "hf-pocis/MiniMax-H3-Video-PixelHead",
+   "at": "2026-11-22T18:48:03Z",
+   "model": "pocis/MiniMax-H3-Video-PixelHead",
+   "title": "New text-to-video model listed on Hugging Face: pocis/MiniMax-H3-Video-PixelHead",
+   "url": "https://huggingface.co/pocis/MiniMax-H3-Video-PixelHead",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-yuri-rod/LTX-2.5-22B-Distilled-DiT-6bit",
+   "at": "2026-11-22T16:51:50Z",
+   "model": "yuri-rod/LTX-2.5-22B-Distilled-DiT-6bit",
+   "title": "New text-to-video model listed on Hugging Face: yuri-rod/LTX-2.5-22B-Distilled-DiT-6bit",
+   "url": "https://huggingface.co/yuri-rod/LTX-2.5-22B-Distilled-DiT-6bit",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-yuri-rod/LTX-2.5-22B-Distilled-DiT-MXFP4-6bit-8bit-Calibrated",
+   "at": "2026-11-22T16:51:49Z",
+   "model": "yuri-rod/LTX-2.5-22B-Distilled-DiT-MXFP4-6bit-8bit-Calibrated",
+   "title": "New text-to-video model listed on Hugging Face: yuri-rod/LTX-2.5-22B-Distilled-DiT-MXFP4-6bit-8bit-Calibrated",
+   "url": "https://huggingface.co/yuri-rod/LTX-2.5-22B-Distilled-DiT-MXFP4-6bit-8bit-Calibrated",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-mlx-community/LTX-2.5-22B-Distilled-DiT-6bit",
+   "at": "2026-11-22T16:51:09Z",
+   "model": "mlx-community/LTX-2.5-22B-Distilled-DiT-6bit",
+   "title": "New text-to-video model listed on Hugging Face: mlx-community/LTX-2.5-22B-Distilled-DiT-6bit",
+   "url": "https://huggingface.co/mlx-community/LTX-2.5-22B-Distilled-DiT-6bit",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-mlx-community/LTX-2.5-22B-Distilled-DiT-MXFP4-6bit-8bit-Calibrated",
+   "at": "2026-11-22T16:51:08Z",
+   "model": "mlx-community/LTX-2.5-22B-Distilled-DiT-MXFP4-6bit-8bit-Calibrated",
+   "title": "New text-to-video model listed on Hugging Face: mlx-community/LTX-2.5-22B-Distilled-DiT-MXFP4-6bit-8bit-Calibrated",
+   "url": "https://huggingface.co/mlx-community/LTX-2.5-22B-Distilled-DiT-MXFP4-6bit-8bit-Calibrated",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-quifox/H3-Turbo-Runtime",
+   "at": "2026-11-22T14:50:51Z",
+   "model": "quifox/H3-Turbo-Runtime",
+   "title": "New text-to-video model listed on Hugging Face: quifox/H3-Turbo-Runtime",
+   "url": "https://huggingface.co/quifox/H3-Turbo-Runtime",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-cgg507/MiniMax-H3-FP8-TP4",
    "at": "2026-11-22T11:07:56Z",
@@ -1438,66 +1498,6 @@
    "model": "ModelsLab/MiniMax-H3-Turbo-RL",
    "title": "New text-to-video model listed on Hugging Face: ModelsLab/MiniMax-H3-Turbo-RL",
    "url": "https://huggingface.co/ModelsLab/MiniMax-H3-Turbo-RL",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.26516v1",
-   "at": "2026-11-19T17:59:02Z",
-   "model": "",
-   "title": "New arXiv paper: Plan4D: Generative Plannable 4D Worlds",
-   "url": "http://arxiv.org/abs/2611.26516v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.26508v1",
-   "at": "2026-11-19T17:56:06Z",
-   "model": "",
-   "title": "New arXiv paper: Visual Attribution Limits and Graded Provenance Auditing in Commercial Video-Generation APIs",
-   "url": "http://arxiv.org/abs/2611.26508v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Renedffd/ClipProj-MiniMax-H3",
-   "at": "2026-11-19T17:31:38Z",
-   "model": "Renedffd/ClipProj-MiniMax-H3",
-   "title": "New text-to-video model listed on Hugging Face: Renedffd/ClipProj-MiniMax-H3",
-   "url": "https://huggingface.co/Renedffd/ClipProj-MiniMax-H3",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Renedffd/DMAD",
-   "at": "2026-11-19T17:30:59Z",
-   "model": "Renedffd/DMAD",
-   "title": "New text-to-video model listed on Hugging Face: Renedffd/DMAD",
-   "url": "https://huggingface.co/Renedffd/DMAD",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Renedffd/Wan2.2-TI2V-5B",
-   "at": "2026-11-19T17:30:34Z",
-   "model": "Renedffd/Wan2.2-TI2V-5B",
-   "title": "New text-to-video model listed on Hugging Face: Renedffd/Wan2.2-TI2V-5B",
-   "url": "https://huggingface.co/Renedffd/Wan2.2-TI2V-5B",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Renedffd/FastFrames-L",
-   "at": "2026-11-19T17:29:25Z",
-   "model": "Renedffd/FastFrames-L",
-   "title": "New text-to-video model listed on Hugging Face: Renedffd/FastFrames-L",
-   "url": "https://huggingface.co/Renedffd/FastFrames-L",
    "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"

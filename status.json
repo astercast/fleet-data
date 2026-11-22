@@ -1,6 +1,6 @@
 {
  "format": "fleet-status/1",
- "generated_at": "2026-11-22T12:51:42Z",
+ "generated_at": "2026-11-22T19:34:13Z",
  "sites": [
   {
    "site": "ai-film-master-guide",
@@ -10,7 +10,7 @@
     [
      "freshness",
      "ok",
-     "1.7 h old, limit 14 h"
+     "0.0 h old, limit 14 h"
     ],
     [
      "sources",
@@ -20,11 +20,11 @@
     [
      "site",
      "ok",
-     "78 ms"
+     "152 ms"
     ]
    ],
-   "data_age_h": 1.7,
-   "changed_age_h": 1.7,
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "arxiv",
@@ -67,7 +67,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 50 h"
+     "6.7 h old, limit 50 h"
     ],
     [
      "sources",
@@ -77,11 +77,11 @@
     [
      "site",
      "ok",
-     "189 ms"
+     "383 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 23.9,
+   "data_age_h": 6.7,
+   "changed_age_h": 30.6,
    "sources": [
     {
      "id": "cmdstore",
@@ -118,7 +118,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 50 h"
+     "6.7 h old, limit 50 h"
     ],
     [
      "sources",
@@ -133,10 +133,10 @@
     [
      "site",
      "ok",
-     "169 ms"
+     "174 ms"
     ]
    ],
-   "data_age_h": 0.0,
+   "data_age_h": 6.7,
    "changed_age_h": null,
    "sources": [
     {
@@ -168,7 +168,7 @@
     [
      "freshness",
      "ok",
-     "1.7 h old, limit 14 h"
+     "0.0 h old, limit 14 h"
     ],
     [
      "sources",
@@ -178,11 +178,11 @@
     [
      "site",
      "ok",
-     "367 ms"
+     "434 ms"
     ]
    ],
-   "data_age_h": 1.7,
-   "changed_age_h": 1.7,
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "meta-newsroom",
@@ -217,7 +217,7 @@
     {
      "id": "youtube-blog",
      "ok": false,
-     "fails": 91,
+     "fails": 92,
      "items": 0
     },
     {
@@ -237,7 +237,7 @@
     [
      "freshness",
      "ok",
-     "1.7 h old, limit 8 h"
+     "0.0 h old, limit 8 h"
     ],
     [
      "sources",
@@ -247,16 +247,16 @@
     [
      "site",
      "ok",
-     "81 ms"
+     "166 ms"
     ]
    ],
-   "data_age_h": 1.7,
+   "data_age_h": 0.0,
    "changed_age_h": null,
    "sources": [
     {
      "id": "board",
      "ok": false,
-     "fails": 91,
+     "fails": 92,
      "items": 0
     },
     {
@@ -269,7 +269,7 @@
      "id": "lane-charts",
      "ok": true,
      "fails": 0,
-     "items": 20
+     "items": 30
     },
     {
      "id": "lane-gtrends",
@@ -299,7 +299,7 @@
      "id": "lane-netflix",
      "ok": true,
      "fails": 0,
-     "items": 20
+     "items": 0
     },
     {
      "id": "lane-news",
@@ -340,7 +340,7 @@
     {
      "id": "lane-tiktok",
      "ok": false,
-     "fails": 91,
+     "fails": 92,
      "items": 0
     },
     {
@@ -352,7 +352,7 @@
     {
      "id": "lane-x",
      "ok": false,
-     "fails": 91,
+     "fails": 92,
      "items": 0
     },
     {
@@ -372,7 +372,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 50 h"
+     "6.7 h old, limit 50 h"
     ],
     [
      "sources",
@@ -382,11 +382,11 @@
     [
      "site",
      "ok",
-     "618 ms"
+     "507 ms"
     ]
    ],
-   "data_age_h": 0.0,
-   "changed_age_h": 0.0,
+   "data_age_h": 6.7,
+   "changed_age_h": 6.7,
    "sources": [
     {
      "id": "commons-photo-scout",
@@ -441,7 +441,7 @@
     [
      "freshness",
      "ok",
-     "0.0 h old, limit 50 h"
+     "6.7 h old, limit 50 h"
     ],
     [
      "sources",
@@ -451,10 +451,10 @@
     [
      "site",
      "ok",
-     "53 ms"
+     "86 ms"
     ]
    ],
-   "data_age_h": 0.0,
+   "data_age_h": 6.7,
    "changed_age_h": null,
    "sources": [
     {
@@ -486,7 +486,7 @@
     [
      "freshness",
      "ok",
-     "1.7 h old, limit 14 h"
+     "0.0 h old, limit 14 h"
     ],
     [
      "sources",
@@ -496,17 +496,17 @@
     [
      "site",
      "ok",
-     "53 ms"
+     "251 ms"
     ]
    ],
-   "data_age_h": 1.7,
-   "changed_age_h": 1.7,
+   "data_age_h": 0.0,
+   "changed_age_h": 0.0,
    "sources": [
     {
      "id": "bat",
      "ok": true,
      "fails": 0,
-     "items": 36
+     "items": 70
     },
     {
      "id": "nhtsa-vpic",
@@ -525,7 +525,7 @@
     [
      "site",
      "ok",
-     "303 ms"
+     "155 ms"
     ]
    ],
    "state": "ok"
@@ -538,17 +538,17 @@
     [
      "freshness",
      "ok",
-     "1.7 h old, limit 14 h"
+     "0.0 h old, limit 14 h"
     ],
     [
      "sources",
-     "ok",
-     "all ok"
+     "fail",
+     "down: liquipedia"
     ],
     [
      "site",
      "ok",
-     "58 ms"
+     "144 ms"
     ],
     [
      "health",
@@ -556,17 +556,17 @@
      "ok"
     ]
    ],
-   "data_age_h": 1.7,
-   "changed_age_h": 11.6,
+   "data_age_h": 0.0,
+   "changed_age_h": 18.3,
    "sources": [
     {
      "id": "liquipedia",
-     "ok": true,
-     "fails": 0,
+     "ok": false,
+     "fails": 1,
      "items": 6
     }
    ],
-   "state": "ok"
+   "state": "fail"
   },
   {
    "site": "sonny-angel-archive",
@@ -576,7 +576,7 @@
     [
      "freshness",
      "ok",
-     "1.7 h old, limit 14 h"
+     "0.0 h old, limit 14 h"
     ],
     [
      "sources",
@@ -591,11 +591,11 @@
     [
      "site",
      "ok",
-     "53 ms"
+     "204 ms"
     ]
    ],
-   "data_age_h": 1.7,
-   "changed_age_h": 73.3,
+   "data_age_h": 0.0,
+   "changed_age_h": 80.0,
    "sources": [
     {
      "id": "store",

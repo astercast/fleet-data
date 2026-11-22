@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-22T11:10:57Z",
+ "generated_at": "2026-11-22T19:33:46Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-22T11:10:57Z",
+ "last_data_change_at": "2026-11-22T19:33:46Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-22T11:10:55Z",
-   "last_ok_at": "2026-11-22T11:10:55Z",
+   "items": 70,
+   "checked_at": "2026-11-22T19:33:44Z",
+   "last_ok_at": "2026-11-22T19:33:44Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,73 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12440,
-   "checked_at": "2026-11-22T11:10:57Z",
-   "last_ok_at": "2026-11-22T11:10:57Z",
+   "checked_at": "2026-11-22T19:33:46Z",
+   "last_ok_at": "2026-11-22T19:33:46Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-22T19:33:46Z",
+   "kind": "sale",
+   "title": "Euro 1994 BMW M3 Coupe 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1994-bmw-m3-42/"
+  },
+  {
+   "at": "2026-11-22T19:33:46Z",
+   "kind": "sale",
+   "title": "1994 Mazda RX-7 Project",
+   "ref": "https://bringatrailer.com/listing/1994-mazda-rx-7-us-can-56/"
+  },
+  {
+   "at": "2026-11-22T19:33:46Z",
+   "kind": "sale",
+   "title": "Supercharged 1996 Toyota Land Cruiser FZJ80",
+   "ref": "https://bringatrailer.com/listing/1996-toyota-land-cruiser-fzj80-174/"
+  },
+  {
+   "at": "2026-11-22T19:33:46Z",
+   "kind": "sale",
+   "title": "1988 Porsche 911 Carrera Coupe G50",
+   "ref": "https://bringatrailer.com/listing/1988-porsche-911-carrera-coupe-99/"
+  },
+  {
+   "at": "2026-11-22T19:33:46Z",
+   "kind": "sale",
+   "title": "1990 Toyota Land Cruiser FJ62",
+   "ref": "https://bringatrailer.com/listing/1990-toyota-land-cruiser-fj62-112/"
+  },
+  {
+   "at": "2026-11-22T19:33:46Z",
+   "kind": "sale",
+   "title": "16k-Mile 2021 Toyota Land Cruiser URJ200 Heritage Edition",
+   "ref": "https://bringatrailer.com/listing/2021-toyota-land-cruiser-81/"
+  },
+  {
+   "at": "2026-11-22T19:33:46Z",
+   "kind": "sale",
+   "title": "24k-Mile 2015 Porsche 911 Turbo S Coupe",
+   "ref": "https://bringatrailer.com/listing/2015-porsche-911-turbo-s-coupe-8-2/"
+  },
+  {
+   "at": "2026-11-22T19:33:46Z",
+   "kind": "sale",
+   "title": "2015 Land Rover Range Rover Supercharged",
+   "ref": "https://bringatrailer.com/listing/2015-land-rover-range-rover-78/"
+  },
+  {
+   "at": "2026-11-22T19:33:46Z",
+   "kind": "sale",
+   "title": "2003 BMW M3 Coupe",
+   "ref": "https://bringatrailer.com/listing/2003-bmw-m3-5-2/"
+  },
+  {
+   "at": "2026-11-22T19:33:46Z",
+   "kind": "sale",
+   "title": "SEMA-Displayed 2026 Jeep Wrangler 392 &#8220;Commando&#8221; by FOX Factory for the USO",
+   "ref": "https://bringatrailer.com/listing/2026-jeep-wrangler-uso/"
+  },
   {
    "at": "2026-11-22T11:10:57Z",
    "kind": "sale",
@@ -330,66 +390,6 @@
    "kind": "sale",
    "title": "Modified 2002 Porsche 911 Turbo Coupe 6-Speed",
    "ref": "https://bringatrailer.com/listing/2002-porsche-911-turbo-coupe-128/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "Original-Owner 1987 Porsche 911 Turbo Coupe",
-   "ref": "https://bringatrailer.com/listing/1987-porsche-911-turbo-coupe-83/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "Supercharged 2009 Chevrolet Corvette Z06 3LZ",
-   "ref": "https://bringatrailer.com/listing/2009-chevrolet-corvette-z06-58/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "2010 Volkswagen New Beetle Convertible Final Edition",
-   "ref": "https://bringatrailer.com/listing/2010-volkswagen-new-beetle-10/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "Modified Signal Yellow 2018 Porsche 911 GT3",
-   "ref": "https://bringatrailer.com/listing/2018-porsche-911-gt3-193/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "1997 Toyota Land Cruiser FZJ80 Collector’s Edition",
-   "ref": "https://bringatrailer.com/listing/1997-toyota-land-cruiser-fzj80-29-2/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "2023 Cadillac CT5-V Blackwing 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2023-cadillac-ct5-v-blackwing-35/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "1983 Volvo 240 DL Wagon",
-   "ref": "https://bringatrailer.com/listing/1983-volvo-240-23/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "2008 Cadillac Escalade Ultra Luxury AWD",
-   "ref": "https://bringatrailer.com/listing/2008-cadillac-escalade-22/"
-  },
-  {
-   "at": "2026-11-19T02:36:43Z",
-   "kind": "sale",
-   "title": "2013 Volkswagen Beetle 2.5L Convertible",
-   "ref": "https://bringatrailer.com/listing/2013-volkswagen-beetle-2-5l-6/"
-  },
-  {
-   "at": "2026-11-19T02:36:43Z",
-   "kind": "sale",
-   "title": "2023 Volkswagen Golf GTI 40th Anniversary Edition 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2023-volkswagen-golf-gti/"
   }
  ]
 }
