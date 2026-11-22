@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-21T19:11:33Z",
+ "generated_at": "2026-11-22T01:14:59Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-21T02:13:22Z",
+ "last_data_change_at": "2026-11-22T01:14:59Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 36,
-   "checked_at": "2026-11-21T19:11:31Z",
-   "last_ok_at": "2026-11-21T19:11:31Z",
+   "checked_at": "2026-11-22T01:14:56Z",
+   "last_ok_at": "2026-11-22T01:14:56Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,61 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12440,
-   "checked_at": "2026-11-21T19:11:33Z",
-   "last_ok_at": "2026-11-21T19:11:33Z",
+   "checked_at": "2026-11-22T01:14:59Z",
+   "last_ok_at": "2026-11-22T01:14:59Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-22T01:14:59Z",
+   "kind": "sale",
+   "title": "2019 Chevrolet Corvette ZR1 Coupe 3ZR",
+   "ref": "https://bringatrailer.com/listing/2019-chevrolet-corvette-zr1-coupe-219/"
+  },
+  {
+   "at": "2026-11-22T01:14:59Z",
+   "kind": "sale",
+   "title": "Racing Green Metallic 2022 Porsche 911 GT3 Touring 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2022-porsche-911-gt3-touring-172/"
+  },
+  {
+   "at": "2026-11-22T01:14:59Z",
+   "kind": "sale",
+   "title": "Modified 2005 Subaru Impreza WRX STi",
+   "ref": "https://bringatrailer.com/listing/2005-subaru-impreza-wrx-sti-146/"
+  },
+  {
+   "at": "2026-11-22T01:14:59Z",
+   "kind": "sale",
+   "title": "Original-Owner, 29k-Mile 2005 Honda S2000",
+   "ref": "https://bringatrailer.com/listing/2005-honda-s2000-249/"
+  },
+  {
+   "at": "2026-11-22T01:14:59Z",
+   "kind": "sale",
+   "title": "Non-Sunroof, RoW 1989 Porsche 911 Carrera Coupe G50",
+   "ref": "https://bringatrailer.com/listing/1989-porsche-911-carrera-coupe-67/"
+  },
+  {
+   "at": "2026-11-22T01:14:59Z",
+   "kind": "sale",
+   "title": "21-Years-Owned 1995 Porsche 911 Carrera Cabriolet 6-Speed",
+   "ref": "https://bringatrailer.com/listing/1995-porsche-911-carrera-cabriolet-205/"
+  },
+  {
+   "at": "2026-11-22T01:14:59Z",
+   "kind": "sale",
+   "title": "2013 BMW X5 xDrive35d",
+   "ref": "https://bringatrailer.com/listing/2013-bmw-x5-73/"
+  },
+  {
+   "at": "2026-11-22T01:14:59Z",
+   "kind": "sale",
+   "title": "2002 Land Rover Discovery II SD",
+   "ref": "https://bringatrailer.com/listing/2002-land-rover-discovery-ii-53/"
+  },
   {
    "at": "2026-11-21T02:13:22Z",
    "kind": "sale",
@@ -342,54 +390,6 @@
    "kind": "sale",
    "title": "7k-Mile 1977 Chevrolet Corvette",
    "ref": "https://bringatrailer.com/listing/1977-chevrolet-corvette-182/"
-  },
-  {
-   "at": "2026-11-19T02:36:43Z",
-   "kind": "sale",
-   "title": "2023 Chevrolet Corvette Stingray Convertible 3LT Z51 70th Anniversary Edition",
-   "ref": "https://bringatrailer.com/listing/2023-chevrolet-corvette-stingray-convertible-130/"
-  },
-  {
-   "at": "2026-11-19T02:36:43Z",
-   "kind": "sale",
-   "title": "1964 Chevrolet Corvette Coupe 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1964-chevrolet-corvette-395/"
-  },
-  {
-   "at": "2026-11-19T02:36:43Z",
-   "kind": "sale",
-   "title": "Modified 2005 Subaru Impreza WRX STi",
-   "ref": "https://bringatrailer.com/listing/2005-subaru-impreza-wrx-sti-145/"
-  },
-  {
-   "at": "2026-11-19T02:36:43Z",
-   "kind": "sale",
-   "title": "9k-Mile 2014 Chevrolet Corvette Stingray Premiere Edition Convertible 3LT",
-   "ref": "https://bringatrailer.com/listing/2014-chevrolet-corvette-stingray-convertible-66/"
-  },
-  {
-   "at": "2026-11-19T02:36:43Z",
-   "kind": "sale",
-   "title": "2011 Cadillac Escalade Luxury AWD",
-   "ref": "https://bringatrailer.com/listing/2011-cadillac-escalade-13/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "2004 GMC Yukon XL 2500 SLT",
-   "ref": "https://bringatrailer.com/listing/2004-gmc-yukon-xl-23/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "2005 Porsche 911 Turbo S Cabriolet 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2005-porsche-911-turbo-s-cabriolet-65/"
-  },
-  {
-   "at": "2026-11-18T20:30:08Z",
-   "kind": "sale",
-   "title": "2006 Land Rover Range Rover Sport Supercharged",
-   "ref": "https://bringatrailer.com/listing/2006-land-rover-range-rover-sport-35/"
   }
  ]
 }
