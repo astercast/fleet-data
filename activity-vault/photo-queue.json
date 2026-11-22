@@ -1,6 +1,6 @@
 {
  "format": "photo-queue/1",
- "generated_at": "2026-11-21T13:00:07Z",
+ "generated_at": "2026-11-22T12:51:38Z",
  "note": "Owner approval only. Nothing here is published or downloaded into the site by this job.",
  "candidates": [
   {
@@ -1058,6 +1058,116 @@
    "activity_id": "weather-journal",
    "activity_name": "Weather Journal",
    "queued_at": "2026-11-21T13:00:05Z"
+  },
+  {
+   "commons_title": "File:All Durer's self-portraits collage by shakko.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:All_Durer%27s_self-portraits_collage_by_shakko.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/All_Durer%27s_self-portraits_collage_by_shakko.jpg/500px-All_Durer%27s_self-portraits_collage_by_shakko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "shakko",
+   "licence": "CC BY-SA 4.0",
+   "status": "pending",
+   "activity_id": "collage-self-portrait",
+   "activity_name": "Collage Self-Portrait",
+   "queued_at": "2026-11-22T12:51:29Z"
+  },
+  {
+   "commons_title": "File:Collage Self-Portrait with Seascape by I.Aivazovsky.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Collage_Self-Portrait_with_Seascape_by_I.Aivazovsky.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Collage_Self-Portrait_with_Seascape_by_I.Aivazovsky.jpg/500px-Collage_Self-Portrait_with_Seascape_by_I.Aivazovsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ivan_Aivazovsky\" class=\"extiw\" title=\"w:en:Ivan Aivazovsky\"><span title=\"Russian marine painter (1817–1900)\">Ivan Aivazovsky</span></a></bdi>",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "collage-self-portrait",
+   "activity_name": "Collage Self-Portrait",
+   "queued_at": "2026-11-22T12:51:29Z"
+  },
+  {
+   "commons_title": "File:Frances (Appleton) Longfellow to Isaac Appleton Jewett, 5 October 1839 (510872ed-2843-4352-8cd3-449220eb8cad).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Isaac_Appleton_Jewett,_5_October_1839_(510872ed-2843-4352-8cd3-449220eb8cad).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Frances_%28Appleton%29_Longfellow_to_Isaac_Appleton_Jewett%2C_5_October_1839_%28510872ed-2843-4352-8cd3-449220eb8cad%29.jpg/500px-Frances_%28Appleton%29_Longfellow_to_Isaac_Appleton_Jewett%2C_5_October_1839_%28510872ed-2843-4352-8cd3-449220eb8cad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "Fanny (Appleton) Longfellow (1817-1861)",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "thankful-garland",
+   "activity_name": "Thankful Garland",
+   "queued_at": "2026-11-22T12:51:31Z"
+  },
+  {
+   "commons_title": "File:Frances (Appleton) Longfellow to Isaac Appleton Jewett, 5 October 1839 (ad2d6b42-985b-4ea2-9a63-d4b3e71fa98e).jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Isaac_Appleton_Jewett,_5_October_1839_(ad2d6b42-985b-4ea2-9a63-d4b3e71fa98e).jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Frances_%28Appleton%29_Longfellow_to_Isaac_Appleton_Jewett%2C_5_October_1839_%28ad2d6b42-985b-4ea2-9a63-d4b3e71fa98e%29.jpg/500px-Frances_%28Appleton%29_Longfellow_to_Isaac_Appleton_Jewett%2C_5_October_1839_%28ad2d6b42-985b-4ea2-9a63-d4b3e71fa98e%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "Fanny (Appleton) Longfellow (1817-1861)",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "thankful-garland",
+   "activity_name": "Thankful Garland",
+   "queued_at": "2026-11-22T12:51:31Z"
+  },
+  {
+   "commons_title": "File:45-degrees-gives-strongest-brace-glue-weld-etc-to-the-weakest-structure-of a-90-degree-angle-per-cosines.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:45-degrees-gives-strongest-brace-glue-weld-etc-to-the-weakest-structure-of_a-90-degree-angle-per-cosines.png",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/45-degrees-gives-strongest-brace-glue-weld-etc-to-the-weakest-structure-of_a-90-degree-angle-per-cosines.png/500px-45-degrees-gives-strongest-brace-glue-weld-etc-to-the-weakest-structure-of_a-90-degree-angle-per-cosines.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Thetreespyder&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thetreespyder (page does not exist)\">Thetreespyder</a>",
+   "licence": "CC BY-SA 4.0",
+   "status": "pending",
+   "activity_id": "compliment-chain",
+   "activity_name": "Compliment Chain",
+   "queued_at": "2026-11-22T12:51:34Z"
+  },
+  {
+   "commons_title": "File:The young man's companion- or, arithmetick made easy Fleuron T052886-11.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:The_young_man%27s_companion-_or,_arithmetick_made_easy_Fleuron_T052886-11.png",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/The_young_man%27s_companion-_or%2C_arithmetick_made_easy_Fleuron_T052886-11.png/500px-The_young_man%27s_companion-_or%2C_arithmetick_made_easy_Fleuron_T052886-11.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "Mather, W. (William)",
+   "licence": "Public domain",
+   "status": "pending",
+   "activity_id": "compliment-chain",
+   "activity_name": "Compliment Chain",
+   "queued_at": "2026-11-22T12:51:34Z"
+  },
+  {
+   "commons_title": "File:Alakazam (Al Millar) \"The Human Knot\" at the 2018 Waterloo Busker Carnival 09.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Alakazam_(Al_Millar)_%22The_Human_Knot%22_at_the_2018_Waterloo_Busker_Carnival_09.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Alakazam_%28Al_Millar%29_%22The_Human_Knot%22_at_the_2018_Waterloo_Busker_Carnival_09.jpg/500px-Alakazam_%28Al_Millar%29_%22The_Human_Knot%22_at_the_2018_Waterloo_Busker_Carnival_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a href=\"//commons.wikimedia.org/wiki/User:Ryan_Hodnett\" title=\"User:Ryan Hodnett\">Ryan Hodnett</a>",
+   "licence": "CC BY-SA 4.0",
+   "status": "pending",
+   "activity_id": "human-knot",
+   "activity_name": "Human Knot",
+   "queued_at": "2026-11-22T12:51:35Z"
+  },
+  {
+   "commons_title": "File:Alakazam (Al Millar) \"The Human Knot\" at the 2018 Waterloo Busker Carnival 11.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Alakazam_(Al_Millar)_%22The_Human_Knot%22_at_the_2018_Waterloo_Busker_Carnival_11.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alakazam_%28Al_Millar%29_%22The_Human_Knot%22_at_the_2018_Waterloo_Busker_Carnival_11.jpg/500px-Alakazam_%28Al_Millar%29_%22The_Human_Knot%22_at_the_2018_Waterloo_Busker_Carnival_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a href=\"//commons.wikimedia.org/wiki/User:Ryan_Hodnett\" title=\"User:Ryan Hodnett\">Ryan Hodnett</a>",
+   "licence": "CC BY-SA 4.0",
+   "status": "pending",
+   "activity_id": "human-knot",
+   "activity_name": "Human Knot",
+   "queued_at": "2026-11-22T12:51:35Z"
+  },
+  {
+   "commons_title": "File:Bboy Lyricx Dance Freeze style.png",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Bboy_Lyricx_Dance_Freeze_style.png",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Bboy_Lyricx_Dance_Freeze_style.png/500px-Bboy_Lyricx_Dance_Freeze_style.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kwabena_okine&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kwabena okine (page does not exist)\">Kwabena okine</a>",
+   "licence": "CC BY-SA 4.0",
+   "status": "pending",
+   "activity_id": "freeze-dance",
+   "activity_name": "Freeze Dance",
+   "queued_at": "2026-11-22T12:51:37Z"
+  },
+  {
+   "commons_title": "File:Brain freeze-01.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Brain_freeze-01.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Brain_freeze-01.jpg/500px-Brain_freeze-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "author": "Flickr user: Jayel Aheram ( <a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/aheram/\">https://www.flickr.com/photos/aheram/</a> )",
+   "licence": "CC BY 2.0",
+   "status": "pending",
+   "activity_id": "freeze-dance",
+   "activity_name": "Freeze Dance",
+   "queued_at": "2026-11-22T12:51:37Z"
   }
  ]
 }

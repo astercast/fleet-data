@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-21T13:00:07Z",
+ "generated_at": "2026-11-22T12:51:38Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-21T12:59:06Z",
+ "last_data_change_at": "2026-11-22T12:50:40Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 96,
-   "checked_at": "2026-11-21T13:00:07Z",
-   "last_ok_at": "2026-11-21T13:00:07Z",
+   "items": 106,
+   "checked_at": "2026-11-22T12:51:38Z",
+   "last_ok_at": "2026-11-22T12:51:38Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-21T12:59:08Z",
-   "last_ok_at": "2026-11-21T12:59:08Z",
+   "checked_at": "2026-11-22T12:50:40Z",
+   "last_ok_at": "2026-11-22T12:50:40Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-21T12:59:06Z",
-   "last_ok_at": "2026-11-21T12:59:06Z",
+   "checked_at": "2026-11-22T12:50:40Z",
+   "last_ok_at": "2026-11-22T12:50:40Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-21T12:59:07Z",
-   "last_ok_at": "2026-11-21T12:59:07Z",
+   "checked_at": "2026-11-22T12:50:40Z",
+   "last_ok_at": "2026-11-22T12:50:40Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-21T12:59:06Z",
-   "last_ok_at": "2026-11-21T12:59:06Z",
+   "checked_at": "2026-11-22T12:50:40Z",
+   "last_ok_at": "2026-11-22T12:50:40Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-21T12:59:06Z",
-   "last_ok_at": "2026-11-21T12:59:06Z",
+   "checked_at": "2026-11-22T12:50:40Z",
+   "last_ok_at": "2026-11-22T12:50:40Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,67 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-21T12:59:05Z",
-   "last_ok_at": "2026-11-21T12:59:05Z",
+   "checked_at": "2026-11-22T12:50:39Z",
+   "last_ok_at": "2026-11-22T12:50:39Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-22T12:50:40Z",
+   "kind": "post",
+   "title": "Roman Numeral Activities: The Clockmaker’s Mystery",
+   "ref": "https://teachbesideme.com/roman-numeral-activities/"
+  },
+  {
+   "at": "2026-11-22T12:50:40Z",
+   "kind": "post",
+   "title": "Easy Christmas Thaumatrope Craft for Kids",
+   "ref": "https://littlebinsforlittlehands.com/how-to-make-a-thaumatrope/"
+  },
+  {
+   "at": "2026-11-22T12:50:40Z",
+   "kind": "post",
+   "title": "Free Printable Christmas Ornament Templates",
+   "ref": "https://littlebinsforlittlehands.com/christmas-ornament-printable-pack/"
+  },
+  {
+   "at": "2026-11-22T12:50:40Z",
+   "kind": "post",
+   "title": "This Is the 2026 Hallmark Christmas Movie Schedule!",
+   "ref": "https://kidsactivitiesblog.com/152044/this-is-the-2020-hallmark-christmas-movie-schedule/"
+  },
+  {
+   "at": "2026-11-22T12:51:29Z",
+   "kind": "photo-candidate",
+   "title": "Collage Self-Portrait",
+   "ref": "https://commons.wikimedia.org/wiki/File:All_Durer%27s_self-portraits_collage_by_shakko.jpg"
+  },
+  {
+   "at": "2026-11-22T12:51:31Z",
+   "kind": "photo-candidate",
+   "title": "Thankful Garland",
+   "ref": "https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Isaac_Appleton_Jewett,_5_October_1839_(510872ed-2843-4352-8cd3-449220eb8cad).jpg"
+  },
+  {
+   "at": "2026-11-22T12:51:34Z",
+   "kind": "photo-candidate",
+   "title": "Compliment Chain",
+   "ref": "https://commons.wikimedia.org/wiki/File:45-degrees-gives-strongest-brace-glue-weld-etc-to-the-weakest-structure-of_a-90-degree-angle-per-cosines.png"
+  },
+  {
+   "at": "2026-11-22T12:51:35Z",
+   "kind": "photo-candidate",
+   "title": "Human Knot",
+   "ref": "https://commons.wikimedia.org/wiki/File:Alakazam_(Al_Millar)_%22The_Human_Knot%22_at_the_2018_Waterloo_Busker_Carnival_09.jpg"
+  },
+  {
+   "at": "2026-11-22T12:51:37Z",
+   "kind": "photo-candidate",
+   "title": "Freeze Dance",
+   "ref": "https://commons.wikimedia.org/wiki/File:Bboy_Lyricx_Dance_Freeze_style.png"
+  },
   {
    "at": "2026-11-21T12:59:06Z",
    "kind": "post",
@@ -361,72 +415,6 @@
    "kind": "post",
    "title": "Easy-to-Make Stained Glass Christmas Cookies Recipe",
    "ref": "https://kidsactivitiesblog.com/61419/cookies-christmas/"
-  },
-  {
-   "at": "2026-11-13T12:35:50Z",
-   "kind": "post",
-   "title": "Truffula Tree Paper Plate Craft",
-   "ref": "https://kidsactivitiesblog.com/81480/truffula-tree-paper-plate-craft/"
-  },
-  {
-   "at": "2026-11-13T12:35:50Z",
-   "kind": "post",
-   "title": "15+ Gratitude Activities for Kids",
-   "ref": "https://kidsactivitiesblog.com/48222/gratitude/"
-  },
-  {
-   "at": "2026-11-13T12:35:50Z",
-   "kind": "post",
-   "title": "Winter Silhouette Art Project for Kids",
-   "ref": "https://kidsactivitiesblog.com/287688/winter-silhouette-art/"
-  },
-  {
-   "at": "2026-11-13T12:35:50Z",
-   "kind": "post",
-   "title": "Super Easy Thanksgiving Coloring Sheets Even Toddlers Can Color",
-   "ref": "https://kidsactivitiesblog.com/20538/thanksgiving-coloring-page/"
-  },
-  {
-   "at": "2026-11-13T12:35:50Z",
-   "kind": "post",
-   "title": "25+ Fun Thanksgiving Crafts & Activities for 3 Year Olds",
-   "ref": "https://kidsactivitiesblog.com/48178/thanksgiving-activities-3-year-olds/"
-  },
-  {
-   "at": "2026-11-13T12:36:41Z",
-   "kind": "photo-candidate",
-   "title": "One-Room Documentary Crew",
-   "ref": "https://commons.wikimedia.org/wiki/File:The_Bulwark_and_other_ships_at_Queen%27s_Wharf_in_Port_Adelaide,_1878(GN01804).jpg"
-  },
-  {
-   "at": "2026-11-12T13:13:58Z",
-   "kind": "post",
-   "title": "20 Balloon Experiments to Make Your Lessons Really Pop",
-   "ref": "https://www.weareteachers.com/balloon-experiments/?utm_source=rss&utm_medium=rss&utm_campaign=balloon-experiments"
-  },
-  {
-   "at": "2026-11-12T13:13:59Z",
-   "kind": "post",
-   "title": "24 Snowman Crafts Easy for Toddlers & Preschoolers to Make",
-   "ref": "https://handsonaswegrow.com/24-snowman-crafts-kids/"
-  },
-  {
-   "at": "2026-11-12T13:13:59Z",
-   "kind": "post",
-   "title": "Second Grade Sight Word Handwriting Worksheets",
-   "ref": "https://teachbesideme.com/second-grade-sight-word-handwriting-worksheets/"
-  },
-  {
-   "at": "2026-11-12T13:13:59Z",
-   "kind": "post",
-   "title": "Free Printable Place Value Charts for Whole Numbers and Decimals",
-   "ref": "https://teachbesideme.com/free-printable-place-value-charts/"
-  },
-  {
-   "at": "2026-11-12T13:14:00Z",
-   "kind": "post",
-   "title": "Jumping Tinsel Static Electricity Experiment",
-   "ref": "https://littlebinsforlittlehands.com/jumping-tinsel-christmas-static-electricity-science-experiment/"
   }
  ]
 }
