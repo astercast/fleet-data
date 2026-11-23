@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-22T12:50:36Z",
+ "generated_at": "2026-11-23T15:19:41Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-21T12:59:03Z",
+ "last_data_change_at": "2026-11-23T15:19:41Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-22T12:50:33Z",
-   "last_ok_at": "2026-11-22T12:50:33Z",
+   "checked_at": "2026-11-23T15:19:38Z",
+   "last_ok_at": "2026-11-23T15:19:38Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 69,
-   "checked_at": "2026-11-22T12:50:36Z",
-   "last_ok_at": "2026-11-22T12:50:36Z",
+   "items": 72,
+   "checked_at": "2026-11-23T15:19:41Z",
+   "last_ok_at": "2026-11-23T15:19:41Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-22T12:50:36Z",
-   "last_ok_at": "2026-11-22T12:50:36Z",
+   "checked_at": "2026-11-23T15:19:41Z",
+   "last_ok_at": "2026-11-23T15:19:41Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,37 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 65,
-   "checked_at": "2026-11-22T12:50:36Z",
-   "last_ok_at": "2026-11-22T12:50:36Z",
+   "checked_at": "2026-11-23T15:19:41Z",
+   "last_ok_at": "2026-11-23T15:19:41Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-23T15:19:41Z",
+   "kind": "story",
+   "title": "Marvel Legends Cypher review (2026) - Lyles Movie Files",
+   "ref": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FcmZrbTR4WGFSd0dDS0xocnRIay1tUmFuenVBaHRNVnBXdlJhVjFmVzBnU0VFaXNVSTNNdC1yT2VpTlc0SkpDVEpCNEpzam93NUh4VlJaQm9NN3ozR0hNUUtwclBKMEVhaXI5cTZSZ0plbVdFYkxWQ3ZpbFV5Zw?oc=5"
+  },
+  {
+   "at": "2026-11-23T15:19:41Z",
+   "kind": "story",
+   "title": "The X-Men Became Marvel Legends by Borrowing a Winning Formula From DC, Just Not the One You Think - ComicBook.com",
+   "ref": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2dCTXp2Z2dtdmwyM0lKYm11ZnM1eEl2QXdqQXdRMTQ3VnlrRW5YTXE3UjNQWWFnd1BBallGMHFWX0ctd19wblhLUnJNN0tQTExXTW4zcGxKOUE3SGx6eGN2ZTZHVzhhcUNmMW96bkpaY2thMC10b2E1RDk5SWJKcmlzLURXRmcyN3J3M213azk0X0JlR1F2QXlzclVYV3RHN1pvWXZnYVFobmtBaGdOYkdKOHRqLVJzYktGUGpyVFotek00WTduWHZNVlRtc0g0?oc=5"
+  },
+  {
+   "at": "2026-11-23T15:19:41Z",
+   "kind": "story",
+   "title": "Marvel Legends ‘I Love You 3000’ Iron Man Figure Is a…Unique Valentine’s Day Gift - ComicBook.com",
+   "ref": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjRWZkFTSXJ3T0ZLZEl2MldPdmxqeUltaUthNGI0SUhDLVNBVF8wN1NFZzdmTkxxc1dJT0hBZ0ZqcEw1R182dW1NZVJycUxMaUVHTFh3UkotaWg0Z0R1T0g4RmR3ckltWFdPdFlOdFJ5aE4ydXgtdWhOdGE3WXhzQWtrUXdsNWpVWE1HLUlZcGQ?oc=5"
+  },
+  {
+   "at": "2026-11-23T15:19:41Z",
+   "kind": "story",
+   "title": "Hasbro Reveals Marvel Legends Ghost Rider (Sgt. Sal Romero) & Motorcycle Set - SSBCrack",
+   "ref": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU3prczRFZ1dsN0xxYU5Vd3AyWDNKY0w0NmtVOXNqaWlXLVdpcWFBYnY5MTdBZGtHQzdVVTR6MHRabmJUcUZFY3ZvVFNOMzU3aWdxU1QzR2NON1lmbE1RYUtHSk5DUEt3NGlWcHpnbktGenl4dUVDalFzVVZVRm9iZGY1Y1VhX0Y5S1VFYXk0ZmFiRVVPWHFCZkpudS0wY28?oc=5"
+  },
   {
    "at": "2026-11-21T12:59:03Z",
    "kind": "catalog",
@@ -388,30 +412,6 @@
    "kind": "catalog",
    "title": "ToyArena: Marvel Legends Secret War Retro Doctor Doom Action Figure",
    "ref": "https://toyarena.com/products/marvel-legends-secret-war-retro-doctor-doom-action-figure"
-  },
-  {
-   "at": "2026-11-08T11:30:06Z",
-   "kind": "story",
-   "title": "Shop Marvel Must Haves: Prepare for ‘Avengers: Doomsday’ with Official Doctor Doom Toys and Merch - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN21jZ3U1NlpMUTliWWFrdnp3VWRmZEhIOWxkNVZLVV9xS3JSRmxIRlljSmpzTlBObFo2bEpnemNVVlY3LU1za1RtMzlwQS1iS2h6RUg2M0hnNFYyQ1hDXy1PVENyaVBpQ195TFNQQ3BlQXVpNTBhVmNPTEZLamxmT3Q2WUFvb29KSlNrLTBnb2x4MUg4NXRFbmlQaS1oS1ZhYkRxblhxQjNMTFdkaWc?oc=5"
-  },
-  {
-   "at": "2026-11-08T11:30:06Z",
-   "kind": "story",
-   "title": "Marvel Legends Ghost Rider Figure Down to $43 at Walmart - The Inventory",
-   "ref": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWE55eWJnT2ppZUo5Vll4N0loSGw4MWY5T1JrbmNoRWowOVViQTRubHBXTFJxaW1pTEo1RlQ5QUt4c2lsaDZwREtFakpKLXhEamhxMUw1VUpaenItOXJEaWhZYzBUT01EZktJRFREaE5NazVwQ1JGNTBLalFidjJWV1RGZnQ4QzFYdHhSZS1hc3BxVktKSGZKcVROQlJYVHBlVGNnNUdaQU1tUkFMejJGUUhBaVM?oc=5"
-  },
-  {
-   "at": "2026-11-08T11:30:06Z",
-   "kind": "story",
-   "title": "Marvel Legends Power Princess (Void BAF) $33 at Walmart - The Inventory",
-   "ref": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFJiMjZpdzlZRHZPd0hLRUczb1RldXlISzQ5cXVQS09zcHBtSnVDajRETVRwVzEyQmN2SEhGQUNFLUNNSm1rSkFEdnMzTERPNmdRRHZfdXVxOHhXQzlRVmtqN0FRTW5JV05XUmF1VTlIU2dkTDNjTC1KOUMxTVY4LWtHdTRhc1B5eEYtMXp1TVNHMWNBRWtCY2NmY2NBSGhCZ0xPbGdvV3ozQQ?oc=5"
-  },
-  {
-   "at": "2026-11-07T11:18:49Z",
-   "kind": "catalog",
-   "title": "CMDStore: Marvel Legends Retro 6 Inch Action Figure Fantastic Four - Dr. Doom (Sub-Standard Packaging)",
-   "ref": "https://cmdstore.com/products/marvel-legends-retro-fantastic-four-dr-doom-5010993753307dmg"
   }
  ]
 }

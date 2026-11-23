@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-22T12:51:38Z",
+ "generated_at": "2026-11-23T15:20:51Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-22T12:50:40Z",
+ "last_data_change_at": "2026-11-23T15:19:44Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 106,
-   "checked_at": "2026-11-22T12:51:38Z",
-   "last_ok_at": "2026-11-22T12:51:38Z",
+   "items": 125,
+   "checked_at": "2026-11-23T15:20:51Z",
+   "last_ok_at": "2026-11-23T15:20:51Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-22T12:50:40Z",
-   "last_ok_at": "2026-11-22T12:50:40Z",
+   "checked_at": "2026-11-23T15:19:46Z",
+   "last_ok_at": "2026-11-23T15:19:46Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-22T12:50:40Z",
-   "last_ok_at": "2026-11-22T12:50:40Z",
+   "checked_at": "2026-11-23T15:19:44Z",
+   "last_ok_at": "2026-11-23T15:19:44Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-22T12:50:40Z",
-   "last_ok_at": "2026-11-22T12:50:40Z",
+   "checked_at": "2026-11-23T15:19:46Z",
+   "last_ok_at": "2026-11-23T15:19:46Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-22T12:50:40Z",
-   "last_ok_at": "2026-11-22T12:50:40Z",
+   "checked_at": "2026-11-23T15:19:44Z",
+   "last_ok_at": "2026-11-23T15:19:44Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-22T12:50:40Z",
-   "last_ok_at": "2026-11-22T12:50:40Z",
+   "checked_at": "2026-11-23T15:19:44Z",
+   "last_ok_at": "2026-11-23T15:19:44Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,97 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-22T12:50:39Z",
-   "last_ok_at": "2026-11-22T12:50:39Z",
+   "checked_at": "2026-11-23T15:19:43Z",
+   "last_ok_at": "2026-11-23T15:19:43Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-23T15:19:44Z",
+   "kind": "post",
+   "title": "Make a Toddler Color Chart with Colorful Fall Leaves",
+   "ref": "https://handsonaswegrow.com/toddler-color-chart-fall-leaves/"
+  },
+  {
+   "at": "2026-11-23T15:19:44Z",
+   "kind": "post",
+   "title": "Free Christmas Around the World Coloring Pages",
+   "ref": "https://littlebinsforlittlehands.com/christmas-around-the-world-coloring-pages/"
+  },
+  {
+   "at": "2026-11-23T15:19:44Z",
+   "kind": "post",
+   "title": "Christmas Around the World Activities For Kids",
+   "ref": "https://littlebinsforlittlehands.com/christmas-traditions-around-the-world/"
+  },
+  {
+   "at": "2026-11-23T15:19:44Z",
+   "kind": "post",
+   "title": "Holidays Around the World for Kids",
+   "ref": "https://littlebinsforlittlehands.com/holidays-around-the-world-for-kids/"
+  },
+  {
+   "at": "2026-11-23T15:20:33Z",
+   "kind": "photo-candidate",
+   "title": "Nature Scavenger Hunt",
+   "ref": "https://commons.wikimedia.org/wiki/File:Bags.png"
+  },
+  {
+   "at": "2026-11-23T15:20:34Z",
+   "kind": "photo-candidate",
+   "title": "I Spy Walk",
+   "ref": "https://commons.wikimedia.org/wiki/File:Spier%27s_Spring_Walk.JPG"
+  },
+  {
+   "at": "2026-11-23T15:20:36Z",
+   "kind": "photo-candidate",
+   "title": "Chalk Maze",
+   "ref": "https://commons.wikimedia.org/wiki/File:Amaze_X_Storm_Drain_(16033466906).jpg"
+  },
+  {
+   "at": "2026-11-23T15:20:37Z",
+   "kind": "photo-candidate",
+   "title": "Two Truths and a Lie",
+   "ref": "https://commons.wikimedia.org/wiki/File:A_cure_for_lying_and_a_bad_memory_-_DPLA_-_4b3594d4b6312e43636e7fb1df62576f.jpg"
+  },
+  {
+   "at": "2026-11-23T15:20:39Z",
+   "kind": "photo-candidate",
+   "title": "Telephone",
+   "ref": "https://commons.wikimedia.org/wiki/File:Northern_Electric_N415H_02.jpg"
+  },
+  {
+   "at": "2026-11-23T15:20:41Z",
+   "kind": "photo-candidate",
+   "title": "Name Chain",
+   "ref": "https://commons.wikimedia.org/wiki/File:A_Southern_chain_gang_c1903-restore.jpg"
+  },
+  {
+   "at": "2026-11-23T15:20:43Z",
+   "kind": "photo-candidate",
+   "title": "Would You Rather",
+   "ref": "https://commons.wikimedia.org/wiki/File:%22Would_YOU_Rather_Have_a_VOTE_Than_a_HUSBAND%3F%22_Chicago_Tribune,_Jun_11,_1919.jpg"
+  },
+  {
+   "at": "2026-11-23T15:20:45Z",
+   "kind": "photo-candidate",
+   "title": "20 Questions",
+   "ref": "https://commons.wikimedia.org/wiki/File:17-01-08_20_Questions_02.jpg"
+  },
+  {
+   "at": "2026-11-23T15:20:48Z",
+   "kind": "photo-candidate",
+   "title": "Mad Libs Live",
+   "ref": "https://commons.wikimedia.org/wiki/File:StateLibQld_1_43907_Mads_B._Holts_Danish_immigrant.jpg"
+  },
+  {
+   "at": "2026-11-23T15:20:50Z",
+   "kind": "photo-candidate",
+   "title": "Calm Breathing Shapes",
+   "ref": "https://commons.wikimedia.org/wiki/File:Bucephalus_eating_Grass_from_Cosmographia_(1544)_by_Sebastian_M%C3%BCnster_.jpg"
+  },
   {
    "at": "2026-11-22T12:50:40Z",
    "kind": "post",
@@ -307,114 +391,6 @@
    "kind": "post",
    "title": "A Christmas Carol Activities: An Interactive Literary Investigation",
    "ref": "https://teachbesideme.com/a-christmas-carol-activities-an-interactive-literary-investigation/"
-  },
-  {
-   "at": "2026-11-16T13:07:50Z",
-   "kind": "post",
-   "title": "6 Different Activities for 6 Lines of Tape",
-   "ref": "https://handsonaswegrow.com/5-different-activities-for-6-lines-of-tape/"
-  },
-  {
-   "at": "2026-11-16T13:08:42Z",
-   "kind": "photo-candidate",
-   "title": "First Rounds: Singing in Canon",
-   "ref": "https://commons.wikimedia.org/wiki/File:Dedication_of_a_Church_in_the_New_York_Times_on_August_20,_1877.png"
-  },
-  {
-   "at": "2026-11-15T12:15:20Z",
-   "kind": "photo-candidate",
-   "title": "Microclimate Map Survey",
-   "ref": "https://commons.wikimedia.org/wiki/File:Complete_map_of_1,000%2B_cave-entrances_on_Mars.png"
-  },
-  {
-   "at": "2026-11-15T12:15:23Z",
-   "kind": "photo-candidate",
-   "title": "Personal Map Introductions",
-   "ref": "https://commons.wikimedia.org/wiki/File:Coesfeld,_Lette,_Windm%C3%BChle_--_2015_--_5768.jpg"
-  },
-  {
-   "at": "2026-11-14T11:43:58Z",
-   "kind": "post",
-   "title": "Operation Classroom Reset: Free Printable Student Cleanup Activity",
-   "ref": "https://www.weareteachers.com/classroom-clean-up-activity/?utm_source=rss&utm_medium=rss&utm_campaign=classroom-clean-up-activity"
-  },
-  {
-   "at": "2026-11-14T11:43:59Z",
-   "kind": "post",
-   "title": "Kandinsky Christmas Tree Cutout",
-   "ref": "https://littlebinsforlittlehands.com/christmas-tree-cutout/"
-  },
-  {
-   "at": "2026-11-14T11:43:59Z",
-   "kind": "post",
-   "title": "Milk and Vinegar Christmas Ornaments",
-   "ref": "https://littlebinsforlittlehands.com/milk-and-vinegar-christmas-ornaments/"
-  },
-  {
-   "at": "2026-11-14T11:44:49Z",
-   "kind": "photo-candidate",
-   "title": "Spectrum Line Introductions",
-   "ref": "https://commons.wikimedia.org/wiki/File:Captain_H.C._Gray_Balloon_Basket_-_DPLA_-_bab59faf69932dc71a2a98720256a9ed_(page_1).jpg"
-  },
-  {
-   "at": "2026-11-14T11:44:51Z",
-   "kind": "photo-candidate",
-   "title": "Growing Degree-Day Ledger",
-   "ref": "https://commons.wikimedia.org/wiki/File:St_Andrew%27s_church_-_C17_ledger_slab_-_geograph.org.uk_-_828771.jpg"
-  },
-  {
-   "at": "2026-11-13T12:35:49Z",
-   "kind": "post",
-   "title": "Fibonacci Day Activities for Kids (Free Printables)",
-   "ref": "https://littlebinsforlittlehands.com/fibonacci-sequence-for-kids/"
-  },
-  {
-   "at": "2026-11-13T12:35:49Z",
-   "kind": "post",
-   "title": "Fibonacci Sequence Worksheets for Kids (Free Printable)",
-   "ref": "https://littlebinsforlittlehands.com/fibonacci-sequence-worksheets/"
-  },
-  {
-   "at": "2026-11-13T12:35:49Z",
-   "kind": "post",
-   "title": "Matisse Christmas Tree Art (Free Printable)",
-   "ref": "https://littlebinsforlittlehands.com/henri-matisse-collage/"
-  },
-  {
-   "at": "2026-11-13T12:35:49Z",
-   "kind": "post",
-   "title": "Dancing Cranberry Experiment",
-   "ref": "https://littlebinsforlittlehands.com/dancing-cranberry-experiment/"
-  },
-  {
-   "at": "2026-11-13T12:35:49Z",
-   "kind": "post",
-   "title": "Printable Gratitude Ornaments for Kids",
-   "ref": "https://littlebinsforlittlehands.com/printable-gratitude-ornaments-kids/"
-  },
-  {
-   "at": "2026-11-13T12:35:49Z",
-   "kind": "post",
-   "title": "15 Christmas Tree Crafts",
-   "ref": "https://littlebinsforlittlehands.com/christmas-tree-crafts/"
-  },
-  {
-   "at": "2026-11-13T12:35:49Z",
-   "kind": "post",
-   "title": "Christmas Tree Outlines for Crafts",
-   "ref": "https://littlebinsforlittlehands.com/christmas-tree-outline/"
-  },
-  {
-   "at": "2026-11-13T12:35:50Z",
-   "kind": "post",
-   "title": "Best Thanksgiving Doodles Coloring Pages (Free Printable!)",
-   "ref": "https://kidsactivitiesblog.com/157196/thanksgiving-doodles/"
-  },
-  {
-   "at": "2026-11-13T12:35:50Z",
-   "kind": "post",
-   "title": "Easy-to-Make Stained Glass Christmas Cookies Recipe",
-   "ref": "https://kidsactivitiesblog.com/61419/cookies-christmas/"
   }
  ]
 }
