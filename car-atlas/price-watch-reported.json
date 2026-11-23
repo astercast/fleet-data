@@ -1,6 +1,6 @@
 {
  "format": "price-watch-reported/1",
- "generated_at": "2026-11-22T19:33:46Z",
+ "generated_at": "2026-11-23T01:39:44Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -164,6 +164,22 @@
    "model": "wrangler",
    "makeName": "Jeep",
    "modelName": "Wrangler",
+   "classification": "certified",
+   "vpicMakeKnown": true
+  },
+  {
+   "title": "1970 Ford Mustang SportsRoof M-Code 351 4-Speed",
+   "url": "https://bringatrailer.com/listing/1970-ford-mustang-201/",
+   "price": 46000,
+   "currency": "USD",
+   "ended": "2026-11-22",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "ford",
+   "model": "mustang",
+   "makeName": "Ford",
+   "modelName": "Mustang",
    "classification": "certified",
    "vpicMakeKnown": true
   },

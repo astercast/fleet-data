@@ -1,10 +1,10 @@
 {
- "at": "2026-11-22T19:33:46Z",
+ "at": "2026-11-23T01:39:44Z",
  "runs": [
   {
    "collector": "scripts/heartbeat/atlas.py",
    "ok": true,
-   "seconds": 11.3,
+   "seconds": 6.4,
    "error": null
   }
  ]

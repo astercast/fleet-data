@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-22T19:33:46Z",
+ "generated_at": "2026-11-23T01:39:44Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-22T19:33:46Z",
+ "last_data_change_at": "2026-11-23T01:39:44Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 70,
-   "checked_at": "2026-11-22T19:33:44Z",
-   "last_ok_at": "2026-11-22T19:33:44Z",
+   "checked_at": "2026-11-23T01:39:42Z",
+   "last_ok_at": "2026-11-23T01:39:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,19 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12440,
-   "checked_at": "2026-11-22T19:33:46Z",
-   "last_ok_at": "2026-11-22T19:33:46Z",
+   "checked_at": "2026-11-23T01:39:44Z",
+   "last_ok_at": "2026-11-23T01:39:44Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-23T01:39:44Z",
+   "kind": "sale",
+   "title": "1970 Ford Mustang SportsRoof M-Code 351 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1970-ford-mustang-201/"
+  },
   {
    "at": "2026-11-22T19:33:46Z",
    "kind": "sale",
@@ -384,12 +390,6 @@
    "kind": "sale",
    "title": "One-Owner 1967 Ford Mustang Sports Sprint Coupe 289",
    "ref": "https://bringatrailer.com/listing/1967-ford-mustang-539/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "Modified 2002 Porsche 911 Turbo Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2002-porsche-911-turbo-coupe-128/"
   }
  ]
 }
