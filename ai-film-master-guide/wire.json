@@ -1,7 +1,77 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-23T01:37:09Z",
+ "generated_at": "2026-11-23T12:17:25Z",
  "items": [
+  {
+   "id": "hf-htdong/Loopy",
+   "at": "2026-11-23T12:15:45Z",
+   "model": "htdong/Loopy",
+   "title": "New text-to-video model listed on Hugging Face: htdong/Loopy",
+   "url": "https://huggingface.co/htdong/Loopy",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-htdong/Wan-Alpha-v2.0",
+   "at": "2026-11-23T12:11:33Z",
+   "model": "htdong/Wan-Alpha-v2.0",
+   "title": "New text-to-video model listed on Hugging Face: htdong/Wan-Alpha-v2.0",
+   "url": "https://huggingface.co/htdong/Wan-Alpha-v2.0",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-htdong/Wan-Alpha",
+   "at": "2026-11-23T12:09:41Z",
+   "model": "htdong/Wan-Alpha",
+   "title": "New text-to-video model listed on Hugging Face: htdong/Wan-Alpha",
+   "url": "https://huggingface.co/htdong/Wan-Alpha",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-khaledmkh/0.0.0.0",
+   "at": "2026-11-23T07:36:33Z",
+   "model": "khaledmkh/0.0.0.0",
+   "title": "New text-to-video model listed on Hugging Face: khaledmkh/0.0.0.0",
+   "url": "https://huggingface.co/khaledmkh/0.0.0.0",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-intel-ai/MiniMax-H3-MXFP-Comfy",
+   "at": "2026-11-23T04:57:53Z",
+   "model": "intel-ai/MiniMax-H3-MXFP-Comfy",
+   "title": "New text-to-video model listed on Hugging Face: intel-ai/MiniMax-H3-MXFP-Comfy",
+   "url": "https://huggingface.co/intel-ai/MiniMax-H3-MXFP-Comfy",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Hjxjxj/text-to-video-ms-1.7b",
+   "at": "2026-11-23T02:49:41Z",
+   "model": "Hjxjxj/text-to-video-ms-1.7b",
+   "title": "New text-to-video model listed on Hugging Face: Hjxjxj/text-to-video-ms-1.7b",
+   "url": "https://huggingface.co/Hjxjxj/text-to-video-ms-1.7b",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN",
+   "at": "2026-11-23T02:27:26Z",
+   "model": "timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN",
+   "title": "New text-to-video model listed on Hugging Face: timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN",
+   "url": "https://huggingface.co/timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-23",
    "at": "2026-11-23T01:36:08+00:00",
@@ -1428,76 +1498,6 @@
    "model": "sanloxai/wan2.1-t2v-1.3b-crush-lora",
    "title": "New text-to-video model listed on Hugging Face: sanloxai/wan2.1-t2v-1.3b-crush-lora",
    "url": "https://huggingface.co/sanloxai/wan2.1-t2v-1.3b-crush-lora",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-RunningHubAI/rh-fluxv1-fluxv1-unet",
-   "at": "2026-11-20T18:52:14Z",
-   "model": "RunningHubAI/rh-fluxv1-fluxv1-unet",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-fluxv1-fluxv1-unet",
-   "url": "https://huggingface.co/RunningHubAI/rh-fluxv1-fluxv1-unet",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-RunningHubAI/rh-ltx2.3-lora",
-   "at": "2026-11-20T16:23:03Z",
-   "model": "RunningHubAI/rh-ltx2.3-lora",
-   "title": "New text-to-video model listed on Hugging Face: RunningHubAI/rh-ltx2.3-lora",
-   "url": "https://huggingface.co/RunningHubAI/rh-ltx2.3-lora",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Wososo/LongCat-Video",
-   "at": "2026-11-20T15:54:08Z",
-   "model": "Wososo/LongCat-Video",
-   "title": "New text-to-video model listed on Hugging Face: Wososo/LongCat-Video",
-   "url": "https://huggingface.co/Wososo/LongCat-Video",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1",
-   "at": "2026-11-20T11:45:09Z",
-   "model": "H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1",
-   "url": "https://huggingface.co/H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-H3-Tiny/H3-Tiny-17B-FewStep-Ref2VA-v0.1",
-   "at": "2026-11-20T11:45:08Z",
-   "model": "H3-Tiny/H3-Tiny-17B-FewStep-Ref2VA-v0.1",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-17B-FewStep-Ref2VA-v0.1",
-   "url": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-FewStep-Ref2VA-v0.1",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-H3-Tiny/H3-Tiny-17B-Pruned-Ref2VA",
-   "at": "2026-11-20T11:45:07Z",
-   "model": "H3-Tiny/H3-Tiny-17B-Pruned-Ref2VA",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/H3-Tiny-17B-Pruned-Ref2VA",
-   "url": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-Pruned-Ref2VA",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Agnes-AI/Agnes-Video-H3-MoE",
-   "at": "2026-11-20T09:23:31Z",
-   "model": "Agnes-AI/Agnes-Video-H3-MoE",
-   "title": "New text-to-video model listed on Hugging Face: Agnes-AI/Agnes-Video-H3-MoE",
-   "url": "https://huggingface.co/Agnes-AI/Agnes-Video-H3-MoE",
    "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"

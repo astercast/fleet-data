@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-23T01:37:09Z",
+ "generated_at": "2026-11-23T12:17:25Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 4,
  "sources_total": 5,
- "last_data_change_at": "2026-11-23T01:37:09Z",
+ "last_data_change_at": "2026-11-23T12:17:25Z",
  "sources": [
   {
    "id": "arxiv",
@@ -13,10 +13,10 @@
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": false,
    "items": 211,
-   "checked_at": "2026-11-23T01:37:07Z",
+   "checked_at": "2026-11-23T12:17:20Z",
    "last_ok_at": "2026-11-22T19:31:21Z",
-   "error": "http 429",
-   "fails_in_a_row": 1
+   "error": "TimeoutError",
+   "fails_in_a_row": 2
   },
   {
    "id": "github",
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-23T01:37:09Z",
-   "last_ok_at": "2026-11-23T01:37:09Z",
+   "checked_at": "2026-11-23T12:17:25Z",
+   "last_ok_at": "2026-11-23T12:17:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-23T01:36:11Z",
-   "last_ok_at": "2026-11-23T01:36:11Z",
+   "checked_at": "2026-11-23T12:16:33Z",
+   "last_ok_at": "2026-11-23T12:16:33Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-23T01:37:07Z",
-   "last_ok_at": "2026-11-23T01:37:07Z",
+   "checked_at": "2026-11-23T12:17:22Z",
+   "last_ok_at": "2026-11-23T12:17:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,55 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-23T01:36:11Z",
-   "last_ok_at": "2026-11-23T01:36:11Z",
+   "checked_at": "2026-11-23T12:16:33Z",
+   "last_ok_at": "2026-11-23T12:16:33Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-23T12:17:25Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: htdong/Loopy",
+   "ref": "https://huggingface.co/htdong/Loopy"
+  },
+  {
+   "at": "2026-11-23T12:17:25Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: htdong/Wan-Alpha-v2.0",
+   "ref": "https://huggingface.co/htdong/Wan-Alpha-v2.0"
+  },
+  {
+   "at": "2026-11-23T12:17:25Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: htdong/Wan-Alpha",
+   "ref": "https://huggingface.co/htdong/Wan-Alpha"
+  },
+  {
+   "at": "2026-11-23T12:17:25Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: khaledmkh/0.0.0.0",
+   "ref": "https://huggingface.co/khaledmkh/0.0.0.0"
+  },
+  {
+   "at": "2026-11-23T12:17:25Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: intel-ai/MiniMax-H3-MXFP-Comfy",
+   "ref": "https://huggingface.co/intel-ai/MiniMax-H3-MXFP-Comfy"
+  },
+  {
+   "at": "2026-11-23T12:17:25Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Hjxjxj/text-to-video-ms-1.7b",
+   "ref": "https://huggingface.co/Hjxjxj/text-to-video-ms-1.7b"
+  },
+  {
+   "at": "2026-11-23T12:17:25Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN",
+   "ref": "https://huggingface.co/timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN"
+  },
   {
    "at": "2026-11-23T01:37:09Z",
    "kind": "price-signal",
@@ -381,48 +423,6 @@
    "kind": "new-model",
    "title": "New text-to-video model listed on Hugging Face: cgg507/MiniMax-H3-FP8-TP4",
    "ref": "https://huggingface.co/cgg507/MiniMax-H3-FP8-TP4"
-  },
-  {
-   "at": "2026-11-22T11:08:19Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/MiniMax-H3-Tiny-ComfyUI",
-   "ref": "https://huggingface.co/H3-Tiny/MiniMax-H3-Tiny-ComfyUI"
-  },
-  {
-   "at": "2026-11-22T11:08:19Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/MiniMax-H3-Tiny-14B-OKD-Ref2VA-v0.1",
-   "ref": "https://huggingface.co/H3-Tiny/MiniMax-H3-Tiny-14B-OKD-Ref2VA-v0.1"
-  },
-  {
-   "at": "2026-11-22T11:08:19Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/MiniMax-H3-Tiny-17B-FewStep-Ref2VA-v0.1",
-   "ref": "https://huggingface.co/H3-Tiny/MiniMax-H3-Tiny-17B-FewStep-Ref2VA-v0.1"
-  },
-  {
-   "at": "2026-11-22T11:08:19Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: H3-Tiny/MiniMax-H3-Tiny-17B-Pruned-Ref2VA",
-   "ref": "https://huggingface.co/H3-Tiny/MiniMax-H3-Tiny-17B-Pruned-Ref2VA"
-  },
-  {
-   "at": "2026-11-22T11:08:19Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: SyntheticMDProductions/ADAM-Video-LoRAs-Wan2.1-T2V-1.3B",
-   "ref": "https://huggingface.co/SyntheticMDProductions/ADAM-Video-LoRAs-Wan2.1-T2V-1.3B"
-  },
-  {
-   "at": "2026-11-22T11:08:19Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: SyntheticMDProductions/ADAM-Video-LoRAs-LTX-Video-2B-0.9.6-Dev",
-   "ref": "https://huggingface.co/SyntheticMDProductions/ADAM-Video-LoRAs-LTX-Video-2B-0.9.6-Dev"
-  },
-  {
-   "at": "2026-11-22T11:08:19Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: finaltv971/fastframes-l-mlx",
-   "ref": "https://huggingface.co/finaltv971/fastframes-l-mlx"
   }
  ]
 }
