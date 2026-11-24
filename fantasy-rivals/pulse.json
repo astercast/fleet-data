@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-23T12:19:54Z",
+ "generated_at": "2026-11-24T02:14:30Z",
  "stale_after_h": 30,
  "healthy": true,
  "sources_ok": 1,
  "sources_total": 1,
- "last_data_change_at": "2026-11-23T01:39:44Z",
+ "last_data_change_at": "2026-11-24T02:14:30Z",
  "sources": [
   {
    "id": "liquipedia",
@@ -13,18 +13,36 @@
    "url": "https://liquipedia.net/marvelrivals/",
    "ok": true,
    "items": 6,
-   "checked_at": "2026-11-23T12:19:54Z",
-   "last_ok_at": "2026-11-23T12:19:54Z",
+   "checked_at": "2026-11-24T02:14:30Z",
+   "last_ok_at": "2026-11-24T02:14:30Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
-   "at": "2026-11-23T01:39:44Z",
+   "at": "2026-11-24T02:14:30Z",
    "kind": "source",
    "title": "Source page edited: MR Ignite/2026/Grand Finals (check results)",
    "ref": "MR Ignite/2026/Grand Finals"
+  },
+  {
+   "at": "2026-11-24T02:14:30Z",
+   "kind": "source",
+   "title": "Source page edited: MR Ignite/2026/Stage 2/Americas (check results)",
+   "ref": "MR Ignite/2026/Stage 2/Americas"
+  },
+  {
+   "at": "2026-11-24T02:14:30Z",
+   "kind": "source",
+   "title": "Source page edited: MR Ignite/2026/Stage 2/EMEA (check results)",
+   "ref": "MR Ignite/2026/Stage 2/EMEA"
+  },
+  {
+   "at": "2026-11-24T02:14:30Z",
+   "kind": "state",
+   "title": "Season status changed for 2026-11-24",
+   "ref": null
   },
   {
    "at": "2026-11-23T01:39:44Z",
@@ -211,18 +229,6 @@
    "kind": "state",
    "title": "Season status changed for 2026-10-26",
    "ref": null
-  },
-  {
-   "at": "2026-10-25T06:49:51Z",
-   "kind": "source",
-   "title": "Source page edited: MR Ignite/2026/Stage 2/Americas (check results)",
-   "ref": "MR Ignite/2026/Stage 2/Americas"
-  },
-  {
-   "at": "2026-10-25T06:49:51Z",
-   "kind": "source",
-   "title": "Source page edited: MR Ignite/2026/Stage 2/EMEA (check results)",
-   "ref": "MR Ignite/2026/Stage 2/EMEA"
   },
   {
    "at": "2026-10-25T06:49:51Z",

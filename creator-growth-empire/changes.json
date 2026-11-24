@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "tt-whatnot-and-meta-are-taking-aim-at-tiktok-shop-s-2e5b02",
+   "platform": "tiktok",
+   "title": "Whatnot and Meta are taking aim at TikTok Shop’s Black Friday crown",
+   "summary": "Black Friday is almost here, and platforms are eager to claim their share of the shopping frenzy—and hopefully replicate the success TikTok Shop has seen over the last two years. In 2024, creators hosted over 30,000 live shopping streams on TikTok Shop—and some walked away with millions in sales. Stormi Steele, founder/CEO of hair/skincare brand […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-11-24T02:11:48Z",
+   "announced_at": "2026-11-24T01:04:27Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/23/whatnot-and-meta-are-taking-aim-at-tiktok-shops-black-friday-crown/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/23/whatnot-and-meta-are-taking-aim-at-tiktok-shops-black-friday-crown/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "fb-meta-launches-shopping-platform-in-brazil-94916e",
    "platform": "facebook",
    "title": "Meta launches shopping platform in Brazil",
@@ -2008,25 +2027,6 @@
     "c-read-rules",
     "c-drill-firstdeal"
    ]
-  },
-  {
-   "category": "monetization",
-   "confidence": "single-source",
-   "detected_at": "2026-08-24T00:00:00Z",
-   "id": "yt-view-counting-2026",
-   "platform": "youtube",
-   "sources": [
-    {
-     "name": "Gyre, YouTube updates summer 2026",
-     "url": "https://gyre.pro/blog/youtube-updates-key-summer-changes-for-creators"
-    }
-   ],
-   "summary": "Public view counts now tick the moment playback starts across long-form, Shorts, and live, counts went up. Earnings and eligibility did not move with them: Partner revenue still runs on engaged views and engaged watch hours, and eligibility on qualified views/watch hours.",
-   "title": "View counts start at playback start (Aug 24, 2026); Partner earnings math unchanged",
-   "affects": [
-    "g-drill-metrics",
-    "p-read-phase2"
-   ]
   }
  ],
  "confidence_legend": {
@@ -2034,8 +2034,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-20T20:02:04Z",
+ "generated_at": "2026-11-24T02:11:48Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-20",
+ "updated": "2026-11-24",
  "version": "1.7.0"
 }

@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-23T12:19:54Z",
+ "generated_at": "2026-11-24T02:14:29Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-23T01:39:44Z",
+ "last_data_change_at": "2026-11-24T02:14:29Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 36,
-   "checked_at": "2026-11-23T12:19:52Z",
-   "last_ok_at": "2026-11-23T12:19:52Z",
+   "checked_at": "2026-11-24T02:14:27Z",
+   "last_ok_at": "2026-11-24T02:14:27Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,14 +23,56 @@
    "label": "NHTSA vPIC make names",
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
-   "items": 12440,
-   "checked_at": "2026-11-23T12:19:54Z",
-   "last_ok_at": "2026-11-23T12:19:54Z",
+   "items": 12441,
+   "checked_at": "2026-11-24T02:14:29Z",
+   "last_ok_at": "2026-11-24T02:14:29Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-24T02:14:29Z",
+   "kind": "sale",
+   "title": "One-Owner, 208-Mile 2006 Pontiac GTO 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2006-pontiac-gto-126/"
+  },
+  {
+   "at": "2026-11-24T02:14:29Z",
+   "kind": "sale",
+   "title": "1963 Chevrolet Corvette Convertible",
+   "ref": "https://bringatrailer.com/listing/1963-chevrolet-corvette-convertible-229/"
+  },
+  {
+   "at": "2026-11-24T02:14:29Z",
+   "kind": "sale",
+   "title": "34k-Mile 2001 Chevrolet Corvette Z06",
+   "ref": "https://bringatrailer.com/listing/2001-chevrolet-corvette-z06-100/"
+  },
+  {
+   "at": "2026-11-24T02:14:29Z",
+   "kind": "sale",
+   "title": "2009 Porsche Cayenne GTS 6-Speed",
+   "ref": "https://bringatrailer.com/listing/2009-porsche-cayenne-gts-146/"
+  },
+  {
+   "at": "2026-11-24T02:14:29Z",
+   "kind": "sale",
+   "title": "47k-Mile 1983 Chevrolet Camaro Z28 L69 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1983-chevrolet-camaro-z28-11/"
+  },
+  {
+   "at": "2026-11-24T02:14:29Z",
+   "kind": "sale",
+   "title": "44k-Mile 1999 Chevrolet Corvette Fixed Roof Coupe 6-Speed",
+   "ref": "https://bringatrailer.com/listing/1999-chevrolet-corvette-coupe-81/"
+  },
+  {
+   "at": "2026-11-24T02:14:29Z",
+   "kind": "sale",
+   "title": "1988 Toyota Supra 5-Speed Ute Conversion",
+   "ref": "https://bringatrailer.com/listing/1988-toyota-supra-51/"
+  },
   {
    "at": "2026-11-23T01:39:44Z",
    "kind": "sale",
@@ -348,48 +390,6 @@
    "kind": "sale",
    "title": "1986 Jeep CJ-7 4-Speed",
    "ref": "https://bringatrailer.com/listing/1986-jeep-cj-7-102/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "36k-Mile 2005 Porsche 911 Carrera 4S Coupe 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2005-porsche-911-carrera-4s-coupe-11/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "2019 Lamborghini Urus",
-   "ref": "https://bringatrailer.com/listing/2019-lamborghini-urus-33/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "2002 Jeep Wrangler Sahara",
-   "ref": "https://bringatrailer.com/listing/2002-jeep-wrangler-112/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "20-Years-Owned 1987 Porsche 911 Carrera Coupe G50",
-   "ref": "https://bringatrailer.com/listing/1987-porsche-911-carrera-coupe-136/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "9k-Mile 2005 Ford GT",
-   "ref": "https://bringatrailer.com/listing/2005-ford-gt-252/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "2013 Land Rover Range Rover Sport Supercharged Limited Edition",
-   "ref": "https://bringatrailer.com/listing/2013-land-rover-range-rover-sport-121/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "One-Owner 1967 Ford Mustang Sports Sprint Coupe 289",
-   "ref": "https://bringatrailer.com/listing/1967-ford-mustang-539/"
   }
  ]
 }

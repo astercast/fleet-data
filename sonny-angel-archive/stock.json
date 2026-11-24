@@ -1,7 +1,7 @@
 {
  "format": "stock/1",
- "generated_at": "2026-11-19T11:34:10Z",
- "checked_at": "2026-11-19T11:34:10Z",
+ "generated_at": "2026-11-24T02:14:30Z",
+ "checked_at": "2026-11-24T02:14:30Z",
  "items": {
   "flower-gift": {
    "in_stock": false,
@@ -48,7 +48,7 @@
    "url": "https://sonnyangelusa.com/products/minifigure-flower-series-2019"
   },
   "animal-1": {
-   "in_stock": true,
+   "in_stock": false,
    "url": "https://sonnyangelusa.com/products/animal-series-ver-1"
   },
   "animal-4": {
