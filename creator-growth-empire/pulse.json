@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-24T02:11:51Z",
+ "generated_at": "2026-11-24T13:35:26Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-24T02:11:49Z",
+ "last_data_change_at": "2026-11-24T13:35:25Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-24T02:11:48Z",
-   "last_ok_at": "2026-11-24T02:11:48Z",
+   "checked_at": "2026-11-24T13:35:25Z",
+   "last_ok_at": "2026-11-24T13:35:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-24T02:11:49Z",
-   "last_ok_at": "2026-11-24T02:11:49Z",
+   "checked_at": "2026-11-24T13:35:25Z",
+   "last_ok_at": "2026-11-24T13:35:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-24T02:11:50Z",
-   "last_ok_at": "2026-11-24T02:11:50Z",
+   "checked_at": "2026-11-24T13:35:25Z",
+   "last_ok_at": "2026-11-24T13:35:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-24T02:11:49Z",
-   "last_ok_at": "2026-11-24T02:11:49Z",
+   "checked_at": "2026-11-24T13:35:25Z",
+   "last_ok_at": "2026-11-24T13:35:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-24T02:11:49Z",
-   "last_ok_at": "2026-11-24T02:11:49Z",
+   "checked_at": "2026-11-24T13:35:25Z",
+   "last_ok_at": "2026-11-24T13:35:25Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-24T02:11:48Z",
+   "checked_at": "2026-11-24T13:35:25Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 95
+   "fails_in_a_row": 96
   },
   {
    "id": "ypp-help",
@@ -79,24 +79,30 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-24T02:11:51Z",
-   "last_ok_at": "2026-11-24T02:11:51Z",
+   "checked_at": "2026-11-24T13:35:26Z",
+   "last_ok_at": "2026-11-24T13:35:26Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
+   "at": "2026-11-24T13:35:25Z",
+   "kind": "change",
+   "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
+   "ref": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/"
+  },
+  {
+   "at": "2026-11-24T13:35:26Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
+  {
    "at": "2026-11-24T02:11:49Z",
    "kind": "change",
    "title": "Whatnot and Meta are taking aim at TikTok Shop’s Black Friday crown",
    "ref": "https://www.tubefilter.com/2026/11/23/whatnot-and-meta-are-taking-aim-at-tiktok-shops-black-friday-crown/"
-  },
-  {
-   "at": "2026-11-24T02:11:51Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
   },
   {
    "at": "2026-11-20T20:02:05Z",
@@ -433,12 +439,6 @@
    "kind": "change",
    "title": "Reddit introduces For You feed",
    "ref": "https://www.socialmediatoday.com/news/reddit-introduces-for-you-feed/873132/"
-  },
-  {
-   "at": "2026-10-29T00:51:22Z",
-   "kind": "change",
-   "title": "YouTube’s living room TV viewership now brings in one-third of its ad revenue",
-   "ref": "https://www.tubefilter.com/2026/10/28/youtube-living-room-tv-ad-revenue-q3-2026-earnings/"
   }
  ]
 }

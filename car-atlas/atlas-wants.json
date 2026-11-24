@@ -1,6 +1,6 @@
 {
  "format": "atlas-wants/1",
- "generated_at": "2026-11-24T02:14:29Z",
+ "generated_at": "2026-11-24T13:37:37Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -71,11 +71,6 @@
    "key": "Lexus sc430",
    "sold": 1,
    "bidTo": 0
-  },
-  {
-   "key": "MG mgb",
-   "sold": 0,
-   "bidTo": 1
   },
   {
    "key": "Maserati 4",
@@ -222,18 +217,6 @@
    "status": "bid-to",
    "matched": false,
    "wantsKey": "Triumph tr250"
-  },
-  {
-   "title": "1972 MG MGB Roadster",
-   "url": "https://bringatrailer.com/listing/1972-mg-mgb-roadster-34/",
-   "price": 7100,
-   "currency": "USD",
-   "ended": "2026-11-23",
-   "noreserve": false,
-   "house": "Bring a Trailer",
-   "status": "bid-to",
-   "matched": true,
-   "wantsKey": "MG mgb"
   },
   {
    "title": "2007 Porsche 911 Carrera 4S Coupe 6-Speed",

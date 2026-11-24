@@ -1,22 +1,22 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-24T02:11:48Z",
+ "generated_at": "2026-11-24T13:35:24Z",
  "stale_after_h": 26,
- "healthy": true,
- "sources_ok": 5,
+ "healthy": false,
+ "sources_ok": 4,
  "sources_total": 5,
- "last_data_change_at": "2026-11-24T02:11:48Z",
+ "last_data_change_at": "2026-11-24T13:35:24Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
-   "ok": true,
+   "ok": false,
    "items": 224,
-   "checked_at": "2026-11-24T02:11:45Z",
+   "checked_at": "2026-11-24T13:35:22Z",
    "last_ok_at": "2026-11-24T02:11:45Z",
-   "error": null,
-   "fails_in_a_row": 0
+   "error": "TimeoutError",
+   "fails_in_a_row": 1
   },
   {
    "id": "github",
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-24T02:11:48Z",
-   "last_ok_at": "2026-11-24T02:11:48Z",
+   "checked_at": "2026-11-24T13:35:24Z",
+   "last_ok_at": "2026-11-24T13:35:24Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-24T02:11:44Z",
-   "last_ok_at": "2026-11-24T02:11:44Z",
+   "checked_at": "2026-11-24T13:34:39Z",
+   "last_ok_at": "2026-11-24T13:34:39Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-24T02:11:45Z",
-   "last_ok_at": "2026-11-24T02:11:45Z",
+   "checked_at": "2026-11-24T13:35:22Z",
+   "last_ok_at": "2026-11-24T13:35:22Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,13 +57,49 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-24T02:11:44Z",
-   "last_ok_at": "2026-11-24T02:11:44Z",
+   "checked_at": "2026-11-24T13:34:39Z",
+   "last_ok_at": "2026-11-24T13:34:39Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-24T13:35:24Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: gatilin/nava-joint-av-dit",
+   "ref": "https://huggingface.co/gatilin/nava-joint-av-dit"
+  },
+  {
+   "at": "2026-11-24T13:35:24Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Jingkuan/GeoRoute",
+   "ref": "https://huggingface.co/Jingkuan/GeoRoute"
+  },
+  {
+   "at": "2026-11-24T13:35:24Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: NathanAN123/Hindsight_Forcing",
+   "ref": "https://huggingface.co/NathanAN123/Hindsight_Forcing"
+  },
+  {
+   "at": "2026-11-24T13:35:24Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: johnnywalker007/PinkCherry-NSFW_MiniMax-H3",
+   "ref": "https://huggingface.co/johnnywalker007/PinkCherry-NSFW_MiniMax-H3"
+  },
+  {
+   "at": "2026-11-24T13:35:24Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA",
+   "ref": "https://huggingface.co/dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA"
+  },
+  {
+   "at": "2026-11-24T13:35:24Z",
+   "kind": "release",
+   "title": "comfyui release: v0.46.3",
+   "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.3"
+  },
   {
    "at": "2026-11-24T02:11:48Z",
    "kind": "price-signal",
@@ -387,42 +423,6 @@
    "kind": "new-model",
    "title": "New text-to-video model listed on Hugging Face: htdong/Loopy",
    "ref": "https://huggingface.co/htdong/Loopy"
-  },
-  {
-   "at": "2026-11-23T12:17:25Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: htdong/Wan-Alpha-v2.0",
-   "ref": "https://huggingface.co/htdong/Wan-Alpha-v2.0"
-  },
-  {
-   "at": "2026-11-23T12:17:25Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: htdong/Wan-Alpha",
-   "ref": "https://huggingface.co/htdong/Wan-Alpha"
-  },
-  {
-   "at": "2026-11-23T12:17:25Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: khaledmkh/0.0.0.0",
-   "ref": "https://huggingface.co/khaledmkh/0.0.0.0"
-  },
-  {
-   "at": "2026-11-23T12:17:25Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: intel-ai/MiniMax-H3-MXFP-Comfy",
-   "ref": "https://huggingface.co/intel-ai/MiniMax-H3-MXFP-Comfy"
-  },
-  {
-   "at": "2026-11-23T12:17:25Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Hjxjxj/text-to-video-ms-1.7b",
-   "ref": "https://huggingface.co/Hjxjxj/text-to-video-ms-1.7b"
-  },
-  {
-   "at": "2026-11-23T12:17:25Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN",
-   "ref": "https://huggingface.co/timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN"
   }
  ]
 }

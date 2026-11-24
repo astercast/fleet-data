@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "fb-muse-now-available-in-the-uk-muse-does-the-work-7c62c1",
+   "platform": "facebook",
+   "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
+   "summary": "Muse, Meta’s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance or keeping on top of the school calendar. To get those jobs done you can connect Muse to the apps you already use, from your email and calendar to the retailer apps you shop on. Handing tasks to an AI agent is new for most of us, and we know it’s an act of trust. That’s why we’ve designed Muse so you stay in control at every ",
+   "detected_at": "2026-11-24T13:35:24Z",
+   "announced_at": "2026-11-24T06:00:04Z",
+   "effective_at": null,
+   "source_url": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/",
+   "sources": [
+    {
+     "name": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "verified",
+   "affects": []
+  },
+  {
    "id": "tt-whatnot-and-meta-are-taking-aim-at-tiktok-shop-s-2e5b02",
    "platform": "tiktok",
    "title": "Whatnot and Meta are taking aim at TikTok Shop’s Black Friday crown",
@@ -2034,7 +2053,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-24T02:11:48Z",
+ "generated_at": "2026-11-24T13:35:24Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-24",
  "version": "1.7.0"

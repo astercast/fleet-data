@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-24T02:14:29Z",
+ "generated_at": "2026-11-24T13:37:37Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-24T02:14:29Z",
+ "last_data_change_at": "2026-11-24T13:37:37Z",
  "sources": [
   {
    "id": "bat",
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 36,
-   "checked_at": "2026-11-24T02:14:27Z",
-   "last_ok_at": "2026-11-24T02:14:27Z",
+   "checked_at": "2026-11-24T13:37:36Z",
+   "last_ok_at": "2026-11-24T13:37:36Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,19 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12441,
-   "checked_at": "2026-11-24T02:14:29Z",
-   "last_ok_at": "2026-11-24T02:14:29Z",
+   "checked_at": "2026-11-24T13:37:37Z",
+   "last_ok_at": "2026-11-24T13:37:37Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-24T13:37:37Z",
+   "kind": "sale",
+   "title": "1972 MG MGB Roadster",
+   "ref": "https://bringatrailer.com/listing/1972-mg-mgb-roadster-34/"
+  },
   {
    "at": "2026-11-24T02:14:29Z",
    "kind": "sale",
@@ -384,12 +390,6 @@
    "kind": "sale",
    "title": "40k-Mile 2006 Honda S2000",
    "ref": "https://bringatrailer.com/listing/2006-honda-s2000-200/"
-  },
-  {
-   "at": "2026-11-19T20:33:47Z",
-   "kind": "sale",
-   "title": "1986 Jeep CJ-7 4-Speed",
-   "ref": "https://bringatrailer.com/listing/1986-jeep-cj-7-102/"
   }
  ]
 }

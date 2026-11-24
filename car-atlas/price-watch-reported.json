@@ -1,6 +1,6 @@
 {
  "format": "price-watch-reported/1",
- "generated_at": "2026-11-24T02:14:29Z",
+ "generated_at": "2026-11-24T13:37:37Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -54,6 +54,22 @@
    "modelName": "Corvette",
    "classification": "certified",
    "vpicMakeKnown": true
+  },
+  {
+   "title": "1972 MG MGB Roadster",
+   "url": "https://bringatrailer.com/listing/1972-mg-mgb-roadster-34/",
+   "price": 7100,
+   "currency": "USD",
+   "ended": "2026-11-23",
+   "noreserve": false,
+   "house": "Bring a Trailer",
+   "status": "sold",
+   "make": "mg",
+   "model": "mgb",
+   "makeName": "MG",
+   "modelName": "MGB",
+   "classification": "certified",
+   "vpicMakeKnown": false
   },
   {
    "title": "2009 Porsche Cayenne GTS 6-Speed",

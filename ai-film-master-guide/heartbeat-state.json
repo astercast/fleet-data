@@ -54,6 +54,7 @@
   "Hearmeman/minimax-h3-loras",
   "Hjxjxj/text-to-video-ms-1.7b",
   "JinPLU/CaT-Movie",
+  "Jingkuan/GeoRoute",
   "Jjausiiwowi/Wan2.2-TI2V-5B",
   "Kompaktion/Movetoy",
   "Kremon96/LTX-2.5-uncensored-v1.1-FP8",
@@ -77,6 +78,7 @@
   "Mrbizarro/ltx-2.5-mlx-q8",
   "Mrbluntec/LTX-2.3-uncensored-v1.4-FP8",
   "N3M3SIS666/Wan2.2-TI2V-5B",
+  "NathanAN123/Hindsight_Forcing",
   "Neurobrix/Allegro-nbx",
   "Neurobrix/CogVideoX-2b-nbx",
   "Neurobrix/Open-Sora-v2-nbx",
@@ -218,6 +220,7 @@
   "cyberdes-security/FastFrames-S-mobile-mlx",
   "darksidewalker/MiniMaxH3",
   "ddlara01/ultima-releases",
+  "dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA",
   "dragonlimited/LTX2-marimo",
   "dragonlimited/comfyui-molab",
   "drtuch/ltx-2-2.3-i2v-nsfw-furry-multi-purpose-sex-lora",
@@ -257,6 +260,7 @@
   "fusorlabs/motif-video-2b-web",
   "fusorlabs/wan2.1-t2v-1.3b-web",
   "gani3b/HunyuanVideo-1.5",
+  "gatilin/nava-joint-av-dit",
   "gearwave00001/MiniMax-H3-dasiwaHybridV4-fp8-rad",
   "goodmai/Kandinsky-5.0-T2V-Lite-PV-MACaQ-4bit-MXFP4-MLX",
   "goodmai/LTX-2-19B-Distilled-PV-MACaQ-4bit-MXFP4-MLX",
@@ -283,6 +287,7 @@
   "jaxbaxxxxxx/HunyuanVideo",
   "jean-is/FastWan2.2-TI2V-5B-ONNX",
   "jinotter3/CRePE",
+  "johnnywalker007/PinkCherry-NSFW_MiniMax-H3",
   "karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
   "khaledmkh/0.0.0.0",
   "krishgolcha/minsky-01-videogen",
@@ -673,6 +678,7 @@
   "tag:github.com,2008:Repository/589831718/v0.45.6",
   "tag:github.com,2008:Repository/589831718/v0.46.0",
   "tag:github.com,2008:Repository/589831718/v0.46.1",
-  "tag:github.com,2008:Repository/589831718/v0.46.2"
+  "tag:github.com,2008:Repository/589831718/v0.46.2",
+  "tag:github.com,2008:Repository/589831718/v0.46.3"
  ]
 }

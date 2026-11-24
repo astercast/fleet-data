@@ -1,7 +1,67 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-24T02:11:48Z",
+ "generated_at": "2026-11-24T13:35:24Z",
  "items": [
+  {
+   "id": "hf-gatilin/nava-joint-av-dit",
+   "at": "2026-11-24T10:00:16Z",
+   "model": "gatilin/nava-joint-av-dit",
+   "title": "New text-to-video model listed on Hugging Face: gatilin/nava-joint-av-dit",
+   "url": "https://huggingface.co/gatilin/nava-joint-av-dit",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Jingkuan/GeoRoute",
+   "at": "2026-11-24T09:18:36Z",
+   "model": "Jingkuan/GeoRoute",
+   "title": "New text-to-video model listed on Hugging Face: Jingkuan/GeoRoute",
+   "url": "https://huggingface.co/Jingkuan/GeoRoute",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-NathanAN123/Hindsight_Forcing",
+   "at": "2026-11-24T05:50:37Z",
+   "model": "NathanAN123/Hindsight_Forcing",
+   "title": "New text-to-video model listed on Hugging Face: NathanAN123/Hindsight_Forcing",
+   "url": "https://huggingface.co/NathanAN123/Hindsight_Forcing",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-johnnywalker007/PinkCherry-NSFW_MiniMax-H3",
+   "at": "2026-11-24T05:43:31Z",
+   "model": "johnnywalker007/PinkCherry-NSFW_MiniMax-H3",
+   "title": "New text-to-video model listed on Hugging Face: johnnywalker007/PinkCherry-NSFW_MiniMax-H3",
+   "url": "https://huggingface.co/johnnywalker007/PinkCherry-NSFW_MiniMax-H3",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA",
+   "at": "2026-11-24T04:56:06Z",
+   "model": "dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA",
+   "title": "New text-to-video model listed on Hugging Face: dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA",
+   "url": "https://huggingface.co/dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "gh-comfyui-v0.46.3",
+   "at": "2026-11-24T03:32:16Z",
+   "model": "comfyui",
+   "title": "comfyui release: v0.46.3",
+   "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.3",
+   "kind": "release",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-24",
    "at": "2026-11-24T02:11:41+00:00",
@@ -1439,66 +1499,6 @@
    "title": "Seedance 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://www.highonfilms.com/seedance-3-0-provider-checks/",
    "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 2.5-2026-11-22",
-   "at": "2026-11-22T01:08:47+00:00",
-   "model": "Seedance 2.5",
-   "title": "Seedance 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://cellcog.ai/blog/seedance-2-5-pricing/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-yniw/MiniMax-H3-mmh3",
-   "at": "2026-11-22T00:54:23Z",
-   "model": "yniw/MiniMax-H3-mmh3",
-   "title": "New text-to-video model listed on Hugging Face: yniw/MiniMax-H3-mmh3",
-   "url": "https://huggingface.co/yniw/MiniMax-H3-mmh3",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-ducvh5/looptrans-search3-ckpts",
-   "at": "2026-11-22T00:27:55Z",
-   "model": "ducvh5/looptrans-search3-ckpts",
-   "title": "New text-to-video model listed on Hugging Face: ducvh5/looptrans-search3-ckpts",
-   "url": "https://huggingface.co/ducvh5/looptrans-search3-ckpts",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-tazmannner/Dispatch-H3-LoRA",
-   "at": "2026-11-21T14:55:03Z",
-   "model": "tazmannner/Dispatch-H3-LoRA",
-   "title": "New text-to-video model listed on Hugging Face: tazmannner/Dispatch-H3-LoRA",
-   "url": "https://huggingface.co/tazmannner/Dispatch-H3-LoRA",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-cyberdes-security/FastFrames-S-mobile-mlx",
-   "at": "2026-11-21T12:07:32Z",
-   "model": "cyberdes-security/FastFrames-S-mobile-mlx",
-   "title": "New text-to-video model listed on Hugging Face: cyberdes-security/FastFrames-S-mobile-mlx",
-   "url": "https://huggingface.co/cyberdes-security/FastFrames-S-mobile-mlx",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-SadikNawazAI/SADIK-VIDEO-AI",
-   "at": "2026-11-21T08:36:52Z",
-   "model": "SadikNawazAI/SADIK-VIDEO-AI",
-   "title": "New text-to-video model listed on Hugging Face: SadikNawazAI/SADIK-VIDEO-AI",
-   "url": "https://huggingface.co/SadikNawazAI/SADIK-VIDEO-AI",
-   "kind": "new-model",
    "label": "Unconfirmed",
    "source": "heartbeat"
   }
