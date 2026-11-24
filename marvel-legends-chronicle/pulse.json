@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-23T15:19:41Z",
+ "generated_at": "2026-11-24T15:14:37Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-23T15:19:41Z",
+ "last_data_change_at": "2026-11-24T15:14:37Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-23T15:19:38Z",
-   "last_ok_at": "2026-11-23T15:19:38Z",
+   "checked_at": "2026-11-24T15:14:34Z",
+   "last_ok_at": "2026-11-24T15:14:34Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 72,
-   "checked_at": "2026-11-23T15:19:41Z",
-   "last_ok_at": "2026-11-23T15:19:41Z",
+   "items": 100,
+   "checked_at": "2026-11-24T15:14:37Z",
+   "last_ok_at": "2026-11-24T15:14:37Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-23T15:19:41Z",
-   "last_ok_at": "2026-11-23T15:19:41Z",
+   "checked_at": "2026-11-24T15:14:37Z",
+   "last_ok_at": "2026-11-24T15:14:37Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -45,14 +45,74 @@
    "label": "ToyArena catalog",
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
-   "items": 65,
-   "checked_at": "2026-11-23T15:19:41Z",
-   "last_ok_at": "2026-11-23T15:19:41Z",
+   "items": 64,
+   "checked_at": "2026-11-24T15:14:37Z",
+   "last_ok_at": "2026-11-24T15:14:37Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-24T15:14:37Z",
+   "kind": "story",
+   "title": "'Avengers: Doomsday' brings Marvel legends together for an epic holiday showdown - Chicago Star Media",
+   "ref": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVHpnQ2RxM09VRVAwaDhPM0JsTTRiT1lkMFhYSlNXcnlOYVJ6YWF6NHF4MHIwdXNPRGlqZTBSNk9kdWxSQ21sOUIwQmU1eldXeVJaNV9Ta3p1UTREVHJZMlFkLVpVMHhSRmJIdVRfaWRjU3RZdXFqbnk4dnNUcWx2R1FxN0FMczZKM3lOYUVGbmFXZFlDajZHRmV6S3kyM05Xak4weWZUOTlKZGpvMU5xUy1IUFBMWFE2RHN4eVRDbTNDcmpoWFVHMHNNeVIzSm1vaDdOSmZpcUYxcHdjNkhwUzMzRTFueWs2dDZPZVl2R2xRS1BWbktRLThvQkJHMGtHOHJYbVFjT19PZWVYMEctaQ?oc=5"
+  },
+  {
+   "at": "2026-11-24T15:14:37Z",
+   "kind": "story",
+   "title": "Marvel Legends Doctor Doom, WWII Ghost Rider: when preorders open - IMDb",
+   "ref": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sOEVvY2x3Um82aDAyMGxZdHBVMVlncXh4ZGIyTGt1clhNNFRBTkJCVmpDUkZMVGVoS2ZjOG1VekE4SHBkTjl1cEtYRHJWMGhnTkV0RW1oUmVCLWJOLW53d3NoMml3WjA?oc=5"
+  },
+  {
+   "at": "2026-11-24T15:14:37Z",
+   "kind": "story",
+   "title": "Falcon \"Secret Wars\" Marvel Legends Review - Comic Watch",
+   "ref": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONmo4MWViUFBPY0M1cVk1MVNWX3NUUWtvX25fQm9hY0dFUk1DSHdmblBqeWRUYVNrQkpFdXoxTF8tLUYyMW53VjdMeGc3VlB5UWpuNFc2VEEzYm9CcXJUNGVRQjZWekZxcUZSNm01UE5BZW1tRDhxbTJQSGFtR2RJbFQ3Yw?oc=5"
+  },
+  {
+   "at": "2026-11-24T15:14:37Z",
+   "kind": "story",
+   "title": "Hasbro Unveils New Marvel Legends Daredevil: Born Again Action Figure Set - Action Figure Insider",
+   "ref": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0lyNE4wMzFEVVFpa0ZON0dGN3Ixa2U5Z01BSHhsaG91RkN2Zkhldmx4S2FWRUxMVXZmcFhZNlBxUXJoVllCdVJpOENTSE0zanBVT043dFNXczlhTE1SbVRCeWhKWXVHOWZCenZIMExDWkVPcWJIRG80akM4aEt2QWtJd1RUN05LS1l2bzdrS0dDNXpBVnlCN3ZSc25uNEVzMXdjcllBZkM2dFdGZ3c?oc=5"
+  },
+  {
+   "at": "2026-11-24T15:14:37Z",
+   "kind": "story",
+   "title": "Marvel Legends Avengers: Doomsday Mr. Fantastic 2-Pack Coming Soon - Bleeding Cool News",
+   "ref": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdndEODc5ejAzUmszVUR6OWNEbkc1VElxTl9QVU5TZ2ctZl9mV2VZcGlkZnM4ZEMwNUN5SFE1NGJKM1dOci0zblZYaE5MLUhtM1pHbXJ3ZmxrVWJVREFSdGlkc1lyc29nSjQxZDFMSnctUDV3VDFPOWFzQ21BakZaNHRLSjZ1UWRFYThveFZTMkpyR2gzbkYwd3gzSlZmMTB1Njhma2tB?oc=5"
+  },
+  {
+   "at": "2026-11-24T15:14:37Z",
+   "kind": "story",
+   "title": "X-Force Marvel Legends Domino, Rictor & Cannonball Multipack & Spiderman Retro Cel Shade Preorders - Toy Habits",
+   "ref": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmRLOHdxZzliTHZNMThxTGh2V21Td0ZlNWU0MWUwdDJTM3BaMzkwX2J3RDN2LVJPVWpSQnBpR0xPR05YdXdxUlBXX0ZON1hTcTczUDZlQ3pBaDl1ZXhmUlBYcW9aMklxYTNrU2RMUkNjWmVGZjBQXzEySGlCdnlod0pTaGVDemdBdG5Nd0xodmlCVEZOMUM1RXZRZ1ZiUlBLYVNGa0Z0M2pWTFQ5MHl1U21FLUZ1a09YZTRyaTVxdw?oc=5"
+  },
+  {
+   "at": "2026-11-24T15:14:37Z",
+   "kind": "story",
+   "title": "Marvel Legends Snap Gamerverse Shanna, Rogue and Sauron review (2025) - Lyles Movie Files",
+   "ref": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyNlRzUUhaUU9iQnp4QXV0WS14dlVBdHhFT1BhdjBaanl2TXZnZ2Q4WFRaZlA0enRsVlEzVkR2RFpGUHdjdXE1X0FoMmExMS1fS091QVVZOHJlNmxZWlNoVFpmTUVEVGdBRzB3elFtV0VjaHN5ZUItemtCS2Y?oc=5"
+  },
+  {
+   "at": "2026-11-24T15:14:37Z",
+   "kind": "story",
+   "title": "Marvel Legends Gamerverse Iron Man & Marvel’s Spiral Action Figure Two-Pack Preorder - Toy Habits",
+   "ref": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVV4bVN3Q3RmQkMtMzhDdXN2MGNuS19ZV1lJWWNiYnA2VC1IXzVDVVAyZkVESHhyNUpMNVFiMWdqTkdIUU9LVmFGODAzbmhWRXhYV2NPVzZvaXhVdF84d3RFOXBsdG5tc3NXVmxnTTgtQUpWYVVtWTdadE1lRFViOGg1TDF2OUdOVTd3cDZUWV80bjZZQkRqeUREcm4tMTZ0bXdYbVpxcw?oc=5"
+  },
+  {
+   "at": "2026-11-24T15:14:37Z",
+   "kind": "story",
+   "title": "Marvel Legends Series Wolverine: An Unnecessary Improvement - Comic Watch",
+   "ref": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0JTRFVUa3loMlRTUzd0REdfNlRrZ291OG5md1ZmZFNPbExsZHk5VVNjVm0wUEx5YkROSERvSlhVbkpUVjhYeTQ2a0x6eEU5UlZ5cGlCNXVEa0F3RHBuckROcjlkcXVmTWhpWTRSdDM2NmFLY19raWppczNQa0I5VkFEUVBwZ0FqOXEteHk0eHNvR0stMHVCdGsxaw?oc=5"
+  },
+  {
+   "at": "2026-11-24T15:14:37Z",
+   "kind": "story",
+   "title": "Marvel Legends X-Men 97 Sentinel review (2025) - Lyles Movie Files",
+   "ref": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2Y0RSMHI2U3I2dGZsaDZleDBfcVJlTU9JbjB4d2VZUWFzWnNBckVLLUdCT1h3NTNWVU1PWWd0OE5kdXo4eWdNeHhoaXAwUmYzSEl0LUhqcGI0UkJGSU50ams5WmdIUWg4Ukh4WWtTTDNUS29wUXlRNGNaa3g?oc=5"
+  },
   {
    "at": "2026-11-23T15:19:41Z",
    "kind": "story",
@@ -352,66 +412,6 @@
    "kind": "catalog",
    "title": "ToyArena: Marvel Legends Spider-Man: No Way Home Scorpion Action Figure",
    "ref": "https://toyarena.com/products/marvel-legends-spider-man-no-way-home-scorpion-action-figure"
-  },
-  {
-   "at": "2026-11-12T13:13:56Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Avengers Doomsday Invisible Woman and Human Torch Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-avengers-doomsday-invisible-woman-and-human-torch-action-figure"
-  },
-  {
-   "at": "2026-11-12T13:13:56Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends '97 X-Men Apocalypse Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-97-x-men-apocalypse-action-figure"
-  },
-  {
-   "at": "2026-11-12T13:13:56Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Avengers Doomsday Magneto Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-avengers-doomsday-magneto-action-figure"
-  },
-  {
-   "at": "2026-11-12T13:13:56Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Spider-Man: No Way Home Spider-Man Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-spider-man-no-way-home-spider-man-action-figure"
-  },
-  {
-   "at": "2026-11-12T13:13:56Z",
-   "kind": "story",
-   "title": "Hasbro Pulse Announces New Marvel Legends Fanstream - LaughingPlace.com",
-   "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamc4TG83Z0VrLW1DRjdZRnFyUU5FOC1KakE2c080M1RONGpmNWN5emRTeUlGaTlualZwWHk5ZVJCWnpWOWx6U0E1dUt5bEhYaEd3eTQ3U0hkdXRxdXJFZFJDS2ZPakgwOXNBcWY2R3g1OVpSM2YyakpwdjN0ejJJa3NxV1JJeTFZWUdvVWJrQXZLYVpFMkVDZGZXdWo1QURJZ0E0?oc=5"
-  },
-  {
-   "at": "2026-11-12T13:13:56Z",
-   "kind": "story",
-   "title": "New 'Spider-Man: Across the Spider-Verse' Marvel Legends Swing into this Multiverse - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmFDYm5wQ1BZNmJNckVzemdySlFtYVhrVkVCbmh3Rm9zbm50SDRZTmZrS0tyMXFhQ25vS3V1QXRDd2szRC1fal92a0ZoeVRGbXBXaC1yWW5WOHI2U2ZpOGhwVEN0NDRZYlZMMGNFcFlNMlQtZ2tCVVRWSC1XLWpLUm1TUUstYWoxWjBKWWJRQQ?oc=5"
-  },
-  {
-   "at": "2026-11-11T12:07:57Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Avengers Doomsday Mister Fantsitc and H.E.R.B.I.E Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-avengers-doomsday-mister-fantsitc-and-h-e-r-b-i-e-action-figure"
-  },
-  {
-   "at": "2026-11-11T12:07:57Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Avengers Doomsday The Thing Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-avengers-doomsday-the-thing-action-figure"
-  },
-  {
-   "at": "2026-11-11T12:07:57Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Vintage Retro Series The Uncanny X-Men Cypher Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-vintage-retro-series-the-uncanny-x-men-cypher-action-figure"
-  },
-  {
-   "at": "2026-11-11T12:07:57Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Secret War Retro Doctor Doom Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-secret-war-retro-doctor-doom-action-figure"
   }
  ]
 }
