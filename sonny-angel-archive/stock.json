@@ -1,7 +1,7 @@
 {
  "format": "stock/1",
- "generated_at": "2026-11-24T02:14:30Z",
- "checked_at": "2026-11-24T02:14:30Z",
+ "generated_at": "2026-11-24T23:57:37Z",
+ "checked_at": "2026-11-24T23:57:37Z",
  "items": {
   "flower-gift": {
    "in_stock": false,
@@ -12,7 +12,7 @@
    "url": "https://sonnyangelusa.com/products/hippers-dreaming"
   },
   "snack": {
-   "in_stock": true,
+   "in_stock": false,
    "url": "https://sonnyangelusa.com/products/snack-series"
   },
   "hippers-looking-back": {

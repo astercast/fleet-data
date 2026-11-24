@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-24T13:35:24Z",
+ "generated_at": "2026-11-24T23:54:36Z",
  "sources": [
   {
    "id": "tiktok-newsroom",
    "label": "TikTok Newsroom",
    "url": "https://newsroom.tiktok.com/en-us/",
-   "hash": "ee525cdeafdb56b2",
-   "checked_at": "2026-11-24T13:35:25Z",
+   "hash": "8d19ee6bc111d2bc",
+   "checked_at": "2026-11-24T23:54:38Z",
    "ok": true,
    "error": null,
    "verified_at": null,
@@ -17,8 +17,8 @@
    "id": "ypp-help",
    "label": "YouTube Partner Program help page",
    "url": "https://support.google.com/youtube/answer/72851",
-   "hash": "6d65450e61c866a9",
-   "checked_at": "2026-11-24T13:35:26Z",
+   "hash": "689ac75d1f4673c5",
+   "checked_at": "2026-11-24T23:54:39Z",
    "ok": true,
    "error": null,
    "verified_at": "2026-10-12",
