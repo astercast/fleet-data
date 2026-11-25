@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-24T23:54:39Z",
+ "generated_at": "2026-11-25T08:19:16Z",
  "stale_after_h": 26,
  "healthy": false,
  "sources_ok": 6,
  "sources_total": 7,
- "last_data_change_at": "2026-11-24T23:54:38Z",
+ "last_data_change_at": "2026-11-25T08:19:14Z",
  "sources": [
   {
    "id": "meta-newsroom",
@@ -13,8 +13,8 @@
    "url": "https://about.fb.com/news/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-24T23:54:37Z",
-   "last_ok_at": "2026-11-24T23:54:37Z",
+   "checked_at": "2026-11-25T08:19:14Z",
+   "last_ok_at": "2026-11-25T08:19:14Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://www.socialmediatoday.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-24T23:54:37Z",
-   "last_ok_at": "2026-11-24T23:54:37Z",
+   "checked_at": "2026-11-25T08:19:14Z",
+   "last_ok_at": "2026-11-25T08:19:14Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://newsroom.tiktok.com/en-us/",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-24T23:54:38Z",
-   "last_ok_at": "2026-11-24T23:54:38Z",
+   "checked_at": "2026-11-25T08:19:15Z",
+   "last_ok_at": "2026-11-25T08:19:15Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://www.tubefilter.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-24T23:54:37Z",
-   "last_ok_at": "2026-11-24T23:54:37Z",
+   "checked_at": "2026-11-25T08:19:14Z",
+   "last_ok_at": "2026-11-25T08:19:14Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://www.tubefilter.com/tag/twitch/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-24T23:54:38Z",
-   "last_ok_at": "2026-11-24T23:54:38Z",
+   "checked_at": "2026-11-25T08:19:14Z",
+   "last_ok_at": "2026-11-25T08:19:14Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,10 +68,10 @@
    "url": "https://blog.youtube/feed/",
    "ok": false,
    "items": 0,
-   "checked_at": "2026-11-24T23:54:37Z",
+   "checked_at": "2026-11-25T08:19:14Z",
    "last_ok_at": null,
    "error": "response was not a feed (HTML?)",
-   "fails_in_a_row": 97
+   "fails_in_a_row": 98
   },
   {
    "id": "ypp-help",
@@ -79,13 +79,31 @@
    "url": "https://support.google.com/youtube/answer/72851",
    "ok": true,
    "items": 1,
-   "checked_at": "2026-11-24T23:54:39Z",
-   "last_ok_at": "2026-11-24T23:54:39Z",
+   "checked_at": "2026-11-25T08:19:16Z",
+   "last_ok_at": "2026-11-25T08:19:16Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-25T08:19:14Z",
+   "kind": "change",
+   "title": "Australian government moves ahead with algorithm opt-out legislation",
+   "ref": "https://www.socialmediatoday.com/news/australian-government-moves-ahead-with-algorithm-opt-out-legislation/875698/"
+  },
+  {
+   "at": "2026-11-25T08:19:14Z",
+   "kind": "change",
+   "title": "Meta says festive shoppers use social media for gift discovery",
+   "ref": "https://www.socialmediatoday.com/news/meta-says-festive-shoppers-use-social-media-for-gift-discovery/875523/"
+  },
+  {
+   "at": "2026-11-25T08:19:16Z",
+   "kind": "source-changed",
+   "title": "YouTube Partner Program help page page changed",
+   "ref": "https://support.google.com/youtube/answer/72851"
+  },
   {
    "at": "2026-11-24T23:54:38Z",
    "kind": "change",
@@ -97,12 +115,6 @@
    "kind": "source-changed",
    "title": "TikTok Newsroom page changed",
    "ref": "https://newsroom.tiktok.com/en-us/"
-  },
-  {
-   "at": "2026-11-24T23:54:39Z",
-   "kind": "source-changed",
-   "title": "YouTube Partner Program help page page changed",
-   "ref": "https://support.google.com/youtube/answer/72851"
   },
   {
    "at": "2026-11-24T13:35:25Z",
@@ -427,12 +439,6 @@
    "kind": "change",
    "title": "YouTube is testing new fixes for spam violations",
    "ref": "https://www.socialmediatoday.com/news/youtube-is-testing-new-fixes-for-spam-violations/873269/"
-  },
-  {
-   "at": "2026-10-30T00:53:11Z",
-   "kind": "change",
-   "title": "Instagram is offering YouTubers up to $500,000 to post with its new horizontal format",
-   "ref": "https://www.tubefilter.com/2026/10/29/instagram-offering-youtubers-new-features-format/"
   }
  ]
 }

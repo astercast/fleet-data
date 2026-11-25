@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "cw-australian-government-moves-ahead-with-algorithm-358b97",
+   "platform": "other",
+   "title": "Australian government moves ahead with algorithm opt-out legislation",
+   "summary": "<p>The proposed bill has passed another Senate hurdle, according to Australia&rsquo;s ABC News.</p>",
+   "detected_at": "2026-11-25T08:19:13Z",
+   "announced_at": "2026-11-24T22:09:16Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/australian-government-moves-ahead-with-algorithm-opt-out-legislation/875698/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/australian-government-moves-ahead-with-algorithm-opt-out-legislation/875698/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "fb-meta-says-festive-shoppers-use-social-media-for-530bc1",
+   "platform": "facebook",
+   "title": "Meta says festive shoppers use social media for gift discovery",
+   "summary": "<p>The company said that people who shop via social media are more likely to shop across multiple categories and self-gift.</p> <p>&nbsp;</p>",
+   "detected_at": "2026-11-25T08:19:13Z",
+   "announced_at": "2026-11-24T18:59:00Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/meta-says-festive-shoppers-use-social-media-for-gift-discovery/875523/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/meta-says-festive-shoppers-use-social-media-for-gift-discovery/875523/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "yt-ms-rachel-is-fighting-for-kids-rights-to-legal-r-332d2e",
    "platform": "youtube",
    "title": "Ms Rachel is fighting for kids’ rights to legal representation",
@@ -2072,8 +2110,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-24T23:54:36Z",
+ "generated_at": "2026-11-25T08:19:13Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "version": "1.7.0"
 }

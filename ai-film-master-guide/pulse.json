@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-24T23:54:36Z",
+ "generated_at": "2026-11-25T08:19:13Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 5,
  "sources_total": 5,
- "last_data_change_at": "2026-11-24T23:54:36Z",
+ "last_data_change_at": "2026-11-25T08:19:13Z",
  "sources": [
   {
    "id": "arxiv",
    "label": "arXiv video generation",
    "url": "http://export.arxiv.org/api/query?search_query=all:%22video+generation%22&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending",
    "ok": true,
-   "items": 244,
-   "checked_at": "2026-11-24T23:54:33Z",
-   "last_ok_at": "2026-11-24T23:54:33Z",
+   "items": 264,
+   "checked_at": "2026-11-25T08:19:11Z",
+   "last_ok_at": "2026-11-25T08:19:11Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://github.com/huggingface/diffusers/releases",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-24T23:54:36Z",
-   "last_ok_at": "2026-11-24T23:54:36Z",
+   "checked_at": "2026-11-25T08:19:13Z",
+   "last_ok_at": "2026-11-25T08:19:13Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://huggingface.co/api/models?pipeline_tag=text-to-video&sort=lastModified&direction=-1&limit=30",
    "ok": true,
    "items": 30,
-   "checked_at": "2026-11-24T23:54:32Z",
-   "last_ok_at": "2026-11-24T23:54:32Z",
+   "checked_at": "2026-11-25T08:19:10Z",
+   "last_ok_at": "2026-11-25T08:19:10Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://hn.algolia.com/api/v1/search?query=AI%20video&tags=story&numericFilters=points%3E%3D50&hitsPerPage=20",
    "ok": true,
    "items": 20,
-   "checked_at": "2026-11-24T23:54:34Z",
-   "last_ok_at": "2026-11-24T23:54:34Z",
+   "checked_at": "2026-11-25T08:19:11Z",
+   "last_ok_at": "2026-11-25T08:19:11Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,372 +57,372 @@
    "url": "data/v1/model-checks.json",
    "ok": true,
    "items": 44,
-   "checked_at": "2026-11-24T23:54:31Z",
-   "last_ok_at": "2026-11-24T23:54:31Z",
+   "checked_at": "2026-11-25T08:19:10Z",
+   "last_ok_at": "2026-11-25T08:19:10Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
   {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: neonforestmist/LTX_Storybook_Anime_Style_LoRA",
-   "ref": "https://huggingface.co/neonforestmist/LTX_Storybook_Anime_Style_LoRA"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: n3k0d3v/Sulphur3-INT8-ConvRot",
-   "ref": "https://huggingface.co/n3k0d3v/Sulphur3-INT8-ConvRot"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: shourabhji3/StoryMem",
-   "ref": "https://huggingface.co/shourabhji3/StoryMem"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
-   "ref": "http://arxiv.org/abs/2611.31239v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: On-Policy Codec Distillation for Efficient All-in-One Video Generation",
-   "ref": "http://arxiv.org/abs/2611.31184v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Analyzing and Improving FlowMap Distillation of Autoregressive Video Models",
-   "ref": "http://arxiv.org/abs/2611.31164v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Wrist-Camera Video Diffusion as Generalizable Robot Policies",
-   "ref": "http://arxiv.org/abs/2611.31079v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Optimising VLM Harnesses to Localise Errors in Generated Videos",
-   "ref": "http://arxiv.org/abs/2611.30673v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: CineAct: Interaction-State Agents for Playable, Branching Film Generation",
-   "ref": "http://arxiv.org/abs/2611.30613v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: ColonoWorld: Camera-Controlled Full-Procedure Colonoscopy Video Generation",
-   "ref": "http://arxiv.org/abs/2611.30372v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: SceneCast: Learning Indoor Scene Synthesis from Curated Synthetic Videos with LLM Reward",
-   "ref": "http://arxiv.org/abs/2611.30345v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Draft Forcing: Target-guided Speculative Drafting and Learned Verifier for Autoregressive Video Generation",
-   "ref": "http://arxiv.org/abs/2611.30328v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Video Generalized Category Discovery",
-   "ref": "http://arxiv.org/abs/2611.30316v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: ReVAgent: Multi-Agent Reasoning-Intensive Video Generation",
-   "ref": "http://arxiv.org/abs/2611.30163v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: AxE: Benchmarking Agent-Environment Generalization of Video World Models via Grounded Events",
-   "ref": "http://arxiv.org/abs/2611.30120v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: 3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets",
-   "ref": "http://arxiv.org/abs/2611.30013v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: HandiVid: A High-Quality Dataset for Hand-Driven Interactive Video Generation",
-   "ref": "http://arxiv.org/abs/2611.29693v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Mass Forcing: On-Policy Mass-Aware Distillation for Autoregressive Video Generation",
-   "ref": "http://arxiv.org/abs/2611.29618v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: OnCache: Learning Dynamic Caching Schedules for Efficient Diffusion Inference",
-   "ref": "http://arxiv.org/abs/2611.29480v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: HorizonFlow: Few-Step Video Distillation in 600 Iterations",
-   "ref": "http://arxiv.org/abs/2611.29431v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: MSBench: Benchmarking Script-Controlled Multi-Shot Text-to-Video Generation",
-   "ref": "http://arxiv.org/abs/2611.29417v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: Self-Refining VLA Sampling",
-   "ref": "http://arxiv.org/abs/2611.29383v1"
-  },
-  {
-   "at": "2026-11-24T23:54:36Z",
-   "kind": "paper",
-   "title": "New arXiv paper: GALILEO: Geometric RoPE with Galilean Key Transport for Dynamic Scenes",
-   "ref": "http://arxiv.org/abs/2611.29293v1"
-  },
-  {
-   "at": "2026-11-24T13:35:24Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: gatilin/nava-joint-av-dit",
-   "ref": "https://huggingface.co/gatilin/nava-joint-av-dit"
-  },
-  {
-   "at": "2026-11-24T13:35:24Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: Jingkuan/GeoRoute",
-   "ref": "https://huggingface.co/Jingkuan/GeoRoute"
-  },
-  {
-   "at": "2026-11-24T13:35:24Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: NathanAN123/Hindsight_Forcing",
-   "ref": "https://huggingface.co/NathanAN123/Hindsight_Forcing"
-  },
-  {
-   "at": "2026-11-24T13:35:24Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: johnnywalker007/PinkCherry-NSFW_MiniMax-H3",
-   "ref": "https://huggingface.co/johnnywalker007/PinkCherry-NSFW_MiniMax-H3"
-  },
-  {
-   "at": "2026-11-24T13:35:24Z",
-   "kind": "new-model",
-   "title": "New text-to-video model listed on Hugging Face: dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA",
-   "ref": "https://huggingface.co/dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA"
-  },
-  {
-   "at": "2026-11-24T13:35:24Z",
-   "kind": "release",
-   "title": "comfyui release: v0.46.3",
-   "ref": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.3"
-  },
-  {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Seedance 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://cellcog.ai/blog/seedance-2-5-pricing/"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Seedance 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.highonfilms.com/seedance-3-0-provider-checks/"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Kling 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Veo 3.1: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Veo 3.1 Fast / Veo 3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://mer.vin/2026/09/which-ai-video-models-actually-take-a-first-and-last-frame/"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Sora 2 / Pro / Max: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://dev.to/stimlau/sora-vs-runway-openai-killed-sora-now-what-2692"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Wan 3.0 / 3.0 Prime: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.makeinfluencer.ai/guides/best-ai-video-generators-2026"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Hailuo 02 / 2.3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://magichour.ai/blog/hailuo-23-pricing"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "MiniMax H3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://pixo.video/blog/what-is-minimax-h3"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Luma App / Ray 3.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://magichour.ai/blog/kling-vs-pika-vs-luma"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Pika 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://alphasignal.ai/news/pika-rebuilds-into-a-full-creative-studio-routing-across-seven-ai-tools"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Marketing Studio video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://higgsfield.ai/pricing"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Grok Imagine Video 1.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://venice.ai/models/grok-imagine-1-5-lite"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Midjourney V1 Video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.krea.ai/blog/is-midjourney-free-pricing-video-and-free-alternatives-in-2026"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Kling 4.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Gemini Omni: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "LTX-2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://intelligibberish.com/articles/best-local-video-generation-models-by-vram/"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Vidu S2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "ref": "https://lapaasvoice.com/vidu-s2-real-time-ai-video-control/"
+   "ref": "https://www.prnewswire.com/news-releases/shengshu-technology-unveils-vidu-s2-bringing-real-time-interaction-and-editing-to-ai-video-302879976.html"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Mirage Tesseract: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://mirage.app/tesseract"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Runway Gen-4.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.techtimes.com/articles/326994/20260908/runway-ai-hits-200m-arr-enterprise-video-adoption-triples-existing-spend.htm"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Vidu Q4 Preview: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.vidu.com/pricing"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "FLUX 3 Video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "PixVerse V6: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.yottalabs.ai/post/pixverse-v6-vs-c1-differences-api-2026"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Wan 2.7: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://poyo.ai/models/wan-2-7-video"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "source-change",
    "title": "Nano Banana 2 and Pro: source pages changed - queued for human review",
    "ref": "https://blog.google/innovation-and-ai/products/nano-banana-pro/"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Seedream 5.0 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://openrouter.ai/bytedance-seed/seedream-5-0-flash"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "FLUX.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://en.wikipedia.org/wiki/Flux_(text-to-image_model)"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "GPT Image 2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://memeburn.com/chatgpt-images-2-0-launches-with-better-text/"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Midjourney V8.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://powerdrill.ai/blog/midjourney-v8-2-edit-model"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Runway Aleph 2.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://www.therundown.ai/tools/aleph"
   },
   {
-   "at": "2026-11-24T02:11:48Z",
+   "at": "2026-11-25T08:19:13Z",
    "kind": "price-signal",
    "title": "Adobe Firefly: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "ref": "https://news.adobe.com/news/2026/04/adobe-new-creative-agent"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "price-signal",
+   "title": "ElevenLabs Eleven v3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "ref": "https://aitoolblaze.com/blog/elevenlabs-review-2026"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "price-signal",
+   "title": "Suno v5.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "ref": "https://en.wikipedia.org/wiki/Suno"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "price-signal",
+   "title": "Lyria 3 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "ref": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "price-signal",
+   "title": "Topaz Astra: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "ref": "https://www.topazlabs.com/astra"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "price-signal",
+   "title": "Runway Act-Two: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "ref": "https://aivideos.eu/blog/runway-act-one-vs-heygen-ai-actor-direction"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: lxr2003/Physmend",
+   "ref": "https://huggingface.co/lxr2003/Physmend"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: AAASFASD/Wan2.1-T2V-1.3B",
+   "ref": "https://huggingface.co/AAASFASD/Wan2.1-T2V-1.3B"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: ahm22004/kaomnique",
+   "ref": "https://huggingface.co/ahm22004/kaomnique"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Infinity-io/Wan2.2-TI2V-5B",
+   "ref": "https://huggingface.co/Infinity-io/Wan2.2-TI2V-5B"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: cleitonsoizza/LongCat-Video-base",
+   "ref": "https://huggingface.co/cleitonsoizza/LongCat-Video-base"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: Alissonerdx/Qwen3.5-9B-Minimax-H3",
+   "ref": "https://huggingface.co/Alissonerdx/Qwen3.5-9B-Minimax-H3"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "new-model",
+   "title": "New text-to-video model listed on Hugging Face: benf22/will-it-render",
+   "ref": "https://huggingface.co/benf22/will-it-render"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+   "ref": "http://arxiv.org/abs/2611.33147v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+   "ref": "http://arxiv.org/abs/2611.33141v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation",
+   "ref": "http://arxiv.org/abs/2611.32821v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Residual Guidance for Real-Time Interactive Video Generation",
+   "ref": "http://arxiv.org/abs/2611.32820v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Sol$^{3}$: Accelerating Video Diffusion for Free via Hierarchical Sparse Attention Routing",
+   "ref": "http://arxiv.org/abs/2611.32562v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Contact Geometry for Generative Models: An Unbalanced Optimal Transport Formulation",
+   "ref": "http://arxiv.org/abs/2611.32547v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution",
+   "ref": "http://arxiv.org/abs/2611.32473v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Video Models are Excellent Motion Models",
+   "ref": "http://arxiv.org/abs/2611.32432v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: NRG-Twins: Pixel-Level Ground Truth for Rigidity Violations in Generated Videos",
+   "ref": "http://arxiv.org/abs/2611.32431v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Get the Next Moment Right: Short-Term Event Planning for Physically Plausible Video Generation",
+   "ref": "http://arxiv.org/abs/2611.32337v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: RoboProbe: Benchmarking Physical Plausibility of Robot World Models",
+   "ref": "http://arxiv.org/abs/2611.32152v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: The Old Scene Lives in the Cache: Diagnosing and Shedding Stale History in Streaming Video Generation",
+   "ref": "http://arxiv.org/abs/2611.32116v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: DeCo-Attention: Decompose to Compensate for Low-Precision Attention",
+   "ref": "http://arxiv.org/abs/2611.32035v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: SPAR: Self-Referenced World-Model Rewards for Physical Alignment in Video Generation",
+   "ref": "http://arxiv.org/abs/2611.31958v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: Loupe: Reinforcing Knowledge-Intensive Video Generation Agents",
+   "ref": "http://arxiv.org/abs/2611.31895v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: G0.7: Scaling Up a Fast World Action Model with Long Context",
+   "ref": "http://arxiv.org/abs/2611.31822v1"
+  },
+  {
+   "at": "2026-11-25T08:19:13Z",
+   "kind": "paper",
+   "title": "New arXiv paper: LeanWAM: Learning Latent World Action Models from Frozen Video Models",
+   "ref": "http://arxiv.org/abs/2611.31740v1"
   }
  ]
 }
