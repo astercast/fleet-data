@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-24T15:14:37Z",
+ "generated_at": "2026-11-25T14:54:09Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-24T15:14:37Z",
+ "last_data_change_at": "2026-11-25T14:54:09Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-24T15:14:34Z",
-   "last_ok_at": "2026-11-24T15:14:34Z",
+   "checked_at": "2026-11-25T14:54:05Z",
+   "last_ok_at": "2026-11-25T14:54:05Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 100,
-   "checked_at": "2026-11-24T15:14:37Z",
-   "last_ok_at": "2026-11-24T15:14:37Z",
+   "items": 66,
+   "checked_at": "2026-11-25T14:54:09Z",
+   "last_ok_at": "2026-11-25T14:54:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-24T15:14:37Z",
-   "last_ok_at": "2026-11-24T15:14:37Z",
+   "checked_at": "2026-11-25T14:54:09Z",
+   "last_ok_at": "2026-11-25T14:54:09Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -45,14 +45,32 @@
    "label": "ToyArena catalog",
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
-   "items": 64,
-   "checked_at": "2026-11-24T15:14:37Z",
-   "last_ok_at": "2026-11-24T15:14:37Z",
+   "items": 60,
+   "checked_at": "2026-11-25T14:54:08Z",
+   "last_ok_at": "2026-11-25T14:54:08Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-25T14:54:09Z",
+   "kind": "story",
+   "title": "Marvel Officially Unmasks Doctor Doom Ahead of Robert Downey Jr.’s Return in ‘Avengers: Doomsday’ - Collider",
+   "ref": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EZDJhTHJVdFg1d1JwRXNRcEVLODh4dEZSSllpOTA3RWd0Y0V1VFgzR2dWdUx5REUycGh2MVhvUGdNaDViNjBhakF1b25tc2JPMnh3a21yam9KU0VMajRRSThwQ3Zobk1mM1Z3Sl9B?oc=5"
+  },
+  {
+   "at": "2026-11-25T14:54:09Z",
+   "kind": "story",
+   "title": "New Marvel Legends Figures Revealed For Avengers: Doomsday & X-Men '97 - IMDb",
+   "ref": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TSUktNlYxWHk4cmpMV05aWnhOVThIZU9uSTdfU2sxS3B5MjNWQVNXSnFEMXdxSWlMbjZ3WUxJU2xsWHlCLVVSeGNhV2g0dw?oc=5"
+  },
+  {
+   "at": "2026-11-25T14:54:09Z",
+   "kind": "story",
+   "title": "McFarlane Toys DC Multiverse and DC Super Powers Black Friday Deals launch on Amazon - Flickering Myth",
+   "ref": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTdDLVRNZnRhamJieXVKVDRHdXQyYzZ4dGU1OE5jbDMwS0xERXJ3RDBUUmtWd1poXzdmbWxZNExPeU42eHlHcUFzRThEQ3U4cnJHTVg3enB4Z3gtZGhBclkwT0Q3VEF2ZkNhWnVmdDdxYkNScElkMDlKWXVHM1pMRjBQWjZfbjk2eGplY2VIWlJuZjVmQ0ZSZHEwejFDWXVCUnBQMGJFcTVrb3FYb0c5Qg?oc=5"
+  },
   {
    "at": "2026-11-24T15:14:37Z",
    "kind": "story",
@@ -394,24 +412,6 @@
    "kind": "story",
    "title": "'Guardians of the Galaxy Vol. 3': Blast off with new Marvel Legends - Marvel.com",
    "ref": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnFDTnpkWDVXQkstZlU4dGQ3bEE2a1lGSzZFc2Eycmh3ckFpVkw0LTBnUkFaekZtd1VXdU9ld05IaWdGclFjd1EyYmtDVXFnT1JlVzZoX3JvV25pXzY2ODZ4NDdFUjROUGVaejRpZWFscXE5RWw1cXdNak54bWpjS2cwRGZXUXND?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "story",
-   "title": "Hasbro Reveals 'Captain Marvel' Marvel Legends Figures - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1FJbXNHZWVuQlpOYWprcUh0S2ZzQ0dQdGlkRDhKZThBZ3FQeWplb3BRTk1Gam5nWHFJVmRtZnJtZ1IteTRmWFdDSEdlNWIxaXVNOXdhLVJCYkZ6Y09ra0luZlZnMHMxUXRFRk5kdlZqd21RZEg3eW9ERllGaGFUZ2JlUjdKNFVJSURxV2ZIQ3hTblU?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "story",
-   "title": "Marvel Legends: First Look at Six Arm Spider-Man and Puma Figures - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGJvOFBfc09ISzRYcXVwWkludmZPMG9CeElEeHM5R3piVGd3eGtnM2k4bmdmenZ1QnF2ZlhEZkw3eFAzT2k0bkFFZmRvQm5hOG12cGYwc1VaZnRpclc2UVpiUTdNWU9Kb1dELUZYVWVOWXVUSkozNE84Qjk1ZWxXbjZ2YVNrZmR2VXc4ZF9WQlhVRG9DWGZmQUtvdlp2ZGFuamxj?oc=5"
-  },
-  {
-   "at": "2026-11-12T13:13:56Z",
-   "kind": "catalog",
-   "title": "ToyArena: Marvel Legends Spider-Man: No Way Home Scorpion Action Figure",
-   "ref": "https://toyarena.com/products/marvel-legends-spider-man-no-way-home-scorpion-action-figure"
   }
  ]
 }
