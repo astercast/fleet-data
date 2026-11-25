@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-25T08:22:40Z",
+ "generated_at": "2026-11-25T19:13:55Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
  "sources_total": 2,
- "last_data_change_at": "2026-11-24T23:57:36Z",
+ "last_data_change_at": "2026-11-25T19:13:55Z",
  "sources": [
   {
    "id": "bat",
    "label": "Bring a Trailer results",
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
-   "items": 36,
-   "checked_at": "2026-11-25T08:22:37Z",
-   "last_ok_at": "2026-11-25T08:22:37Z",
+   "items": 72,
+   "checked_at": "2026-11-25T19:13:51Z",
+   "last_ok_at": "2026-11-25T19:13:51Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,13 +24,49 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12442,
-   "checked_at": "2026-11-25T08:22:40Z",
-   "last_ok_at": "2026-11-25T08:22:40Z",
+   "checked_at": "2026-11-25T19:13:55Z",
+   "last_ok_at": "2026-11-25T19:13:55Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-25T19:13:55Z",
+   "kind": "sale",
+   "title": "2013 Porsche 911 Carrera S Cabriolet",
+   "ref": "https://bringatrailer.com/listing/2013-porsche-911-carrera-s-cabriolet-51/"
+  },
+  {
+   "at": "2026-11-25T19:13:55Z",
+   "kind": "sale",
+   "title": "2018 BMW X5 xDrive35i M Sport",
+   "ref": "https://bringatrailer.com/listing/2018-bmw-x5-xdrive35i-5/"
+  },
+  {
+   "at": "2026-11-25T19:13:55Z",
+   "kind": "sale",
+   "title": "1987 Mazda RX-7 5-Speed",
+   "ref": "https://bringatrailer.com/listing/1987-mazda-rx-7-42/"
+  },
+  {
+   "at": "2026-11-25T19:13:55Z",
+   "kind": "sale",
+   "title": "2018 Dodge Challenger SRT Hellcat Widebody",
+   "ref": "https://bringatrailer.com/listing/2018-dodge-challenger-srt-hellcat-widebody-12/"
+  },
+  {
+   "at": "2026-11-25T19:13:55Z",
+   "kind": "sale",
+   "title": "13k-Mile 2020 Ford Mustang Shelby GT500 Carbon Fiber Track Pack",
+   "ref": "https://bringatrailer.com/listing/2020-ford-mustang-shelby-gt500-136/"
+  },
+  {
+   "at": "2026-11-25T19:13:55Z",
+   "kind": "sale",
+   "title": "17k-Mile 1983 Ford Mustang GLX 5.0 Convertible 4-Speed",
+   "ref": "https://bringatrailer.com/listing/1983-ford-mustang-29/"
+  },
   {
    "at": "2026-11-24T23:57:36Z",
    "kind": "sale",
@@ -354,42 +390,6 @@
    "kind": "sale",
    "title": "1977 Ford Bronco Ranger 302",
    "ref": "https://bringatrailer.com/listing/1977-ford-bronco-285/"
-  },
-  {
-   "at": "2026-11-20T20:04:41Z",
-   "kind": "sale",
-   "title": "2008 Cadillac Escalade EXT AWD",
-   "ref": "https://bringatrailer.com/listing/2008-cadillac-escalade-ext-9/"
-  },
-  {
-   "at": "2026-11-20T20:04:41Z",
-   "kind": "sale",
-   "title": "26-Years-Owned, RoW 1982 Porsche 911 Turbo",
-   "ref": "https://bringatrailer.com/listing/1982-porsche-911-turbo-12/"
-  },
-  {
-   "at": "2026-11-20T20:04:41Z",
-   "kind": "sale",
-   "title": "2003 Porsche 911 Carrera Cabriolet 6-Speed",
-   "ref": "https://bringatrailer.com/listing/2003-porsche-911-carrera-cabriolet-110/"
-  },
-  {
-   "at": "2026-11-20T20:04:41Z",
-   "kind": "sale",
-   "title": "One-Owner, 140-Mile 2017 Ford Mustang Shelby GT350R",
-   "ref": "https://bringatrailer.com/listing/2017-ford-mustang-shelby-gt350r-71/"
-  },
-  {
-   "at": "2026-11-20T20:04:41Z",
-   "kind": "sale",
-   "title": "1,600-Mile 1999 Dodge Viper GTS ACR",
-   "ref": "https://bringatrailer.com/listing/1999-dodge-viper-gts-26/"
-  },
-  {
-   "at": "2026-11-20T20:04:41Z",
-   "kind": "sale",
-   "title": "2006 Porsche Cayenne S Titanium Edition",
-   "ref": "https://bringatrailer.com/listing/2006-porsche-cayenne-s-65/"
   }
  ]
 }

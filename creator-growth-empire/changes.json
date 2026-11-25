@@ -1,6 +1,25 @@
 {
  "changes": [
   {
+   "id": "fb-meta-says-social-media-is-key-driver-for-holiday-0e2d29",
+   "platform": "facebook",
+   "title": "Meta says social media is key driver for holiday discovery",
+   "summary": "<p>People who shop via social media are more likely to purchase across multiple categories and self-gift, according to the company.</p>",
+   "detected_at": "2026-11-25T19:11:50Z",
+   "announced_at": "2026-11-24T18:59:00Z",
+   "effective_at": null,
+   "source_url": "https://www.socialmediatoday.com/news/meta-says-social-media-is-key-driver-for-holiday-discovery/875523/",
+   "sources": [
+    {
+     "name": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/meta-says-social-media-is-key-driver-for-holiday-discovery/875523/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "cw-australian-government-moves-ahead-with-algorithm-358b97",
    "platform": "other",
    "title": "Australian government moves ahead with algorithm opt-out legislation",
@@ -2110,7 +2129,7 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-25T08:19:13Z",
+ "generated_at": "2026-11-25T19:11:50Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
  "updated": "2026-11-25",
  "version": "1.7.0"

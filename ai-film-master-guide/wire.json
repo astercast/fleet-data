@@ -1,7 +1,17 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-25T08:19:13Z",
+ "generated_at": "2026-11-25T19:11:50Z",
  "items": [
+  {
+   "id": "hf-Tiersay/LTX-2.3-uncensored-v1.4-FP8",
+   "at": "2026-11-25T14:14:31Z",
+   "model": "Tiersay/LTX-2.3-uncensored-v1.4-FP8",
+   "title": "New text-to-video model listed on Hugging Face: Tiersay/LTX-2.3-uncensored-v1.4-FP8",
+   "url": "https://huggingface.co/Tiersay/LTX-2.3-uncensored-v1.4-FP8",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-25",
    "at": "2026-11-25T08:19:07+00:00",
@@ -1488,16 +1498,6 @@
    "model": "Runway Gen-4.5",
    "title": "Runway Gen-4.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://www.techtimes.com/articles/326994/20260908/runway-ai-hits-200m-arr-enterprise-video-adoption-triples-existing-spend.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Mirage Tesseract-2026-11-23",
-   "at": "2026-11-23T01:35:12+00:00",
-   "model": "Mirage Tesseract",
-   "title": "Mirage Tesseract: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://mirage.app/tesseract",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"
