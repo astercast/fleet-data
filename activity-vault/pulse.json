@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-25T14:55:22Z",
+ "generated_at": "2026-11-26T14:25:48Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-25T14:54:11Z",
+ "last_data_change_at": "2026-11-26T14:24:45Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 178,
-   "checked_at": "2026-11-25T14:55:22Z",
-   "last_ok_at": "2026-11-25T14:55:22Z",
+   "items": 209,
+   "checked_at": "2026-11-26T14:25:48Z",
+   "last_ok_at": "2026-11-26T14:25:48Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-25T14:54:12Z",
-   "last_ok_at": "2026-11-25T14:54:12Z",
+   "checked_at": "2026-11-26T14:24:46Z",
+   "last_ok_at": "2026-11-26T14:24:46Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-25T14:54:11Z",
-   "last_ok_at": "2026-11-25T14:54:11Z",
+   "checked_at": "2026-11-26T14:24:45Z",
+   "last_ok_at": "2026-11-26T14:24:45Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-25T14:54:11Z",
-   "last_ok_at": "2026-11-25T14:54:11Z",
+   "checked_at": "2026-11-26T14:24:46Z",
+   "last_ok_at": "2026-11-26T14:24:46Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-25T14:54:11Z",
-   "last_ok_at": "2026-11-25T14:54:11Z",
+   "checked_at": "2026-11-26T14:24:46Z",
+   "last_ok_at": "2026-11-26T14:24:46Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-25T14:54:11Z",
-   "last_ok_at": "2026-11-25T14:54:11Z",
+   "checked_at": "2026-11-26T14:24:45Z",
+   "last_ok_at": "2026-11-26T14:24:45Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,187 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-25T14:54:10Z",
-   "last_ok_at": "2026-11-25T14:54:10Z",
+   "checked_at": "2026-11-26T14:24:44Z",
+   "last_ok_at": "2026-11-26T14:24:44Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-26T14:24:45Z",
+   "kind": "post",
+   "title": "Christmas Tree Transfer Activity for Toddlers",
+   "ref": "https://handsonaswegrow.com/christmas-fine-motor-activity/"
+  },
+  {
+   "at": "2026-11-26T14:24:45Z",
+   "kind": "post",
+   "title": "How to Play Bunco: Rules & Printable Score Sheets",
+   "ref": "https://teachbesideme.com/bunco-game/"
+  },
+  {
+   "at": "2026-11-26T14:24:46Z",
+   "kind": "post",
+   "title": "Picasso Santa Craft",
+   "ref": "https://littlebinsforlittlehands.com/picasso-santa-craft/"
+  },
+  {
+   "at": "2026-11-26T14:24:46Z",
+   "kind": "post",
+   "title": "Poinsettia Art Project for Kids",
+   "ref": "https://littlebinsforlittlehands.com/poinsetta-art-project/"
+  },
+  {
+   "at": "2026-11-26T14:24:46Z",
+   "kind": "post",
+   "title": "Free Printable Thanksgiving Placemat Activity Sheets for Kids",
+   "ref": "https://kidsactivitiesblog.com/62949/thanksgiving-placemat/"
+  },
+  {
+   "at": "2026-11-26T14:24:46Z",
+   "kind": "post",
+   "title": "Festive Turkey Puppet Craft For Kids",
+   "ref": "https://kidsactivitiesblog.com/287949/festive-turkey-puppet-craft-for-kids/"
+  },
+  {
+   "at": "2026-11-26T14:24:46Z",
+   "kind": "post",
+   "title": "Easy Pumpkin Patch Pudding Treat Recipe",
+   "ref": "https://kidsactivitiesblog.com/95030/pumpkin-patch-pudding-treat/"
+  },
+  {
+   "at": "2026-11-26T14:24:46Z",
+   "kind": "post",
+   "title": "Best Pumpkin Dump Cake Recipe",
+   "ref": "https://kidsactivitiesblog.com/216237/best-pumpkin-dump-cake-recipe/"
+  },
+  {
+   "at": "2026-11-26T14:24:46Z",
+   "kind": "post",
+   "title": "Simple 3D Paper Pumpkin Craft for Kids",
+   "ref": "https://kidsactivitiesblog.com/127898/paper-pumpkin-craft-kids/"
+  },
+  {
+   "at": "2026-11-26T14:24:46Z",
+   "kind": "post",
+   "title": "12 Thanksgiving Fun Facts for Kids You Can Print",
+   "ref": "https://kidsactivitiesblog.com/164462/thanksgiving-facts-coloring-pages/"
+  },
+  {
+   "at": "2026-11-26T14:24:46Z",
+   "kind": "post",
+   "title": "Free Printable Thanksgiving Scavenger Hunt",
+   "ref": "https://kidsactivitiesblog.com/184963/thanksgiving-scavenger-hunt/"
+  },
+  {
+   "at": "2026-11-26T14:24:46Z",
+   "kind": "post",
+   "title": "5 Traditional Thanksgiving Side Dish Recipes",
+   "ref": "https://kidsactivitiesblog.com/97738/5-traditional-thanksgiving-side-dishes/"
+  },
+  {
+   "at": "2026-11-26T14:24:58Z",
+   "kind": "photo-candidate",
+   "title": "All Aboard Raft",
+   "ref": "https://commons.wikimedia.org/wiki/File:A_BLM_park_ranger_aboard_his_raft_in_the_Green_River.jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:01Z",
+   "kind": "photo-candidate",
+   "title": "Human Bingo",
+   "ref": "https://commons.wikimedia.org/wiki/File:Community_bingo_card.jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:03Z",
+   "kind": "photo-candidate",
+   "title": "Desert Island Picks",
+   "ref": "https://commons.wikimedia.org/wiki/File:Glacial_striations_(Bar_Harbor_Formation,_Silurian-Devonian;_Bar_Harbor,_Mt._Desert_Island,_Maine,_USA)_2.jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:06Z",
+   "kind": "photo-candidate",
+   "title": "Paper Plate Skating",
+   "ref": "https://commons.wikimedia.org/wiki/File:The_Art_of_Skating_(BM_1931,1114.627).jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:07Z",
+   "kind": "photo-candidate",
+   "title": "Cup Song Circle",
+   "ref": "https://commons.wikimedia.org/wiki/File:Ganga_arathi.jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:09Z",
+   "kind": "photo-candidate",
+   "title": "Apple Browning Lab",
+   "ref": "https://commons.wikimedia.org/wiki/File:FEMA_-_26765_-_Photograph_by_Patricia_Brach_taken_on_10-24-2006_in_Hawaii.jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:15Z",
+   "kind": "photo-candidate",
+   "title": "Apple Print Painting",
+   "ref": "https://commons.wikimedia.org/wiki/File:An_Apple,_Grapes_and_a_Hazelnut_on_a_Mossy_Bank_MET_DP829448.jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:21Z",
+   "kind": "photo-candidate",
+   "title": "Halloween Bingo",
+   "ref": "https://commons.wikimedia.org/wiki/File:20261016-USDA-RD-WV--S_K-2001_(55622410128).jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:22Z",
+   "kind": "photo-candidate",
+   "title": "Costume Category Vote",
+   "ref": "https://commons.wikimedia.org/wiki/File:Norma_Talmadge_Picture_Play_magazine.jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:26Z",
+   "kind": "photo-candidate",
+   "title": "Winter Joke Slam",
+   "ref": "https://commons.wikimedia.org/wiki/File:St._Louis_Post-Dispatch_of_St._Louis,_Missouri_on_August_2,_1943.jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:29Z",
+   "kind": "photo-candidate",
+   "title": "Take-a-Stand Debate",
+   "ref": "https://commons.wikimedia.org/wiki/File:Lincoln-Douglas_Debate_Memorial_(8746702557).jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:32Z",
+   "kind": "photo-candidate",
+   "title": "Masterpiece Coloring Gallery",
+   "ref": "https://commons.wikimedia.org/wiki/File:George_Peter_Alexander_Healy_-_Portrait_of_Abraham_Lincoln_(1860).jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:34Z",
+   "kind": "photo-candidate",
+   "title": "Ice Ornaments",
+   "ref": "https://commons.wikimedia.org/wiki/File:Coeur_Heart_Ice_Blue.png"
+  },
+  {
+   "at": "2026-11-26T14:25:40Z",
+   "kind": "photo-candidate",
+   "title": "Winter Freeze Dance",
+   "ref": "https://commons.wikimedia.org/wiki/File:Februarius_-_Petrus_Stephani_inven._LCCN2017650424.jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:42Z",
+   "kind": "photo-candidate",
+   "title": "Year-in-Review Quilt",
+   "ref": "https://commons.wikimedia.org/wiki/File:Happy_New_Year_(51792744196).jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:44Z",
+   "kind": "photo-candidate",
+   "title": "Resolution Ladder",
+   "ref": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_interpretation_of_the_cosmic_distance_ladder_(noirlab2611a).jpg"
+  },
+  {
+   "at": "2026-11-26T14:25:47Z",
+   "kind": "photo-candidate",
+   "title": "Winter Tall Tale",
+   "ref": "https://commons.wikimedia.org/wiki/File:Creative_Snowman_Christmas_Decoration_from_Paper.jpg"
+  },
   {
    "at": "2026-11-25T14:54:11Z",
    "kind": "post",
@@ -187,180 +361,6 @@
    "kind": "photo-candidate",
    "title": "Appreciation Postcards",
    "ref": "https://commons.wikimedia.org/wiki/File:Barker%27s_Fair_Store,_1908_-_Indiana_Harbor,_Indiana_-_Flickr_-_Shook_Photos.jpg"
-  },
-  {
-   "at": "2026-11-25T14:55:21Z",
-   "kind": "photo-candidate",
-   "title": "Community Helper Interviews",
-   "ref": "https://commons.wikimedia.org/wiki/File:53rd_IBCT_Commander_interviews_with_local_Albania_media_at_community_outreach_event_(6663221).jpg"
-  },
-  {
-   "at": "2026-11-24T15:14:39Z",
-   "kind": "post",
-   "title": "Winter Bulletin Boards: Free Printable Kits To Celebrate Student Growth",
-   "ref": "https://www.weareteachers.com/winter-bulletin-boards/?utm_source=rss&utm_medium=rss&utm_campaign=winter-bulletin-boards"
-  },
-  {
-   "at": "2026-11-24T15:14:39Z",
-   "kind": "post",
-   "title": "80+ Bloom’s Taxonomy Higher-Order Thinking Questions + Free Printable",
-   "ref": "https://www.weareteachers.com/higher-order-thinking-questions/?utm_source=rss&utm_medium=rss&utm_campaign=higher-order-thinking-questions"
-  },
-  {
-   "at": "2026-11-24T15:14:39Z",
-   "kind": "post",
-   "title": "80 Exciting 4th Grade Science Projects and Experiments",
-   "ref": "https://www.weareteachers.com/4th-grade-science-experiments/?utm_source=rss&utm_medium=rss&utm_campaign=4th-grade-science-experiments"
-  },
-  {
-   "at": "2026-11-24T15:14:39Z",
-   "kind": "post",
-   "title": "55 Easy Kindergarten Science Experiments for Hands-On Learning",
-   "ref": "https://www.weareteachers.com/kindergarten-science-activities/?utm_source=rss&utm_medium=rss&utm_campaign=kindergarten-science-activities"
-  },
-  {
-   "at": "2026-11-24T15:14:39Z",
-   "kind": "post",
-   "title": "75 Best High School Science Experiments and Projects for Every Subject",
-   "ref": "https://www.weareteachers.com/science-experiments-for-high-school/?utm_source=rss&utm_medium=rss&utm_campaign=science-experiments-for-high-school"
-  },
-  {
-   "at": "2026-11-24T15:14:40Z",
-   "kind": "post",
-   "title": "Touch & Feel Hanukkah Game for Kids",
-   "ref": "https://handsonaswegrow.com/touch-feel-hanukkah-game-kids/"
-  },
-  {
-   "at": "2026-11-24T15:14:40Z",
-   "kind": "post",
-   "title": "Best Crock Pot Hot Chocolate Recipe",
-   "ref": "https://kidsactivitiesblog.com/62492/slow-cooker-hot-chocolate/"
-  },
-  {
-   "at": "2026-11-24T15:14:40Z",
-   "kind": "post",
-   "title": "Elf on the Shelf Countdown to Christmas Paper Chain Idea",
-   "ref": "https://kidsactivitiesblog.com/114515/elf-shelf-countdown-christmas/"
-  },
-  {
-   "at": "2026-11-24T15:14:40Z",
-   "kind": "post",
-   "title": "Printable Thanksgiving Coloring Pages For Preschool Kids",
-   "ref": "https://kidsactivitiesblog.com/176452/thanksgiving-printables-for-preschoolers-coloring-pages/"
-  },
-  {
-   "at": "2026-11-24T15:14:40Z",
-   "kind": "post",
-   "title": "Easy & Cute Origami Turkey Craft",
-   "ref": "https://kidsactivitiesblog.com/219452/origami-turkey-craft/"
-  },
-  {
-   "at": "2026-11-24T15:14:40Z",
-   "kind": "post",
-   "title": "Super Fun Snowman Craft For Kids",
-   "ref": "https://kidsactivitiesblog.com/308738/super-fun-snowman-craft-for-kids/"
-  },
-  {
-   "at": "2026-11-24T15:14:40Z",
-   "kind": "post",
-   "title": "Easy Cardboard Christmas Tree Craft for Kids",
-   "ref": "https://kidsactivitiesblog.com/183969/cardboard-christmas-tree/"
-  },
-  {
-   "at": "2026-11-24T15:14:40Z",
-   "kind": "post",
-   "title": "Decorate Your Own Donuts Craft",
-   "ref": "https://kidsactivitiesblog.com/81822/decorate-your-own-donuts-craft/"
-  },
-  {
-   "at": "2026-11-24T15:14:40Z",
-   "kind": "post",
-   "title": "A Month of Elf on the Shelf Ideas with Printable Calendar",
-   "ref": "https://kidsactivitiesblog.com/115046/elf-shelf-ideas/"
-  },
-  {
-   "at": "2026-11-24T15:15:11Z",
-   "kind": "photo-candidate",
-   "title": "Listening Walk",
-   "ref": "https://commons.wikimedia.org/wiki/File:Architecture_Walk,_Katowice_(WM245817).jpg"
-  },
-  {
-   "at": "2026-11-24T15:15:12Z",
-   "kind": "photo-candidate",
-   "title": "Ice Cube Painting",
-   "ref": "https://commons.wikimedia.org/wiki/File:%22Eisw%C3%BCrfel%22_am_Theresienstein_20170326.jpg"
-  },
-  {
-   "at": "2026-11-24T15:15:15Z",
-   "kind": "photo-candidate",
-   "title": "Frozen Treasure Rescue",
-   "ref": "https://commons.wikimedia.org/wiki/File:Amsterdam,_keizersgracht_71_-_WLM_2011_-_andrevanb_(1).jpg"
-  },
-  {
-   "at": "2026-11-24T15:15:22Z",
-   "kind": "photo-candidate",
-   "title": "Cardboard Box City",
-   "ref": "https://commons.wikimedia.org/wiki/File:In_einer_Box_001_2012_11_30.jpg"
-  },
-  {
-   "at": "2026-11-24T15:15:23Z",
-   "kind": "photo-candidate",
-   "title": "Card-Making Station",
-   "ref": "https://commons.wikimedia.org/wiki/File:A_Greyhound_bus_driver_making_out_a_trip_report_8d32967v.jpg"
-  },
-  {
-   "at": "2026-11-24T15:15:25Z",
-   "kind": "photo-candidate",
-   "title": "Paper Bridge Engineering",
-   "ref": "https://commons.wikimedia.org/wiki/File:L%C3%BCdinghausen,_Berenbrock,_Dortmund-Ems-Kanal_(an_der_Kreisstra%C3%9Fe_23)_--_2015_--_4668-70.jpg"
-  },
-  {
-   "at": "2026-11-24T15:15:28Z",
-   "kind": "photo-candidate",
-   "title": "The Floor Is Lava",
-   "ref": "https://commons.wikimedia.org/wiki/File:Helenium_Hot_Lava_2021-09-10_3589.jpg"
-  },
-  {
-   "at": "2026-11-24T15:15:31Z",
-   "kind": "photo-candidate",
-   "title": "Balloon Tennis",
-   "ref": "https://commons.wikimedia.org/wiki/File:1,500_athletes,_artists_participate_in_13th_annual_KSO_121117-F-MU239-098.jpg"
-  },
-  {
-   "at": "2026-11-24T15:15:35Z",
-   "kind": "photo-candidate",
-   "title": "Flag Tag",
-   "ref": "https://commons.wikimedia.org/wiki/File:Apollo_15_flag,_rover,_LM,_Irwin.jpg"
-  },
-  {
-   "at": "2026-11-24T15:15:36Z",
-   "kind": "photo-candidate",
-   "title": "Compliment Circle",
-   "ref": "https://commons.wikimedia.org/wiki/File:VIEW_LOOKING_SOUTH_FROM_SECTION_F_TOWARDS_CENTER_CIRCLE_-_Woodlands_Cemetery,_4000_Woodlands_Avenue,_Philadelphia,_Philadelphia_County,_PA_HALS_PA-5-12.tif"
-  },
-  {
-   "at": "2026-11-24T15:15:39Z",
-   "kind": "photo-candidate",
-   "title": "One-Word Story Chain",
-   "ref": "https://commons.wikimedia.org/wiki/File:Supposing-me-asleep-they-began-to-talk.jpg"
-  },
-  {
-   "at": "2026-11-24T15:15:41Z",
-   "kind": "photo-candidate",
-   "title": "Bucket Filler Notes",
-   "ref": "https://commons.wikimedia.org/wiki/File:1975_AACA_AMC_Pacer_X_red-white_qw-r.jpg"
-  },
-  {
-   "at": "2026-11-23T15:19:44Z",
-   "kind": "post",
-   "title": "Make a Toddler Color Chart with Colorful Fall Leaves",
-   "ref": "https://handsonaswegrow.com/toddler-color-chart-fall-leaves/"
-  },
-  {
-   "at": "2026-11-23T15:19:44Z",
-   "kind": "post",
-   "title": "Free Christmas Around the World Coloring Pages",
-   "ref": "https://littlebinsforlittlehands.com/christmas-around-the-world-coloring-pages/"
   }
  ]
 }

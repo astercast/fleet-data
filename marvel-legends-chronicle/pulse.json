@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-25T14:54:09Z",
+ "generated_at": "2026-11-26T14:24:42Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-25T14:54:09Z",
+ "last_data_change_at": "2026-11-26T14:24:38Z",
  "sources": [
   {
    "id": "cmdstore",
    "label": "CMDStore catalog",
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
-   "items": 60,
-   "checked_at": "2026-11-25T14:54:05Z",
-   "last_ok_at": "2026-11-25T14:54:05Z",
+   "items": 61,
+   "checked_at": "2026-11-26T14:24:38Z",
+   "last_ok_at": "2026-11-26T14:24:38Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 66,
-   "checked_at": "2026-11-25T14:54:09Z",
-   "last_ok_at": "2026-11-25T14:54:09Z",
+   "items": 100,
+   "checked_at": "2026-11-26T14:24:42Z",
+   "last_ok_at": "2026-11-26T14:24:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-25T14:54:09Z",
-   "last_ok_at": "2026-11-25T14:54:09Z",
+   "checked_at": "2026-11-26T14:24:42Z",
+   "last_ok_at": "2026-11-26T14:24:42Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,43 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-25T14:54:08Z",
-   "last_ok_at": "2026-11-25T14:54:08Z",
+   "checked_at": "2026-11-26T14:24:42Z",
+   "last_ok_at": "2026-11-26T14:24:42Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-26T14:24:38Z",
+   "kind": "catalog",
+   "title": "CMDStore: Marvel Legends Comics Inspired 6 Inch Action Figure Wave 1 - Rom [Up to 10% OFF!]",
+   "ref": "https://cmdstore.com/products/marvel-legends-comics-inspired-wave-1-rom-5010996290922"
+  },
+  {
+   "at": "2026-11-26T14:24:42Z",
+   "kind": "story",
+   "title": "Top 10 Action Figures of 2026 - Nerdist",
+   "ref": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWElkb0JBaDZBa25SZTRqNy0xSHVKeFBUekhXZ0xhT2ZpVHBXQ21rbFk4THJhRkJ2UXRrVXZOM1VTcGk3cEx3RzZ1TFZtbmdPRHVSZFNOMmlRYlQyb2sxeE5iQ1IxMXl6U05naGFYc2Z6SEcwckZvb1NSSlV3WkFVQjROdEY0ZFZKVEdYZnRiQzNqMmdQb0ZkaW9fZXJYblZjQlp4R0ZjRWRaRjdoX2twTWt3?oc=5"
+  },
+  {
+   "at": "2026-11-26T14:24:42Z",
+   "kind": "story",
+   "title": "Marvel Legends DEATH GAMBIT X-Men '97 Season 2 MCU Animation Figure Review - YouTube",
+   "ref": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9NaTF2Wk43NDhqLUh3RlJ2cGQ5cE1zUlRkWHdGWXdaUDJCQlp1TVctS0hwUV8zRUU0bnVDZzlCcTQzQQ?oc=5"
+  },
+  {
+   "at": "2026-11-26T14:24:42Z",
+   "kind": "story",
+   "title": "Symbiote Spider-Man Joins Hasbro’s Marvel Legends Maximum Series - Bleeding Cool News",
+   "ref": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczBqLWgyVm1veVpCRktvQnNKWWtpRDdxM29tRGQ4Nkd1UFl4aHFzZTlVMkJVWlRkb0gyZ0U1WnFxdUpaTUxEQllsZXpKVzUwSlRPVGczRl9yLThOR0pfU3lJamd3UG9GTExXXzlDZ0tvQ29haDdoWUgzSWNadVo2Q0RaSC0zR3BBX3JYbndHU2U0Qmx5TFg1dXdXcTEwUUhENFE4Yw?oc=5"
+  },
+  {
+   "at": "2026-11-26T14:24:42Z",
+   "kind": "story",
+   "title": "Ghost Rider Marvel Legends Ghost Rider & Motorcycle In Hand Review - Toy Habits",
+   "ref": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3RWVVJVY0dJTFlxWWJCMTNBOVowWnA1RG0wYTJwLUVfYzN3ZVI0VWhHRU5SX3VScHhEc2RnVU9SSmNPdkpDMzFwTlFVcDhpSnlEMFJDcWZIdnJhMkJkUVdZN0p3UG1SNXN0RmRhY0VkTTNlQTFhQlZZQ1pNak56VnFhWTNNcXlvTmNTQllZWUI?oc=5"
+  },
   {
    "at": "2026-11-25T14:54:09Z",
    "kind": "story",
@@ -382,36 +412,6 @@
    "kind": "story",
    "title": "Marvel Legends HasLab Announces the Engine of Vengeance - Marvel.com",
    "ref": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnBTZHRLWkhOSWdYSWZVSEE0cXU0WlUwUFk3aDRUUVdqdE5NVDY1clRMNGR1elhJWjBxRkFGVmpEdnpUalZqQXBIWXlnVV92X1NaTkNqLVQyTjVyWFZjQm50Y1dDd195UkxaaW5wOTNOcm4xNWtMRnpNMUgzTTJpNVhvMFloc1RicnZvMGRlWkp0Q2lC?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "story",
-   "title": "'The Marvels': Hasbro Reveals New Marvel Legends Series - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVFBuQWphWE5pQXJ0SVNZZlF5ZXpLTWtWUzZoSDEyR1p3Y1dUVXpUZjFPOXJpYWFyMkRCLXlia19lOVlHTE43SWFMMWEzSnV0X1ZXcF9BS3ZzVndYN3B4clJxQXd3Z0FPQWExRl92T2p5N0FJOWtMTUs1S2JYRFYwbzBPZzJWTF9Vc3RZZUJhWF9WZXgxMGlDcVdzNjNDNktFbTdF?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "story",
-   "title": "Hasbro Reveals Marvel Legends Figures for Weapon X, Guardian, and More at Fan Expo Canada - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzhXT0dqamtaUFVQOUdQR1Y0azA0d2JQOS1kWW05Y1Rod1gwT19FZGJwMFFHeGNQVEptQmIzamtvd0xSY0tIS3MyUEFBbnlfakNJcWRiMFBRSEFpd1paeUNKQTdpd1poeEVud2J0ODJmVXU5a3pqUDZLVVZQa0pkLURlZ3ZxaFh0QldDTW04TnRRRmhkNzZMMGxadFRodzZfS2w4?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "story",
-   "title": "Hasbro Pulse Fan Fest: New Marvel Legends Include Thor, the Eye of Agamotto, and Retro Figures - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdGtNdzBlekVYdzR5UW5aSVVKenUwdE5NZ0FzSEk4RHNHUXZIc05WZmlxdUdsX19xU3hSSHVneklmUVR2d2Y1R2hoRDRhcHk4ZTRhU0k3Sm0xS1VUbFJPZnAwUm1kVF9PWC1wQlo0N3FsSGQ2YUVhMDQ4S0xta0tvdmZlQlh0NFFpMU5uUUd3?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "story",
-   "title": "Hasbro PulseCon Reveals New Marvel Legends and Retro Figures - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tZXhFc0hMTDhKcFpyWF9JQ3J6R2g5V2xxRjNCM2pYVml0ZXE5dFJBZ2hHb0VyVjhEY1ZmUW9vbnduaVN6enlfckd0bTlUNkxrblpNa1FwVEJ1VS1LczF3d1BfbjdUdl9jSG1DMWJEVzVlcExSMjJrMDQxVDg2Vnc?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "story",
-   "title": "'Guardians of the Galaxy Vol. 3': Blast off with new Marvel Legends - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnFDTnpkWDVXQkstZlU4dGQ3bEE2a1lGSzZFc2Eycmh3ckFpVkw0LTBnUkFaekZtd1VXdU9ld05IaWdGclFjd1EyYmtDVXFnT1JlVzZoX3JvV25pXzY2ODZ4NDdFUjROUGVaejRpZWFscXE5RWw1cXdNak54bWpjS2cwRGZXUXND?oc=5"
   }
  ]
 }
