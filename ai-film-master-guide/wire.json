@@ -1,7 +1,397 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-25T19:11:50Z",
+ "generated_at": "2026-11-26T03:32:50Z",
  "items": [
+  {
+   "id": "check-Runway Act-Two-2026-11-26",
+   "at": "2026-11-26T03:32:45+00:00",
+   "model": "Runway Act-Two",
+   "title": "Runway Act-Two: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://aivideos.eu/blog/runway-act-one-vs-heygen-ai-actor-direction",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Topaz Astra-2026-11-26",
+   "at": "2026-11-26T03:32:43+00:00",
+   "model": "Topaz Astra",
+   "title": "Topaz Astra: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.topazlabs.com/astra",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Lyria 3 Pro-2026-11-26",
+   "at": "2026-11-26T03:32:42+00:00",
+   "model": "Lyria 3 Pro",
+   "title": "Lyria 3 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Suno v5.5-2026-11-26",
+   "at": "2026-11-26T03:32:40+00:00",
+   "model": "Suno v5.5",
+   "title": "Suno v5.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://en.wikipedia.org/wiki/Suno",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-ElevenLabs Eleven v3-2026-11-26",
+   "at": "2026-11-26T03:32:37+00:00",
+   "model": "ElevenLabs Eleven v3",
+   "title": "ElevenLabs Eleven v3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://aitoolblaze.com/blog/elevenlabs-review-2026",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Adobe Firefly-2026-11-26",
+   "at": "2026-11-26T03:32:36+00:00",
+   "model": "Adobe Firefly",
+   "title": "Adobe Firefly: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://news.adobe.com/news/2026/04/adobe-new-creative-agent",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Runway Aleph 2.0-2026-11-26",
+   "at": "2026-11-26T03:32:34+00:00",
+   "model": "Runway Aleph 2.0",
+   "title": "Runway Aleph 2.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.therundown.ai/tools/aleph",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Midjourney V8.2-2026-11-26",
+   "at": "2026-11-26T03:32:33+00:00",
+   "model": "Midjourney V8.2",
+   "title": "Midjourney V8.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://powerdrill.ai/blog/midjourney-v8-2-edit-model",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-GPT Image 2-2026-11-26",
+   "at": "2026-11-26T03:32:29+00:00",
+   "model": "GPT Image 2",
+   "title": "GPT Image 2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://memeburn.com/chatgpt-images-2-0-launches-with-better-text/",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-FLUX.2-2026-11-26",
+   "at": "2026-11-26T03:32:28+00:00",
+   "model": "FLUX.2",
+   "title": "FLUX.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://en.wikipedia.org/wiki/Flux_(text-to-image_model)",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Seedream 5.0 Pro-2026-11-26",
+   "at": "2026-11-26T03:32:26+00:00",
+   "model": "Seedream 5.0 Pro",
+   "title": "Seedream 5.0 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://openrouter.ai/bytedance-seed/seedream-5-0-flash",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Nano Banana 2 and Pro-2026-11-26",
+   "at": "2026-11-26T03:32:24+00:00",
+   "model": "Nano Banana 2 and Pro",
+   "title": "Nano Banana 2 and Pro: source pages changed - queued for human review",
+   "url": "https://blog.google/innovation-and-ai/products/nano-banana-pro/",
+   "kind": "source-change",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Wan 2.7-2026-11-26",
+   "at": "2026-11-26T03:32:18+00:00",
+   "model": "Wan 2.7",
+   "title": "Wan 2.7: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://poyo.ai/models/wan-2-7-video",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-PixVerse V6-2026-11-26",
+   "at": "2026-11-26T03:32:14+00:00",
+   "model": "PixVerse V6",
+   "title": "PixVerse V6: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.yottalabs.ai/post/pixverse-v6-vs-c1-differences-api-2026",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-FLUX 3 Video-2026-11-26",
+   "at": "2026-11-26T03:32:02+00:00",
+   "model": "FLUX 3 Video",
+   "title": "FLUX 3 Video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Vidu Q4 Preview-2026-11-26",
+   "at": "2026-11-26T03:31:54+00:00",
+   "model": "Vidu Q4 Preview",
+   "title": "Vidu Q4 Preview: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.vidu.com/pricing",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Runway Gen-4.5-2026-11-26",
+   "at": "2026-11-26T03:31:47+00:00",
+   "model": "Runway Gen-4.5",
+   "title": "Runway Gen-4.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.techtimes.com/articles/326994/20260908/runway-ai-hits-200m-arr-enterprise-video-adoption-triples-existing-spend.htm",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Mirage Tesseract-2026-11-26",
+   "at": "2026-11-26T03:31:43+00:00",
+   "model": "Mirage Tesseract",
+   "title": "Mirage Tesseract: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://mirage.app/tesseract",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Vidu S2-2026-11-26",
+   "at": "2026-11-26T03:31:33+00:00",
+   "model": "Vidu S2",
+   "title": "Vidu S2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.prnewswire.com/news-releases/shengshu-technology-unveils-vidu-s2-bringing-real-time-interaction-and-editing-to-ai-video-302879976.html",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-LTX-2.5-2026-11-26",
+   "at": "2026-11-26T03:31:24+00:00",
+   "model": "LTX-2.5",
+   "title": "LTX-2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://intelligibberish.com/articles/best-local-video-generation-models-by-vram/",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Gemini Omni-2026-11-26",
+   "at": "2026-11-26T03:31:16+00:00",
+   "model": "Gemini Omni",
+   "title": "Gemini Omni: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Kling 4.0-2026-11-26",
+   "at": "2026-11-26T03:31:02+00:00",
+   "model": "Kling 4.0",
+   "title": "Kling 4.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Midjourney V1 Video-2026-11-26",
+   "at": "2026-11-26T03:30:57+00:00",
+   "model": "Midjourney V1 Video",
+   "title": "Midjourney V1 Video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.krea.ai/blog/is-midjourney-free-pricing-video-and-free-alternatives-in-2026",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Grok Imagine Video 1.5-2026-11-26",
+   "at": "2026-11-26T03:30:47+00:00",
+   "model": "Grok Imagine Video 1.5",
+   "title": "Grok Imagine Video 1.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://venice.ai/models/grok-imagine-1-5-lite",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Marketing Studio video-2026-11-26",
+   "at": "2026-11-26T03:30:45+00:00",
+   "model": "Marketing Studio video",
+   "title": "Marketing Studio video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://higgsfield.ai/pricing",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Pika 2.5-2026-11-26",
+   "at": "2026-11-26T03:30:39+00:00",
+   "model": "Pika 2.5",
+   "title": "Pika 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://alphasignal.ai/news/pika-rebuilds-into-a-full-creative-studio-routing-across-seven-ai-tools",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Luma App / Ray 3.2-2026-11-26",
+   "at": "2026-11-26T03:30:32+00:00",
+   "model": "Luma App / Ray 3.2",
+   "title": "Luma App / Ray 3.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://magichour.ai/blog/kling-vs-pika-vs-luma",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-MiniMax H3-2026-11-26",
+   "at": "2026-11-26T03:30:21+00:00",
+   "model": "MiniMax H3",
+   "title": "MiniMax H3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://pixo.video/blog/what-is-minimax-h3",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Hailuo 02 / 2.3-2026-11-26",
+   "at": "2026-11-26T03:30:14+00:00",
+   "model": "Hailuo 02 / 2.3",
+   "title": "Hailuo 02 / 2.3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://magichour.ai/blog/hailuo-23-pricing",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Wan 3.0 / 3.0 Prime-2026-11-26",
+   "at": "2026-11-26T03:30:05+00:00",
+   "model": "Wan 3.0 / 3.0 Prime",
+   "title": "Wan 3.0 / 3.0 Prime: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.makeinfluencer.ai/guides/best-ai-video-generators-2026",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Sora 2 / Pro / Max-2026-11-26",
+   "at": "2026-11-26T03:29:57+00:00",
+   "model": "Sora 2 / Pro / Max",
+   "title": "Sora 2 / Pro / Max: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://dev.to/stimlau/sora-vs-runway-openai-killed-sora-now-what-2692",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Veo 3.1 Fast / Veo 3-2026-11-26",
+   "at": "2026-11-26T03:29:52+00:00",
+   "model": "Veo 3.1 Fast / Veo 3",
+   "title": "Veo 3.1 Fast / Veo 3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://mer.vin/2026/09/which-ai-video-models-actually-take-a-first-and-last-frame/",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Veo 3.1-2026-11-26",
+   "at": "2026-11-26T03:29:41+00:00",
+   "model": "Veo 3.1",
+   "title": "Veo 3.1: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Kling 3.0-2026-11-26",
+   "at": "2026-11-26T03:29:32+00:00",
+   "model": "Kling 3.0",
+   "title": "Kling 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Seedance 3.0-2026-11-26",
+   "at": "2026-11-26T03:29:23+00:00",
+   "model": "Seedance 3.0",
+   "title": "Seedance 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://www.highonfilms.com/seedance-3-0-provider-checks/",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "check-Seedance 2.5-2026-11-26",
+   "at": "2026-11-26T03:29:15+00:00",
+   "model": "Seedance 2.5",
+   "title": "Seedance 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
+   "url": "https://cellcog.ai/blog/seedance-2-5-pricing/",
+   "kind": "price-signal",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Andyson/LongLive-H3",
+   "at": "2026-11-26T03:25:14Z",
+   "model": "Andyson/LongLive-H3",
+   "title": "New text-to-video model listed on Hugging Face: Andyson/LongLive-H3",
+   "url": "https://huggingface.co/Andyson/LongLive-H3",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-SarthakRawool/Wan2.1-T2V-1.3B-MLX-8bit-LowMem",
+   "at": "2026-11-26T03:24:37Z",
+   "model": "SarthakRawool/Wan2.1-T2V-1.3B-MLX-8bit-LowMem",
+   "title": "New text-to-video model listed on Hugging Face: SarthakRawool/Wan2.1-T2V-1.3B-MLX-8bit-LowMem",
+   "url": "https://huggingface.co/SarthakRawool/Wan2.1-T2V-1.3B-MLX-8bit-LowMem",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-MATLOWAI/MiniMax-H3-Variable-Clock",
+   "at": "2026-11-26T03:11:08Z",
+   "model": "MATLOWAI/MiniMax-H3-Variable-Clock",
+   "title": "New text-to-video model listed on Hugging Face: MATLOWAI/MiniMax-H3-Variable-Clock",
+   "url": "https://huggingface.co/MATLOWAI/MiniMax-H3-Variable-Clock",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-Tiersay/LTX-2.3-uncensored-v1.4-FP8",
    "at": "2026-11-25T14:14:31Z",
@@ -9,6 +399,66 @@
    "title": "New text-to-video model listed on Hugging Face: Tiersay/LTX-2.3-uncensored-v1.4-FP8",
    "url": "https://huggingface.co/Tiersay/LTX-2.3-uncensored-v1.4-FP8",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.34290v1",
+   "at": "2026-11-25T12:43:37Z",
+   "model": "",
+   "title": "New arXiv paper: StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+   "url": "http://arxiv.org/abs/2611.34290v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.34288v1",
+   "at": "2026-11-25T12:41:56Z",
+   "model": "",
+   "title": "New arXiv paper: Rehearse in 3D, Render in 2D: Physically Consistent and Editable Robot World Models",
+   "url": "http://arxiv.org/abs/2611.34288v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.34261v1",
+   "at": "2026-11-25T12:24:14Z",
+   "model": "",
+   "title": "New arXiv paper: TORE: Token-Wise Taylor Order Selection via Decomposed Residual Error Estimation for Diffusion Acceleration",
+   "url": "http://arxiv.org/abs/2611.34261v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.34237v1",
+   "at": "2026-11-25T11:59:44Z",
+   "model": "",
+   "title": "New arXiv paper: VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+   "url": "http://arxiv.org/abs/2611.34237v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.34130v1",
+   "at": "2026-11-25T10:30:48Z",
+   "model": "",
+   "title": "New arXiv paper: WorldPhy: Benchmarking Fine-Grained Physical Plausibility of World Models in Robotics",
+   "url": "http://arxiv.org/abs/2611.34130v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.34064v1",
+   "at": "2026-11-25T09:38:00Z",
+   "model": "",
+   "title": "New arXiv paper: SPARC: Geometry-Guided Attention Pruning for Long-Horizon Camera-Controlled Video Generation",
+   "url": "http://arxiv.org/abs/2611.34064v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -393,6 +843,46 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.33886v1",
+   "at": "2026-11-25T07:00:59Z",
+   "model": "",
+   "title": "New arXiv paper: DeltaRAE: Derivative Tokenization for Long Video Generation",
+   "url": "http://arxiv.org/abs/2611.33886v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.33797v1",
+   "at": "2026-11-25T05:23:59Z",
+   "model": "",
+   "title": "New arXiv paper: DriftWAM: Faster World-Action Models via Action-Aware Video Drifting",
+   "url": "http://arxiv.org/abs/2611.33797v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.33761v1",
+   "at": "2026-11-25T04:18:55Z",
+   "model": "",
+   "title": "New arXiv paper: ScanAR: Parallel Row-Scan Decoding for Efficient Image Generation in Unified Autoregressive Models",
+   "url": "http://arxiv.org/abs/2611.33761v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.33734v1",
+   "at": "2026-11-25T03:54:18Z",
+   "model": "",
+   "title": "New arXiv paper: DualCast: Dual-Image Conditioned Diffusion Transformers for Digital Human E-Commerce Video Generation",
+   "url": "http://arxiv.org/abs/2611.33734v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-ahm22004/kaomnique",
    "at": "2026-11-25T03:38:38Z",
    "model": "ahm22004/kaomnique",
@@ -413,6 +903,16 @@
    "source": "heartbeat"
   },
   {
+   "id": "arxiv-2611.33591v1",
+   "at": "2026-11-25T01:00:43Z",
+   "model": "",
+   "title": "New arXiv paper: VivaWorld: Long-Horizon Video World Model With Compositional 3D Priors",
+   "url": "http://arxiv.org/abs/2611.33591v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
    "id": "hf-cleitonsoizza/LongCat-Video-base",
    "at": "2026-11-25T00:44:00Z",
    "model": "cleitonsoizza/LongCat-Video-base",
@@ -429,6 +929,26 @@
    "title": "New text-to-video model listed on Hugging Face: Alissonerdx/Qwen3.5-9B-Minimax-H3",
    "url": "https://huggingface.co/Alissonerdx/Qwen3.5-9B-Minimax-H3",
    "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.33457v1",
+   "at": "2026-11-24T21:30:09Z",
+   "model": "",
+   "title": "New arXiv paper: Playfulness as Feedback for Agentic Game Development",
+   "url": "http://arxiv.org/abs/2611.33457v1",
+   "kind": "paper",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "arxiv-2611.33268v1",
+   "at": "2026-11-24T18:59:48Z",
+   "model": "",
+   "title": "New arXiv paper: JetDiffusion: Pushing the Speed Limits of Video Generation with NVFP4 Sparse Attention",
+   "url": "http://arxiv.org/abs/2611.33268v1",
+   "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
   },
@@ -978,526 +1498,6 @@
    "model": "Hailuo 02 / 2.3",
    "title": "Hailuo 02 / 2.3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://magichour.ai/blog/hailuo-23-pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 3.0 / 3.0 Prime-2026-11-24",
-   "at": "2026-11-24T02:08:45+00:00",
-   "model": "Wan 3.0 / 3.0 Prime",
-   "title": "Wan 3.0 / 3.0 Prime: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.makeinfluencer.ai/guides/best-ai-video-generators-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Sora 2 / Pro / Max-2026-11-24",
-   "at": "2026-11-24T02:08:35+00:00",
-   "model": "Sora 2 / Pro / Max",
-   "title": "Sora 2 / Pro / Max: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://dev.to/stimlau/sora-vs-runway-openai-killed-sora-now-what-2692",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1 Fast / Veo 3-2026-11-24",
-   "at": "2026-11-24T02:08:31+00:00",
-   "model": "Veo 3.1 Fast / Veo 3",
-   "title": "Veo 3.1 Fast / Veo 3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://mer.vin/2026/09/which-ai-video-models-actually-take-a-first-and-last-frame/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Veo 3.1-2026-11-24",
-   "at": "2026-11-24T02:08:21+00:00",
-   "model": "Veo 3.1",
-   "title": "Veo 3.1: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.lumeflow.ai/ai-tools/veo-4-release-date/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Kling 3.0-2026-11-24",
-   "at": "2026-11-24T02:08:09+00:00",
-   "model": "Kling 3.0",
-   "title": "Kling 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/328285/20260930/kling-40-promises-30-second-4k-video-broadcast-spec-coming-october-not-today.htm",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 3.0-2026-11-24",
-   "at": "2026-11-24T02:08:01+00:00",
-   "model": "Seedance 3.0",
-   "title": "Seedance 3.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.highonfilms.com/seedance-3-0-provider-checks/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedance 2.5-2026-11-24",
-   "at": "2026-11-24T02:07:46+00:00",
-   "model": "Seedance 2.5",
-   "title": "Seedance 2.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://cellcog.ai/blog/seedance-2-5-pricing/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Dima133722/MiniMax-H3-Tiny-ComfyUI",
-   "at": "2026-11-24T01:27:07Z",
-   "model": "Dima133722/MiniMax-H3-Tiny-ComfyUI",
-   "title": "New text-to-video model listed on Hugging Face: Dima133722/MiniMax-H3-Tiny-ComfyUI",
-   "url": "https://huggingface.co/Dima133722/MiniMax-H3-Tiny-ComfyUI",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.31740v1",
-   "at": "2026-11-24T00:50:08Z",
-   "model": "",
-   "title": "New arXiv paper: LeanWAM: Learning Latent World Action Models from Frozen Video Models",
-   "url": "http://arxiv.org/abs/2611.31740v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-cgb/wan21-self-forcing-onnx-webgpu",
-   "at": "2026-11-24T00:17:33Z",
-   "model": "cgb/wan21-self-forcing-onnx-webgpu",
-   "title": "New text-to-video model listed on Hugging Face: cgb/wan21-self-forcing-onnx-webgpu",
-   "url": "https://huggingface.co/cgb/wan21-self-forcing-onnx-webgpu",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.31689v1",
-   "at": "2026-11-23T23:23:51Z",
-   "model": "",
-   "title": "New arXiv paper: GeoMVGen: Joint Appearance-Geometry Modeling for Multi-View Video Generation in Robotic Manipulation",
-   "url": "http://arxiv.org/abs/2611.31689v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Harsha001/Sulphur-3-ROCmFPX",
-   "at": "2026-11-23T19:44:21Z",
-   "model": "Harsha001/Sulphur-3-ROCmFPX",
-   "title": "New text-to-video model listed on Hugging Face: Harsha001/Sulphur-3-ROCmFPX",
-   "url": "https://huggingface.co/Harsha001/Sulphur-3-ROCmFPX",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.31466v1",
-   "at": "2026-11-23T19:37:29Z",
-   "model": "",
-   "title": "New arXiv paper: AdProducer: Towards Agentic Advertising Video Generation",
-   "url": "http://arxiv.org/abs/2611.31466v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.31239v2",
-   "at": "2026-11-23T18:59:46Z",
-   "model": "",
-   "title": "New arXiv paper: Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
-   "url": "http://arxiv.org/abs/2611.31239v2",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.31239v1",
-   "at": "2026-11-23T18:59:46Z",
-   "model": "",
-   "title": "New arXiv paper: Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
-   "url": "http://arxiv.org/abs/2611.31239v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.31184v1",
-   "at": "2026-11-23T18:38:20Z",
-   "model": "",
-   "title": "New arXiv paper: On-Policy Codec Distillation for Efficient All-in-One Video Generation",
-   "url": "http://arxiv.org/abs/2611.31184v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.31164v1",
-   "at": "2026-11-23T18:24:33Z",
-   "model": "",
-   "title": "New arXiv paper: Analyzing and Improving FlowMap Distillation of Autoregressive Video Models",
-   "url": "http://arxiv.org/abs/2611.31164v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-AbstractFramework/minimax-h3-bf16",
-   "at": "2026-11-23T18:18:07Z",
-   "model": "AbstractFramework/minimax-h3-bf16",
-   "title": "New text-to-video model listed on Hugging Face: AbstractFramework/minimax-h3-bf16",
-   "url": "https://huggingface.co/AbstractFramework/minimax-h3-bf16",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.31079v1",
-   "at": "2026-11-23T17:29:17Z",
-   "model": "",
-   "title": "New arXiv paper: Wrist-Camera Video Diffusion as Generalizable Robot Policies",
-   "url": "http://arxiv.org/abs/2611.31079v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.30673v1",
-   "at": "2026-11-23T13:28:34Z",
-   "model": "",
-   "title": "New arXiv paper: Optimising VLM Harnesses to Localise Errors in Generated Videos",
-   "url": "http://arxiv.org/abs/2611.30673v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.30613v1",
-   "at": "2026-11-23T12:49:13Z",
-   "model": "",
-   "title": "New arXiv paper: CineAct: Interaction-State Agents for Playable, Branching Film Generation",
-   "url": "http://arxiv.org/abs/2611.30613v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-htdong/Loopy",
-   "at": "2026-11-23T12:15:45Z",
-   "model": "htdong/Loopy",
-   "title": "New text-to-video model listed on Hugging Face: htdong/Loopy",
-   "url": "https://huggingface.co/htdong/Loopy",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-htdong/Wan-Alpha-v2.0",
-   "at": "2026-11-23T12:11:33Z",
-   "model": "htdong/Wan-Alpha-v2.0",
-   "title": "New text-to-video model listed on Hugging Face: htdong/Wan-Alpha-v2.0",
-   "url": "https://huggingface.co/htdong/Wan-Alpha-v2.0",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-htdong/Wan-Alpha",
-   "at": "2026-11-23T12:09:41Z",
-   "model": "htdong/Wan-Alpha",
-   "title": "New text-to-video model listed on Hugging Face: htdong/Wan-Alpha",
-   "url": "https://huggingface.co/htdong/Wan-Alpha",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.30372v1",
-   "at": "2026-11-23T09:40:32Z",
-   "model": "",
-   "title": "New arXiv paper: ColonoWorld: Camera-Controlled Full-Procedure Colonoscopy Video Generation",
-   "url": "http://arxiv.org/abs/2611.30372v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.30345v1",
-   "at": "2026-11-23T09:18:04Z",
-   "model": "",
-   "title": "New arXiv paper: SceneCast: Learning Indoor Scene Synthesis from Curated Synthetic Videos with LLM Reward",
-   "url": "http://arxiv.org/abs/2611.30345v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.30328v1",
-   "at": "2026-11-23T09:05:22Z",
-   "model": "",
-   "title": "New arXiv paper: Draft Forcing: Target-guided Speculative Drafting and Learned Verifier for Autoregressive Video Generation",
-   "url": "http://arxiv.org/abs/2611.30328v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.30316v1",
-   "at": "2026-11-23T08:59:11Z",
-   "model": "",
-   "title": "New arXiv paper: Video Generalized Category Discovery",
-   "url": "http://arxiv.org/abs/2611.30316v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-khaledmkh/0.0.0.0",
-   "at": "2026-11-23T07:36:33Z",
-   "model": "khaledmkh/0.0.0.0",
-   "title": "New text-to-video model listed on Hugging Face: khaledmkh/0.0.0.0",
-   "url": "https://huggingface.co/khaledmkh/0.0.0.0",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.30163v1",
-   "at": "2026-11-23T07:11:19Z",
-   "model": "",
-   "title": "New arXiv paper: ReVAgent: Multi-Agent Reasoning-Intensive Video Generation",
-   "url": "http://arxiv.org/abs/2611.30163v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.30120v1",
-   "at": "2026-11-23T06:23:09Z",
-   "model": "",
-   "title": "New arXiv paper: AxE: Benchmarking Agent-Environment Generalization of Video World Models via Grounded Events",
-   "url": "http://arxiv.org/abs/2611.30120v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-intel-ai/MiniMax-H3-MXFP-Comfy",
-   "at": "2026-11-23T04:57:53Z",
-   "model": "intel-ai/MiniMax-H3-MXFP-Comfy",
-   "title": "New text-to-video model listed on Hugging Face: intel-ai/MiniMax-H3-MXFP-Comfy",
-   "url": "https://huggingface.co/intel-ai/MiniMax-H3-MXFP-Comfy",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.30013v1",
-   "at": "2026-11-23T04:16:51Z",
-   "model": "",
-   "title": "New arXiv paper: 3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets",
-   "url": "http://arxiv.org/abs/2611.30013v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Hjxjxj/text-to-video-ms-1.7b",
-   "at": "2026-11-23T02:49:41Z",
-   "model": "Hjxjxj/text-to-video-ms-1.7b",
-   "title": "New text-to-video model listed on Hugging Face: Hjxjxj/text-to-video-ms-1.7b",
-   "url": "https://huggingface.co/Hjxjxj/text-to-video-ms-1.7b",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN",
-   "at": "2026-11-23T02:27:26Z",
-   "model": "timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN",
-   "title": "New text-to-video model listed on Hugging Face: timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN",
-   "url": "https://huggingface.co/timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Act-Two-2026-11-23",
-   "at": "2026-11-23T01:36:08+00:00",
-   "model": "Runway Act-Two",
-   "title": "Runway Act-Two: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://aivideos.eu/blog/runway-act-one-vs-heygen-ai-actor-direction",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Topaz Astra-2026-11-23",
-   "at": "2026-11-23T01:36:07+00:00",
-   "model": "Topaz Astra",
-   "title": "Topaz Astra: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.topazlabs.com/astra",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Lyria 3 Pro-2026-11-23",
-   "at": "2026-11-23T01:36:06+00:00",
-   "model": "Lyria 3 Pro",
-   "title": "Lyria 3 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Suno v5.5-2026-11-23",
-   "at": "2026-11-23T01:36:05+00:00",
-   "model": "Suno v5.5",
-   "title": "Suno v5.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://en.wikipedia.org/wiki/Suno",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-ElevenLabs Eleven v3-2026-11-23",
-   "at": "2026-11-23T01:36:02+00:00",
-   "model": "ElevenLabs Eleven v3",
-   "title": "ElevenLabs Eleven v3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://aitoolblaze.com/blog/elevenlabs-review-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Adobe Firefly-2026-11-23",
-   "at": "2026-11-23T01:36:00+00:00",
-   "model": "Adobe Firefly",
-   "title": "Adobe Firefly: source pages changed - queued for human review",
-   "url": "https://news.adobe.com/news/2026/04/adobe-new-creative-agent",
-   "kind": "source-change",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Aleph 2.0-2026-11-23",
-   "at": "2026-11-23T01:35:58+00:00",
-   "model": "Runway Aleph 2.0",
-   "title": "Runway Aleph 2.0: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.therundown.ai/tools/aleph",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Midjourney V8.2-2026-11-23",
-   "at": "2026-11-23T01:35:57+00:00",
-   "model": "Midjourney V8.2",
-   "title": "Midjourney V8.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://powerdrill.ai/blog/midjourney-v8-2-edit-model",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-GPT Image 2-2026-11-23",
-   "at": "2026-11-23T01:35:55+00:00",
-   "model": "GPT Image 2",
-   "title": "GPT Image 2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://memeburn.com/chatgpt-images-2-0-launches-with-better-text/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-FLUX.2-2026-11-23",
-   "at": "2026-11-23T01:35:53+00:00",
-   "model": "FLUX.2",
-   "title": "FLUX.2: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://en.wikipedia.org/wiki/Flux_(text-to-image_model)",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Seedream 5.0 Pro-2026-11-23",
-   "at": "2026-11-23T01:35:51+00:00",
-   "model": "Seedream 5.0 Pro",
-   "title": "Seedream 5.0 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://openrouter.ai/bytedance-seed/seedream-5-0-flash",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Nano Banana 2 and Pro-2026-11-23",
-   "at": "2026-11-23T01:35:49+00:00",
-   "model": "Nano Banana 2 and Pro",
-   "title": "Nano Banana 2 and Pro: source pages changed - queued for human review",
-   "url": "https://blog.google/innovation-and-ai/products/nano-banana-pro/",
-   "kind": "source-change",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Wan 2.7-2026-11-23",
-   "at": "2026-11-23T01:35:45+00:00",
-   "model": "Wan 2.7",
-   "title": "Wan 2.7: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://poyo.ai/models/wan-2-7-video",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-PixVerse V6-2026-11-23",
-   "at": "2026-11-23T01:35:41+00:00",
-   "model": "PixVerse V6",
-   "title": "PixVerse V6: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.yottalabs.ai/post/pixverse-v6-vs-c1-differences-api-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-FLUX 3 Video-2026-11-23",
-   "at": "2026-11-23T01:35:30+00:00",
-   "model": "FLUX 3 Video",
-   "title": "FLUX 3 Video: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Vidu Q4 Preview-2026-11-23",
-   "at": "2026-11-23T01:35:22+00:00",
-   "model": "Vidu Q4 Preview",
-   "title": "Vidu Q4 Preview: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.vidu.com/pricing",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Runway Gen-4.5-2026-11-23",
-   "at": "2026-11-23T01:35:15+00:00",
-   "model": "Runway Gen-4.5",
-   "title": "Runway Gen-4.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://www.techtimes.com/articles/326994/20260908/runway-ai-hits-200m-arr-enterprise-video-adoption-triples-existing-spend.htm",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"

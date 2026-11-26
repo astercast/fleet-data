@@ -1,6 +1,44 @@
 {
  "changes": [
   {
+   "id": "cw-on-onlyfans-one-time-transactions-are-winning-ou-09f364",
+   "platform": "other",
+   "title": "On OnlyFans, one-time transactions are winning out over subscriptions",
+   "summary": "Back in August, OnlyFans announced that 5,076 creators have brought in at least $1 million each since the NSFW hub kicked off in 2016, with total creator payouts adding up to $30 billion. About 20% of that $30 billion—roughly $6.2 billion—was delivered to creators during the year that ended on November 30, 2025. That last […] Visit Tubefilter for more great stories.",
+   "detected_at": "2026-11-26T03:32:50Z",
+   "announced_at": "2026-11-25T22:49:07Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/25/onlyfans-one-time-transactions-vs-subscriptions/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/25/onlyfans-one-time-transactions-vs-subscriptions/"
+    }
+   ],
+   "category": "monetization",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
+   "id": "yt-top-50-most-viewed-youtube-channels-worldwide-we-d3b468",
+   "platform": "youtube",
+   "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 11/22/2026",
+   "summary": "We have a new #1 channel in the Global Top 50. Fitu K Kitu picked up 1.19 billion weekly views, a sum that accounts for nearly two-thirds of the channel's lifetime traffic. Talk about a hot start! Not even chart regulars like T-Series and MrBeast could keep up with Fitu K Kitu's face. Elsewhere in the ranking, a one-time collaborator of MrBeast's is making waves on his own. One of Latin America's biggest creators has taken advantage of spooky season while tying in a cultural phenomenon that has ",
+   "detected_at": "2026-11-26T03:32:50Z",
+   "announced_at": "2026-11-25T22:03:28Z",
+   "effective_at": null,
+   "source_url": "https://www.tubefilter.com/2026/11/25/top-50-most-viewed-youtube-channels-worldwide-week-of-11-22-2026/",
+   "sources": [
+    {
+     "name": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/11/25/top-50-most-viewed-youtube-channels-worldwide-week-of-11-22-2026/"
+    }
+   ],
+   "category": "algorithm",
+   "confidence": "single-source",
+   "affects": []
+  },
+  {
    "id": "fb-meta-says-social-media-is-key-driver-for-holiday-0e2d29",
    "platform": "facebook",
    "title": "Meta says social media is key driver for holiday discovery",
@@ -2129,8 +2167,8 @@
   "verified": "Corroborated by 2+ independent sources or the platform itself."
  },
  "disclaimer": "Planning aid, not financial/legal/tax advice. RPM/CPM figures are creator-reported ranges, never promises. Verify platform figures live before acting on them.",
- "generated_at": "2026-11-25T19:11:50Z",
+ "generated_at": "2026-11-26T03:32:50Z",
  "note": "Algorithm Watch feed: platform algorithm, policy, and monetization changes with source URLs and confidence flags. Coverage: YouTube, TikTok, Instagram, Facebook, X, Twitch, and Kick have their own slots; Spotify and industry-wide changes are logged under Other. Updated by the daily /api/cron/algorithm-watch job (retention: 90 days).",
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "version": "1.7.0"
 }
