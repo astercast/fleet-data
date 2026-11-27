@@ -1,7 +1,17 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-27T01:44:04Z",
+ "generated_at": "2026-11-27T12:03:46Z",
  "items": [
+  {
+   "id": "hf-engenho-ai/KuroVideo-Gen-BR",
+   "at": "2026-11-27T02:21:53Z",
+   "model": "engenho-ai/KuroVideo-Gen-BR",
+   "title": "New text-to-video model listed on Hugging Face: engenho-ai/KuroVideo-Gen-BR",
+   "url": "https://huggingface.co/engenho-ai/KuroVideo-Gen-BR",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-27",
    "at": "2026-11-27T01:43:58+00:00",
@@ -1488,16 +1498,6 @@
    "model": "",
    "title": "New arXiv paper: One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
    "url": "http://arxiv.org/abs/2611.33147v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.33141v1",
-   "at": "2026-11-24T18:56:04Z",
-   "model": "",
-   "title": "New arXiv paper: iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
-   "url": "http://arxiv.org/abs/2611.33141v1",
    "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"
