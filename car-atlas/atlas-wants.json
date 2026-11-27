@@ -1,6 +1,6 @@
 {
  "format": "atlas-wants/1",
- "generated_at": "2026-11-26T03:35:33Z",
+ "generated_at": "2026-11-27T01:46:39Z",
  "source": {
   "name": "Bring a Trailer",
   "url": "https://bringatrailer.com/auctions/results/"
@@ -79,8 +79,8 @@
   },
   {
    "key": "Land Rover 88",
-   "sold": 0,
-   "bidTo": 1
+   "sold": 1,
+   "bidTo": 0
   },
   {
    "key": "Land Rover lr4",
@@ -129,8 +129,8 @@
   },
   {
    "key": "Porsche 944",
-   "sold": 0,
-   "bidTo": 1
+   "sold": 1,
+   "bidTo": 0
   },
   {
    "key": "Shelby mustang",
@@ -311,7 +311,7 @@
    "ended": "2026-11-25",
    "noreserve": false,
    "house": "Bring a Trailer",
-   "status": "bid-to",
+   "status": "sold",
    "matched": false,
    "wantsKey": "Porsche 944"
   },
@@ -527,7 +527,7 @@
    "ended": "2026-11-25",
    "noreserve": false,
    "house": "Bring a Trailer",
-   "status": "bid-to",
+   "status": "sold",
    "matched": false,
    "wantsKey": "Land Rover 88"
   },

@@ -1,20 +1,20 @@
 {
- "generatedAt": "2026-11-26T16:55:38Z",
- "runStartedAt": "2026-11-26T16:55:38Z",
+ "generatedAt": "2026-11-27T01:45:05Z",
+ "runStartedAt": "2026-11-27T01:45:05Z",
  "cadenceHours": 3,
- "freshUntil": "2026-11-26T20:55:38Z",
- "staleAfter": "2026-11-27T04:55:38Z",
+ "freshUntil": "2026-11-27T05:45:05Z",
+ "staleAfter": "2026-11-27T13:45:05Z",
  "board": {
   "topics": 408,
   "tracked": 300,
-  "confirmed": 11,
-  "singleSource": 289,
-  "newestSighting": "2026-11-26T16:55:38Z"
+  "confirmed": 12,
+  "singleSource": 288,
+  "newestSighting": "2026-11-27T01:45:04Z"
  },
  "laneCounts": {
-  "dead": 5,
+  "live": 11,
   "degraded": 1,
-  "live": 8,
+  "dead": 2,
   "by-design": 2,
   "retired": 1
  },
@@ -22,29 +22,29 @@
   {
    "id": "gtrends",
    "label": "Google Trends",
-   "state": "dead",
-   "hits": 0,
-   "lastGoodAt": "2026-10-24T13:33:25Z",
-   "ageHours": 795.4,
-   "missesInARow": 1
+   "state": "live",
+   "hits": 10,
+   "lastGoodAt": "2026-11-27T01:44:09Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
   },
   {
    "id": "news",
    "label": "Google News",
-   "state": "dead",
-   "hits": 0,
-   "lastGoodAt": "2026-10-24T13:33:34Z",
-   "ageHours": 795.4,
-   "missesInARow": 1
+   "state": "live",
+   "hits": 75,
+   "lastGoodAt": "2026-11-27T01:44:11Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
   },
   {
    "id": "news_search",
    "label": "Google News searches",
-   "state": "dead",
-   "hits": 0,
-   "lastGoodAt": "2026-10-24T13:34:09Z",
-   "ageHours": 795.4,
-   "missesInARow": 1
+   "state": "live",
+   "hits": 100,
+   "lastGoodAt": "2026-11-27T01:44:25Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
   },
   {
    "id": "reddit",
@@ -61,15 +61,15 @@
    "state": "dead",
    "hits": 0,
    "lastGoodAt": "2026-10-24T13:34:52Z",
-   "ageHours": 795.3,
+   "ageHours": 804.2,
    "missesInARow": 1
   },
   {
    "id": "hn",
    "label": "Hacker News",
    "state": "live",
-   "hits": 49,
-   "lastGoodAt": "2026-11-26T16:54:15Z",
+   "hits": 50,
+   "lastGoodAt": "2026-11-27T01:44:33Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -78,7 +78,7 @@
    "label": "Mastodon tags",
    "state": "live",
    "hits": 20,
-   "lastGoodAt": "2026-11-26T16:54:15Z",
+   "lastGoodAt": "2026-11-27T01:44:34Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -87,7 +87,7 @@
    "label": "Bluesky trending",
    "state": "live",
    "hits": 10,
-   "lastGoodAt": "2026-11-26T16:54:15Z",
+   "lastGoodAt": "2026-11-27T01:44:34Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -95,26 +95,26 @@
    "id": "charts",
    "label": "Apple charts",
    "state": "live",
-   "hits": 10,
-   "lastGoodAt": "2026-11-26T16:54:56Z",
+   "hits": 30,
+   "lastGoodAt": "2026-11-27T01:44:38Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
   {
    "id": "wiki",
    "label": "Wikipedia most read",
-   "state": "live",
-   "hits": 15,
-   "lastGoodAt": "2026-11-26T16:54:56Z",
-   "ageHours": 0.0,
-   "missesInARow": 0
+   "state": "dead",
+   "hits": 0,
+   "lastGoodAt": "2026-10-24T13:38:05Z",
+   "ageHours": 804.1,
+   "missesInARow": 1
   },
   {
    "id": "netflix",
    "label": "Netflix Top 10",
    "state": "live",
    "hits": 20,
-   "lastGoodAt": "2026-11-26T16:54:57Z",
+   "lastGoodAt": "2026-11-27T01:44:39Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
@@ -123,25 +123,25 @@
    "label": "YouTube channels",
    "state": "live",
    "hits": 80,
-   "lastGoodAt": "2026-11-26T16:55:06Z",
+   "lastGoodAt": "2026-11-27T01:44:50Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
   {
    "id": "streamers",
    "label": "Streamer news",
-   "state": "dead",
-   "hits": 0,
-   "lastGoodAt": "2026-10-24T13:39:31Z",
-   "ageHours": 795.3,
-   "missesInARow": 1
+   "state": "live",
+   "hits": 32,
+   "lastGoodAt": "2026-11-27T01:44:56Z",
+   "ageHours": 0.0,
+   "missesInARow": 0
   },
   {
    "id": "steam",
    "label": "Steam most played",
    "state": "live",
    "hits": 25,
-   "lastGoodAt": "2026-11-26T16:55:38Z",
+   "lastGoodAt": "2026-11-27T01:45:04Z",
    "ageHours": 0.0,
    "missesInARow": 0
   },
