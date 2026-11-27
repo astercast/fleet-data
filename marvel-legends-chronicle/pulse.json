@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-26T14:24:42Z",
+ "generated_at": "2026-11-27T14:17:49Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-26T14:24:38Z",
+ "last_data_change_at": "2026-11-27T14:17:49Z",
  "sources": [
   {
    "id": "cmdstore",
    "label": "CMDStore catalog",
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
-   "items": 61,
-   "checked_at": "2026-11-26T14:24:38Z",
-   "last_ok_at": "2026-11-26T14:24:38Z",
+   "items": 59,
+   "checked_at": "2026-11-27T14:17:45Z",
+   "last_ok_at": "2026-11-27T14:17:45Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 100,
-   "checked_at": "2026-11-26T14:24:42Z",
-   "last_ok_at": "2026-11-26T14:24:42Z",
+   "items": 67,
+   "checked_at": "2026-11-27T14:17:49Z",
+   "last_ok_at": "2026-11-27T14:17:49Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-26T14:24:42Z",
-   "last_ok_at": "2026-11-26T14:24:42Z",
+   "checked_at": "2026-11-27T14:17:49Z",
+   "last_ok_at": "2026-11-27T14:17:49Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,19 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-26T14:24:42Z",
-   "last_ok_at": "2026-11-26T14:24:42Z",
+   "checked_at": "2026-11-27T14:17:48Z",
+   "last_ok_at": "2026-11-27T14:17:48Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-27T14:17:49Z",
+   "kind": "story",
+   "title": "Cypher joins Marvel Legends with retro packaging and questionable portrait - Foro3D",
+   "ref": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFRvS1FpSF83Q2dhMVVnZ3JxN1pIa0lCc2J3bDhKVks0RmZxanRQdllxYWViN2VtbC00c3E1MWFsaV9tQlpTSElhMnFEVGpxZGtsY0ZyT0I5MkJUSzRvQnVMX0V0LXlmazhxcHZQb0RKbFB2V3dnYlhRVTg3RWw3NXN2WF9lc3hKT2RyLU4zRGJCbXZNaGZMdTNNMXhKU2xQaWtWZklPdVVPZ0loajRiRg?oc=5"
+  },
   {
    "at": "2026-11-26T14:24:38Z",
    "kind": "catalog",
@@ -406,12 +412,6 @@
    "kind": "story",
    "title": "Marvel Legends: Retro Spider-Man Figures and More Coming Soon - Marvel.com",
    "ref": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTJLbm9RdkZGeHBTWWFxUWJCTTJ2Z0FRWE1KdFppSlctUmk5b1ExRnVjeExhd0RrbzlKTHBjNkUtal9maTVxWU5GMFBHMUJLNllFRngxVll5bUtMcXJNbDNrc3Q0dWhHa1RBb1dfbnBSdWlQVG5mdkZ1R0laNVItaDRxOWZSa3UtUUYtZVh4eHNNQ3ly?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "story",
-   "title": "Marvel Legends HasLab Announces the Engine of Vengeance - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnBTZHRLWkhOSWdYSWZVSEE0cXU0WlUwUFk3aDRUUVdqdE5NVDY1clRMNGR1elhJWjBxRkFGVmpEdnpUalZqQXBIWXlnVV92X1NaTkNqLVQyTjVyWFZjQm50Y1dDd195UkxaaW5wOTNOcm4xNWtMRnpNMUgzTTJpNVhvMFloc1RicnZvMGRlWkp0Q2lC?oc=5"
   }
  ]
 }

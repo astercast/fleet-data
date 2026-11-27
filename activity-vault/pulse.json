@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-26T14:25:48Z",
+ "generated_at": "2026-11-27T14:18:53Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-26T14:24:45Z",
+ "last_data_change_at": "2026-11-27T14:17:52Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 209,
-   "checked_at": "2026-11-26T14:25:48Z",
-   "last_ok_at": "2026-11-26T14:25:48Z",
+   "items": 235,
+   "checked_at": "2026-11-27T14:18:53Z",
+   "last_ok_at": "2026-11-27T14:18:53Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-26T14:24:46Z",
-   "last_ok_at": "2026-11-26T14:24:46Z",
+   "checked_at": "2026-11-27T14:17:54Z",
+   "last_ok_at": "2026-11-27T14:17:54Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-26T14:24:45Z",
-   "last_ok_at": "2026-11-26T14:24:45Z",
+   "checked_at": "2026-11-27T14:17:51Z",
+   "last_ok_at": "2026-11-27T14:17:51Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-26T14:24:46Z",
-   "last_ok_at": "2026-11-26T14:24:46Z",
+   "checked_at": "2026-11-27T14:17:53Z",
+   "last_ok_at": "2026-11-27T14:17:53Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-26T14:24:46Z",
-   "last_ok_at": "2026-11-26T14:24:46Z",
+   "checked_at": "2026-11-27T14:17:52Z",
+   "last_ok_at": "2026-11-27T14:17:52Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-26T14:24:45Z",
-   "last_ok_at": "2026-11-26T14:24:45Z",
+   "checked_at": "2026-11-27T14:17:52Z",
+   "last_ok_at": "2026-11-27T14:17:52Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,169 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-26T14:24:44Z",
-   "last_ok_at": "2026-11-26T14:24:44Z",
+   "checked_at": "2026-11-27T14:17:50Z",
+   "last_ok_at": "2026-11-27T14:17:50Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-27T14:17:52Z",
+   "kind": "post",
+   "title": "Winter Slime Recipe (Sparkly Snowflake Slime)",
+   "ref": "https://littlebinsforlittlehands.com/winter-snowflake-homemade-slime/"
+  },
+  {
+   "at": "2026-11-27T14:17:52Z",
+   "kind": "post",
+   "title": "DIY Christmas Slime Ornaments",
+   "ref": "https://littlebinsforlittlehands.com/how-to-make-christmas-slime-recipe-science/"
+  },
+  {
+   "at": "2026-11-27T14:17:52Z",
+   "kind": "post",
+   "title": "Edible Gingerbread Slime Recipe",
+   "ref": "https://littlebinsforlittlehands.com/gingerbread-slime/"
+  },
+  {
+   "at": "2026-11-27T14:17:52Z",
+   "kind": "post",
+   "title": "Candy Cane Slime Recipes",
+   "ref": "https://littlebinsforlittlehands.com/candy-cane-slime-recipe/"
+  },
+  {
+   "at": "2026-11-27T14:17:52Z",
+   "kind": "post",
+   "title": "Christmas Tree Slime Recipe",
+   "ref": "https://littlebinsforlittlehands.com/christmas-tree-homemade-slime/"
+  },
+  {
+   "at": "2026-11-27T14:17:52Z",
+   "kind": "post",
+   "title": "Elf Snot: Easy Christmas Slime!",
+   "ref": "https://littlebinsforlittlehands.com/christmas-slime/"
+  },
+  {
+   "at": "2026-11-27T14:17:52Z",
+   "kind": "post",
+   "title": "Elf on the Shelf Slime Recipe and Ideas",
+   "ref": "https://littlebinsforlittlehands.com/elf-on-the-shelf-slime/"
+  },
+  {
+   "at": "2026-11-27T14:17:52Z",
+   "kind": "post",
+   "title": "Gingerbread Slime Recipe",
+   "ref": "https://littlebinsforlittlehands.com/scented-gingerbread-slime-science/"
+  },
+  {
+   "at": "2026-11-27T14:17:52Z",
+   "kind": "post",
+   "title": "Fluffy Candy Cane Slime Recipe",
+   "ref": "https://littlebinsforlittlehands.com/candy-cane-christmas-fluffy-slime-recipe-video/"
+  },
+  {
+   "at": "2026-11-27T14:17:52Z",
+   "kind": "post",
+   "title": "Grinch Slime Recipe",
+   "ref": "https://littlebinsforlittlehands.com/grinch-slime-book-sensory-play-activity-kids/"
+  },
+  {
+   "at": "2026-11-27T14:17:53Z",
+   "kind": "post",
+   "title": "Best Turkey Sandwich Recipe Ever.",
+   "ref": "https://kidsactivitiesblog.com/158601/how-to-make-the-best-turkey-sandwich/"
+  },
+  {
+   "at": "2026-11-27T14:17:53Z",
+   "kind": "post",
+   "title": "20 Genius Recipes for Thanksgiving Turkey Leftovers",
+   "ref": "https://kidsactivitiesblog.com/62153/thanksgiving-leftovers/"
+  },
+  {
+   "at": "2026-11-27T14:18:01Z",
+   "kind": "photo-candidate",
+   "title": "Warm-Up Countdown",
+   "ref": "https://commons.wikimedia.org/wiki/File:2009_Summer_Deaflympics_Power_in_Me_Warming_Event_Media_Interview.jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:07Z",
+   "kind": "photo-candidate",
+   "title": "Drip Drip Drop",
+   "ref": "https://commons.wikimedia.org/wiki/File:Camp_Naue_duck_duck_goose.jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:13Z",
+   "kind": "photo-candidate",
+   "title": "Chalk Obstacle Course",
+   "ref": "https://commons.wikimedia.org/wiki/File:Fuerzas_Comando_2025_Obstacle_Course_(9281157).jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:14Z",
+   "kind": "photo-candidate",
+   "title": "Ice Excavation Dig",
+   "ref": "https://commons.wikimedia.org/wiki/File:Jersey_Ice_Age_Island_archaeological_project_2013_03.jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:16Z",
+   "kind": "photo-candidate",
+   "title": "Fan Boat Races",
+   "ref": "https://commons.wikimedia.org/wiki/File:Clear_water_in_the_boat_races_canal_-_panoramio.jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:17Z",
+   "kind": "photo-candidate",
+   "title": "Camp Week Kickoff",
+   "ref": "https://commons.wikimedia.org/wiki/File:94th_AAMDC_volunteers_at_the_2025_Youth_Impact_Program_Football_Camp_(9107940).jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:22Z",
+   "kind": "photo-candidate",
+   "title": "Longest Day Shadow Track",
+   "ref": "https://commons.wikimedia.org/wiki/File:Europa_PIA2387x_-_Chaos_Transition,_Crisscrossing_Bands_%26_Chaos_Near_Agenor_Linea.jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:23Z",
+   "kind": "photo-candidate",
+   "title": "Ghost Garland String",
+   "ref": "https://commons.wikimedia.org/wiki/File:DSC08960bis.jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:29Z",
+   "kind": "photo-candidate",
+   "title": "Mystery Feel Boxes",
+   "ref": "https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Anne_Longfellow_Pierce,_24_June_1853_(09692606-4e14-4f2f-8016-823bc0526a62).jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:31Z",
+   "kind": "photo-candidate",
+   "title": "Harvest Gratitude Circle",
+   "ref": "https://commons.wikimedia.org/wiki/File:Lohri-fire.jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:32Z",
+   "kind": "photo-candidate",
+   "title": "Trick-or-Treat Route Map",
+   "ref": "https://commons.wikimedia.org/wiki/File:Road_closures_set_for_Halloween_in_Aukamm_(5805966).jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:36Z",
+   "kind": "photo-candidate",
+   "title": "Paper Cornucopia",
+   "ref": "https://commons.wikimedia.org/wiki/File:Bound_Print,_Cartouche_with_Cornucopia_and_Sun,_Livre_de_Cartouches_Irr%C3%A9guliers_(Book_of_Irregular_Cartouches),_1738_(CH_18238023).jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:40Z",
+   "kind": "photo-candidate",
+   "title": "Turkey Tag",
+   "ref": "https://commons.wikimedia.org/wiki/File:20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg"
+  },
+  {
+   "at": "2026-11-27T14:18:52Z",
+   "kind": "photo-candidate",
+   "title": "Gratitude All Year",
+   "ref": "https://commons.wikimedia.org/wiki/File:Castillo_de_Hohenwerfen,_Werfen,_Austria,_2019-05-17,_DD_115.jpg"
+  },
   {
    "at": "2026-11-26T14:24:45Z",
    "kind": "post",
@@ -217,150 +373,6 @@
    "kind": "photo-candidate",
    "title": "Winter Joke Slam",
    "ref": "https://commons.wikimedia.org/wiki/File:St._Louis_Post-Dispatch_of_St._Louis,_Missouri_on_August_2,_1943.jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:29Z",
-   "kind": "photo-candidate",
-   "title": "Take-a-Stand Debate",
-   "ref": "https://commons.wikimedia.org/wiki/File:Lincoln-Douglas_Debate_Memorial_(8746702557).jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:32Z",
-   "kind": "photo-candidate",
-   "title": "Masterpiece Coloring Gallery",
-   "ref": "https://commons.wikimedia.org/wiki/File:George_Peter_Alexander_Healy_-_Portrait_of_Abraham_Lincoln_(1860).jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:34Z",
-   "kind": "photo-candidate",
-   "title": "Ice Ornaments",
-   "ref": "https://commons.wikimedia.org/wiki/File:Coeur_Heart_Ice_Blue.png"
-  },
-  {
-   "at": "2026-11-26T14:25:40Z",
-   "kind": "photo-candidate",
-   "title": "Winter Freeze Dance",
-   "ref": "https://commons.wikimedia.org/wiki/File:Februarius_-_Petrus_Stephani_inven._LCCN2017650424.jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:42Z",
-   "kind": "photo-candidate",
-   "title": "Year-in-Review Quilt",
-   "ref": "https://commons.wikimedia.org/wiki/File:Happy_New_Year_(51792744196).jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:44Z",
-   "kind": "photo-candidate",
-   "title": "Resolution Ladder",
-   "ref": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_interpretation_of_the_cosmic_distance_ladder_(noirlab2611a).jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:47Z",
-   "kind": "photo-candidate",
-   "title": "Winter Tall Tale",
-   "ref": "https://commons.wikimedia.org/wiki/File:Creative_Snowman_Christmas_Decoration_from_Paper.jpg"
-  },
-  {
-   "at": "2026-11-25T14:54:11Z",
-   "kind": "post",
-   "title": "15 Native American Crafts for Kids + 5 Inspiring Books",
-   "ref": "https://handsonaswegrow.com/15-native-american-crafts-and-books/"
-  },
-  {
-   "at": "2026-11-25T14:54:11Z",
-   "kind": "post",
-   "title": "Easy Christmas Ukulele Songs with Chords for Beginners",
-   "ref": "https://teachbesideme.com/easy-christmas-ukulele-songs-with-chords-for-beginners/"
-  },
-  {
-   "at": "2026-11-25T14:54:22Z",
-   "kind": "photo-candidate",
-   "title": "Story Chain Writing",
-   "ref": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Sondermunitionslager_Visbeck,_%22What_if%22_--_2023_--_6713.jpg"
-  },
-  {
-   "at": "2026-11-25T14:54:33Z",
-   "kind": "photo-candidate",
-   "title": "Animal Movement Circuit",
-   "ref": "https://commons.wikimedia.org/wiki/File:Great_Migration_in_Kogatende,_Serengeti_by_Tanzania_GET_Safaris.jpg"
-  },
-  {
-   "at": "2026-11-25T14:54:38Z",
-   "kind": "photo-candidate",
-   "title": "Name Memory Chain",
-   "ref": "https://commons.wikimedia.org/wiki/File:My_chain_of_memories_-_DPLA_-_1f9d1d0c9a2fb5b93eef8de857c86e81_(page_2).jpg"
-  },
-  {
-   "at": "2026-11-25T14:54:39Z",
-   "kind": "photo-candidate",
-   "title": "Two Truths and a Fib",
-   "ref": "https://commons.wikimedia.org/wiki/File:Blame_storming.jpg"
-  },
-  {
-   "at": "2026-11-25T14:54:42Z",
-   "kind": "photo-candidate",
-   "title": "Name Chase",
-   "ref": "https://commons.wikimedia.org/wiki/File:-Portrait_of_Alice_Dieudonne_Chase-_MET_DP-387-016.jpg"
-  },
-  {
-   "at": "2026-11-25T14:54:46Z",
-   "kind": "photo-candidate",
-   "title": "All-About-Me Bags",
-   "ref": "https://commons.wikimedia.org/wiki/File:I%27ve_heard_bad_stories_about_them,_but_the_monkeys_were_quiet_enough_(31489203792).jpg"
-  },
-  {
-   "at": "2026-11-25T14:54:47Z",
-   "kind": "photo-candidate",
-   "title": "Common Ground Hunt",
-   "ref": "https://commons.wikimedia.org/wiki/File:A_Common_Kestrel_on_the_hunt_for_insects_(49718325433).jpg"
-  },
-  {
-   "at": "2026-11-25T14:54:52Z",
-   "kind": "photo-candidate",
-   "title": "Shadow Tag",
-   "ref": "https://commons.wikimedia.org/wiki/File:Conical_shadow_of_Mount_Nam_Xay_over_green_trees_at_golden_hour,_South-West_view_from_the_top,_Vang_Vieng,_Laos.jpg"
-  },
-  {
-   "at": "2026-11-25T14:54:57Z",
-   "kind": "photo-candidate",
-   "title": "Gratitude Journals",
-   "ref": "https://commons.wikimedia.org/wiki/File:All_Saints_church,_Sudbury_-_evacuees%27_gratitude_stained-glass_window_by_Michael_Stokes.jpg"
-  },
-  {
-   "at": "2026-11-25T14:55:00Z",
-   "kind": "photo-candidate",
-   "title": "Breathing Buddies",
-   "ref": "https://commons.wikimedia.org/wiki/File:127-GW-902-111833_(29581747871).jpg"
-  },
-  {
-   "at": "2026-11-25T14:55:02Z",
-   "kind": "photo-candidate",
-   "title": "Rhythm Name Game",
-   "ref": "https://commons.wikimedia.org/wiki/File:BahamutGamerCommunity11y_RhythmGame.jpg"
-  },
-  {
-   "at": "2026-11-25T14:55:04Z",
-   "kind": "photo-candidate",
-   "title": "Sound Effects Story",
-   "ref": "https://commons.wikimedia.org/wiki/File:Popular_story_of_Blue_Beard,_or,_The_effects_of_female_curiosity_-_Endpiece.png"
-  },
-  {
-   "at": "2026-11-25T14:55:14Z",
-   "kind": "photo-candidate",
-   "title": "Magnetic Scavenger Hunt",
-   "ref": "https://commons.wikimedia.org/wiki/File:Magnetic_pendulums.jpg"
-  },
-  {
-   "at": "2026-11-25T14:55:17Z",
-   "kind": "photo-candidate",
-   "title": "Water Cycle in a Bag",
-   "ref": "https://commons.wikimedia.org/wiki/File:Let%27s_stand.jpg"
-  },
-  {
-   "at": "2026-11-25T14:55:19Z",
-   "kind": "photo-candidate",
-   "title": "Appreciation Postcards",
-   "ref": "https://commons.wikimedia.org/wiki/File:Barker%27s_Fair_Store,_1908_-_Indiana_Harbor,_Indiana_-_Flickr_-_Shook_Photos.jpg"
   }
  ]
 }
