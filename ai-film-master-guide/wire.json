@@ -1,7 +1,57 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-27T12:03:46Z",
+ "generated_at": "2026-11-27T21:07:26Z",
  "items": [
+  {
+   "id": "hf-Harsha001/LTX-2.5-22B-dev-uncensored-ROCmFPX",
+   "at": "2026-11-27T21:00:00Z",
+   "model": "Harsha001/LTX-2.5-22B-dev-uncensored-ROCmFPX",
+   "title": "New text-to-video model listed on Hugging Face: Harsha001/LTX-2.5-22B-dev-uncensored-ROCmFPX",
+   "url": "https://huggingface.co/Harsha001/LTX-2.5-22B-dev-uncensored-ROCmFPX",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Bradley2026/Wan2.1-T2V-1.3B",
+   "at": "2026-11-27T19:10:42Z",
+   "model": "Bradley2026/Wan2.1-T2V-1.3B",
+   "title": "New text-to-video model listed on Hugging Face: Bradley2026/Wan2.1-T2V-1.3B",
+   "url": "https://huggingface.co/Bradley2026/Wan2.1-T2V-1.3B",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-QuantFunc/Minimax-H3-Quantfunc-4bit",
+   "at": "2026-11-27T15:40:43Z",
+   "model": "QuantFunc/Minimax-H3-Quantfunc-4bit",
+   "title": "New text-to-video model listed on Hugging Face: QuantFunc/Minimax-H3-Quantfunc-4bit",
+   "url": "https://huggingface.co/QuantFunc/Minimax-H3-Quantfunc-4bit",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-SceneWorks/minimax-h3-candle",
+   "at": "2026-11-27T12:53:13Z",
+   "model": "SceneWorks/minimax-h3-candle",
+   "title": "New text-to-video model listed on Hugging Face: SceneWorks/minimax-h3-candle",
+   "url": "https://huggingface.co/SceneWorks/minimax-h3-candle",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-Xylolabs/Wan2.2-TI2V-5B-Tenstorrent-Tensix",
+   "at": "2026-11-27T12:40:59Z",
+   "model": "Xylolabs/Wan2.2-TI2V-5B-Tenstorrent-Tensix",
+   "title": "New text-to-video model listed on Hugging Face: Xylolabs/Wan2.2-TI2V-5B-Tenstorrent-Tensix",
+   "url": "https://huggingface.co/Xylolabs/Wan2.2-TI2V-5B-Tenstorrent-Tensix",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "hf-engenho-ai/KuroVideo-Gen-BR",
    "at": "2026-11-27T02:21:53Z",
@@ -1448,56 +1498,6 @@
    "model": "",
    "title": "New arXiv paper: VivaWorld: Long-Horizon Video World Model With Compositional 3D Priors",
    "url": "http://arxiv.org/abs/2611.33591v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-cleitonsoizza/LongCat-Video-base",
-   "at": "2026-11-25T00:44:00Z",
-   "model": "cleitonsoizza/LongCat-Video-base",
-   "title": "New text-to-video model listed on Hugging Face: cleitonsoizza/LongCat-Video-base",
-   "url": "https://huggingface.co/cleitonsoizza/LongCat-Video-base",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "hf-Alissonerdx/Qwen3.5-9B-Minimax-H3",
-   "at": "2026-11-25T00:34:55Z",
-   "model": "Alissonerdx/Qwen3.5-9B-Minimax-H3",
-   "title": "New text-to-video model listed on Hugging Face: Alissonerdx/Qwen3.5-9B-Minimax-H3",
-   "url": "https://huggingface.co/Alissonerdx/Qwen3.5-9B-Minimax-H3",
-   "kind": "new-model",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.33457v1",
-   "at": "2026-11-24T21:30:09Z",
-   "model": "",
-   "title": "New arXiv paper: Playfulness as Feedback for Agentic Game Development",
-   "url": "http://arxiv.org/abs/2611.33457v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.33268v1",
-   "at": "2026-11-24T18:59:48Z",
-   "model": "",
-   "title": "New arXiv paper: JetDiffusion: Pushing the Speed Limits of Video Generation with NVFP4 Sparse Attention",
-   "url": "http://arxiv.org/abs/2611.33268v1",
-   "kind": "paper",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "arxiv-2611.33147v1",
-   "at": "2026-11-24T18:58:32Z",
-   "model": "",
-   "title": "New arXiv paper: One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
-   "url": "http://arxiv.org/abs/2611.33147v1",
    "kind": "paper",
    "label": "Unconfirmed",
    "source": "heartbeat"

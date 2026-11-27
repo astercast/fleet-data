@@ -1,7 +1,7 @@
 {
  "format": "stock/1",
- "generated_at": "2026-11-25T19:13:56Z",
- "checked_at": "2026-11-25T19:13:56Z",
+ "generated_at": "2026-11-27T21:10:13Z",
+ "checked_at": "2026-11-27T21:10:13Z",
  "items": {
   "flower-gift": {
    "in_stock": true,
@@ -60,7 +60,7 @@
    "url": "https://sonnyangelusa.com/products/birthdaygift2"
   },
   "animal-2": {
-   "in_stock": true,
+   "in_stock": false,
    "url": "https://sonnyangelusa.com/products/animal-series-ver-2"
   },
   "birthday-gift": {

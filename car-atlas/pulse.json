@@ -1,6 +1,6 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-27T12:07:03Z",
+ "generated_at": "2026-11-27T21:10:12Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 2,
@@ -13,8 +13,8 @@
    "url": "https://bringatrailer.com/auctions/results/",
    "ok": true,
    "items": 36,
-   "checked_at": "2026-11-27T12:07:02Z",
-   "last_ok_at": "2026-11-27T12:07:02Z",
+   "checked_at": "2026-11-27T21:10:11Z",
+   "last_ok_at": "2026-11-27T21:10:11Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://vpic.nhtsa.dot.gov/api",
    "ok": true,
    "items": 12442,
-   "checked_at": "2026-11-27T12:07:03Z",
-   "last_ok_at": "2026-11-27T12:07:03Z",
+   "checked_at": "2026-11-27T21:10:12Z",
+   "last_ok_at": "2026-11-27T21:10:12Z",
    "error": null,
    "fails_in_a_row": 0
   }
