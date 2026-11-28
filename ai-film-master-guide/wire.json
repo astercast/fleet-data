@@ -1,7 +1,37 @@
 {
  "format": "wire/1",
- "generated_at": "2026-11-28T03:17:31Z",
+ "generated_at": "2026-11-28T15:28:07Z",
  "items": [
+  {
+   "id": "hf-freellmclaude/Wan2.2-TI2V-5B",
+   "at": "2026-11-28T15:20:08Z",
+   "model": "freellmclaude/Wan2.2-TI2V-5B",
+   "title": "New text-to-video model listed on Hugging Face: freellmclaude/Wan2.2-TI2V-5B",
+   "url": "https://huggingface.co/freellmclaude/Wan2.2-TI2V-5B",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-mojealterego/mochi-1-preview",
+   "at": "2026-11-28T12:10:46Z",
+   "model": "mojealterego/mochi-1-preview",
+   "title": "New text-to-video model listed on Hugging Face: mojealterego/mochi-1-preview",
+   "url": "https://huggingface.co/mojealterego/mochi-1-preview",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
+  {
+   "id": "hf-zkwr1081/PinkCherry-MiniMax-H3-Reference",
+   "at": "2026-11-28T10:30:16Z",
+   "model": "zkwr1081/PinkCherry-MiniMax-H3-Reference",
+   "title": "New text-to-video model listed on Hugging Face: zkwr1081/PinkCherry-MiniMax-H3-Reference",
+   "url": "https://huggingface.co/zkwr1081/PinkCherry-MiniMax-H3-Reference",
+   "kind": "new-model",
+   "label": "Unconfirmed",
+   "source": "heartbeat"
+  },
   {
    "id": "check-Runway Act-Two-2026-11-28",
    "at": "2026-11-28T03:17:26+00:00",
@@ -1468,36 +1498,6 @@
    "model": "Lyria 3 Pro",
    "title": "Lyria 3 Pro: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
    "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Suno v5.5-2026-11-25",
-   "at": "2026-11-25T08:19:03+00:00",
-   "model": "Suno v5.5",
-   "title": "Suno v5.5: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://en.wikipedia.org/wiki/Suno",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-ElevenLabs Eleven v3-2026-11-25",
-   "at": "2026-11-25T08:19:00+00:00",
-   "model": "ElevenLabs Eleven v3",
-   "title": "ElevenLabs Eleven v3: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://aitoolblaze.com/blog/elevenlabs-review-2026",
-   "kind": "price-signal",
-   "label": "Unconfirmed",
-   "source": "heartbeat"
-  },
-  {
-   "id": "check-Adobe Firefly-2026-11-25",
-   "at": "2026-11-25T08:18:58+00:00",
-   "model": "Adobe Firefly",
-   "title": "Adobe Firefly: source pages changed - price-shaped text spotted, queued for human review; this job never edits prices",
-   "url": "https://news.adobe.com/news/2026/04/adobe-new-creative-agent",
    "kind": "price-signal",
    "label": "Unconfirmed",
    "source": "heartbeat"

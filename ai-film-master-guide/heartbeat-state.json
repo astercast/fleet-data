@@ -280,6 +280,7 @@
   "epfl-neuroai/NEvo",
   "epfl-vita/PTD-weights",
   "finaltv971/fastframes-l-mlx",
+  "freellmclaude/Wan2.2-TI2V-5B",
   "fusorlabs/motif-video-2b-web",
   "fusorlabs/wan2.1-t2v-1.3b-web",
   "gani3b/HunyuanVideo-1.5",
@@ -328,6 +329,7 @@
   "mlx-community/LTX-2.5-22B-Distilled-DiT-6bit",
   "mlx-community/LTX-2.5-22B-Distilled-DiT-MXFP4-6bit-8bit-Calibrated",
   "mmiiguell10/LTX-2.5-int8-comfy",
+  "mojealterego/mochi-1-preview",
   "moonbox-ai/hyperflow-h3-flash-GGUF",
   "moonbox-ai/hyperflow-h3-flash-MLX",
   "moonbox-ai/hyperflow-h3-flash-ref2va-GGUF",
@@ -428,7 +430,8 @@
   "zjwfufu/SMD-MiniMax-H3-T2VA-8step-ComfyUI",
   "zjwfufu/SMD-Wan2.1-1.3B",
   "zjwfufu/SMD-Wan2.1-1.3B-Causal",
-  "zjwfufu/SMD-Wan2.1-14B"
+  "zjwfufu/SMD-Wan2.1-14B",
+  "zkwr1081/PinkCherry-MiniMax-H3-Reference"
  ],
  "arxiv": [
   "http://arxiv.org/abs/2610.28631v1",

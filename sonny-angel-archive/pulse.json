@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-28T03:20:33Z",
+ "generated_at": "2026-11-28T15:30:52Z",
  "stale_after_h": 30,
  "healthy": true,
  "sources_ok": 1,
  "sources_total": 1,
- "last_data_change_at": "2026-11-27T21:10:13Z",
+ "last_data_change_at": "2026-11-28T15:30:52Z",
  "sources": [
   {
    "id": "store",
@@ -13,13 +13,19 @@
    "url": "https://sonnyangelusa.com",
    "ok": true,
    "items": 18,
-   "checked_at": "2026-11-28T03:20:33Z",
-   "last_ok_at": "2026-11-28T03:20:33Z",
+   "checked_at": "2026-11-28T15:30:52Z",
+   "last_ok_at": "2026-11-28T15:30:52Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-28T15:30:52Z",
+   "kind": "stock",
+   "title": "Sweets Series: sold out at the official store",
+   "ref": "sweets"
+  },
   {
    "at": "2026-11-27T21:10:13Z",
    "kind": "stock",
@@ -73,12 +79,6 @@
    "kind": "stock",
    "title": "HIPPERS Harvest Series: sold out at the official store",
    "ref": "hippers-harvest"
-  },
-  {
-   "at": "2026-11-17T03:48:11Z",
-   "kind": "stock",
-   "title": "Sweets Series: sold out at the official store",
-   "ref": "sweets"
   },
   {
    "at": "2026-11-15T22:50:32Z",
