@@ -60,6 +60,7 @@
   "Hjxjxj/text-to-video-ms-1.7b",
   "Infinity-io/Wan2.2-T2V-A14B-Diffusers",
   "Infinity-io/Wan2.2-TI2V-5B",
+  "Iskabdbski2917173/PinkCherry-NSFW_MiniMax-H3",
   "JinPLU/CaT-Movie",
   "Jingkuan/GeoRoute",
   "Jjausiiwowi/Wan2.2-TI2V-5B",
@@ -105,6 +106,7 @@
   "PhaiModelLab/Phai-M1",
   "PrometheusEXE/MiniMax-H3-PTD-LoRAs",
   "QrusherZA/H3_Turbo_ComfyUI",
+  "QuantFunc/LTX-2.5-QuantFunc-4bit",
   "QuantFunc/Minimax-H3-Quantfunc-4bit",
   "Raretutor/MiniMax-H3-Dual-Turbo-Lora-ComfyUI",
   "Raretutor/RT_Magic_Lora",
@@ -769,6 +771,7 @@
   "tag:github.com,2008:Repository/589831718/v0.46.0",
   "tag:github.com,2008:Repository/589831718/v0.46.1",
   "tag:github.com,2008:Repository/589831718/v0.46.2",
-  "tag:github.com,2008:Repository/589831718/v0.46.3"
+  "tag:github.com,2008:Repository/589831718/v0.46.3",
+  "tag:github.com,2008:Repository/589831718/v0.46.4"
  ]
 }
