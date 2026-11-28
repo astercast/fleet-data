@@ -1,20 +1,20 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-27T14:18:53Z",
+ "generated_at": "2026-11-28T13:35:04Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 7,
  "sources_total": 7,
- "last_data_change_at": "2026-11-27T14:17:52Z",
+ "last_data_change_at": "2026-11-28T13:34:02Z",
  "sources": [
   {
    "id": "commons-photo-scout",
    "label": "Wikimedia Commons photo scout",
    "url": "https://commons.wikimedia.org/w/api.php",
    "ok": true,
-   "items": 235,
-   "checked_at": "2026-11-27T14:18:53Z",
-   "last_ok_at": "2026-11-27T14:18:53Z",
+   "items": 272,
+   "checked_at": "2026-11-28T13:35:04Z",
+   "last_ok_at": "2026-11-28T13:35:04Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -24,8 +24,8 @@
    "url": "https://buggyandbuddy.com/feed/",
    "ok": true,
    "items": 12,
-   "checked_at": "2026-11-27T14:17:54Z",
-   "last_ok_at": "2026-11-27T14:17:54Z",
+   "checked_at": "2026-11-28T13:34:03Z",
+   "last_ok_at": "2026-11-28T13:34:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": "https://handsonaswegrow.com/feed/",
    "ok": true,
    "items": 7,
-   "checked_at": "2026-11-27T14:17:51Z",
-   "last_ok_at": "2026-11-27T14:17:51Z",
+   "checked_at": "2026-11-28T13:34:01Z",
+   "last_ok_at": "2026-11-28T13:34:01Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,8 +46,8 @@
    "url": "https://kidsactivitiesblog.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-27T14:17:53Z",
-   "last_ok_at": "2026-11-27T14:17:53Z",
+   "checked_at": "2026-11-28T13:34:03Z",
+   "last_ok_at": "2026-11-28T13:34:03Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -57,8 +57,8 @@
    "url": "https://littlebinsforlittlehands.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-27T14:17:52Z",
-   "last_ok_at": "2026-11-27T14:17:52Z",
+   "checked_at": "2026-11-28T13:34:02Z",
+   "last_ok_at": "2026-11-28T13:34:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -68,8 +68,8 @@
    "url": "https://teachbesideme.com/feed/",
    "ok": true,
    "items": 10,
-   "checked_at": "2026-11-27T14:17:52Z",
-   "last_ok_at": "2026-11-27T14:17:52Z",
+   "checked_at": "2026-11-28T13:34:02Z",
+   "last_ok_at": "2026-11-28T13:34:02Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -79,13 +79,187 @@
    "url": "https://www.weareteachers.com/feed/",
    "ok": true,
    "items": 16,
-   "checked_at": "2026-11-27T14:17:50Z",
-   "last_ok_at": "2026-11-27T14:17:50Z",
+   "checked_at": "2026-11-28T13:34:00Z",
+   "last_ok_at": "2026-11-28T13:34:00Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-28T13:34:02Z",
+   "kind": "post",
+   "title": "Gingerbread Playdough Recipe",
+   "ref": "https://littlebinsforlittlehands.com/gingerbread-playdough/"
+  },
+  {
+   "at": "2026-11-28T13:34:02Z",
+   "kind": "post",
+   "title": "Dissolving Gingerbread Man Science Experiment",
+   "ref": "https://littlebinsforlittlehands.com/dissolving-gingerbread-men-christmas-science/"
+  },
+  {
+   "at": "2026-11-28T13:34:02Z",
+   "kind": "post",
+   "title": "Gingerbread STEM Activities and Science Experiments",
+   "ref": "https://littlebinsforlittlehands.com/gingerbread-man-christmas-science-experiments/"
+  },
+  {
+   "at": "2026-11-28T13:34:03Z",
+   "kind": "post",
+   "title": "Elf on the Shelf Mad Scientist Fun Christmas Idea",
+   "ref": "https://kidsactivitiesblog.com/114620/elf-shelf-mad-scientist/"
+  },
+  {
+   "at": "2026-11-28T13:34:03Z",
+   "kind": "post",
+   "title": "Easy Pine Cone Bird Feeder Craft for Kids",
+   "ref": "https://kidsactivitiesblog.com/25329/pine-cone-bird-feeder/"
+  },
+  {
+   "at": "2026-11-28T13:34:03Z",
+   "kind": "post",
+   "title": "Easy Paper Plate Minion Craft",
+   "ref": "https://kidsactivitiesblog.com/109941/easy-paper-plate-minion-craft/"
+  },
+  {
+   "at": "2026-11-28T13:34:03Z",
+   "kind": "post",
+   "title": "Free Christmas Coloring Book: ‘Twas the Night Before Christmas",
+   "ref": "https://kidsactivitiesblog.com/177344/twas-the-night-before-christmas-coloring-book/"
+  },
+  {
+   "at": "2026-11-28T13:34:03Z",
+   "kind": "post",
+   "title": "Free Printable December Calendar",
+   "ref": "https://kidsactivitiesblog.com/248389/december-calendar/"
+  },
+  {
+   "at": "2026-11-28T13:34:03Z",
+   "kind": "post",
+   "title": "Chalk Hydro Dipping Art Project for Kids",
+   "ref": "https://kidsactivitiesblog.com/288092/chalk-hydro-dipping-art/"
+  },
+  {
+   "at": "2026-11-28T13:34:19Z",
+   "kind": "photo-candidate",
+   "title": "Thank-You Cards for School Staff",
+   "ref": "https://commons.wikimedia.org/wiki/File:Ami_Bera_visits_local_elementary_schools_-_Feb_12_20.jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:20Z",
+   "kind": "photo-candidate",
+   "title": "Turkey Code Feathers",
+   "ref": "https://commons.wikimedia.org/wiki/File:Mark_Bluestone_of_the_New_Town_Eagle_Feather_Dancers_(754d12e5-5f3e-4d91-a15f-68bf5f882e8e).jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:22Z",
+   "kind": "photo-candidate",
+   "title": "Cornucopia Catch",
+   "ref": "https://commons.wikimedia.org/wiki/File:Print,_satirical_print_(BM_1850,1109.15).jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:23Z",
+   "kind": "photo-candidate",
+   "title": "Thanksgiving Table Build",
+   "ref": "https://commons.wikimedia.org/wiki/File:Thanksgiving_Dinner_Table,_Broward_County_Florida,_1971_01.jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:27Z",
+   "kind": "photo-candidate",
+   "title": "Stocking Holder Build",
+   "ref": "https://commons.wikimedia.org/wiki/File:Barbara_Stocking_WES.jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:29Z",
+   "kind": "photo-candidate",
+   "title": "Gift Conveyor Design",
+   "ref": "https://commons.wikimedia.org/wiki/File:Mural-Ariel-Rios-Crimi-1.jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:30Z",
+   "kind": "photo-candidate",
+   "title": "Reindeer Grid Coding",
+   "ref": "https://commons.wikimedia.org/wiki/File:Tunguska_explosion_effect_circles_1.png"
+  },
+  {
+   "at": "2026-11-28T13:34:33Z",
+   "kind": "photo-candidate",
+   "title": "Story Gift Pass",
+   "ref": "https://commons.wikimedia.org/wiki/File:A_gift_to_Saint_Monk_Ivan_Rilski_and_the_Rila_Monastery.jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:37Z",
+   "kind": "photo-candidate",
+   "title": "Red Nose Green Nose",
+   "ref": "https://commons.wikimedia.org/wiki/File:032924mil001_Curatorial_Collection_Image_-_Model,_Piper_L-4_Grasshopper;_R-C_model_(Remote_Control),_flyable;_Scale-_1-4;_Olive_green,_silver_(aluminum)_with_red_nose;_Markings-_C_5X-5X_C_(53897873638).jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:39Z",
+   "kind": "photo-candidate",
+   "title": "Winter Hide and Seek",
+   "ref": "https://commons.wikimedia.org/wiki/File:A_Rusty_Tailed_Flycatcher_playing_hide_and_seek_with_us_(50914504816).jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:41Z",
+   "kind": "photo-candidate",
+   "title": "Squat and Spell",
+   "ref": "https://commons.wikimedia.org/wiki/File:Ancient_Egypt_((198-))_(18006984788).jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:43Z",
+   "kind": "photo-candidate",
+   "title": "Mirror March",
+   "ref": "https://commons.wikimedia.org/wiki/File:Han_Bronze_Mirror_-_5.jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:44Z",
+   "kind": "photo-candidate",
+   "title": "Beat the Bell Burst",
+   "ref": "https://commons.wikimedia.org/wiki/File:Arrival_of_Guards_at_Portsmouth_ILN_1856.jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:47Z",
+   "kind": "photo-candidate",
+   "title": "Traffic Cop",
+   "ref": "https://commons.wikimedia.org/wiki/File:Mexico_City_traffic_cop.jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:49Z",
+   "kind": "photo-candidate",
+   "title": "Zip Zap Zop",
+   "ref": "https://commons.wikimedia.org/wiki/File:10005_zip_code.jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:52Z",
+   "kind": "photo-candidate",
+   "title": "Word Ball Toss",
+   "ref": "https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Emmeline_(Austin)_Wadsworth,_20_August_1852_(2fc28cd4-06ff-4a26-af58-b04382a833ec).jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:56Z",
+   "kind": "photo-candidate",
+   "title": "Secret High-Five",
+   "ref": "https://commons.wikimedia.org/wiki/File:Alarm_system_of_the_Treasury_Dept.,_Secret_Service,_10-38_LCCN2016874184.jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:58Z",
+   "kind": "photo-candidate",
+   "title": "Pass the Face",
+   "ref": "https://commons.wikimedia.org/wiki/File:South_face_of_the_Enchantments_from_near_Longs_Pass_(21_October_2024).jpg"
+  },
+  {
+   "at": "2026-11-28T13:34:59Z",
+   "kind": "photo-candidate",
+   "title": "Guess the Leader",
+   "ref": "https://commons.wikimedia.org/wiki/File:Follow_my_leader_-_geograph.org.uk_-_1017662.jpg"
+  },
+  {
+   "at": "2026-11-28T13:35:03Z",
+   "kind": "photo-candidate",
+   "title": "Body Percussion Build-Up",
+   "ref": "https://commons.wikimedia.org/wiki/File:Bans_Off_Our_Bodies_IMG_2320a_(52117138238).jpg"
+  },
   {
    "at": "2026-11-27T14:17:52Z",
    "kind": "post",
@@ -169,210 +343,6 @@
    "kind": "photo-candidate",
    "title": "Drip Drip Drop",
    "ref": "https://commons.wikimedia.org/wiki/File:Camp_Naue_duck_duck_goose.jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:13Z",
-   "kind": "photo-candidate",
-   "title": "Chalk Obstacle Course",
-   "ref": "https://commons.wikimedia.org/wiki/File:Fuerzas_Comando_2025_Obstacle_Course_(9281157).jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:14Z",
-   "kind": "photo-candidate",
-   "title": "Ice Excavation Dig",
-   "ref": "https://commons.wikimedia.org/wiki/File:Jersey_Ice_Age_Island_archaeological_project_2013_03.jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:16Z",
-   "kind": "photo-candidate",
-   "title": "Fan Boat Races",
-   "ref": "https://commons.wikimedia.org/wiki/File:Clear_water_in_the_boat_races_canal_-_panoramio.jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:17Z",
-   "kind": "photo-candidate",
-   "title": "Camp Week Kickoff",
-   "ref": "https://commons.wikimedia.org/wiki/File:94th_AAMDC_volunteers_at_the_2025_Youth_Impact_Program_Football_Camp_(9107940).jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:22Z",
-   "kind": "photo-candidate",
-   "title": "Longest Day Shadow Track",
-   "ref": "https://commons.wikimedia.org/wiki/File:Europa_PIA2387x_-_Chaos_Transition,_Crisscrossing_Bands_%26_Chaos_Near_Agenor_Linea.jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:23Z",
-   "kind": "photo-candidate",
-   "title": "Ghost Garland String",
-   "ref": "https://commons.wikimedia.org/wiki/File:DSC08960bis.jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:29Z",
-   "kind": "photo-candidate",
-   "title": "Mystery Feel Boxes",
-   "ref": "https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Anne_Longfellow_Pierce,_24_June_1853_(09692606-4e14-4f2f-8016-823bc0526a62).jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:31Z",
-   "kind": "photo-candidate",
-   "title": "Harvest Gratitude Circle",
-   "ref": "https://commons.wikimedia.org/wiki/File:Lohri-fire.jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:32Z",
-   "kind": "photo-candidate",
-   "title": "Trick-or-Treat Route Map",
-   "ref": "https://commons.wikimedia.org/wiki/File:Road_closures_set_for_Halloween_in_Aukamm_(5805966).jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:36Z",
-   "kind": "photo-candidate",
-   "title": "Paper Cornucopia",
-   "ref": "https://commons.wikimedia.org/wiki/File:Bound_Print,_Cartouche_with_Cornucopia_and_Sun,_Livre_de_Cartouches_Irr%C3%A9guliers_(Book_of_Irregular_Cartouches),_1738_(CH_18238023).jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:40Z",
-   "kind": "photo-candidate",
-   "title": "Turkey Tag",
-   "ref": "https://commons.wikimedia.org/wiki/File:20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg"
-  },
-  {
-   "at": "2026-11-27T14:18:52Z",
-   "kind": "photo-candidate",
-   "title": "Gratitude All Year",
-   "ref": "https://commons.wikimedia.org/wiki/File:Castillo_de_Hohenwerfen,_Werfen,_Austria,_2019-05-17,_DD_115.jpg"
-  },
-  {
-   "at": "2026-11-26T14:24:45Z",
-   "kind": "post",
-   "title": "Christmas Tree Transfer Activity for Toddlers",
-   "ref": "https://handsonaswegrow.com/christmas-fine-motor-activity/"
-  },
-  {
-   "at": "2026-11-26T14:24:45Z",
-   "kind": "post",
-   "title": "How to Play Bunco: Rules & Printable Score Sheets",
-   "ref": "https://teachbesideme.com/bunco-game/"
-  },
-  {
-   "at": "2026-11-26T14:24:46Z",
-   "kind": "post",
-   "title": "Picasso Santa Craft",
-   "ref": "https://littlebinsforlittlehands.com/picasso-santa-craft/"
-  },
-  {
-   "at": "2026-11-26T14:24:46Z",
-   "kind": "post",
-   "title": "Poinsettia Art Project for Kids",
-   "ref": "https://littlebinsforlittlehands.com/poinsetta-art-project/"
-  },
-  {
-   "at": "2026-11-26T14:24:46Z",
-   "kind": "post",
-   "title": "Free Printable Thanksgiving Placemat Activity Sheets for Kids",
-   "ref": "https://kidsactivitiesblog.com/62949/thanksgiving-placemat/"
-  },
-  {
-   "at": "2026-11-26T14:24:46Z",
-   "kind": "post",
-   "title": "Festive Turkey Puppet Craft For Kids",
-   "ref": "https://kidsactivitiesblog.com/287949/festive-turkey-puppet-craft-for-kids/"
-  },
-  {
-   "at": "2026-11-26T14:24:46Z",
-   "kind": "post",
-   "title": "Easy Pumpkin Patch Pudding Treat Recipe",
-   "ref": "https://kidsactivitiesblog.com/95030/pumpkin-patch-pudding-treat/"
-  },
-  {
-   "at": "2026-11-26T14:24:46Z",
-   "kind": "post",
-   "title": "Best Pumpkin Dump Cake Recipe",
-   "ref": "https://kidsactivitiesblog.com/216237/best-pumpkin-dump-cake-recipe/"
-  },
-  {
-   "at": "2026-11-26T14:24:46Z",
-   "kind": "post",
-   "title": "Simple 3D Paper Pumpkin Craft for Kids",
-   "ref": "https://kidsactivitiesblog.com/127898/paper-pumpkin-craft-kids/"
-  },
-  {
-   "at": "2026-11-26T14:24:46Z",
-   "kind": "post",
-   "title": "12 Thanksgiving Fun Facts for Kids You Can Print",
-   "ref": "https://kidsactivitiesblog.com/164462/thanksgiving-facts-coloring-pages/"
-  },
-  {
-   "at": "2026-11-26T14:24:46Z",
-   "kind": "post",
-   "title": "Free Printable Thanksgiving Scavenger Hunt",
-   "ref": "https://kidsactivitiesblog.com/184963/thanksgiving-scavenger-hunt/"
-  },
-  {
-   "at": "2026-11-26T14:24:46Z",
-   "kind": "post",
-   "title": "5 Traditional Thanksgiving Side Dish Recipes",
-   "ref": "https://kidsactivitiesblog.com/97738/5-traditional-thanksgiving-side-dishes/"
-  },
-  {
-   "at": "2026-11-26T14:24:58Z",
-   "kind": "photo-candidate",
-   "title": "All Aboard Raft",
-   "ref": "https://commons.wikimedia.org/wiki/File:A_BLM_park_ranger_aboard_his_raft_in_the_Green_River.jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:01Z",
-   "kind": "photo-candidate",
-   "title": "Human Bingo",
-   "ref": "https://commons.wikimedia.org/wiki/File:Community_bingo_card.jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:03Z",
-   "kind": "photo-candidate",
-   "title": "Desert Island Picks",
-   "ref": "https://commons.wikimedia.org/wiki/File:Glacial_striations_(Bar_Harbor_Formation,_Silurian-Devonian;_Bar_Harbor,_Mt._Desert_Island,_Maine,_USA)_2.jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:06Z",
-   "kind": "photo-candidate",
-   "title": "Paper Plate Skating",
-   "ref": "https://commons.wikimedia.org/wiki/File:The_Art_of_Skating_(BM_1931,1114.627).jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:07Z",
-   "kind": "photo-candidate",
-   "title": "Cup Song Circle",
-   "ref": "https://commons.wikimedia.org/wiki/File:Ganga_arathi.jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:09Z",
-   "kind": "photo-candidate",
-   "title": "Apple Browning Lab",
-   "ref": "https://commons.wikimedia.org/wiki/File:FEMA_-_26765_-_Photograph_by_Patricia_Brach_taken_on_10-24-2006_in_Hawaii.jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:15Z",
-   "kind": "photo-candidate",
-   "title": "Apple Print Painting",
-   "ref": "https://commons.wikimedia.org/wiki/File:An_Apple,_Grapes_and_a_Hazelnut_on_a_Mossy_Bank_MET_DP829448.jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:21Z",
-   "kind": "photo-candidate",
-   "title": "Halloween Bingo",
-   "ref": "https://commons.wikimedia.org/wiki/File:20261016-USDA-RD-WV--S_K-2001_(55622410128).jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:22Z",
-   "kind": "photo-candidate",
-   "title": "Costume Category Vote",
-   "ref": "https://commons.wikimedia.org/wiki/File:Norma_Talmadge_Picture_Play_magazine.jpg"
-  },
-  {
-   "at": "2026-11-26T14:25:26Z",
-   "kind": "photo-candidate",
-   "title": "Winter Joke Slam",
-   "ref": "https://commons.wikimedia.org/wiki/File:St._Louis_Post-Dispatch_of_St._Louis,_Missouri_on_August_2,_1943.jpg"
   }
  ]
 }

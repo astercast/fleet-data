@@ -1,11 +1,11 @@
 {
  "format": "pulse/2",
- "generated_at": "2026-11-27T14:17:49Z",
+ "generated_at": "2026-11-28T13:33:58Z",
  "stale_after_h": 26,
  "healthy": true,
  "sources_ok": 4,
  "sources_total": 4,
- "last_data_change_at": "2026-11-27T14:17:49Z",
+ "last_data_change_at": "2026-11-28T13:33:58Z",
  "sources": [
   {
    "id": "cmdstore",
@@ -13,8 +13,8 @@
    "url": "https://cmdstore.com/products.json?limit=250",
    "ok": true,
    "items": 59,
-   "checked_at": "2026-11-27T14:17:45Z",
-   "last_ok_at": "2026-11-27T14:17:45Z",
+   "checked_at": "2026-11-28T13:33:54Z",
+   "last_ok_at": "2026-11-28T13:33:54Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -23,9 +23,9 @@
    "label": "Google News: Marvel Legends",
    "url": "https://news.google.com/rss/search?q=%22Marvel+Legends%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items": 67,
-   "checked_at": "2026-11-27T14:17:49Z",
-   "last_ok_at": "2026-11-27T14:17:49Z",
+   "items": 100,
+   "checked_at": "2026-11-28T13:33:58Z",
+   "last_ok_at": "2026-11-28T13:33:58Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -35,8 +35,8 @@
    "url": null,
    "ok": true,
    "items": 28,
-   "checked_at": "2026-11-27T14:17:49Z",
-   "last_ok_at": "2026-11-27T14:17:49Z",
+   "checked_at": "2026-11-28T13:33:58Z",
+   "last_ok_at": "2026-11-28T13:33:58Z",
    "error": null,
    "fails_in_a_row": 0
   },
@@ -46,13 +46,25 @@
    "url": "https://toyarena.com/products.json?limit=250",
    "ok": true,
    "items": 60,
-   "checked_at": "2026-11-27T14:17:48Z",
-   "last_ok_at": "2026-11-27T14:17:48Z",
+   "checked_at": "2026-11-28T13:33:58Z",
+   "last_ok_at": "2026-11-28T13:33:58Z",
    "error": null,
    "fails_in_a_row": 0
   }
  ],
  "changes": [
+  {
+   "at": "2026-11-28T13:33:58Z",
+   "kind": "story",
+   "title": "Daredevil Confirmed for 2027 Return in Secret Wars Marvel Legends Series - IMDb",
+   "ref": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11Wk5PdENxblMyalh6cGZ1NERkS1lRSjl3Nzk0Ti1paFl1b1BOZFdxd2NXSlZ5MzMyaGI2QkxXLTBaQzZKOTQyVlMzcFR5Ynd0MHBNZjR0NXFYWGtJTkJDMmlyTllxUUk?oc=5"
+  },
+  {
+   "at": "2026-11-28T13:33:58Z",
+   "kind": "story",
+   "title": "New Avengers Marvel Legends Scarlet Witch & Vision 2-Pack Revealed - Head Topics",
+   "ref": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDdvXzRRU210YmI3LTdRa2dCbGM3emVPeHpHR1RwVkhpc0Q5TDA4Qy1mcDJNbnhGWnV5OVR5cWhRMDRkdE9vMXBURnJtRERWaUJ2VzgySkhMVG56SzR6NHdjOEZGUFV2OFd4dmt6MDh5T2h0T0dXd21VN09jdjFOQ2dHMFVOS1NhYlAxU01XS2ZKTVNNeWlhd1FjTQ?oc=5"
+  },
   {
    "at": "2026-11-27T14:17:49Z",
    "kind": "story",
@@ -400,18 +412,6 @@
    "kind": "story",
    "title": "Marvel legends assemble to inspire next generation of engineering super heroes! - GOV.UK",
    "ref": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDk2S0dQVDhPOHZ6RFVYa0lLWmJCcEVublA4WFZzNmJLbFpEWTZhWkVIdFFpdGFXdTFlM0VPeE5ScDVrVFdjaDR4QTZ5SWRSMzhOOTF1bzhzQUV0NmRfU20tMEVnN013dzlJSVR4NjRpazJKcXd2MUZ6UkdkRV9RUVJ2WnpqNFFteEpSUXpDTXZfVFlMT2V1Q0tBYThKYzR1bFlCY1pIMGxILUgyODZDdTlGdw?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "story",
-   "title": "Young Readers Line 'Marvel Legends' Kicks Off with T'Challa's Origins in 'Black Panther Legends' - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1hvNEllOTZVUXYxTFZyaHZBT0ZUMkd1Y1VrbjVpd2hyQ2Zvdld0OENOa1JhMHo5aWwwYnVaVUxYMnExejUweFNDMzdhYVp6RHh0cncwajZnR2hhbkRSU3FkRm16RmUyRnRRTEQ1eHcySW9VQ21Ndk8zX3E2cWxva1loVTBXS2pvTHE1WUtTTzVmQUdFSHN4MkpaV2tTSm1MR25NSFdKRlQxdFk?oc=5"
-  },
-  {
-   "at": "2026-11-14T11:43:56Z",
-   "kind": "story",
-   "title": "Marvel Legends: Retro Spider-Man Figures and More Coming Soon - Marvel.com",
-   "ref": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTJLbm9RdkZGeHBTWWFxUWJCTTJ2Z0FRWE1KdFppSlctUmk5b1ExRnVjeExhd0RrbzlKTHBjNkUtal9maTVxWU5GMFBHMUJLNllFRngxVll5bUtMcXJNbDNrc3Q0dWhHa1RBb1dfbnBSdWlQVG5mdkZ1R0laNVItaDRxOWZSa3UtUUYtZVh4eHNNQ3ly?oc=5"
   }
  ]
 }
